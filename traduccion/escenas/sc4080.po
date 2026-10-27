@@ -1,0 +1,295 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Xenosaga Episode II - traducción al español\n"
+"Language: es_419\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Xeno-Source: 0:cf/en/sc4080.sbl\n"
+
+#. habla: Sheila
+#, fuzzy
+msgctxt "#1"
+msgid "Please hurry and catch those mice!"
+msgstr "¡Por favor, atrapen rápido a esos ratones!"
+
+#. habla: Sheila
+#, fuzzy
+msgctxt "#2"
+msgid "It's so strange! I do regular pest control, so why am I having problems with mice?"
+msgstr "¡Es muy raro! Fumigo regularmente, así que ¿por qué tengo problemas con ratones?"
+
+#. habla: Sheila
+#, fuzzy
+msgctxt "#3"
+msgid "Dominic is going to be a big brother, but he still acts like a little baby. I just don't know what to do with him."
+msgstr "Dominic va a ser hermano mayor, pero igual se porta como un bebé. No sé qué hacer con él."
+
+#. habla: Dominic
+#, fuzzy
+msgctxt "#4"
+msgid "Mommy has been mean to me lately. She says, \"Act more like a big brother.\" I don't have any little brothers or sisters, so how am I supposed to do that?! "
+msgstr "Últimamente mamá es mala conmigo. Dice: \"Pórtate más como un hermano mayor\". ¡Si no tengo hermanitos! ¿Cómo voy a hacer eso?"
+
+#. habla: Dominic
+#, fuzzy
+msgctxt "#5"
+msgid "M...mice? What are you talking about? I don't know anything about them!"
+msgstr "¿R... ratones? ¿De qué hablan? ¡Yo no sé nada de ellos!"
+
+#. habla: Dominic
+#, fuzzy
+msgctxt "#6"
+msgid "It's Mommy's fault. She always leaves me all by myself."
+msgstr "Es culpa de mamá. Siempre me deja solo."
+
+#. habla: Kagari
+#, fuzzy
+msgctxt "#7"
+msgid "There have been mice in the attic lately! If we had a cat or something, I'm sure they'd keep away."
+msgstr "¡Hay ratones en el ático desde hace un tiempo! Si tuviéramos un gato o algo, seguro que no se acercarían."
+
+#. habla: Kagari
+#, fuzzy
+msgctxt "#8"
+msgid "Me? I'm Kagari. I help out at Lavare sometimes. Right now I've got those mice in the attic on my mind. I think I'm going to go out and try to find an aggressive, rough-and-tumble kind of cat!"
+msgstr "¿Yo? Soy Kagari. A veces ayudo en Lavare. Ahora mismo me tienen preocupada esos ratones del ático. ¡Creo que voy a salir a buscar un gato agresivo y bien rudo!"
+
+#. habla: Kagari
+#, fuzzy
+msgctxt "#9"
+msgid "What? You've brought a cat? It's aggressive and should be good at catching mice? All right! I'll take it!"
+msgstr "¿Qué? ¿Trajiste un gato? ¿Es agresivo y debería ser bueno cazando ratones? ¡Muy bien! ¡Me lo quedo!"
+
+#, fuzzy
+msgctxt "#10"
+msgid "You found an owner for Rebour!"
+msgstr "¡Encontraste dueña para Rebour!"
+
+#. habla: Kagari
+#, fuzzy
+msgctxt "#11"
+msgid "Ah! He certainly is rough! I'd better tell Grandma Amber in the attic about him, too!"
+msgstr "¡Ah! ¡Sí que es rudo! ¡Mejor le cuento de él también a la abuela Amber, la del ático!"
+
+#. habla: Kagari
+#, fuzzy
+msgctxt "#12"
+msgid "But, to tell you the truth, I don't think he's going to be able to get rid of those mice! Oh, well, at least he'll be a lot of fun to play with!"
+msgstr "Pero, la verdad, ¡no creo que pueda librarnos de esos ratones! Bueno, ¡al menos va a ser muy divertido jugar con él!"
+
+#. habla: Nikita
+#, fuzzy
+msgctxt "#13"
+msgid "Yes, what is it? You want to rent a maid uniform? Did Caito happen to send you? Which one would you like?"
+msgstr "Sí, ¿qué desean? ¿Quieren alquilar un uniforme de sirvienta? ¿Por casualidad los mandó Caito? ¿Cuál quieren?"
+
+#. Opciones: una por línea. Mantener 5 líneas en el mismo orden.
+#, fuzzy
+msgctxt "#14"
+msgid ""
+"Blue Maid Uniform\n"
+"Pink Maid Uniform\n"
+"Black Maid Uniform\n"
+"Aqua Maid Uniform\n"
+"Let me think about it."
+msgstr ""
+"Uniforme de sirvienta azul\n"
+"Uniforme de sirvienta rosa\n"
+"Uniforme de sirvienta negro\n"
+"Uniforme de sirvienta celeste\n"
+"Déjame pensarlo."
+
+#. habla: Nikita
+#, fuzzy
+msgctxt "#15"
+msgid "Here you go, a blue maid uniform! Take good care of it! ♪"
+msgstr "¡Aquí tienen, un uniforme de sirvienta azul! ¡Cuídenlo bien! ♪"
+
+#, fuzzy
+msgctxt "#16"
+msgid "You obtained a Blue Maid Uniform!"
+msgstr "¡Obtuviste un Uniforme azul!"
+
+#. habla: Nikita
+#, fuzzy
+msgctxt "#17"
+msgid "Here you go, a pink maid uniform! Take good care of it! ♪"
+msgstr "¡Aquí tienen, un uniforme de sirvienta rosa! ¡Cuídenlo bien! ♪"
+
+#, fuzzy
+msgctxt "#18"
+msgid "You obtained a Pink Maid Uniform!"
+msgstr "¡Obtuviste un Uniforme rosa!"
+
+#. habla: Nikita
+#, fuzzy
+msgctxt "#19"
+msgid "Here you go, a black maid uniform! Take good care of it! ♪"
+msgstr "¡Aquí tienen, un uniforme de sirvienta negro! ¡Cuídenlo bien! ♪"
+
+#, fuzzy
+msgctxt "#20"
+msgid "You obtained a Black Maid Uniform!"
+msgstr "¡Obtuviste un Uniforme negro!"
+
+#. habla: Nikita
+#, fuzzy
+msgctxt "#21"
+msgid "Here you go, an aqua maid uniform! Take good care of it! ♪"
+msgstr "¡Aquí tienen, un uniforme de sirvienta celeste! ¡Cuídenlo bien! ♪"
+
+#, fuzzy
+msgctxt "#22"
+msgid "You obtained an Aqua Maid Uniform!"
+msgstr "¡Obtuviste un Uniforme celeste!"
+
+#. habla: Nikita
+#, fuzzy
+msgctxt "#23"
+msgid "The maid uniforms aren't going anywhere, so come back any time. ♪"
+msgstr "Los uniformes de sirvienta no se van a ir a ningún lado, así que vuelvan cuando quieran. ♪"
+
+#. habla: Nikita
+#, fuzzy
+msgctxt "#24"
+msgid "Ah-hah! I bet Caito sent you here! He's wanted to have his waitresses wear maid uniforms for a long time."
+msgstr "¡Ajá! ¡Apuesto a que los mandó Caito! Hace mucho que quiere que sus camareras usen uniformes de sirvienta."
+
+#. habla: Nikita
+#, fuzzy
+msgctxt "#25"
+msgid "Well, the Ironman is a pretty drab place. Some waitresses would certainly brighten it up."
+msgstr "Bueno, el Ironman es un lugar bastante gris. Unas camareras sin duda lo alegrarían."
+
+#. habla: Nikita
+#, fuzzy
+msgctxt "#26"
+msgid "I've come to help Sheila since the baby is due soon. It's been a complete mess!"
+msgstr "Vine a ayudar a Sheila porque el bebé está por nacer. ¡Es un caos total!"
+
+#. habla: Nikita
+#, fuzzy
+msgctxt "#27"
+msgid "On top of Dominic's pranks, we've started renting out costumes in addition to the dry cleaning services! The most popular costumes right now are maid uniforms! Caito over at the Ironman is helping our business a lot! ♪"
+msgstr "¡Además de las travesuras de Dominic, empezamos a alquilar disfraces aparte del servicio de tintorería! ¡Los disfraces más populares ahora son los uniformes de sirvienta! ¡Caito, el del Ironman, nos está ayudando mucho con el negocio! ♪"
+
+#. habla: Rebour
+#, fuzzy
+msgctxt "#28"
+msgid "Meow meow."
+msgstr "Miau miau."
+
+#. habla: Sheila
+#, fuzzy
+msgctxt "#29"
+msgid "Lately, we've been having a lot of trouble with mice in the attic storage area! But there isn't any food or anything up there...I know! Could you please go up into the attic and do something about those mice?"
+msgstr "Últimamente tenemos muchos problemas con ratones en el depósito del ático. Pero allá arriba no hay comida ni nada... ¡Ya sé! ¿Podrían subir al ático y hacer algo con esos ratones?"
+
+#, fuzzy
+msgctxt "#30"
+msgid ""
+"Leave it to me!\n"
+"I don't really like dealing with mice."
+msgstr ""
+"¡Déjamelo a mí!\n"
+"No me gusta mucho lidiar con ratones."
+
+#. habla: Sheila
+#, fuzzy
+msgctxt "#31"
+msgid "Really?! Thanks so much!"
+msgstr "¡¿De verdad?! ¡Muchísimas gracias!"
+
+#. habla: Sheila
+#, fuzzy
+msgctxt "#33"
+msgid "Ask Amber up in the attic for details! "
+msgstr "¡Pregúntenle los detalles a Amber, la del ático!"
+
+#. habla: Sheila
+#, fuzzy
+msgctxt "#34"
+msgid "Oh, well."
+msgstr "Bueno, qué se le va a hacer."
+
+#. habla: Sheila
+#, fuzzy
+msgctxt "#35"
+msgid "Wow! You did a pretty good job! Thank you!"
+msgstr "¡Guau! ¡Hicieron un muy buen trabajo! ¡Gracias!"
+
+#. habla: Sheila
+#, fuzzy
+msgctxt "#37"
+msgid "I'll give you a reward!"
+msgstr "¡Les voy a dar una recompensa!"
+
+#, fuzzy
+msgctxt "#38"
+msgid "You obtained Secret Key 6! This key opens the Level 2 Class D skill \"Rare +10.\""
+msgstr "¡Obtuviste la Llave Secreta 6! Esta llave desbloquea la habilidad de Clase D de nivel 2 \"Rare +10\"."
+
+#. habla: Sheila
+#, fuzzy
+msgctxt "#39"
+msgid ""
+"Hey, wait a minute! Isn't that box you're holding Dominic's? What? It has a receipt for pet mice inside? That means...\n"
+"...\n"
+"...\n"
+"...\n"
+"...\n"
+"That little troublemaker! He's going to get a good scolding for this one!"
+msgstr ""
+"¡Oigan, un momento! ¿Esa caja que tienen no es de Dominic? ¿Qué? ¿Adentro hay un recibo de ratones mascota? Eso significa que...\n"
+"...\n"
+"...\n"
+"...\n"
+"...\n"
+"¡Ese diablillo! ¡Esta vez se va a llevar un buen regaño!"
+
+#, fuzzy
+msgctxt "#40"
+msgid "The vibration checker is reacting. What would you like to do?"
+msgstr "El detector de vibraciones está reaccionando. ¿Qué quieres hacer?"
+
+#, fuzzy
+msgctxt "#41"
+msgid ""
+"Check the reaction again.\n"
+"Leave it alone.\n"
+"Register it as the matching ring and pick it up."
+msgstr ""
+"Volver a revisar la reacción.\n"
+"Dejarlo.\n"
+"Registrarlo como el anillo correcto y recogerlo."
+
+#, fuzzy
+msgctxt "#42"
+msgid "Reaction check complete."
+msgstr "Revisión de la reacción completa."
+
+#, fuzzy
+msgctxt "#43"
+msgid "You left the ring alone."
+msgstr "Dejaste el anillo."
+
+#, fuzzy
+msgctxt "#44"
+msgid "Once you pick up a ring, the vibration checker will cease functioning. You will not be able to search for rings anymore. Are you sure?"
+msgstr "Una vez que recojas un anillo, el detector de vibraciones dejará de funcionar. Ya no podrás buscar anillos. ¿Continuar?"
+
+#. Opciones: una por línea. Mantener 2 líneas en el mismo orden.
+#, fuzzy
+msgctxt "#45"
+msgid ""
+"Yes.\n"
+"No, don't pick it up."
+msgstr ""
+"Sí.\n"
+"No, no recogerlo."
+
+#, fuzzy
+msgctxt "#46"
+msgid "You obtained a Wedding Ring!"
+msgstr "¡Obtuviste un Anillo de bodas!"

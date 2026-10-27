@@ -1,0 +1,946 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Xenosaga Episode II - traducción al español\n"
+"Language: es_419\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Xeno-Source: 1:movie/en/s010100.txt\n"
+
+#. tiempo 00:14:15
+#. Subtítulo: un tramo de la frase, sincronizado con la voz. Máximo 2 líneas.
+#, fuzzy
+msgctxt "L24"
+msgid "What you're seeing here is actual footage from"
+msgstr "Lo que están viendo son imágenes reales de"
+
+#. tiempo 00:16:20
+#. Subtítulo: un tramo de la frase, sincronizado con la voz. Máximo 2 líneas.
+#. viene de: What you're seeing here is actual footage from
+#, fuzzy
+msgctxt "L25"
+msgid ""
+"the violence that erupted\n"
+"before dawn this morning."
+msgstr ""
+"la violencia que estalló\n"
+"hoy antes del amanecer."
+
+#. tiempo 00:19:14
+#. Subtítulo: un tramo de la frase, sincronizado con la voz. Máximo 2 líneas.
+#, fuzzy
+msgctxt "L26"
+msgid ""
+"These seemingly coordinated Realian attacks\n"
+"were reported throughout Federation"
+msgstr ""
+"Estos ataques de Realians, al parecer coordinados,\n"
+"se registraron en todo el territorio"
+
+#. tiempo 00:23:16
+#. Subtítulo: un tramo de la frase, sincronizado con la voz. Máximo 2 líneas.
+#. viene de: These seemingly coordinated Realian attacks were reported throughout Federation
+#, fuzzy
+msgctxt "L27"
+msgid "territory, prompting government officials"
+msgstr "de la Federación, y llevaron a las autoridades"
+
+#. tiempo 00:25:24
+#. Subtítulo: un tramo de la frase, sincronizado con la voz. Máximo 2 líneas.
+#. viene de: territory, prompting government officials
+#, fuzzy
+msgctxt "L28"
+msgid "to consider this movement an act of terrorism."
+msgstr "a considerar el movimiento un acto de terrorismo."
+
+#. tiempo 00:29:05
+#. Subtítulo: un tramo de la frase, sincronizado con la voz. Máximo 2 líneas.
+#, fuzzy
+msgctxt "L30"
+msgid "Their response to these Realians has been―"
+msgstr "Su respuesta ante estos Realians ha sido―"
+
+#. tiempo 00:34:23
+#. Subtítulo: un tramo de la frase, sincronizado con la voz. Máximo 2 líneas.
+#, fuzzy
+msgctxt "L33"
+msgid "There's been a new development..."
+msgstr "Hay novedades..."
+
+#. tiempo 00:36:21
+#. Subtítulo: un tramo de la frase, sincronizado con la voz. Máximo 2 líneas.
+#, fuzzy
+msgctxt "L35"
+msgid ""
+"As internal agencies continue\n"
+"to analyze these violent events,"
+msgstr ""
+"Mientras los organismos internos siguen\n"
+"analizando estos hechos violentos,"
+
+#. tiempo 00:40:08
+#. Subtítulo: un tramo de la frase, sincronizado con la voz. Máximo 2 líneas.
+#. viene de: As internal agencies continue to analyze these violent events,
+#, fuzzy
+msgctxt "L36"
+msgid "a flash action report within the Federation―"
+msgstr "un informe urgente de la Federación―"
+
+#. tiempo 00:44:05
+#. Subtítulo: un tramo de la frase, sincronizado con la voz. Máximo 2 líneas.
+#, fuzzy
+msgctxt "L37"
+msgid "and obtained by this station―indicates that"
+msgstr "al que accedió este canal― indica que"
+
+#. tiempo 00:47:14
+#. Subtítulo: un tramo de la frase, sincronizado con la voz. Máximo 2 líneas.
+#. viene de: and obtained by this station―indicates that
+#, fuzzy
+msgctxt "L39"
+msgid "only Realian models created within"
+msgstr "solo los modelos de Realian creados en"
+
+#. tiempo 00:49:17
+#. Subtítulo: un tramo de la frase, sincronizado con la voz. Máximo 2 líneas.
+#. viene de: only Realian models created within
+#, fuzzy
+msgctxt "L41"
+msgid "the last two years or those"
+msgstr "los últimos dos años o los que"
+
+#. tiempo 00:52:07
+#. Subtítulo: un tramo de la frase, sincronizado con la voz. Máximo 2 líneas.
+#. viene de: the last two years or those
+#, fuzzy
+msgctxt "L42"
+msgid "receiving adjustments in the Miltian Star System"
+msgstr "recibieron ajustes en el sistema estelar de Miltia"
+
+#. tiempo 00:55:15
+#. Subtítulo: un tramo de la frase, sincronizado con la voz. Máximo 2 líneas.
+#. viene de: receiving adjustments in the Miltian Star System
+#, fuzzy
+msgctxt "L43"
+msgid "have been implicated."
+msgstr "estarían implicados."
+
+#. tiempo 00:57:20
+#. Subtítulo: un tramo de la frase, sincronizado con la voz. Máximo 2 líneas.
+#, fuzzy
+msgctxt "L45"
+msgid "Although this is not a complete list,"
+msgstr "Aunque no es una lista completa,"
+
+#. tiempo 01:00:00
+#. Subtítulo: un tramo de la frase, sincronizado con la voz. Máximo 2 líneas.
+#. viene de: Although this is not a complete list,
+#, fuzzy
+msgctxt "L46"
+msgid "we have obtained a partial list"
+msgstr "obtuvimos una lista parcial"
+
+#. tiempo 01:02:00
+#. Subtítulo: un tramo de la frase, sincronizado con la voz. Máximo 2 líneas.
+#. viene de: we have obtained a partial list
+#, fuzzy
+msgctxt "L47"
+msgid "of units matching these criteria."
+msgstr "de las unidades que cumplen esos criterios."
+
+#. tiempo 01:04:15
+#. Subtítulo: un tramo de la frase, sincronizado con la voz. Máximo 2 líneas.
+#, fuzzy
+msgctxt "L48"
+msgid "This list includes..."
+msgstr "La lista incluye..."
+
+#. tiempo 01:07:10
+#. Subtítulo: un tramo de la frase, sincronizado con la voz. Máximo 2 líneas.
+#, fuzzy
+msgctxt "L50"
+msgid "DZ-1006448"
+msgstr "DZ-1006448"
+
+#. tiempo 01:11:19
+#. Subtítulo: un tramo de la frase, sincronizado con la voz. Máximo 2 líneas.
+#. viene de: DZ-1006448
+#, fuzzy
+msgctxt "L52"
+msgid "DZ-2000330"
+msgstr "DZ-2000330"
+
+#. tiempo 01:16:03
+#. Subtítulo: un tramo de la frase, sincronizado con la voz. Máximo 2 líneas.
+#. viene de: DZ-2000330
+#, fuzzy
+msgctxt "L54"
+msgid "DZ-1001007"
+msgstr "DZ-1001007"
+
+#. tiempo 01:22:07
+#. Subtítulo: un tramo de la frase, sincronizado con la voz. Máximo 2 líneas.
+#. viene de: DZ-1001007
+#, fuzzy
+msgctxt "L58"
+msgid ""
+"Today was just the beginning\n"
+"of the ensuing violence."
+msgstr ""
+"Hoy fue solo el comienzo\n"
+"de la violencia que vendría."
+
+#. tiempo 01:27:14
+#. Subtítulo: un tramo de la frase, sincronizado con la voz. Máximo 2 líneas.
+#, fuzzy
+msgctxt "L60"
+msgid "These Realian outbreaks are "
+msgstr "Estos brotes de Realians"
+
+#. tiempo 01:29:10
+#. Subtítulo: un tramo de la frase, sincronizado con la voz. Máximo 2 líneas.
+#. viene de: These Realian outbreaks are 
+#, fuzzy
+msgctxt "L61"
+msgid "spreading like wildfire."
+msgstr "se propagan como reguero de pólvora."
+
+#. tiempo 01:33:00
+#. Subtítulo: un tramo de la frase, sincronizado con la voz. Máximo 2 líneas.
+#, fuzzy
+msgctxt "L63"
+msgid ""
+"They'll be reading off plenty\n"
+"more model numbers"
+msgstr ""
+"Mañana van a leer muchos más\n"
+"números de modelo"
+
+#. tiempo 01:35:15
+#. Subtítulo: un tramo de la frase, sincronizado con la voz. Máximo 2 líneas.
+#. viene de: They'll be reading off plenty more model numbers
+#, fuzzy
+msgctxt "L64"
+msgid "in the media tomorrow, I can assure you."
+msgstr "en los medios, te lo aseguro."
+
+#. tiempo 01:40:15
+#. Subtítulo: un tramo de la frase, sincronizado con la voz. Máximo 2 líneas.
+#, fuzzy
+msgctxt "L67"
+msgid ""
+"So, what does that have\n"
+"to do with the operation?"
+msgstr ""
+"¿Y eso qué tiene que ver\n"
+"con la operación?"
+
+#. tiempo 01:46:10
+#. Subtítulo: un tramo de la frase, sincronizado con la voz. Máximo 2 líneas.
+#, fuzzy
+msgctxt "L70"
+msgid "I'd like to know why"
+msgstr "Quisiera saber por qué"
+
+#. tiempo 01:47:15
+#. Subtítulo: un tramo de la frase, sincronizado con la voz. Máximo 2 líneas.
+#. viene de: I'd like to know why
+#, fuzzy
+msgctxt "L71"
+msgid "I was chosen for this mission."
+msgstr "me eligieron para esta misión."
+
+#. tiempo 01:49:22
+#. Subtítulo: un tramo de la frase, sincronizado con la voz. Máximo 2 líneas.
+#, fuzzy
+msgctxt "L73"
+msgid ""
+"I'm told that the military has\n"
+"detained all of its Realians."
+msgstr ""
+"Me dijeron que el ejército\n"
+"detuvo a todos sus Realians."
+
+#. tiempo 01:53:16
+#. Subtítulo: un tramo de la frase, sincronizado con la voz. Máximo 2 líneas.
+#, fuzzy
+msgctxt "L74"
+msgid ""
+"I find it difficult to believe that\n"
+"they don't have any misgivings about us."
+msgstr ""
+"Me cuesta creer que no\n"
+"desconfíen de nosotros."
+
+#. tiempo 01:59:25
+#. Subtítulo: un tramo de la frase, sincronizado con la voz. Máximo 2 líneas.
+#, fuzzy
+msgctxt "L77"
+msgid "Canaan,"
+msgstr "Canaan,"
+
+#. tiempo 02:00:21
+#. Subtítulo: un tramo de la frase, sincronizado con la voz. Máximo 2 líneas.
+#. viene de: Canaan,
+#, fuzzy
+msgctxt "L79"
+msgid "you're a Realian who's been especially"
+msgstr "eres un Realian creado y configurado"
+
+#. tiempo 02:03:00
+#. Subtítulo: un tramo de la frase, sincronizado con la voz. Máximo 2 líneas.
+#. viene de: you're a Realian who's been especially
+#, fuzzy
+msgctxt "L80"
+msgid "created and configured by Vector, itself."
+msgstr "especialmente por la propia Vector."
+
+#. tiempo 02:07:15
+#. Subtítulo: un tramo de la frase, sincronizado con la voz. Máximo 2 líneas.
+#, fuzzy
+msgctxt "L83"
+msgid "I've been given the CEO's personal guarantee"
+msgstr "El presidente de la empresa me garantizó"
+
+#. tiempo 02:10:20
+#. Subtítulo: un tramo de la frase, sincronizado con la voz. Máximo 2 líneas.
+#. viene de: I've been given the CEO's personal guarantee
+#, fuzzy
+msgctxt "L84"
+msgid "that you won't be affected like the others."
+msgstr "en persona que no te afectará como a los demás."
+
+#. tiempo 02:14:21
+#. Subtítulo: un tramo de la frase, sincronizado con la voz. Máximo 2 líneas.
+#, fuzzy
+msgctxt "L87"
+msgid "Besides,"
+msgstr "Además,"
+
+#. tiempo 02:15:27
+#. Subtítulo: un tramo de la frase, sincronizado con la voz. Máximo 2 líneas.
+#. viene de: Besides,
+#, fuzzy
+msgctxt "L88"
+msgid "no ordinary pilot could"
+msgstr "ningún piloto común podría"
+
+#. tiempo 02:17:10
+#. Subtítulo: un tramo de la frase, sincronizado con la voz. Máximo 2 líneas.
+#. viene de: no ordinary pilot could
+#, fuzzy
+msgctxt "L89"
+msgid "possibly control your craft."
+msgstr "controlar tu nave."
+
+#. tiempo 02:19:28
+#. Subtítulo: un tramo de la frase, sincronizado con la voz. Máximo 2 líneas.
+#, fuzzy
+msgctxt "L91"
+msgid "That makes you"
+msgstr "Eso te convierte en"
+
+#. tiempo 02:22:20
+#. Subtítulo: un tramo de la frase, sincronizado con la voz. Máximo 2 líneas.
+#. viene de: That makes you
+#, fuzzy
+msgctxt "L92"
+msgid "very vital to the operation."
+msgstr "una pieza vital de la operación."
+
+#. tiempo 02:24:23
+#. Subtítulo: un tramo de la frase, sincronizado con la voz. Máximo 2 líneas.
+#, fuzzy
+msgctxt "L95"
+msgid ""
+"I don't believe you two have\n"
+"been properly introduced yet."
+msgstr ""
+"Creo que todavía no los\n"
+"presenté como corresponde."
+
+#. tiempo 02:28:00
+#. Subtítulo: un tramo de la frase, sincronizado con la voz. Máximo 2 líneas.
+#, fuzzy
+msgctxt "L97"
+msgid "This is chaos."
+msgstr "Él es chaos."
+
+#. tiempo 02:30:20
+#. Subtítulo: un tramo de la frase, sincronizado con la voz. Máximo 2 líneas.
+#, fuzzy
+msgctxt "L99"
+msgid ""
+"He'll be joining you onboard\n"
+"as your navigator."
+msgstr ""
+"Te acompañará a bordo\n"
+"como navegante."
+
+#. tiempo 02:35:15
+#. Subtítulo: un tramo de la frase, sincronizado con la voz. Máximo 2 líneas.
+#, fuzzy
+msgctxt "L102"
+msgid "I appreciate the offer,"
+msgstr "Le agradezco,"
+
+#. tiempo 02:37:22
+#. Subtítulo: un tramo de la frase, sincronizado con la voz. Máximo 2 líneas.
+#. viene de: I appreciate the offer,
+#, fuzzy
+msgctxt "L103"
+msgid "but you may want to reconsider."
+msgstr "pero quizá debería reconsiderarlo."
+
+#. tiempo 02:40:00
+#. Subtítulo: un tramo de la frase, sincronizado con la voz. Máximo 2 líneas.
+#, fuzzy
+msgctxt "L104"
+msgid "A regular human can't ride in that thing."
+msgstr "Un humano común no puede subir a esa cosa."
+
+#. tiempo 02:44:15
+#. Subtítulo: un tramo de la frase, sincronizado con la voz. Máximo 2 líneas.
+#, fuzzy
+msgctxt "L107"
+msgid "Right. That's why I'm here."
+msgstr "Justamente. Por eso estoy aquí."
+
+#. tiempo 02:48:00
+#. Subtítulo: un tramo de la frase, sincronizado con la voz. Máximo 2 líneas.
+#, fuzzy
+msgctxt "L108"
+msgid "Don't worry."
+msgstr "No te preocupes."
+
+#. tiempo 02:50:02
+#. Subtítulo: un tramo de la frase, sincronizado con la voz. Máximo 2 líneas.
+#, fuzzy
+msgctxt "L111"
+msgid "All right, it's settled then."
+msgstr "Bien, entonces no se hable más."
+
+#. tiempo 02:52:02
+#. Subtítulo: un tramo de la frase, sincronizado con la voz. Máximo 2 líneas.
+#, fuzzy
+msgctxt "L112"
+msgid "Good luck to both of you."
+msgstr "Buena suerte a los dos."
+
+#. tiempo 02:56:26
+#. Subtítulo: un tramo de la frase, sincronizado con la voz. Máximo 2 líneas.
+#, fuzzy
+msgctxt "L116"
+msgid "As mentioned in the briefing,"
+msgstr "Como ya se explicó en la sesión informativa,"
+
+#. tiempo 02:58:00
+#. Subtítulo: un tramo de la frase, sincronizado con la voz. Máximo 2 líneas.
+#. viene de: As mentioned in the briefing,
+#, fuzzy
+msgctxt "L117"
+msgid "this is a top-secret mission."
+msgstr "esta es una misión ultrasecreta."
+
+#. tiempo 02:59:20
+#. Subtítulo: un tramo de la frase, sincronizado con la voz. Máximo 2 líneas.
+#, fuzzy
+msgctxt "L118"
+msgid "All IFF code transmitters will be switched off,"
+msgstr "Se apagarán todos los transmisores IFF,"
+
+#. tiempo 03:02:15
+#. Subtítulo: un tramo de la frase, sincronizado con la voz. Máximo 2 líneas.
+#. viene de: All IFF code transmitters will be switched off,
+#, fuzzy
+msgctxt "L119"
+msgid ""
+"and under no circumstances will you\n"
+"receive backup from this vessel."
+msgstr ""
+"y bajo ninguna circunstancia recibirán\n"
+"apoyo de esta nave."
+
+#. tiempo 03:06:00
+#. Subtítulo: un tramo de la frase, sincronizado con la voz. Máximo 2 líneas.
+#, fuzzy
+msgctxt "L120"
+msgid ""
+"You will have to manage your descent\n"
+"and return on your own."
+msgstr ""
+"Tendrán que encargarse del descenso\n"
+"y del regreso por su cuenta."
+
+#. tiempo 03:08:20
+#. Subtítulo: un tramo de la frase, sincronizado con la voz. Máximo 2 líneas.
+#, fuzzy
+msgctxt "L121"
+msgid ""
+"You can expect heavy resistance\n"
+"from both U-TIC enemy craft and"
+msgstr ""
+"Prepárense para una fuerte resistencia, tanto\n"
+"de naves enemigas de la U-TIC como"
+
+#. tiempo 03:11:20
+#. Subtítulo: un tramo de la frase, sincronizado con la voz. Máximo 2 líneas.
+#. viene de: You can expect heavy resistance from both U-TIC enemy craft and
+#, fuzzy
+msgctxt "L122"
+msgid ""
+"Federation military units\n"
+"deployed throughout Miltia."
+msgstr ""
+"de unidades militares de la Federación\n"
+"desplegadas por toda Miltia."
+
+#. tiempo 03:15:01
+#. Subtítulo: un tramo de la frase, sincronizado con la voz. Máximo 2 líneas.
+#, fuzzy
+msgctxt "L123"
+msgid "It's gonna be dangerous."
+msgstr "Va a ser peligroso."
+
+#. tiempo 03:16:00
+#. Subtítulo: un tramo de la frase, sincronizado con la voz. Máximo 2 líneas.
+#, fuzzy
+msgctxt "L125"
+msgid "So watch yourselves out there."
+msgstr "Así que cuídense allá afuera."
+
+#. tiempo 03:18:00
+#. Subtítulo: un tramo de la frase, sincronizado con la voz. Máximo 2 líneas.
+#, fuzzy
+msgctxt "L127"
+msgid "Don't worry."
+msgstr "No se preocupe."
+
+#. tiempo 03:20:04
+#. Subtítulo: un tramo de la frase, sincronizado con la voz. Máximo 2 líneas.
+#, fuzzy
+msgctxt "L129"
+msgid "I'm coming back."
+msgstr "Voy a volver."
+
+#. tiempo 03:22:05
+#. Subtítulo: un tramo de la frase, sincronizado con la voz. Máximo 2 líneas.
+#, fuzzy
+msgctxt "L132"
+msgid "Operator, requesting confirmation."
+msgstr "Operador, solicito confirmación."
+
+#. tiempo 03:25:07
+#. Subtítulo: un tramo de la frase, sincronizado con la voz. Máximo 2 líneas.
+#, fuzzy
+msgctxt "L134"
+msgid "We are to head to point NN441, correct?"
+msgstr "Debemos dirigirnos al punto NN441, ¿correcto?"
+
+#. tiempo 03:30:11
+#. Subtítulo: un tramo de la frase, sincronizado con la voz. Máximo 2 líneas.
+#, fuzzy
+msgctxt "L137"
+msgid "Correct."
+msgstr "Correcto."
+
+#. tiempo 03:31:23
+#. Subtítulo: un tramo de la frase, sincronizado con la voz. Máximo 2 líneas.
+#, fuzzy
+msgctxt "L138"
+msgid ""
+"The U.R.T.V. force is currently deployed\n"
+"at the target location."
+msgstr ""
+"La unidad U.R.T.V. está desplegada\n"
+"en la zona del objetivo."
+
+#. tiempo 03:34:20
+#. Subtítulo: un tramo de la frase, sincronizado con la voz. Máximo 2 líneas.
+#, fuzzy
+msgctxt "L139"
+msgid ""
+"Your primary objective is to retrieve them.\n"
+"Protecting them should be your first priority."
+msgstr ""
+"Su objetivo principal es rescatarlos.\n"
+"Protegerlos es su máxima prioridad."
+
+#. tiempo 03:39:24
+#. Subtítulo: un tramo de la frase, sincronizado con la voz. Máximo 2 líneas.
+#, fuzzy
+msgctxt "L142"
+msgid "All of them?"
+msgstr "¿A todos?"
+
+#. tiempo 03:41:03
+#. Subtítulo: un tramo de la frase, sincronizado con la voz. Máximo 2 líneas.
+#, fuzzy
+msgctxt "L145"
+msgid "Affirmative."
+msgstr "Afirmativo."
+
+#. tiempo 03:42:23
+#. Subtítulo: un tramo de la frase, sincronizado con la voz. Máximo 2 líneas.
+#, fuzzy
+msgctxt "L146"
+msgid "If the situation allows,"
+msgstr "Si la situación lo permite,"
+
+#. tiempo 03:44:20
+#. Subtítulo: un tramo de la frase, sincronizado con la voz. Máximo 2 líneas.
+#. viene de: If the situation allows,
+#, fuzzy
+msgctxt "L147"
+msgid "you will then infiltrate U-TIC's motherframe"
+msgstr "luego entrarán en el sistema central de la U-TIC"
+
+#. tiempo 03:47:15
+#. Subtítulo: un tramo de la frase, sincronizado con la voz. Máximo 2 líneas.
+#. viene de: you will then infiltrate U-TIC's motherframe
+#, fuzzy
+msgctxt "L148"
+msgid "and acquire the Y-Data―"
+msgstr "y obtendrán los Y-Data―"
+
+#. tiempo 03:49:20
+#. Subtítulo: un tramo de la frase, sincronizado con la voz. Máximo 2 líneas.
+#, fuzzy
+msgctxt "L149"
+msgid "the root of this conflict."
+msgstr "el origen de este conflicto."
+
+#. tiempo 03:51:23
+#. Subtítulo: un tramo de la frase, sincronizado con la voz. Máximo 2 líneas.
+#, fuzzy
+msgctxt "L151"
+msgid "Roger. We'll do what we can."
+msgstr "Entendido. Haremos lo que podamos."
+
+#. tiempo 03:54:21
+#. Subtítulo: un tramo de la frase, sincronizado con la voz. Máximo 2 líneas.
+#, fuzzy
+msgctxt "L154"
+msgid "E.S. Asher start-up sequence complete."
+msgstr "Secuencia de arranque del E.S. Asher completa."
+
+#. tiempo 03:57:17
+#. Subtítulo: un tramo de la frase, sincronizado con la voz. Máximo 2 líneas.
+#, fuzzy
+msgctxt "L155"
+msgid "Requesting launch."
+msgstr "Solicito lanzamiento."
+
+#. tiempo 03:59:03
+#. Subtítulo: un tramo de la frase, sincronizado con la voz. Máximo 2 líneas.
+#, fuzzy
+msgctxt "L158"
+msgid "Launch request confirmed."
+msgstr "Solicitud de lanzamiento confirmada."
+
+#. tiempo 04:00:25
+#. Subtítulo: un tramo de la frase, sincronizado con la voz. Máximo 2 líneas.
+#, fuzzy
+msgctxt "L159"
+msgid "Now guiding E.S. Asher to Deck B."
+msgstr "Guiando al E.S. Asher a la cubierta B."
+
+#. tiempo 04:20:10
+#. Subtítulo: un tramo de la frase, sincronizado con la voz. Máximo 2 líneas.
+#, fuzzy
+msgctxt "L165"
+msgid "Defensive shields deployed. Ready when you are."
+msgstr "Escudos desplegados. Listos cuando quieran."
+
+#. tiempo 04:23:06
+#. Subtítulo: un tramo de la frase, sincronizado con la voz. Máximo 2 líneas.
+#, fuzzy
+msgctxt "L167"
+msgid "Roger."
+msgstr "Entendido."
+
+#. tiempo 04:24:06
+#. Subtítulo: un tramo de la frase, sincronizado con la voz. Máximo 2 líneas.
+#, fuzzy
+msgctxt "L168"
+msgid "Initiating launch procedure."
+msgstr "Iniciando el procedimiento de lanzamiento."
+
+#. tiempo 04:26:20
+#. Subtítulo: un tramo de la frase, sincronizado con la voz. Máximo 2 líneas.
+#, fuzzy
+msgctxt "L169"
+msgid "Good luck!"
+msgstr "¡Buena suerte!"
+
+#. tiempo 05:00:00
+#. Subtítulo: un tramo de la frase, sincronizado con la voz. Máximo 2 líneas.
+#, fuzzy
+msgctxt "L173"
+msgid "Currently passing through the troposphere."
+msgstr "Atravesando la troposfera."
+
+#. tiempo 05:02:10
+#. Subtítulo: un tramo de la frase, sincronizado con la voz. Máximo 2 líneas.
+#, fuzzy
+msgctxt "L174"
+msgid "Outer hull temperature returning to normal."
+msgstr "La temperatura del casco vuelve a la normalidad."
+
+#. tiempo 05:08:00
+#. Subtítulo: un tramo de la frase, sincronizado con la voz. Máximo 2 líneas.
+#, fuzzy
+msgctxt "L176"
+msgid "Adjusting descent path by 0.22."
+msgstr "Corrigiendo la trayectoria de descenso en 0.22."
+
+#. tiempo 05:12:02
+#. Subtítulo: un tramo de la frase, sincronizado con la voz. Máximo 2 líneas.
+#, fuzzy
+msgctxt "L177"
+msgid "This should get us closer to our target."
+msgstr "Así deberíamos acercarnos al objetivo."
+
+#. tiempo 05:18:00
+#. Subtítulo: un tramo de la frase, sincronizado con la voz. Máximo 2 líneas.
+#, fuzzy
+msgctxt "L180"
+msgid "Approach warning."
+msgstr "Alerta de aproximación."
+
+#. tiempo 05:19:15
+#. Subtítulo: un tramo de la frase, sincronizado con la voz. Máximo 2 líneas.
+#, fuzzy
+msgctxt "L181"
+msgid "Incoming craft detected."
+msgstr "Se detectan naves entrantes."
+
+#. tiempo 05:21:00
+#. Subtítulo: un tramo de la frase, sincronizado con la voz. Máximo 2 líneas.
+#, fuzzy
+msgctxt "L183"
+msgid "They're on an intercept course."
+msgstr "Van en curso de intercepción."
+
+#. tiempo 05:23:20
+#. Subtítulo: un tramo de la frase, sincronizado con la voz. Máximo 2 líneas.
+#, fuzzy
+msgctxt "L184"
+msgid "There are―"
+msgstr "Hay―"
+
+#. tiempo 05:24:12
+#. Subtítulo: un tramo de la frase, sincronizado con la voz. Máximo 2 líneas.
+#, fuzzy
+msgctxt "L186"
+msgid "We'll take them all out."
+msgstr "Los derribaremos a todos."
+
+#. tiempo 05:26:17
+#. Subtítulo: un tramo de la frase, sincronizado con la voz. Máximo 2 líneas.
+#, fuzzy
+msgctxt "L187"
+msgid "Stop counting and"
+msgstr "Deja de contar y"
+
+#. tiempo 05:27:15
+#. Subtítulo: un tramo de la frase, sincronizado con la voz. Máximo 2 líneas.
+#. viene de: Stop counting and
+#, fuzzy
+msgctxt "L188"
+msgid "take control of the shields."
+msgstr "encárgate de los escudos."
+
+#. tiempo 05:29:19
+#. Subtítulo: un tramo de la frase, sincronizado con la voz. Máximo 2 líneas.
+#, fuzzy
+msgctxt "L189"
+msgid ""
+"We'll use the shockwave\n"
+"to gain an advantage on them."
+msgstr ""
+"Usaremos la onda expansiva\n"
+"para sacarles ventaja."
+
+#. tiempo 05:32:20
+#. Subtítulo: un tramo de la frase, sincronizado con la voz. Máximo 2 líneas.
+#, fuzzy
+msgctxt "L191"
+msgid "You've got control of the weapons."
+msgstr "Tú tienes el control de las armas."
+
+#. tiempo 05:35:20
+#. Subtítulo: un tramo de la frase, sincronizado con la voz. Máximo 2 líneas.
+#, fuzzy
+msgctxt "L193"
+msgid "Roger."
+msgstr "Entendido."
+
+#. tiempo 05:37:03
+#. Subtítulo: un tramo de la frase, sincronizado con la voz. Máximo 2 líneas.
+#, fuzzy
+msgctxt "L194"
+msgid "It looks like they're unmanned."
+msgstr "Parece que no están tripuladas."
+
+#. tiempo 05:39:14
+#. Subtítulo: un tramo de la frase, sincronizado con la voz. Máximo 2 líneas.
+#, fuzzy
+msgctxt "L195"
+msgid "With no G-force limit, they can outmaneuver us."
+msgstr "Sin límite de fuerza G, nos superan maniobrando."
+
+#. tiempo 05:43:08
+#. Subtítulo: un tramo de la frase, sincronizado con la voz. Máximo 2 líneas.
+#, fuzzy
+msgctxt "L197"
+msgid "They might pull some crazy moves out there,"
+msgstr "Pueden hacer maniobras imposibles,"
+
+#. tiempo 05:45:13
+#. Subtítulo: un tramo de la frase, sincronizado con la voz. Máximo 2 líneas.
+#. viene de: They might pull some crazy moves out there,
+#, fuzzy
+msgctxt "L198"
+msgid "so be careful."
+msgstr "así que ten cuidado."
+
+#. tiempo 05:48:23
+#. Subtítulo: un tramo de la frase, sincronizado con la voz. Máximo 2 líneas.
+#, fuzzy
+msgctxt "L201"
+msgid "It just makes them all the more predictable."
+msgstr "Eso solo las hace más predecibles."
+
+#. tiempo 06:39:18
+#. Subtítulo: un tramo de la frase, sincronizado con la voz. Máximo 2 líneas.
+#, fuzzy
+msgctxt "L204"
+msgid "There's no end to these guys."
+msgstr "No dejan de llegar."
+
+#. tiempo 06:41:23
+#. Subtítulo: un tramo de la frase, sincronizado con la voz. Máximo 2 líneas.
+#, fuzzy
+msgctxt "L206"
+msgid ""
+"And we don't have much\n"
+"A.B.R. energy left, either."
+msgstr ""
+"Y tampoco nos queda\n"
+"mucha energía A.B.R."
+
+#. tiempo 06:45:00
+#. Subtítulo: un tramo de la frase, sincronizado con la voz. Máximo 2 líneas.
+#, fuzzy
+msgctxt "L207"
+msgid "Let's find someplace to set it down."
+msgstr "Busquemos dónde aterrizar."
+
+#. tiempo 07:22:01
+#. Subtítulo: un tramo de la frase, sincronizado con la voz. Máximo 2 líneas.
+#, fuzzy
+msgctxt "L210"
+msgid "We're empty..."
+msgstr "Sin energía..."
+
+#. tiempo 07:40:00
+#. Subtítulo: un tramo de la frase, sincronizado con la voz. Máximo 2 líneas.
+#, fuzzy
+msgctxt "L214"
+msgid "All enemies destroyed."
+msgstr "Todos los enemigos destruidos."
+
+#. tiempo 07:41:23
+#. Subtítulo: un tramo de la frase, sincronizado con la voz. Máximo 2 líneas.
+#, fuzzy
+msgctxt "L215"
+msgid "It's true. You really are as good as they say."
+msgstr "Es cierto. Eres tan bueno como dicen."
+
+#. tiempo 07:45:09
+#. Subtítulo: un tramo de la frase, sincronizado con la voz. Máximo 2 líneas.
+#, fuzzy
+msgctxt "L218"
+msgid "How are you handling the feedback?"
+msgstr "¿Cómo llevas la retroalimentación?"
+
+#. tiempo 07:47:25
+#. Subtítulo: un tramo de la frase, sincronizado con la voz. Máximo 2 líneas.
+#, fuzzy
+msgctxt "L219"
+msgid ""
+"You know, a normal person would've\n"
+"probably passed out by now."
+msgstr ""
+"Una persona normal ya se habría\n"
+"desmayado a esta altura."
+
+#. tiempo 07:52:02
+#. Subtítulo: un tramo de la frase, sincronizado con la voz. Máximo 2 líneas.
+#, fuzzy
+msgctxt "L221"
+msgid "I don't want you jeopardizing the mission."
+msgstr "No quiero que pongas en peligro la misión."
+
+#. tiempo 07:58:24
+#. Subtítulo: un tramo de la frase, sincronizado con la voz. Máximo 2 líneas.
+#, fuzzy
+msgctxt "L224"
+msgid "I'm fine."
+msgstr "Estoy bien."
+
+#. tiempo 07:59:20
+#. Subtítulo: un tramo de la frase, sincronizado con la voz. Máximo 2 líneas.
+#, fuzzy
+msgctxt "L225"
+msgid "It feels like it's had some special tuning,"
+msgstr "Se nota que tiene un ajuste especial,"
+
+#. tiempo 08:02:15
+#. Subtítulo: un tramo de la frase, sincronizado con la voz. Máximo 2 líneas.
+#. viene de: It feels like it's had some special tuning,
+#, fuzzy
+msgctxt "L226"
+msgid "but that just makes it more interesting."
+msgstr "pero eso lo hace más interesante."
+
+#. tiempo 08:06:22
+#. Subtítulo: un tramo de la frase, sincronizado con la voz. Máximo 2 líneas.
+#, fuzzy
+msgctxt "L229"
+msgid "I see."
+msgstr "Ya veo."
+
+#. tiempo 08:08:18
+#. Subtítulo: un tramo de la frase, sincronizado con la voz. Máximo 2 líneas.
+#, fuzzy
+msgctxt "L231"
+msgid "Well, if I get anything unusual from you,"
+msgstr "Bueno, si noto algo raro en ti,"
+
+#. tiempo 08:11:00
+#. Subtítulo: un tramo de la frase, sincronizado con la voz. Máximo 2 líneas.
+#. viene de: Well, if I get anything unusual from you,
+#, fuzzy
+msgctxt "L232"
+msgid ""
+"I'm cutting the bypass to\n"
+"the navigator immediately."
+msgstr ""
+"corto de inmediato la conexión\n"
+"con el navegante."
+
+#. tiempo 08:14:25
+#. Subtítulo: un tramo de la frase, sincronizado con la voz. Máximo 2 líneas.
+#, fuzzy
+msgctxt "L234"
+msgid "I can operate this thing fine by myself."
+msgstr "Puedo manejar esto perfectamente solo."
+
+#. tiempo 08:18:11
+#. Subtítulo: un tramo de la frase, sincronizado con la voz. Máximo 2 líneas.
+#, fuzzy
+msgctxt "L237"
+msgid "Roger."
+msgstr "Entendido."

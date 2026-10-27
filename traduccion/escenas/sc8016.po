@@ -1,0 +1,161 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Xenosaga Episode II - traducción al español\n"
+"Language: es_419\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Xeno-Source: 0:cf/en/sc8016.sbl\n"
+"X-Xeno-Tipo: cinematica\n"
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#12"
+msgid "This rocks!"
+msgstr "¡Esto es lo máximo!"
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#13"
+msgid "I get it. So this is where your curry comes from."
+msgstr "Ya entiendo. Así que de aquí sale tu curry."
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#14"
+msgid "Figured it out, huh?"
+msgstr "Te diste cuenta, ¿eh?"
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#15"
+msgid "By the way, how's MOMO? Is she done already?"
+msgstr "Por cierto, ¿cómo está MOMO? ¿Ya terminó?"
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#16"
+msgid ""
+"They told us the main examination will start\n"
+"tomorrow. There don't seem to be any problems."
+msgstr ""
+"Nos dijeron que el examen principal empieza\n"
+"mañana. No parece haber ningún problema."
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#17"
+msgid ""
+"Yeah. So, since we had some free time,\n"
+"we thought we'd visit the city."
+msgstr ""
+"Sí. Así que, como teníamos tiempo\n"
+"libre, pensamos en visitar la ciudad."
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#18"
+msgid "I see."
+msgstr "Ya veo."
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#. Opciones: una por línea. Mantener 2 líneas en el mismo orden.
+#, fuzzy
+msgctxt "#19"
+msgid ""
+"What about you? Did you\n"
+"turn over KOS-MOS already?"
+msgstr "¿Y tú? ¿Ya entregaste a KOS-MOS?"
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#20"
+msgid "Uh, yeah..."
+msgstr "Eh, sí..."
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#21"
+msgid ""
+"I had Allen take over the process.\n"
+"It might take some time, though,\n"
+"depending on what else crops up."
+msgstr ""
+"Dejé a Allen a cargo del proceso.\n"
+"Pero puede tardar un poco,\n"
+"según lo que vaya surgiendo."
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#. Opciones: una por línea. Mantener 2 líneas en el mismo orden.
+#, fuzzy
+msgctxt "#22"
+msgid ""
+"Did something happen over there?\n"
+"You don't look very happy."
+msgstr ""
+"¿Pasó algo allá?\n"
+"No te ves muy contenta."
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#23"
+msgid "You know how it is."
+msgstr "Ya sabes cómo es."
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#24"
+msgid ""
+"We've been together for a long time,\n"
+"so saying goodbye is...well, you know."
+msgstr ""
+"Estuvimos juntas mucho tiempo, así\n"
+"que despedirse es... bueno, ya sabes."
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#25"
+msgid "Hmm. That tough, huh?"
+msgstr "Hmm. ¿Tan difícil es?"
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#26"
+msgid "Well yeah."
+msgstr "Pues sí."
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#27"
+msgid ""
+"Think about it. What if you had to give up your\n"
+"precious Kahles scope? How would that feel?"
+msgstr ""
+"Piénsalo. ¿Qué pasaría si tuvieras que dejar\n"
+"tu preciada mira Kahles? ¿Cómo te sentirías?"
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#28"
+msgid ""
+"Oh, that would be tough. My wallet\n"
+"and my heart would both grieve."
+msgstr ""
+"Uy, eso sería duro. Me dolería\n"
+"el bolsillo y el corazón."
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#29"
+msgid "Told you."
+msgstr "¿Ves?"
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#30"
+msgid ""
+"Please, do you really have to compare\n"
+"KOS-MOS to Jr.'s collection?"
+msgstr ""
+"Por favor, ¿de verdad tienes que comparar\n"
+"a KOS-MOS con la colección de Jr.?"

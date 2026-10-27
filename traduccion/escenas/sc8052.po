@@ -1,0 +1,76 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Xenosaga Episode II - traducción al español\n"
+"Language: es_419\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Xeno-Source: 0:cf/en/sc8052.sbl\n"
+"X-Xeno-Tipo: cinematica\n"
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#9"
+msgid "So what's the enemy's status?"
+msgstr "¿Y cuál es la situación del enemigo?"
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#10"
+msgid "I'm afraid I don't have very good news."
+msgstr "Me temo que no tengo buenas noticias."
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#. Opciones: una por línea. Mantener 2 líneas en el mismo orden.
+#, fuzzy
+msgctxt "#11"
+msgid ""
+"The Immigrant Fleet has already\n"
+"descended into Miltia."
+msgstr ""
+"La Flota de Inmigrantes ya\n"
+"descendió a Miltia."
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#12"
+msgid ""
+"Damn. We don't have much time.\n"
+"If we don't hurry, we're gonna lose the Zohar."
+msgstr ""
+"Maldición. No tenemos mucho tiempo.\n"
+"Si no nos apuramos, vamos a perder el Zohar."
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#13"
+msgid "Move the Elsa into the Foundation's dock."
+msgstr "Lleven el Elsa al muelle de la Fundación."
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#14"
+msgid ""
+"Have it repaired to Captain Matthews'\n"
+"specifications. We're goin' right back out."
+msgstr ""
+"Que lo reparen como pida el capitán\n"
+"Matthews. Salimos de nuevo enseguida."
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#15"
+msgid "Little Master, there's a transmission from Helmer."
+msgstr "Joven amo, hay una transmisión de Helmer."
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#16"
+msgid "Shall I accept it?"
+msgstr "¿La acepto?"
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#17"
+msgid "Yeah, hook us up."
+msgstr "Sí, pásamela."

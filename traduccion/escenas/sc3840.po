@@ -1,0 +1,451 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Xenosaga Episode II - traducción al español\n"
+"Language: es_419\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Xeno-Source: 0:cf/en/sc3840.sbl\n"
+
+#. habla: Eileen
+#, fuzzy
+msgctxt "#0"
+msgid "Little Master? I thought you went to Second Miltia for MOMO's analysis."
+msgstr "¿Joven amo? Creí que había ido a Segunda Miltia para el análisis de MOMO."
+
+#. habla: Eileen
+#, fuzzy
+msgctxt "#1"
+msgid "You can't leave her alone like that! The poor thing must be so scared right now. I guess you just don't understand women."
+msgstr "¡No puede dejarla sola así! La pobre debe estar muy asustada ahora mismo. Se ve que no entiende a las mujeres."
+
+#. habla: Eileen
+#, fuzzy
+msgctxt "#2"
+msgid "You're a friend of Little Master, right? He's not causing too much trouble for you, is he? He can do some crazy things, so be careful, okay?"
+msgstr "Te llevas bien con el joven amo, ¿no? No te da demasiados problemas, ¿verdad? Es capaz de hacer locuras, así que ten cuidado, ¿sí?"
+
+#. habla: Eileen
+#, fuzzy
+msgctxt "#3"
+msgid "Do you know Director Gaignun of the Kukai Foundation? He's the adoptive father of the Little Master, who's the leader of this ship. We sometimes see him walking around here."
+msgstr "¿Conoces al director Gaignun de la Fundación Kukai? Es el padre adoptivo del joven amo, que es el líder de esta nave. A veces lo vemos caminando por aquí."
+
+#. habla: Eileen
+#, fuzzy
+msgctxt "#4"
+msgid "Shelley and Mary, who work on the bridge, are Director Gaignun's secretaries. They say a lot happened between those three in the past. I'm really jealous."
+msgstr "Shelley y Mary, que trabajan en el puente, son las secretarias del director Gaignun. Dicen que entre esos tres pasaron muchas cosas en el pasado. Me da mucha envidia."
+
+#. habla: Eileen
+#, fuzzy
+msgctxt "#5"
+msgid "It seems MOMO's analysis failed. I heard that whatever happened also made several of our 100-Series collapse. I hope everything is all right."
+msgstr "Parece que el análisis de MOMO falló. Escuché que lo que pasó también hizo colapsar a varias de nuestras Serie 100. Espero que todo esté bien."
+
+#. habla: Eileen
+#, fuzzy
+msgctxt "#6"
+msgid "Are you part of the Elsa's crew? Then, could you ask Captain Matthews when he intends to pay his repair bills and docking fees?"
+msgstr "¿Eres de la tripulación del Elsa? Entonces, ¿podrías preguntarle al capitán Matthews cuándo piensa pagar sus cuentas de reparación y las tarifas del muelle?"
+
+#. habla: Eileen
+#, fuzzy
+msgctxt "#7"
+msgid "Say, Little Master, is Master Gaignun feeling all right? Recently, I've noticed him staring off into space and holding his head."
+msgstr "Oiga, joven amo, ¿el amo Gaignun se siente bien? Últimamente lo noto con la mirada perdida y agarrándose la cabeza."
+
+#. habla: Eileen
+#, fuzzy
+msgctxt "#8"
+msgid "Oh, MOMO! I heard you collapsed, but it looks like you're all right."
+msgstr "¡Oh, MOMO! Escuché que te desmayaste, pero parece que estás bien."
+
+#. habla: Eileen
+#, fuzzy
+msgctxt "#9"
+msgid "Little Master was frantic, so I got worried, too. I'm so glad you're okay."
+msgstr "El joven amo estaba desesperado, así que yo también me preocupé. Me alegra mucho que estés bien."
+
+#. habla: Eileen
+#, fuzzy
+msgctxt "#10"
+msgid "But what was that Y-Data that they analyzed? It's top secret, so they won't tell us."
+msgstr "Pero ¿qué eran esos Y-Data que analizaron? Son ultrasecretos, así que no nos cuentan nada."
+
+#. habla: Eileen
+#, fuzzy
+msgctxt "#11"
+msgid "It must be something very important since both Little Master and the Durandal seem to be involved."
+msgstr "Debe ser algo muy importante, porque parece que tanto el joven amo como el Durandal están involucrados."
+
+#. habla: Eileen
+#, fuzzy
+msgctxt "#12"
+msgid "chaos, since you're part of the Elsa's crew, could you please encourage Captain Matthews to hurry up and pay his debt?"
+msgstr "chaos, como eres de la tripulación del Elsa, ¿podrías animar al capitán Matthews a que pague de una vez su deuda?"
+
+#. habla: Eileen
+#, fuzzy
+msgctxt "#13"
+msgid "Little Master, you don't look like you're doing too well."
+msgstr "Joven amo, no se lo ve muy bien."
+
+#. habla: Eileen
+#, fuzzy
+msgctxt "#14"
+msgid "Come on, Little Master! Now is precisely the time when you have to pull everyone together with your cheerfulness!"
+msgstr "¡Vamos, joven amo! ¡Justo ahora es cuando tiene que unir a todos con su alegría!"
+
+#. habla: Eileen
+#, fuzzy
+msgctxt "#15"
+msgid "MOMO, now is the time for you to support Little Master!"
+msgstr "¡MOMO, ahora es cuando tienes que apoyar al joven amo!"
+
+#. habla: Eileen
+#, fuzzy
+msgctxt "#16"
+msgid "If you do that, his heart will belong to you. He's as good as yours!"
+msgstr "Si lo haces, su corazón será tuyo. ¡Ya lo tienes en el bolsillo!"
+
+#. habla: Eileen
+#, fuzzy
+msgctxt "#17"
+msgid "U.M.N. communication lines are all mixed up and aren't functioning properly right now. The lines are overloaded because of the accident in Old Miltian space."
+msgstr "Las líneas de comunicación de la U.M.N. están todas cruzadas y no funcionan bien ahora. Están saturadas por el accidente en el espacio de la Antigua Miltia."
+
+#. habla: Eileen
+#, fuzzy
+msgctxt "#18"
+msgid "Oh, Little Master! Are you going out there again?"
+msgstr "¡Oh, joven amo! ¿Va a salir otra vez?"
+
+#. habla: Ozias
+#, fuzzy
+msgctxt "#19"
+msgid "Ah, Little Master! You're attending to your studies, I presume?"
+msgstr "¡Ah, joven amo! Supongo que está atendiendo sus estudios, ¿no?"
+
+#. habla: Ozias
+#, fuzzy
+msgctxt "#20"
+msgid "Both Shelley and Director Gaignun are too easy on you, Little Master! If you want I'll be your tutor."
+msgstr "¡Tanto Shelley como el director Gaignun son demasiado blandos con usted, joven amo! Si quiere, puedo ser su tutor."
+
+#. habla: Ozias
+#, fuzzy
+msgctxt "#21"
+msgid "You're one of Little Master's friends, right? Could you do me a favor and encourage him to be a little more levelheaded?"
+msgstr "Eres del grupo del joven amo, ¿no? ¿Me harías el favor de animarlo a ser un poco más sensato?"
+
+#. habla: Ozias
+#, fuzzy
+msgctxt "#22"
+msgid "If you don't discipline them when they're young, they won't grow into decent adults."
+msgstr "Si no se los disciplina de niños, no se convierten en adultos de bien."
+
+#. habla: Ozias
+#, fuzzy
+msgctxt "#23"
+msgid "This job has gotten too dangerous ― what with the Gnosis and Little Master's recklessness. I feel I should request special compensation."
+msgstr "Este trabajo se volvió demasiado peligroso, entre los Gnosis y las imprudencias del joven amo. Siento que debería pedir una compensación especial."
+
+#. habla: Ozias
+#, fuzzy
+msgctxt "#24"
+msgid "Little Master needs to think a bit more about the crew. I wish Shelley was stricter with him."
+msgstr "El joven amo tiene que pensar un poco más en la tripulación. Ojalá Shelley fuera más estricta con él."
+
+#. habla: Ozias
+#, fuzzy
+msgctxt "#25"
+msgid "It looks like the Durandal's repairs are about done. I understand it was under Master Gaignun's orders, but I still wish they'd avoid taking this ship into danger."
+msgstr "Parece que las reparaciones del Durandal están casi terminadas. Entiendo que fue por orden del amo Gaignun, pero igual me gustaría que evitaran meter esta nave en peligro."
+
+#. habla: Ozias
+#, fuzzy
+msgctxt "#26"
+msgid "Just who's responsible for Little Master's attitude? Maybe he's hanging out with a bad crowd."
+msgstr "¿Quién es responsable de la actitud del joven amo? Quizá anda con malas compañías."
+
+#. habla: Ozias
+#, fuzzy
+msgctxt "#27"
+msgid "Well, you look like the serious sort, so I doubt that you're the problem."
+msgstr "Bueno, tú pareces de los serios, así que dudo que tú seas el problema."
+
+#. habla: Ozias
+#, fuzzy
+msgctxt "#28"
+msgid "It must be hard for you to be alone at a time like this, Little Master."
+msgstr "Debe ser difícil para usted estar solo en un momento así, joven amo."
+
+#. habla: Ozias
+#, fuzzy
+msgctxt "#29"
+msgid "I haven't seen Director Gaignun lately. Did he go somewhere?"
+msgstr "Últimamente no vi al director Gaignun. ¿Se fue a algún lado?"
+
+#. habla: Ozias
+#, fuzzy
+msgctxt "#30"
+msgid "Oh, you must be the 100-Series Prototype."
+msgstr "Ah, tú debes ser el prototipo de la Serie 100."
+
+#. habla: Ozias
+#, fuzzy
+msgctxt "#31"
+msgid "When the Little Master talks about you, he always has a happy look on his face. I heard there was an accident at the U.M.N. Control Center. Is everything all right?"
+msgstr "Cuando el joven amo habla de ti, siempre pone cara de felicidad. Escuché que hubo un accidente en el Centro de Control de la U.M.N. ¿Está todo bien?"
+
+#. habla: Ozias
+#, fuzzy
+msgctxt "#32"
+msgid "The Federation fleet is on its way to Old Miltian space. The column's been restricted to fleet movement only, so it sounds like space travel is going to be affected."
+msgstr "La flota de la Federación va camino al espacio de la Antigua Miltia. La columna quedó restringida solo al movimiento de la flota, así que parece que los viajes espaciales se van a ver afectados."
+
+#. habla: Ozias
+#, fuzzy
+msgctxt "#33"
+msgid "Is obtaining the Zohar that Director Gaignun and the Little Master are pursuing important enough to place the lives of the crew in danger?"
+msgstr "¿Conseguir el Zohar que buscan el director Gaignun y el joven amo es tan importante como para poner en peligro la vida de la tripulación?"
+
+#. habla: Ozias
+#, fuzzy
+msgctxt "#34"
+msgid "Look after the Little Master for us."
+msgstr "Cuiden al joven amo por nosotros."
+
+#. habla: Ozias
+#, fuzzy
+msgctxt "#35"
+msgid "Little Master doesn't know when his own crazy plans are crazy. I'd appreciate it if you could watch over him."
+msgstr "El joven amo no se da cuenta de cuándo sus locuras son locuras. Te agradecería que lo vigilaras."
+
+#. habla: Ozias
+#, fuzzy
+msgctxt "#36"
+msgid "Little Master, don't do anything reckless."
+msgstr "Joven amo, no haga ninguna imprudencia."
+
+#. habla: Ozias
+#, fuzzy
+msgctxt "#37"
+msgid "Rescuing people is important, but so is protecting yourself."
+msgstr "Rescatar gente es importante, pero también lo es protegerse a uno mismo."
+
+#. habla: Ozias
+#, fuzzy
+msgctxt "#38"
+msgid "I'm well aware of the excellence of the 100-Series. You must be even more impressive since you're the original, MOMO."
+msgstr "Conozco bien la excelencia de las Serie 100. Tú debes ser todavía más impresionante, ya que eres la original, MOMO."
+
+#. habla: Ozias
+#, fuzzy
+msgctxt "#39"
+msgid "Please use that superb head of yours to help the Little Master."
+msgstr "Por favor, usa esa cabeza tan brillante para ayudar al joven amo."
+
+#. habla: Ozias
+#, fuzzy
+msgctxt "#40"
+msgid "A few moments ago, we received an unbelievable number of distress calls from Old Miltian space. I can only pray that as many people as possible are saved."
+msgstr "Hace unos momentos recibimos una cantidad increíble de llamadas de auxilio desde el espacio de la Antigua Miltia. Solo puedo rezar para que se salve la mayor cantidad posible de gente."
+
+#. habla: Ozias
+#, fuzzy
+msgctxt "#41"
+msgid "Can the Durandal do anything against that monster?"
+msgstr "¿El Durandal puede hacer algo contra ese monstruo?"
+
+#. habla: Ozias
+#, fuzzy
+msgctxt "#42"
+msgid "Little Master, what is going to happen to us...to the universe?"
+msgstr "Joven amo, ¿qué va a ser de nosotros... del universo?"
+
+#. habla: Ozias
+#, fuzzy
+msgctxt "#43"
+msgid "We're not all going to die, are we?"
+msgstr "No vamos a morir todos, ¿no?"
+
+#. habla: Viano
+#, fuzzy
+msgctxt "#44"
+msgid "I'm thinking about selling a new software application. If I had Hammer to help me, it'd be done in no time!"
+msgstr "Estoy pensando en vender una nueva aplicación de software. ¡Si Hammer me ayudara, estaría lista en un abrir y cerrar de ojos!"
+
+#. habla: Viano
+#, fuzzy
+msgctxt "#45"
+msgid "I'd like the Foundation to install it when it's complete."
+msgstr "Me gustaría que la Fundación la instalara cuando esté terminada."
+
+#. habla: Viano
+#, fuzzy
+msgctxt "#46"
+msgid "You're Hammer's colleague, right? Do you think you could talk him into joining my company?"
+msgstr "Tú eres compañero de Hammer, ¿no? ¿Crees que podrías convencerlo de que se una a mi empresa?"
+
+#. habla: Viano
+#, fuzzy
+msgctxt "#47"
+msgid "You can't let his talent go to waste on a broken-down tub like that! Hey, wait, don't go away."
+msgstr "¡No pueden desperdiciar su talento en una chatarra como esa! Oye, espera, no te vayas."
+
+#. habla: Viano
+#, fuzzy
+msgctxt "#48"
+msgid "Are you familiar with a young man named Hammer? I'm extremely impressed with his abilities."
+msgstr "¿Conoces a un joven llamado Hammer? Sus habilidades me tienen muy impresionado."
+
+#. habla: Viano
+#, fuzzy
+msgctxt "#49"
+msgid "He's a skilled hacker, and I'd love to use his talents for my company's software development."
+msgstr "Es un hacker muy hábil, y me encantaría aprovechar su talento para el desarrollo de software de mi empresa."
+
+#. habla: Viano
+#, fuzzy
+msgctxt "#50"
+msgid "You're Hammer's colleague, right? Do you think you could talk him into joining my company?"
+msgstr "Tú eres compañero de Hammer, ¿no? ¿Crees que podrías convencerlo de que se una a mi empresa?"
+
+#. habla: Viano
+#, fuzzy
+msgctxt "#51"
+msgid "You can't let his talent get wasted on a broken-down tub like that! Hey, wait, don't go away."
+msgstr "¡No pueden desperdiciar su talento en una chatarra como esa! Oye, espera, no te vayas."
+
+#. habla: Viano
+#, fuzzy
+msgctxt "#52"
+msgid "Exceptional talent may sometimes turn into a double-edged sword, but even so, I still want Hammer."
+msgstr "A veces un talento excepcional puede ser un arma de doble filo, pero aun así, quiero a Hammer."
+
+#. habla: Viano
+#, fuzzy
+msgctxt "#53"
+msgid "If we had him, our software would be completed by now. Once it's finished, the Foundation will be even more prosperous. Please lend me your support, Little Master."
+msgstr "Si lo tuviéramos, nuestro software ya estaría terminado. Cuando esté listo, la Fundación va a ser todavía más próspera. Por favor, deme su apoyo, joven amo."
+
+#. habla: Viano
+#, fuzzy
+msgctxt "#54"
+msgid "Hahaha! Hello, young lady! Say, if you talk Hammer into joining my company, I'll give you this candy!"
+msgstr "¡Jajaja! ¡Hola, señorita! Oye, si convences a Hammer de unirse a mi empresa, ¡te doy este caramelo!"
+
+#. habla: Viano
+#, fuzzy
+msgctxt "#55"
+msgid "Hahaha! Wait, don't turn away!"
+msgstr "¡Jajaja! ¡Espera, no me des la espalda!"
+
+#. habla: Viano
+#, fuzzy
+msgctxt "#56"
+msgid "Hammer is truly amazing! He hacked into a crime organization's database at the age of fifteen."
+msgstr "¡Hammer es realmente increíble! Hackeó la base de datos de una organización criminal a los quince años."
+
+#. habla: Viano
+#, fuzzy
+msgctxt "#57"
+msgid "That boldness will certainly be good for my company. I simply must have him."
+msgstr "Esa audacia sin duda le haría bien a mi empresa. No puedo dejarlo escapar."
+
+#. habla: Viano
+#, fuzzy
+msgctxt "#58"
+msgid "His talents are wasted when he's partnered with that speed demon. Hey, don't look at me like that."
+msgstr "Su talento se desperdicia trabajando con ese loco de la velocidad. Oye, no me mires así."
+
+#. habla: Viano
+#, fuzzy
+msgctxt "#59"
+msgid "Lately, the atmosphere at my company has been strange. It seems that the other employees are jealous of Hammer. Well, afterall, his talents are equal to several of them put together."
+msgstr "Últimamente el ambiente en mi empresa está raro. Parece que los otros empleados le tienen envidia a Hammer. Bueno, después de todo, su talento equivale al de varios de ellos juntos."
+
+#. habla: Viano
+#, fuzzy
+msgctxt "#60"
+msgid "Jr., do you know of a good way to appease my employees and also get Hammer?"
+msgstr "Jr., ¿conoces alguna buena forma de calmar a mis empleados y además conseguir a Hammer?"
+
+#. habla: Viano
+#, fuzzy
+msgctxt "#61"
+msgid "Hahaha! If you talk Hammer into joining my company, I'll give you a Chocolate Banana Surprise!"
+msgstr "¡Jajaja! ¡Si convences a Hammer de unirse a mi empresa, te doy una Sorpresa de Banana con Chocolate!"
+
+#. habla: Viano
+#, fuzzy
+msgctxt "#62"
+msgid "Hahaha! Wait, don't turn away!"
+msgstr "¡Jajaja! ¡Espera, no me des la espalda!"
+
+#. habla: Viano
+#, fuzzy
+msgctxt "#63"
+msgid "Oh, I simply must have Hammer! How can I get him for my company? What if I were to pay off the Elsa's debts?"
+msgstr "¡Ay, tengo que conseguir a Hammer como sea! ¿Cómo puedo traerlo a mi empresa? ¿Y si pagara las deudas del Elsa?"
+
+#. habla: Viano
+#, fuzzy
+msgctxt "#64"
+msgid "But I doubt I could afford it on my allowance, and Mommy would get mad if I used the family money."
+msgstr "Pero dudo que me alcance con mi mesada, y mamá se enojaría si usara el dinero de la familia."
+
+#. habla: Viano
+#, fuzzy
+msgctxt "#65"
+msgid "Hahaha! If you talk Hammer into joining my company, I'll give you a Chocolate Banana Surprise!"
+msgstr "¡Jajaja! ¡Si convences a Hammer de unirse a mi empresa, te doy una Sorpresa de Banana con Chocolate!"
+
+#. habla: Viano
+#, fuzzy
+msgctxt "#66"
+msgid "Hahaha! Hey, wait, why are you taking out your gun?"
+msgstr "¡Jajaja! Oye, espera, ¿por qué sacas el arma?"
+
+#. habla: chaos
+#, fuzzy
+msgctxt "#67"
+msgid "Jr., you look tired. I think you should get some rest."
+msgstr "Jr., te ves cansado. Creo que deberías descansar."
+
+#. habla: chaos
+#, fuzzy
+msgctxt "#68"
+msgid "I know there's not much time, but don't get so worked up about it or else you'll lose the battle."
+msgstr "Sé que no hay mucho tiempo, pero no te aceleres tanto o vas a perder la batalla."
+
+#. habla: Hammer
+#, fuzzy
+msgctxt "#69"
+msgid "It's just one thing after another. I wish they'd think about us for once."
+msgstr "Es una cosa tras otra. Ojalá por una vez pensaran en nosotros."
+
+#. habla: Allen
+#, fuzzy
+msgctxt "#70"
+msgid "Ah! You're going, aren't you?! Understood! I'll be right there with you!"
+msgstr "¡Ah! Van a salir, ¿no? ¡Entendido! ¡Ya mismo voy con ustedes!"
+
+#, fuzzy
+msgctxt "#71"
+msgid "Where would you like to go?"
+msgstr "¿Adónde quieres ir?"
+
+#. Opciones: una por línea. Mantener 3 líneas en el mismo orden.
+#, fuzzy
+msgctxt "#72"
+msgid ""
+"Dock Area\n"
+"Bridge Area\n"
+"Cancel"
+msgstr ""
+"Zona de muelles\n"
+"Zona del puente\n"
+"Cancelar"

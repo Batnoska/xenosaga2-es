@@ -1,0 +1,35 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Xenosaga Episode II - traducción al español\n"
+"Language: es_419\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Xeno-Source: 0:cf/en/sc4710.sbl\n"
+
+#. habla: Canaan
+#, fuzzy
+msgctxt "#1"
+msgid "A full backup of the data will take some time. You guys go on ahead."
+msgstr "Respaldar todos los datos va a llevar un tiempo. Ustedes adelántense."
+
+#. habla: Jin
+#, fuzzy
+msgctxt "#2"
+msgid "Hurry! The Zohar is in the Isolation Area beyond the Lock B door. You should be able to release the lock using the panel behind Canaan."
+msgstr "¡Rápido! El Zohar está en el Área de Aislamiento, pasando la puerta del Cierre B. Deberían poder liberar el bloqueo con el panel que está detrás de Canaan."
+
+#, fuzzy
+msgctxt "#3"
+msgid "Push the button?"
+msgstr "¿Presionar el botón?"
+
+#. Opciones: una por línea. Mantener 2 líneas en el mismo orden.
+#, fuzzy
+msgctxt "#4"
+msgid ""
+"Yes\n"
+"No"
+msgstr ""
+"Sí\n"
+"No"

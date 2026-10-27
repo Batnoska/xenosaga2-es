@@ -1,0 +1,158 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Xenosaga Episode II - traducción al español\n"
+"Language: es_419\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Xeno-Source: 0:cf/en/sc8039.sbl\n"
+"X-Xeno-Tipo: cinematica\n"
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#6"
+msgid "Pleased to meet you, number 666 Rubedo."
+msgstr "Encantada, Rubedo, número 666."
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#. Opciones: una por línea. Mantener 2 líneas en el mismo orden.
+#, fuzzy
+msgctxt "#7"
+msgid ""
+"I am U.R.T.V. number 668.\n"
+"You may call me Citrine."
+msgstr ""
+"Soy la U.R.T.V. número 668.\n"
+"Puedes llamarme Citrine."
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#8"
+msgid "668?...I've never seen a female type before!"
+msgstr "¿668?... ¡Nunca había visto una U.R.T.V. mujer!"
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#9"
+msgid "Don't be so surprised."
+msgstr "No te sorprendas tanto."
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#. Opciones: una por línea. Mantener 2 líneas en el mismo orden.
+#, fuzzy
+msgctxt "#10"
+msgid ""
+"The original fertilized eggs\n"
+"had both X and Y stock."
+msgstr ""
+"Los óvulos fecundados originales\n"
+"tenían cepas X e Y."
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#. Opciones: una por línea. Mantener 2 líneas en el mismo orden.
+#, fuzzy
+msgctxt "#11"
+msgid ""
+"I am an X-type, designed to\n"
+"preserve the egg's mtDNA."
+msgstr ""
+"Yo soy de tipo X, diseñada para\n"
+"preservar el ADNmt del óvulo."
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#12"
+msgid ""
+"We'd be in trouble if the project hit\n"
+"a dead end with nothing but\n"
+"just you simple Y-types."
+msgstr ""
+"Estaríamos en problemas si el proyecto\n"
+"se estancara con solo ustedes,\n"
+"los simples tipos Y."
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#13"
+msgid "I'd heard there was a girls' ward somewhere."
+msgstr ""
+"Oí que había un pabellón\n"
+"de niñas por algún lado."
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#14"
+msgid "I thought the missing number was dead."
+msgstr "Creí que el número que faltaba estaba muerto."
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#. Opciones: una por línea. Mantener 2 líneas en el mismo orden.
+#, fuzzy
+msgctxt "#15"
+msgid ""
+"It's certainly true that a lot\n"
+"of units were disposed of."
+msgstr ""
+"Es cierto que muchas unidades\n"
+"fueron desechadas."
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#16"
+msgid ""
+"Unlike you male types, we have only\n"
+"nine female types remaining."
+msgstr ""
+"A diferencia de ustedes, los varones, solo\n"
+"quedamos nueve de tipo femenino."
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#17"
+msgid ""
+"It's a shame because, theoretically,\n"
+"we are superior."
+msgstr ""
+"Es una pena porque, en teoría,\n"
+"somos superiores."
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#18"
+msgid "Disposed of?"
+msgstr "¿Desechadas?"
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#19"
+msgid "Who do you think you are?"
+msgstr "¿Quién te crees que eres?"
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#20"
+msgid "And just who do you think you are, Rubedo?"
+msgstr "¿Y quién te crees que eres tú, Rubedo?"
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#21"
+msgid ""
+"We aren't normal children, you know.\n"
+"Even if we lost control of our\n"
+"waveform and died,"
+msgstr ""
+"No somos niños normales, ¿sabes?\n"
+"Aunque perdiéramos el control\n"
+"de nuestra onda y muriéramos,"
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#. Opciones: una por línea. Mantener 2 líneas en el mismo orden.
+#, fuzzy
+msgctxt "#22"
+msgid ""
+"we wouldn't have the luxury\n"
+"of complaining about it."
+msgstr ""
+"no podríamos darnos el lujo\n"
+"de quejarnos."

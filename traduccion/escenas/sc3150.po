@@ -1,0 +1,74 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Xenosaga Episode II - traducción al español\n"
+"Language: es_419\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Xeno-Source: 0:cf/en/sc3150.sbl\n"
+
+#. habla: Krzysztof
+#, fuzzy
+msgctxt "#0"
+msgid "Vector might be taking a neutral position in this matter, but there seems to be a hotline between the CEO and Second Miltia's Representative Helmer."
+msgstr "Quizá Vector esté adoptando una postura neutral en este asunto, pero parece que hay una línea directa entre el presidente y el representante Helmer de Segunda Miltia."
+
+#. habla: Krzysztof
+#, fuzzy
+msgctxt "#1"
+msgid "A new weapon was transferred through Second Division, so it's only a matter of time before the Dämmerung starts moving."
+msgstr "Se transfirió un arma nueva a través de la Segunda División, así que el Dämmerung no va a tardar en ponerse en marcha."
+
+#. habla: Petr
+#, fuzzy
+msgctxt "#2"
+msgid "Oh, Chief Uzuki! Did you hear? We just made a transfer to Second Miltia under orders from the CEO!"
+msgstr "¡Ah, jefa Uzuki! ¿Se enteró? ¡Acabamos de hacer un traslado a Segunda Miltia por orden del presidente!"
+
+#. habla: Petr
+#, fuzzy
+msgctxt "#3"
+msgid "Can you guess what it was? An E.S.! A real E.S. series! And it was sent off the record!"
+msgstr "¿Adivina qué era? ¡Un E.S.! ¡Uno de verdad de la serie E.S.! ¡Y lo mandaron sin registro!"
+
+#. habla: Petr
+#, fuzzy
+msgctxt "#4"
+msgid "There must be something big going on if they're bringing out the E.S. series. That thing's development has been top secret! There has got to be something behind all of this!"
+msgstr "Debe estar pasando algo grande si sacan la serie E.S. ¡Su desarrollo era ultrasecreto! ¡Tiene que haber algo detrás de todo esto!"
+
+#. habla: Wanda
+#, fuzzy
+msgctxt "#5"
+msgid "Normal communications channels are restricted to give priority to military communications. We can still send work-related communications through the emergency lines, but there's no way to conduct any personal communications at all."
+msgstr "Los canales de comunicación normales están restringidos para darles prioridad a las comunicaciones militares. Todavía se pueden enviar comunicaciones de trabajo por las líneas de emergencia, pero es imposible hacer comunicaciones personales."
+
+#. habla: Miyuki
+#, fuzzy
+msgctxt "#6"
+msgid "Oh, Shion! What happened to your glasses? Weren't those glasses a present from Chief Kevin? I thought those were really important to you. Why did you take them off?"
+msgstr "¡Oh, Shion! ¿Qué pasó con tus anteojos? ¿No eran un regalo del jefe Kevin? Pensé que eran muy importantes para ti. ¿Por qué te los sacaste?"
+
+#. habla: Miyuki
+#, fuzzy
+msgctxt "#7"
+msgid "But you look great without your glasses, of course."
+msgstr "Aunque, claro, sin anteojos te ves muy bien."
+
+#. habla: Allen
+#, fuzzy
+msgctxt "#8"
+msgid "Chief? What's wrong? What? A sedative? Yes, I have some, but...are you okay? You don't look well. Maybe you should go to your room and get some rest."
+msgstr "¿Jefa? ¿Qué te pasa? ¿Qué? ¿Un sedante? Sí, tengo, pero... ¿estás bien? No te ves bien. Quizá deberías ir a tu habitación a descansar."
+
+#. habla: Shion
+#, fuzzy
+msgctxt "#9"
+msgid "Yes, you're right. I'm sorry. I think I'll go do that."
+msgstr "Sí, tienes razón. Perdón. Creo que voy a hacer eso."
+
+#. habla: Allen
+#, fuzzy
+msgctxt "#10"
+msgid "You don't look well. Maybe you should go to your room and get some rest."
+msgstr "No te ves bien. Quizá deberías ir a tu habitación a descansar."

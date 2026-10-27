@@ -1,0 +1,200 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Xenosaga Episode II - traducción al español\n"
+"Language: es_419\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Xeno-Source: 0:cf/en/sc8032.sbl\n"
+"X-Xeno-Tipo: cinematica\n"
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#5"
+msgid "It's been a long time, Lieutenant General."
+msgstr "Cuánto tiempo, teniente general."
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#6"
+msgid ""
+"Or do you prefer Representative Helmer,\n"
+"of the Second Miltian Parliament?"
+msgstr ""
+"¿O prefiere representante Helmer,\n"
+"del Parlamento de Segunda Miltia?"
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#7"
+msgid "The old way is fine, Captain. It suits me more."
+msgstr "Como antes está bien, capitán. Me sienta mejor."
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#. Opciones: una por línea. Mantener 2 líneas en el mismo orden.
+#, fuzzy
+msgctxt "#8"
+msgid ""
+"Well Captain, aren't you going\n"
+"to ask me why I've come?"
+msgstr ""
+"Y bien, capitán, ¿no va\n"
+"a preguntarme por qué vine?"
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#9"
+msgid "I've got a fairly good idea."
+msgstr "Me hago una idea."
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#10"
+msgid "Fine."
+msgstr "Bien."
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#11"
+msgid "Then I'll get straight to the point."
+msgstr "Entonces iré directo al grano."
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#. Opciones: una por línea. Mantener 2 líneas en el mismo orden.
+#, fuzzy
+msgctxt "#12"
+msgid ""
+"Captain, I'd like to enlist\n"
+"your services once again."
+msgstr ""
+"Capitán, me gustaría volver\n"
+"a contar con sus servicios."
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#13"
+msgid "I believe you already know Canaan."
+msgstr "Creo que ya conoce a Canaan."
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#14"
+msgid "Yes. It's been a while."
+msgstr "Sí. Cuánto tiempo."
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#15"
+msgid "The data you entrusted to Canaan..."
+msgstr "Los datos que le confió a Canaan..."
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#16"
+msgid "I want to find out the truth it holds."
+msgstr "Quiero descubrir la verdad que contienen."
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#17"
+msgid ""
+"That evidence was obtained illegally.\n"
+"It won't stand up in court."
+msgstr ""
+"Esas pruebas se obtuvieron ilegalmente.\n"
+"No servirán ante un tribunal."
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#18"
+msgid "I don't care."
+msgstr "No me importa."
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#19"
+msgid ""
+"If I can just find out who our real\n"
+"enemy is, that'll be more than enough."
+msgstr ""
+"Me basta con descubrir quién es\n"
+"nuestro verdadero enemigo."
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#20"
+msgid "I want to know, Captain."
+msgstr "Quiero saberlo, capitán."
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#21"
+msgid ""
+"Lieutenant General, these days\n"
+"I am but a lowly used bookseller."
+msgstr ""
+"Teniente general, hoy en día solo soy\n"
+"un humilde vendedor de libros usados."
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#. Opciones: una por línea. Mantener 2 líneas en el mismo orden.
+#, fuzzy
+msgctxt "#22"
+msgid ""
+"I'm not sure I am capable of\n"
+"meeting your expectations."
+msgstr ""
+"No estoy seguro de poder\n"
+"estar a la altura de sus expectativas."
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#23"
+msgid "This is..."
+msgstr "Esto es..."
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#. Opciones: una por línea. Mantener 2 líneas en el mismo orden.
+#, fuzzy
+msgctxt "#24"
+msgid ""
+"The truth will surely be of\n"
+"great benefit to you as well."
+msgstr ""
+"Seguramente la verdad también\n"
+"le será de gran beneficio a usted."
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#25"
+msgid "Lieutenant General, you must realize "
+msgstr "Teniente general, debe entender"
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#. Opciones: una por línea. Mantener 2 líneas en el mismo orden.
+#, fuzzy
+msgctxt "#26"
+msgid ""
+"that in order to unravel the\n"
+"data that I passed to Canaan,"
+msgstr ""
+"que para descifrar los datos\n"
+"que le pasé a Canaan,"
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#27"
+msgid "we have to go back there. "
+msgstr "tenemos que volver allí."
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#28"
+msgid "I assume you are aware of what that means."
+msgstr "Supongo que sabe lo que eso significa."
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#29"
+msgid "I'm well aware, and I'm ready."
+msgstr "Lo sé muy bien, y estoy preparado."

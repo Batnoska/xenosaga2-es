@@ -1,0 +1,162 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Xenosaga Episode II - traducción al español\n"
+"Language: es_419\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Xeno-Source: imagen:yajima/synopsis\n"
+
+#. Título de las imágenes de la historia, con la bola roja.
+#, fuzzy
+msgctxt "titulo"
+msgid "The Story So Far:"
+msgstr "La historia hasta ahora:"
+
+#. Texto dibujado en la imagen (yajima/synopsis/NN.jpg): se escribe de corrido; el salto de línea solo después de la fecha.
+#, fuzzy
+msgctxt "01"
+msgid ""
+"T.C. 4753 - Fourteen Years Ago - Old Miltia\n"
+"chaos and Canaan have embarked on a covert mission to retrieve the bioweapons known as U.R.T.V.s, the Federation's trump card against the U-TIC Organization. The U.R.T.V.s hold the power to neutralize the energy of the Zohar, but they also run the risk of causing the Zohar to go out of control. In order to prevent this worst-case scenario, the two operatives travel through the rubble-strewn streets of Miltia onboard the E.S. Asher."
+msgstr ""
+"T.C. 4753 - Hace catorce años - Antigua Miltia\n"
+"chaos y Canaan emprenden una misión secreta para recuperar las armas biológicas conocidas como U.R.T.V., el as en la manga de la Federación contra la Organización U-TIC. Los U.R.T.V. tienen el poder de neutralizar la energía del Zohar, pero también corren el riesgo de descontrolarlo. Para evitar lo peor, los dos agentes recorren las calles en ruinas de Miltia a bordo del E.S. Asher."
+
+#. Texto dibujado en la imagen (yajima/synopsis/NN.jpg): se escribe de corrido; el salto de línea solo después de la fecha.
+#, fuzzy
+msgctxt "02"
+msgid ""
+"T.C. 4753 - Fourteen Years Ago - Old Miltia\n"
+"chaos and Canaan are on a covert mission to retrieve the bioweapons known as U.R.T.V.s. As they continued through the wreckage of the city, a giant pillar of light appeared before them and a strange song rang out — the Song of Nephilim. Suddenly, a squad of allied A.M.W.S., their pilots having gone mad from hearing the song, attacked them. A raven-haired man named Jin saved chaos and Canaan, and the three decided to travel together for a while."
+msgstr ""
+"T.C. 4753 - Hace catorce años - Antigua Miltia\n"
+"chaos y Canaan cumplen una misión secreta para recuperar las armas biológicas conocidas como U.R.T.V. Mientras avanzaban entre los escombros de la ciudad, apareció ante ellos un gigantesco pilar de luz y sonó un canto extraño: la Canción de Nephilim. De repente, un escuadrón de A.M.W.S. aliados, cuyos pilotos habían enloquecido al oír el canto, los atacó. Un hombre de pelo negro llamado Jin salvó a chaos y a Canaan, y los tres decidieron viajar juntos por un tiempo."
+
+#. Texto dibujado en la imagen (yajima/synopsis/NN.jpg): se escribe de corrido; el salto de línea solo después de la fecha.
+#, fuzzy
+msgctxt "03"
+msgid ""
+"T.C. 4753 - Fourteen Years Ago - Old Miltia\n"
+"While chaos and Canaan were on a covert mission they came across Jin Uzuki, a man fighting alone in the conflict. The three decided to travel together. On the way to their destination, they fought Jin's commanding officer, Margulis. Jin managed to wound Margulis, but he was injured as well. After the fight, Jin entrusted Canaan with the top-secret data that he had obtained, then mysteriously left."
+msgstr ""
+"T.C. 4753 - Hace catorce años - Antigua Miltia\n"
+"En plena misión secreta, chaos y Canaan se encontraron con Jin Uzuki, un hombre que luchaba solo en el conflicto. Los tres decidieron viajar juntos. En el camino se enfrentaron al oficial al mando de Jin, Margulis. Jin logró herir a Margulis, pero también resultó herido. Después de la pelea, Jin le confió a Canaan los datos ultrasecretos que había obtenido y se marchó misteriosamente."
+
+#. Texto dibujado en la imagen (yajima/synopsis/NN.jpg): se escribe de corrido; el salto de línea solo después de la fecha.
+#, fuzzy
+msgctxt "04"
+msgid ""
+"T.C. 4767 - Present Day\n"
+"After overcoming countless difficulties, Shion and the others arrived on Second Miltia. They split up at the space port in order to take care of their own tasks. Shion and Allen headed to Vector's Second R&D Division in order to hand over KOS-MOS. Jr. and Ziggy went to meet Helmer in preparation for the analysis of the Y-Data inside MOMO. chaos decided to go along with Jr."
+msgstr ""
+"T.C. 4767 - En la actualidad\n"
+"Tras superar incontables dificultades, Shion y los demás llegaron a Segunda Miltia. En el puerto espacial se separaron para ocuparse cada uno de lo suyo. Shion y Allen fueron a la Segunda División de I+D de Vector para entregar a KOS-MOS. Jr. y Ziggy fueron a ver a Helmer para preparar el análisis de los Y-Data que guarda MOMO. chaos decidió acompañar a Jr."
+
+#. Texto dibujado en la imagen (yajima/synopsis/NN.jpg): se escribe de corrido; el salto de línea solo después de la fecha.
+#, fuzzy
+msgctxt "05"
+msgid "After parting with Shion at the Second Miltia space port, Jr. headed for Helmer's office along with Ziggy, chaos, and MOMO to analyze the Y-Data inside MOMO. While in transit, they were ambushed by Margulis' subordinates. They fought back desperately, but they were outgunned. Jr. decided to head for point 2089, a Second Miltian defense base, for one last chance at a counterattack."
+msgstr "Tras separarse de Shion en el puerto espacial de Segunda Miltia, Jr. fue a la oficina de Helmer con Ziggy, chaos y MOMO para analizar los Y-Data que guarda MOMO. En el trayecto, los subordinados de Margulis les tendieron una emboscada. Lucharon con desesperación, pero el enemigo los superaba en armas. Jr. decidió dirigirse al punto 2089, una base de defensa de Segunda Miltia, como última oportunidad para contraatacar."
+
+#. Texto dibujado en la imagen (yajima/synopsis/NN.jpg): se escribe de corrido; el salto de línea solo después de la fecha.
+#, fuzzy
+msgctxt "06"
+msgid "Shion and Allen safely handed over KOS-MOS to Vector's Second R&D Division, where KOS-MOS would be fitted with a powerful new anti-Gnosis weapon designed by the late Kevin Winnicot. Shion felt a vague uneasiness, though, and wondered if this meant that the executives foresaw the appearance of new Gnosis. After leaving the Second Division, Shion decided to walk around her hometown of Second Miltia for the first time in years."
+msgstr "Shion y Allen entregaron sin problemas a KOS-MOS a la Segunda División de I+D de Vector, donde le instalarían una nueva y poderosa arma anti-Gnosis diseñada por el difunto Kevin Winnicot. Sin embargo, Shion sintió una vaga inquietud y se preguntó si eso significaba que los directivos preveían la aparición de nuevos Gnosis. Al salir de la Segunda División, Shion decidió recorrer Segunda Miltia, su ciudad natal, por primera vez en años."
+
+#. Texto dibujado en la imagen (yajima/synopsis/NN.jpg): se escribe de corrido; el salto de línea solo después de la fecha.
+#, fuzzy
+msgctxt "07"
+msgid "After leaving Vector's Second Division, Shion found Moby Dick's Café, where she had spent much of her childhood mastering the fine art of cooking curry. Jr. and chaos coincidentally stopped in as well, and all three relaxed for a bit. However, Shion's older brother, Jin, also showed up. Shion seemed uneasy around her brother. Jin told her to stop by the house for a visit, and though unenthusiastic about the idea, Shion reluctantly headed home."
+msgstr "Al salir de la Segunda División de Vector, Shion encontró el Moby Dick's Café, donde había pasado gran parte de su infancia aprendiendo el arte de cocinar curry. Por casualidad, Jr. y chaos también pasaron por ahí, y los tres descansaron un rato. Pero entonces apareció Jin, el hermano mayor de Shion, y ella se mostró incómoda con él. Jin le pidió que fuera de visita a la casa y, aunque la idea no le entusiasmaba, Shion fue a regañadientes."
+
+#. Texto dibujado en la imagen (yajima/synopsis/NN.jpg): se escribe de corrido; el salto de línea solo después de la fecha.
+#, fuzzy
+msgctxt "08"
+msgid "Shion happened to meet her brother, Jin, at the café in Second Miltia. Pressed by Jin, Shion reluctantly went home for a visit, but the two argued there as well. Shion still could not forgive Jin for what happened fourteen years ago. The next morning Shion headed for Vector's Second Division to check on KOS-MOS' modifications. chaos set out for the U.M.N. Control Center for MOMO's analysis."
+msgstr "Shion se encontró por casualidad con su hermano, Jin, en el café de Segunda Miltia. Ante la insistencia de Jin, fue de visita a la casa a regañadientes, pero allí también discutieron. Shion todavía no podía perdonarle a Jin lo que pasó hace catorce años. A la mañana siguiente, Shion fue a la Segunda División de Vector a revisar las modificaciones de KOS-MOS. chaos partió hacia el Centro de Control de la U.M.N. para el análisis de MOMO."
+
+#. Texto dibujado en la imagen (yajima/synopsis/NN.jpg): se escribe de corrido; el salto de línea solo después de la fecha.
+#, fuzzy
+msgctxt "09"
+msgid "The Y-Data is Joachim's legacy sealed inside MOMO. During its analysis, a trap set by Albedo went off and the information started to leak. MOMO immediately severed her neural circuitry to prevent the loss of the data, but she destroyed her own mind in the process. Juli's desperate attempt to revive MOMO kept her alive, but her neural network suffered heavy damage. Helmer requested assistance from Vector, so Shion headed for the U.M.N. Control Center."
+msgstr "Los Y-Data son el legado de Joachim sellado dentro de MOMO. Durante su análisis, saltó una trampa de Albedo y la información empezó a filtrarse. MOMO cortó al instante sus circuitos neuronales para evitar la pérdida de los datos, pero destruyó su propia mente al hacerlo. El intento desesperado de Juli por reanimarla la mantuvo con vida, pero su red neuronal sufrió graves daños. Helmer pidió ayuda a Vector, así que Shion fue al Centro de Control de la U.M.N."
+
+#. Texto dibujado en la imagen (yajima/synopsis/NN.jpg): se escribe de corrido; el salto de línea solo después de la fecha.
+#, fuzzy
+msgctxt "10"
+msgid "The Y-Data is Joachim's legacy sealed inside MOMO. During its analysis, a trap set by Albedo went off and the information started to leak. MOMO immediately severed her neural circuitry to prevent the loss of the data, but she destroyed her own mind in the process. Juli's desperate attempt to revive MOMO kept her alive, but her neural network suffered heavy damage. Helmer requested assistance from Vector, so Shion raced to join Jr., chaos, and Ziggy to dive into MOMO's mind."
+msgstr "Los Y-Data son el legado de Joachim sellado dentro de MOMO. Durante su análisis, saltó una trampa de Albedo y la información empezó a filtrarse. MOMO cortó al instante sus circuitos neuronales para evitar la pérdida de los datos, pero destruyó su propia mente al hacerlo. El intento desesperado de Juli por reanimarla la mantuvo con vida, pero su red neuronal sufrió graves daños. Helmer pidió ayuda a Vector, así que Shion corrió a unirse a Jr., chaos y Ziggy para sumergirse en la mente de MOMO."
+
+#. Texto dibujado en la imagen (yajima/synopsis/NN.jpg): se escribe de corrido; el salto de línea solo después de la fecha.
+#, fuzzy
+msgctxt "11"
+msgid "Shion and the others dove into MOMO's mind. They arrived at the U.R.T.V. development facility, the Yuriev Institute. There they saw Juli's daughter, Sakura, who was the research facility's test subject and MOMO's model. They also witnessed the intensive daily training undergone by Jr. (Rubedo), Gaignun (Nigredo), and Albedo. One day, the three go on a mission to dive into Sakura's subconscious domain."
+msgstr "Shion y los demás se sumergieron en la mente de MOMO. Llegaron a las instalaciones donde se desarrollaron los U.R.T.V., el Instituto Yuriev. Allí vieron a Sakura, la hija de Juli, que era el sujeto de pruebas del instituto y el modelo de MOMO. También presenciaron el duro entrenamiento diario de Jr. (Rubedo), Gaignun (Nigredo) y Albedo. Un día, los tres parten en una misión para sumergirse en el dominio subconsciente de Sakura."
+
+#. Texto dibujado en la imagen (yajima/synopsis/NN.jpg): se escribe de corrido; el salto de línea solo después de la fecha.
+#, fuzzy
+msgctxt "12"
+msgid "Rubedo, Albedo, and Nigredo dove into the subconscious domain of the test subject, Sakura. During the mission, U-DO's waves infected the standard U.R.T.V.s and turned them into monsters. The three fought and cured them, but Albedo, in a rage, continued to beat a helpless U.R.T.V. Furiously trying to stop him, Rubedo glimpsed the madness within Albedo."
+msgstr "Rubedo, Albedo y Nigredo se sumergieron en el dominio subconsciente del sujeto de pruebas, Sakura. Durante la misión, las ondas de U-DO infectaron a los U.R.T.V. comunes y los convirtieron en monstruos. Los tres lucharon y los curaron, pero Albedo, enfurecido, siguió golpeando a un U.R.T.V. indefenso. Mientras intentaba detenerlo con furia, Rubedo vislumbró la locura que había dentro de Albedo."
+
+#. Texto dibujado en la imagen (yajima/synopsis/NN.jpg): se escribe de corrido; el salto de línea solo después de la fecha.
+#, fuzzy
+msgctxt "13"
+msgid "Shion and the others succeeded in reviving MOMO in her subconscious domain. However, Albedo had anticipated this and sprang a trap to seize the Y-Data. Albedo, elated with his prize, used it to restore Old Miltia from the Abyss. With a look of complete contentment, he disappeared with the Simeon. Just then, Jr. doubled over and clutched his right chest. He felt his brother's presence slip away..."
+msgstr "Shion y los demás lograron reanimar a MOMO en su dominio subconsciente. Pero Albedo lo había previsto y activó una trampa para apoderarse de los Y-Data. Eufórico con su botín, Albedo lo usó para sacar a la Antigua Miltia del Abismo. Con una expresión de total satisfacción, desapareció con el Simeon. En ese momento, Jr. se dobló y se llevó la mano al lado derecho del pecho. Sintió que la presencia de su hermano se desvanecía..."
+
+#. Texto dibujado en la imagen (yajima/synopsis/NN.jpg): se escribe de corrido; el salto de línea solo después de la fecha.
+#, fuzzy
+msgctxt "14"
+msgid "Shion and the others succeeded in reviving MOMO in her subconscious domain. However, Albedo had anticipated this and sprang a trap to seize the Y-Data. Albedo, elated with his prize, used it to restore Old Miltia from the Abyss. This started the battle between the Immigrant Fleet and the Federation government over the original Zohar sleeping on Old Miltia. In the midst of this chaos and cluster-wide security alert, Shion returned to the Dämmerung and wondered what the future held in store."
+msgstr "Shion y los demás lograron reanimar a MOMO en su dominio subconsciente. Pero Albedo lo había previsto y activó una trampa para apoderarse de los Y-Data. Eufórico con su botín, Albedo lo usó para sacar a la Antigua Miltia del Abismo. Así empezó la batalla entre la Flota de Inmigrantes y el gobierno de la Federación por el Zohar original que dormía en la Antigua Miltia. En medio de ese caos y de la alerta de seguridad en todo el cúmulo, Shion volvió al Dämmerung preguntándose qué le depararía el futuro."
+
+#. Texto dibujado en la imagen (yajima/synopsis/NN.jpg): se escribe de corrido; el salto de línea solo después de la fecha.
+#, fuzzy
+msgctxt "15"
+msgid "Shion slept in her room onboard the Dämmerung. In her dream, Febronia appeared and pleaded with her to save Cecily and Cathe, her two sisters who slept on Old Miltia with the Zohar. Nephilim then appeared before Shion again. She, too, foretold that Shion was to travel to Old Miltia. Shion made up her mind to set out for Old Miltia, but it would be difficult with a security alert in effect throughout the star cluster. Then she remembered the spacecraft onboard the Dämmerung that Kevin developed..."
+msgstr "Shion dormía en su cuarto a bordo del Dämmerung. En su sueño apareció Febronia y le suplicó que salvara a Cecily y a Cathe, sus dos hermanas, que dormían en la Antigua Miltia junto al Zohar. Luego Nephilim volvió a aparecer ante Shion y también le anunció que viajaría a la Antigua Miltia. Shion decidió partir hacia allá, pero no iba a ser fácil con la alerta de seguridad vigente en todo el cúmulo estelar. Entonces recordó la nave que Kevin había desarrollado, a bordo del Dämmerung..."
+
+#. Texto dibujado en la imagen (yajima/synopsis/NN.jpg): se escribe de corrido; el salto de línea solo después de la fecha.
+#, fuzzy
+msgctxt "16"
+msgid "Shion and Allen encountered an unknown enemy and were in grave danger. However, KOS-MOS — newly transformed — came to their aid in a craft of pure white — the E.S. Dinah. The destructive power of the craft she piloted eliminated the enemy force in an instant. After a brief silence, the remodeled Elsa gated out and the three joined the Elsa once again."
+msgstr "Shion y Allen se toparon con un enemigo desconocido y quedaron en grave peligro. Pero KOS-MOS, recién transformada, acudió en su ayuda en una nave de un blanco puro: el E.S. Dinah. El poder destructivo de la nave que pilotaba eliminó a la fuerza enemiga en un instante. Tras un breve silencio, el Elsa remodelado salió de un salto y los tres volvieron a reunirse con el Elsa."
+
+#. Texto dibujado en la imagen (yajima/synopsis/NN.jpg): se escribe de corrido; el salto de línea solo después de la fecha.
+#, fuzzy
+msgctxt "17"
+msgid "Shion, KOS-MOS, and Allen joined up with the Elsa. Jr. and the others were on their way to Old Miltia to retrieve the Zohar at Helmer's request. While everyone's motives were different, they were all destined for Old Miltia. The Elsa proceeded along the shortest route possible, a dangerous path straight between two black holes. However, the Ormus Stronghold blocked the way through. The crew of the Elsa decided to ram the fortress head-on, infiltrate it, and destroy it from within."
+msgstr "Shion, KOS-MOS y Allen se reunieron con el Elsa. Jr. y los demás iban camino a la Antigua Miltia para recuperar el Zohar a pedido de Helmer. Aunque cada uno tenía sus motivos, todos se dirigían a la Antigua Miltia. El Elsa tomó la ruta más corta posible, un camino peligroso entre dos agujeros negros. Pero la Fortaleza de Ormus les cerraba el paso. La tripulación del Elsa decidió embestir la fortaleza de frente, infiltrarse y destruirla desde adentro."
+
+#. Texto dibujado en la imagen (yajima/synopsis/NN.jpg): se escribe de corrido; el salto de línea solo después de la fecha.
+#, fuzzy
+msgctxt "18"
+msgid "While en route to Old Miltia, the Elsa's path was blocked by the giant Ormus Stronghold. Shion and the others infiltrated the stronghold and succeeded in destroying it from the inside. They tried to escape as the black holes began to swallow the stronghold, but the damage from the previous battle rendered the Elsa immobile. The Elsa was slowly being pulled into the black holes, but the Durandal saved them in the nick of time."
+msgstr "Camino a la Antigua Miltia, la gigantesca Fortaleza de Ormus le cerró el paso al Elsa. Shion y los demás se infiltraron en la fortaleza y lograron destruirla desde adentro. Intentaron escapar mientras los agujeros negros empezaban a tragarse la fortaleza, pero los daños de la batalla anterior dejaron inmóvil al Elsa. Los agujeros negros lo arrastraban poco a poco, pero el Durandal los salvó justo a tiempo."
+
+#. Texto dibujado en la imagen (yajima/synopsis/NN.jpg): se escribe de corrido; el salto de línea solo después de la fecha.
+#, fuzzy
+msgctxt "19"
+msgid "The Elsa broke through the Immigrant Fleet's defenses and finally landed on Old Miltia. The crew headed for the U-TIC Organization tower, Labyrinthos. Each is here on a different mission: Jr., to recover the Zohar; Jin, to analyze the data he entrusted to Canaan; and Shion, to rescue Cecily and Cathe who still sleep with the Zohar. The Zohar lay undisturbed in the depths of Labyrinthos, awaiting the party. Trembling at the horrible memories from fourteen years ago, they descend into the submerged city."
+msgstr "El Elsa atravesó las defensas de la Flota de Inmigrantes y por fin aterrizó en la Antigua Miltia. La tripulación se dirigió a la torre de la Organización U-TIC, Labyrinthos. Cada uno tiene una misión distinta: Jr., recuperar el Zohar; Jin, analizar los datos que le confió a Canaan; y Shion, rescatar a Cecily y a Cathe, que todavía duermen junto al Zohar. El Zohar esperaba intacto al grupo en las profundidades de Labyrinthos. Temblando por los horribles recuerdos de hace catorce años, descienden a la ciudad sumergida."
+
+#. Texto dibujado en la imagen (yajima/synopsis/NN.jpg): se escribe de corrido; el salto de línea solo después de la fecha.
+#, fuzzy
+msgctxt "20"
+msgid "In the deepest part of Labyrinthos, Shion found U-DO along with Cecily and Cathe, who had been integrated into the system attached to the Zohar. Shion was shocked at the gruesome sight. The Patriarch of the Immigrant Fleet appeared and activated U-DO. With this, the Zohar began to resonate, giving life to Proto Ω. Her heart breaking, Shion ordered KOS-MOS to destroy the system, taking Cecily and Cathe along with it. However, they were unable to stop Proto Ω, which destroyed Old Miltia and gave rise to the Ω System."
+msgstr "En lo más profundo de Labyrinthos, Shion encontró a U-DO junto con Cecily y Cathe, integradas al sistema conectado al Zohar. Shion quedó horrorizada ante esa escena. Apareció el Patriarca de la Flota de Inmigrantes y activó a U-DO. Con eso, el Zohar empezó a resonar y dio vida al Proto Ω. Con el corazón destrozado, Shion le ordenó a KOS-MOS destruir el sistema, y con él a Cecily y a Cathe. Pero no pudieron detener al Proto Ω, que destruyó la Antigua Miltia y dio origen al Sistema Ω."
+
+#. Texto dibujado en la imagen (yajima/synopsis/NN.jpg): se escribe de corrido; el salto de línea solo después de la fecha.
+#, fuzzy
+msgctxt "21"
+msgid "Shion and the others infiltrated the Ω System in order to destroy it. Once in its core, they again confronted the Patriarch. Suddenly, Albedo appeared before them. He attempted to make contact with U-DO, but was annihilated by the overwhelming power of Proto Ω. Jr. viciously attacked the Patriarch to avenge Albedo. When the battle was nearly over, the robed figures of Testament appeared. They eliminated the Patriarch and Proto Ω, and brought Albedo back. The revived Albedo made contact with U-DO, and his desires were finally fulfilled."
+msgstr "Shion y los demás se infiltraron en el Sistema Ω para destruirlo. Una vez en su núcleo, volvieron a enfrentarse al Patriarca. De repente, Albedo apareció ante ellos. Intentó contactar con U-DO, pero el poder abrumador del Proto Ω lo aniquiló. Jr. atacó con saña al Patriarca para vengar a Albedo. Cuando la batalla casi terminaba, aparecieron las figuras encapuchadas de Testament. Eliminaron al Patriarca y al Proto Ω, y trajeron de vuelta a Albedo. Ya revivido, Albedo contactó con U-DO y por fin cumplió su deseo."
+
+#. Texto dibujado en la imagen (yajima/synopsis/NN.jpg): se escribe de corrido; el salto de línea solo después de la fecha.
+#, fuzzy
+msgctxt "22"
+msgid "Well, they were supposed to go to the Ω System, but the Professor wanted them to defeat Dark Professor, someone who resembled the Professor but wasn't related in any way whatsoever and whose whereabouts the Professor still didn't know after all his years of research (hello, Professor?!), as well as his giant robot Dark Erde Kaiser, all of which the Professor claimed wasn't for his own gain but to save the entire universe from a fate worse than what it was facing even now. Whew! Well, after all it is an urgent request from the one-and-only Professor. What do you think? Don't blame me if something goes wrong, though."
+msgstr "Bueno, se suponía que iban al Sistema Ω, pero el Profesor quería que derrotaran al Profesor Oscuro, alguien que se le parecía pero no tenía ningún parentesco con él y cuyo paradero el Profesor seguía sin conocer tras tantos años de investigación (¡¿hola, Profesor?!), y también a su robot gigante Dark Erde Kaiser, todo lo cual, según el Profesor, no era para su propio beneficio sino para salvar al universo entero de un destino peor que el que ya enfrentaba. ¡Uf! Bueno, al fin y al cabo es un pedido urgente del único e inigualable Profesor. ¿Qué te parece? Eso sí, no me culpes si algo sale mal."

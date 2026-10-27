@@ -1,0 +1,39 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Xenosaga Episode II - traducción al español\n"
+"Language: es_419\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Xeno-Source: 0:cf/en/sc1020.sbl\n"
+
+#. habla: chaos
+#, fuzzy
+msgctxt "#3"
+msgid "That wrecked truck is blocking our way."
+msgstr "Ese camión destrozado nos bloquea el paso."
+
+#. habla: Canaan
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#4"
+msgid "You'll automatically lock onto anything destructible when you get close to it. Press <□> to destroy it."
+msgstr "Al acercarte a algo destructible, lo fijas como blanco automáticamente. Presiona <□> para destruirlo."
+
+#. habla: Canaan
+#, fuzzy
+msgctxt "#5"
+msgid "How you destroy things is up to you."
+msgstr "Cómo destruyas las cosas queda en tus manos."
+
+#. habla: chaos
+#, fuzzy
+msgctxt "#6"
+msgid "There're a lot of obstacles. Is it possible to shoot at multiple targets? "
+msgstr "Hay muchos obstáculos. ¿Se puede disparar a varios blancos?"
+
+#. habla: Canaan
+#, fuzzy
+msgctxt "#7"
+msgid "When there are multiple targets, press the L1 button or R1 button to switch between them. I'll let you handle the targeting."
+msgstr "Cuando hay varios blancos, presiona el botón L1 o R1 para cambiar entre ellos. Te dejo a cargo de apuntar."

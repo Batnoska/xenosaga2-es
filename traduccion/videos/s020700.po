@@ -1,0 +1,317 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Xenosaga Episode II - traducción al español\n"
+"Language: es_419\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Xeno-Source: 1:movie/en/s020700.txt\n"
+
+#. tiempo 00:11:00
+#. Subtítulo: un tramo de la frase, sincronizado con la voz. Máximo 2 líneas.
+#, fuzzy
+msgctxt "L24"
+msgid "Somebody!"
+msgstr "¡Alguien!"
+
+#. tiempo 00:12:25
+#. Subtítulo: un tramo de la frase, sincronizado con la voz. Máximo 2 líneas.
+#, fuzzy
+msgctxt "L26"
+msgid "Anybody!"
+msgstr "¡Quien sea!"
+
+#. tiempo 00:14:25
+#. Subtítulo: un tramo de la frase, sincronizado con la voz. Máximo 2 líneas.
+#, fuzzy
+msgctxt "L28"
+msgid "Please, help us!"
+msgstr "¡Por favor, ayúdennos!"
+
+#. tiempo 00:22:25
+#. Subtítulo: un tramo de la frase, sincronizado con la voz. Máximo 2 líneas.
+#, fuzzy
+msgctxt "L30"
+msgid "It won't stop!"
+msgstr "¡No para!"
+
+#. tiempo 00:24:29
+#. Subtítulo: un tramo de la frase, sincronizado con la voz. Máximo 2 líneas.
+#, fuzzy
+msgctxt "L32"
+msgid "Nigredo won't"
+msgstr "¡Nigredo no deja"
+
+#. tiempo 00:26:15
+#. Subtítulo: un tramo de la frase, sincronizado con la voz. Máximo 2 líneas.
+#. viene de: Nigredo won't
+#, fuzzy
+msgctxt "L33"
+msgid "stop bleeding!"
+msgstr "de sangrar!"
+
+#. tiempo 00:31:10
+#. Subtítulo: un tramo de la frase, sincronizado con la voz. Máximo 2 líneas.
+#, fuzzy
+msgctxt "L35"
+msgid "It's all right, Rubedo."
+msgstr "Tranquilo, Rubedo."
+
+#. tiempo 00:37:03
+#. Subtítulo: un tramo de la frase, sincronizado con la voz. Máximo 2 líneas.
+#, fuzzy
+msgctxt "L37"
+msgid "Let it..."
+msgstr "Ya..."
+
+#. tiempo 00:37:29
+#. Subtítulo: un tramo de la frase, sincronizado con la voz. Máximo 2 líneas.
+#, fuzzy
+msgctxt "L38"
+msgid "go."
+msgstr "déjalo."
+
+#. tiempo 00:40:20
+#. Subtítulo: un tramo de la frase, sincronizado con la voz. Máximo 2 líneas.
+#, fuzzy
+msgctxt "L40"
+msgid "Don't say that!"
+msgstr "¡No digas eso!"
+
+#. tiempo 00:42:05
+#. Subtítulo: un tramo de la frase, sincronizado con la voz. Máximo 2 líneas.
+#, fuzzy
+msgctxt "L41"
+msgid "You can't give up!"
+msgstr "¡No puedes rendirte!"
+
+#. tiempo 00:50:15
+#. Subtítulo: un tramo de la frase, sincronizado con la voz. Máximo 2 líneas.
+#, fuzzy
+msgctxt "L43"
+msgid "Two U.R.T.V. variants..."
+msgstr "Dos variantes de U.R.T.V..."
+
+#. tiempo 00:53:00
+#. Subtítulo: un tramo de la frase, sincronizado con la voz. Máximo 2 líneas.
+#, fuzzy
+msgctxt "L44"
+msgid "Identified and confirmed."
+msgstr "Identificadas y confirmadas."
+
+#. tiempo 01:01:05
+#. Subtítulo: un tramo de la frase, sincronizado con la voz. Máximo 2 líneas.
+#, fuzzy
+msgctxt "L46"
+msgid "The red horse carries war,"
+msgstr "El caballo rojo trae la guerra,"
+
+#. tiempo 01:04:00
+#. Subtítulo: un tramo de la frase, sincronizado con la voz. Máximo 2 líneas.
+#. viene de: The red horse carries war,
+#, fuzzy
+msgctxt "L48"
+msgid "and the black horse,"
+msgstr "y el caballo negro,"
+
+#. tiempo 01:05:15
+#. Subtítulo: un tramo de la frase, sincronizado con la voz. Máximo 2 líneas.
+#. viene de: and the black horse,
+#, fuzzy
+msgctxt "L49"
+msgid "famine."
+msgstr "el hambre."
+
+#. tiempo 01:08:08
+#. Subtítulo: un tramo de la frase, sincronizado con la voz. Máximo 2 líneas.
+#, fuzzy
+msgctxt "L51"
+msgid "Upon those tiny backs,"
+msgstr "Sobre esas pequeñas espaldas"
+
+#. tiempo 01:10:13
+#. Subtítulo: un tramo de la frase, sincronizado con la voz. Máximo 2 líneas.
+#. viene de: Upon those tiny backs,
+#, fuzzy
+msgctxt "L52"
+msgid "bear they great calamity."
+msgstr "llevan una terrible calamidad."
+
+#. tiempo 01:13:15
+#. Subtítulo: un tramo de la frase, sincronizado con la voz. Máximo 2 líneas.
+#, fuzzy
+msgctxt "L54"
+msgid "What did you say, chaos?"
+msgstr "¿Qué dijiste, chaos?"
+
+#. tiempo 01:16:13
+#. Subtítulo: un tramo de la frase, sincronizado con la voz. Máximo 2 líneas.
+#, fuzzy
+msgctxt "L55"
+msgid "I didn't read that."
+msgstr "No te escuché bien."
+
+#. tiempo 01:18:20
+#. Subtítulo: un tramo de la frase, sincronizado con la voz. Máximo 2 líneas.
+#, fuzzy
+msgctxt "L57"
+msgid "It's nothing."
+msgstr "No es nada."
+
+#. tiempo 01:20:12
+#. Subtítulo: un tramo de la frase, sincronizado con la voz. Máximo 2 líneas.
+#, fuzzy
+msgctxt "L58"
+msgid "Let's go rescue them."
+msgstr "Vamos a rescatarlos."
+
+#. tiempo 01:26:00
+#. Subtítulo: un tramo de la frase, sincronizado con la voz. Máximo 2 líneas.
+#, fuzzy
+msgctxt "L60"
+msgid "It's..."
+msgstr "Es..."
+
+#. tiempo 01:28:00
+#. Subtítulo: un tramo de la frase, sincronizado con la voz. Máximo 2 líneas.
+#, fuzzy
+msgctxt "L61"
+msgid "it's all my fault."
+msgstr "es todo culpa mía."
+
+#. tiempo 01:30:05
+#. Subtítulo: un tramo de la frase, sincronizado con la voz. Máximo 2 líneas.
+#, fuzzy
+msgctxt "L63"
+msgid "I'm the leader..."
+msgstr "Soy el líder..."
+
+#. tiempo 01:31:20
+#. Subtítulo: un tramo de la frase, sincronizado con la voz. Máximo 2 líneas.
+#, fuzzy
+msgctxt "L64"
+msgid "but then I cut the link."
+msgstr "pero corté el enlace."
+
+#. tiempo 01:35:20
+#. Subtítulo: un tramo de la frase, sincronizado con la voz. Máximo 2 líneas.
+#, fuzzy
+msgctxt "L66"
+msgid "And now Albedo's..."
+msgstr "Y ahora Albedo está..."
+
+#. tiempo 01:37:29
+#. Subtítulo: un tramo de la frase, sincronizado con la voz. Máximo 2 líneas.
+#, fuzzy
+msgctxt "L68"
+msgid "Albedo?"
+msgstr "¿Albedo?"
+
+#. tiempo 01:39:23
+#. Subtítulo: un tramo de la frase, sincronizado con la voz. Máximo 2 líneas.
+#, fuzzy
+msgctxt "L70"
+msgid "He's a piece of me."
+msgstr "Es una parte de mí."
+
+#. tiempo 01:45:03
+#. Subtítulo: un tramo de la frase, sincronizado con la voz. Máximo 2 líneas.
+#, fuzzy
+msgctxt "L72"
+msgid "The beating"
+msgstr "El latido"
+
+#. tiempo 01:46:20
+#. Subtítulo: un tramo de la frase, sincronizado con la voz. Máximo 2 líneas.
+#. viene de: The beating
+#, fuzzy
+msgctxt "L73"
+msgid "in my right chest."
+msgstr "en el lado derecho de mi pecho."
+
+#. tiempo 01:50:10
+#. Subtítulo: un tramo de la frase, sincronizado con la voz. Máximo 2 líneas.
+#, fuzzy
+msgctxt "L75"
+msgid "I have the search results."
+msgstr "Tengo los resultados de la búsqueda."
+
+#. tiempo 01:52:13
+#. Subtítulo: un tramo de la frase, sincronizado con la voz. Máximo 2 líneas.
+#, fuzzy
+msgctxt "L76"
+msgid "Albedo is the name of unit number 667."
+msgstr "Albedo es el nombre de la unidad número 667."
+
+#. tiempo 01:56:00
+#. Subtítulo: un tramo de la frase, sincronizado con la voz. Máximo 2 líneas.
+#, fuzzy
+msgctxt "L78"
+msgid "The records show that"
+msgstr "Según los registros,"
+
+#. tiempo 01:57:00
+#. Subtítulo: un tramo de la frase, sincronizado con la voz. Máximo 2 líneas.
+#. viene de: The records show that
+#, fuzzy
+msgctxt "L79"
+msgid "he and unit number 666 were conjoined twins."
+msgstr "él y la unidad 666 eran gemelos siameses."
+
+#. tiempo 02:00:20
+#. Subtítulo: un tramo de la frase, sincronizado con la voz. Máximo 2 líneas.
+#, fuzzy
+msgctxt "L80"
+msgid "Apparently, it happens on rare occasions,"
+msgstr "Al parecer, ocurre en raras ocasiones,"
+
+#. tiempo 02:03:05
+#. Subtítulo: un tramo de la frase, sincronizado con la voz. Máximo 2 líneas.
+#. viene de: Apparently, it happens on rare occasions,
+#, fuzzy
+msgctxt "L81"
+msgid "even with artificially created children."
+msgstr "incluso con niños creados artificialmente."
+
+#. tiempo 02:07:00
+#. Subtítulo: un tramo de la frase, sincronizado con la voz. Máximo 2 líneas.
+#, fuzzy
+msgctxt "L83"
+msgid "So he was infected as well?"
+msgstr "¿Entonces él también se infectó?"
+
+#. tiempo 02:09:00
+#. Subtítulo: un tramo de la frase, sincronizado con la voz. Máximo 2 líneas.
+#, fuzzy
+msgctxt "L85"
+msgid "The rider of the white horse."
+msgstr "El jinete del caballo blanco."
+
+#. tiempo 02:12:20
+#. Subtítulo: un tramo de la frase, sincronizado con la voz. Máximo 2 líneas.
+#, fuzzy
+msgctxt "L87"
+msgid "May your bodies and souls"
+msgstr "Que sus cuerpos y sus almas"
+
+#. tiempo 02:16:15
+#. Subtítulo: un tramo de la frase, sincronizado con la voz. Máximo 2 líneas.
+#. viene de: May your bodies and souls
+#, fuzzy
+msgctxt "L88"
+msgid "find peace."
+msgstr "encuentren la paz."
+
+#. tiempo 02:18:20
+#. Subtítulo: un tramo de la frase, sincronizado con la voz. Máximo 2 líneas.
+#, fuzzy
+msgctxt "L89"
+msgid "Even if..."
+msgstr "Aunque sea..."
+
+#. tiempo 02:20:23
+#. Subtítulo: un tramo de la frase, sincronizado con la voz. Máximo 2 líneas.
+#, fuzzy
+msgctxt "L91"
+msgid "it is but a short one."
+msgstr "por poco tiempo."

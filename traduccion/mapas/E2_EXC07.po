@@ -1,0 +1,80 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Xenosaga Episode II - traducción al español\n"
+"Language: es_419\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Xeno-Source: 0:model/map/en/E2_EXC07.sbl\n"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#0"
+msgid "$zoom13;Blood of Hades (HP Drain)"
+msgstr "$zoom13;Sangre de Hades (Drenar HP)"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#1"
+msgid "$zoom13;Mark of Hades (EP Drain)"
+msgstr "$zoom13;Marca de Hades (Drenar EP)"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#2"
+msgid "$zoom13;Hell Pyre (Fire)"
+msgstr "$zoom13;Pira infernal (Fuego)"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#3"
+msgid "$zoom13;Barren Frost (Ice)"
+msgstr "$zoom13;Escarcha yerma (Hielo)"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#4"
+msgid "$zoom13;Lightning of Judgment (Thunder)"
+msgstr "$zoom13;Relámpago del juicio (Rayo)"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#5"
+msgid "$zoom13;Healing Dew"
+msgstr "$zoom13;Rocío sanador"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#6"
+msgid "$zoom13;Annihilation"
+msgstr "$zoom13;Aniquilación"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#7"
+msgid "$zoom13;Boost 1"
+msgstr "$zoom13;Boost 1"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#8"
+msgid "$zoom13;Tiger Sword (Slash/Thunder)"
+msgstr "$zoom13;Espada del tigre (Corte/Rayo)"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#9"
+msgid "$zoom13;Snake Wave (Slash/Fire)"
+msgstr "$zoom13;Onda de la serpiente (Corte/Fuego)"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#10"
+msgid "$zoom13;Speed Sword"
+msgstr "$zoom13;Espada veloz"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#11"
+msgid "$zoom13;Sword Dance"
+msgstr "$zoom13;Danza de espadas"

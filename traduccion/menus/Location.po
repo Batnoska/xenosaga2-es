@@ -1,0 +1,403 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Xenosaga Episode II - traducción al español\n"
+"Language: es_419\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Xeno-Source: 0:yosikawa/Location.txd\n"
+
+#, fuzzy
+msgctxt "#0"
+msgid "Old Miltia"
+msgstr "Antigua Miltia"
+
+#, fuzzy
+msgctxt "#1"
+msgid "Second Miltia"
+msgstr "Segunda Miltia"
+
+#, fuzzy
+msgctxt "#2"
+msgid "Second Miltia"
+msgstr "Segunda Miltia"
+
+#, fuzzy
+msgctxt "#3"
+msgid "Sakura's World"
+msgstr "Mundo de Sakura"
+
+#, fuzzy
+msgctxt "#4"
+msgid "Yuriev Institute"
+msgstr "Instituto Yuriev"
+
+#, fuzzy
+msgctxt "#5"
+msgid "SC Domain (Summer)"
+msgstr "Dominio SC (verano)"
+
+#, fuzzy
+msgctxt "#6"
+msgid "Elsa"
+msgstr "Elsa"
+
+#, fuzzy
+msgctxt "#7"
+msgid "Restricted Area"
+msgstr "Zona restringida"
+
+#, fuzzy
+msgctxt "#8"
+msgid "Ormus Stronghold"
+msgstr "Fortaleza de Ormus"
+
+#, fuzzy
+msgctxt "#9"
+msgid "Foundation"
+msgstr "Fundación"
+
+#, fuzzy
+msgctxt "#10"
+msgid "Submerged City"
+msgstr "Ciudad sumergida"
+
+#, fuzzy
+msgctxt "#11"
+msgid "Labyrinthos"
+msgstr "Labyrinthos"
+
+#, fuzzy
+msgctxt "#12"
+msgid "Ω System"
+msgstr "Sistema Ω"
+
+#, fuzzy
+msgctxt "#13"
+msgid "Desert"
+msgstr "Desierto"
+
+#, fuzzy
+msgctxt "#14"
+msgid "Industrial Plant"
+msgstr "Planta industrial"
+
+#, fuzzy
+msgctxt "#15"
+msgid "Heaven's Ruins"
+msgstr "Ruinas del Cielo"
+
+#, fuzzy
+msgctxt "#16"
+msgid "Heaven's Ruins"
+msgstr "Ruinas del Cielo"
+
+#, fuzzy
+msgctxt "#17"
+msgid "Start"
+msgstr "Inicio"
+
+#, fuzzy
+msgctxt "#18"
+msgid "Ad Tower"
+msgstr "Torre publicitaria"
+
+#, fuzzy
+msgctxt "#19"
+msgid "Warehouse"
+msgstr "Depósito"
+
+#, fuzzy
+msgctxt "#20"
+msgid "Park"
+msgstr "Parque"
+
+#, fuzzy
+msgctxt "#21"
+msgid "Stairs"
+msgstr "Escaleras"
+
+#, fuzzy
+msgctxt "#22"
+msgid "Entrance"
+msgstr "Entrada"
+
+#, fuzzy
+msgctxt "#23"
+msgid "House"
+msgstr "Casa"
+
+#, fuzzy
+msgctxt "#24"
+msgid "Corridor"
+msgstr "Pasillo"
+
+#, fuzzy
+msgctxt "#25"
+msgid "Gas Station"
+msgstr "Gasolinera"
+
+#, fuzzy
+msgctxt "#26"
+msgid "River"
+msgstr "Río"
+
+#, fuzzy
+msgctxt "#27"
+msgid "Windmills"
+msgstr "Molinos"
+
+#, fuzzy
+msgctxt "#28"
+msgid "Gas Station"
+msgstr "Gasolinera"
+
+#, fuzzy
+msgctxt "#29"
+msgid "River"
+msgstr "Río"
+
+#, fuzzy
+msgctxt "#30"
+msgid "Windmills"
+msgstr "Molinos"
+
+#, fuzzy
+msgctxt "#31"
+msgid "1F Corridor"
+msgstr "Pasillo 1F"
+
+#, fuzzy
+msgctxt "#32"
+msgid "Wind Tunnel"
+msgstr "Túnel de viento"
+
+#, fuzzy
+msgctxt "#33"
+msgid "Dock"
+msgstr "Muelle"
+
+#, fuzzy
+msgctxt "#34"
+msgid "Outside Shion's Room"
+msgstr "Frente al cuarto de Shion"
+
+#, fuzzy
+msgctxt "#35"
+msgid "Outside Shion's Room"
+msgstr "Frente al cuarto de Shion"
+
+#, fuzzy
+msgctxt "#36"
+msgid "Entrance"
+msgstr "Entrada"
+
+#, fuzzy
+msgctxt "#37"
+msgid "Hangar"
+msgstr "Hangar"
+
+#, fuzzy
+msgctxt "#38"
+msgid "Interior"
+msgstr "Interior"
+
+#, fuzzy
+msgctxt "#39"
+msgid "Turnout"
+msgstr "Desvío"
+
+#, fuzzy
+msgctxt "#40"
+msgid "Transport"
+msgstr "Transporte"
+
+#, fuzzy
+msgctxt "#41"
+msgid "Core"
+msgstr "Núcleo"
+
+#, fuzzy
+msgctxt "#42"
+msgid "City"
+msgstr "Ciudad"
+
+#, fuzzy
+msgctxt "#43"
+msgid "Landing"
+msgstr "Aterrizaje"
+
+#, fuzzy
+msgctxt "#44"
+msgid "Road"
+msgstr "Camino"
+
+#, fuzzy
+msgctxt "#45"
+msgid "Water Tank"
+msgstr "Tanque de agua"
+
+#, fuzzy
+msgctxt "#46"
+msgid "Corridor"
+msgstr "Pasillo"
+
+#, fuzzy
+msgctxt "#47"
+msgid "Station"
+msgstr "Estación"
+
+#, fuzzy
+msgctxt "#48"
+msgid "Shaft"
+msgstr "Pozo"
+
+#, fuzzy
+msgctxt "#49"
+msgid "Isolation"
+msgstr "Aislamiento"
+
+#, fuzzy
+msgctxt "#50"
+msgid "Hall"
+msgstr "Salón"
+
+#, fuzzy
+msgctxt "#51"
+msgid "Central"
+msgstr "Central"
+
+#, fuzzy
+msgctxt "#52"
+msgid "Block"
+msgstr "Bloque"
+
+#, fuzzy
+msgctxt "#53"
+msgid "Small Room"
+msgstr "Cuarto pequeño"
+
+#, fuzzy
+msgctxt "#54"
+msgid "Device"
+msgstr "Dispositivo"
+
+#, fuzzy
+msgctxt "#55"
+msgid "Sand Fall"
+msgstr "Cascada de arena"
+
+#, fuzzy
+msgctxt "#56"
+msgid "Device"
+msgstr "Dispositivo"
+
+#, fuzzy
+msgctxt "#57"
+msgid "Corridor"
+msgstr "Pasillo"
+
+#, fuzzy
+msgctxt "#58"
+msgid "Interior"
+msgstr "Interior"
+
+#, fuzzy
+msgctxt "#59"
+msgid "Great Door"
+msgstr "Gran puerta"
+
+#, fuzzy
+msgctxt "#60"
+msgid "Tower"
+msgstr "Torre"
+
+#, fuzzy
+msgctxt "#61"
+msgid "Next Stage"
+msgstr "Siguiente etapa"
+
+#, fuzzy
+msgctxt "#62"
+msgid "Next Stage"
+msgstr "Siguiente etapa"
+
+#, fuzzy
+msgctxt "#63"
+msgid "Next Stage"
+msgstr "Siguiente etapa"
+
+#, fuzzy
+msgctxt "#64"
+msgid "Next Stage"
+msgstr "Siguiente etapa"
+
+#, fuzzy
+msgctxt "#65"
+msgid "Cleared Data"
+msgstr "Datos completados"
+
+#, fuzzy
+msgctxt "#66"
+msgid "Second Miltia"
+msgstr "Segunda Miltia"
+
+#, fuzzy
+msgctxt "#67"
+msgid "Dämmerung"
+msgstr "Dämmerung"
+
+#, fuzzy
+msgctxt "#68"
+msgid "Old Miltia"
+msgstr "Antigua Miltia"
+
+#, fuzzy
+msgctxt "#69"
+msgid "Proto Ω"
+msgstr "Proto Ω"
+
+#, fuzzy
+msgctxt "#70"
+msgid "First Division"
+msgstr "Primera División"
+
+#, fuzzy
+msgctxt "#71"
+msgid "U.M.N. Center"
+msgstr "Centro U.M.N."
+
+#, fuzzy
+msgctxt "#72"
+msgid "Highway"
+msgstr "Autopista"
+
+#, fuzzy
+msgctxt "#73"
+msgid "Elevator"
+msgstr "Ascensor"
+
+#, fuzzy
+msgctxt "#74"
+msgid "Lobby"
+msgstr "Vestíbulo"
+
+#, fuzzy
+msgctxt "#75"
+msgid "S-T Anomaly"
+msgstr "Anomalía E-T"
+
+#, fuzzy
+msgctxt "#76"
+msgid "Beginning"
+msgstr "Comienzo"
+
+#, fuzzy
+msgctxt "#77"
+msgid "Space Port"
+msgstr "Puerto espacial"
+
+#, fuzzy
+msgctxt "#78"
+msgid "SC Domain (Winter)"
+msgstr "Dominio SC (invierno)"

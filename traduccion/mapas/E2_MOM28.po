@@ -1,0 +1,138 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Xenosaga Episode II - traducción al español\n"
+"Language: es_419\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Xeno-Source: 0:model/map/en/E2_MOM28.sbl\n"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#2"
+msgid ""
+"$zoom15;$colc0c0c0;Sakura's consciousness passed through their minds.\n"
+"Follow with Boost after attacking the BC zone...●$colc0c0c0;"
+msgstr ""
+"$zoom15;$colc0c0c0;La conciencia de Sakura atravesó sus mentes.\n"
+"Tras atacar la zona BC, sigue con Boost...●$colc0c0c0;"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#3"
+msgid "$zoom15;$colc0c0c0;Sakura's consciousness is gone.$colc0c0c0;"
+msgstr "$zoom15;$colc0c0c0;La conciencia de Sakura desapareció.$colc0c0c0;"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#4"
+msgid ""
+"$zoom15;$colc0c0c0;Sakura's consciousness passed through their minds.\n"
+"After attacking the BC zone, follow with Boost\n"
+"and hit the CB zone to Break.●$colc0c0c0;"
+msgstr ""
+"$zoom15;$colc0c0c0;La conciencia de Sakura atravesó sus mentes.\n"
+"Tras atacar la zona BC, sigue con Boost\n"
+"y golpea la zona CB para desequilibrarlo.●$colc0c0c0;"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#5"
+msgid "$zoom15;$col7AF9FB;Albedo's regenerative powers decrease.$colc0c0c0;"
+msgstr "$zoom15;$col7AF9FB;Disminuye el poder regenerativo de Albedo.$colc0c0c0;"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#6"
+msgid "$zoom15;$col7AF9FB;Albedo's regenerative powers reach the limit.$colc0c0c0;"
+msgstr "$zoom15;$col7AF9FB;El poder regenerativo de Albedo llega al límite.$colc0c0c0;"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#8"
+msgid "$zoom15;$col7AF9FB;Status window is erased!$colc0c0c0;"
+msgstr "$zoom15;$col7AF9FB;¡Se borró la ventana de estado!$colc0c0c0;"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#11"
+msgid "$zoom15;$col7AF9FB;Albedo's arms are numb!$colc0c0c0;"
+msgstr "$zoom15;$col7AF9FB;¡Los brazos de Albedo están entumecidos!$colc0c0c0;"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#14"
+msgid "$zoom15;$col7AF9FB;Destroyed Albedo's arms!$colc0c0c0;"
+msgstr "$zoom15;$col7AF9FB;¡Destruiste los brazos de Albedo!$colc0c0c0;"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#15"
+msgid "$zoom13;Release of Desire (Pierce/Thunder)"
+msgstr "$zoom13;Liberación del deseo (Perforación/Rayo)"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#16"
+msgid "$zoom13;Carrion of Souls I (Strike/L Ether DD)"
+msgstr "$zoom13;Carroña de almas I (Golpe/Éter DD L)"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#17"
+msgid "$zoom13;Carrion of Souls II (HP Drain/Boost Drain)"
+msgstr "$zoom13;Carroña de almas II (Drenar HP/Drenar Boost)"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#18"
+msgid "$zoom13;Regeneration"
+msgstr "$zoom13;Regeneración"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#19"
+msgid "$zoom13;Soul Blast (Aura)"
+msgstr "$zoom13;Explosión del alma (Aura)"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#20"
+msgid "$zoom15;$colc0c0c0;The right hand is stained with $col7AF9FB;red blood$colc0c0c0;."
+msgstr "$zoom15;$colc0c0c0;La mano derecha se mancha de $col7AF9FB;sangre roja$colc0c0c0;."
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#21"
+msgid "$zoom15;$colc0c0c0;The right hand is stained with $col7AF9FB;red blood$colc0c0c0;."
+msgstr "$zoom15;$colc0c0c0;La mano derecha se mancha de $col7AF9FB;sangre roja$colc0c0c0;."
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#22"
+msgid "$zoom15;$colc0c0c0;The right hand is stained with $col7AF9FB;black blood$colc0c0c0;."
+msgstr "$zoom15;$colc0c0c0;La mano derecha se mancha de $col7AF9FB;sangre negra$colc0c0c0;."
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#23"
+msgid "$zoom13;Carrion of Souls III (EP Drain/Stock Drain)"
+msgstr "$zoom13;Carroña de almas III (Drenar EP/Drenar Stock)"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#24"
+msgid "$zoom13;Ether Spear"
+msgstr "$zoom13;Lanza de éter"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#25"
+msgid "$zoom13;Thunder Blast"
+msgstr "$zoom13;Ráfaga de rayo"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#26"
+msgid "$zoom13;Ice Blast"
+msgstr "$zoom13;Ráfaga gélida"

@@ -1,0 +1,172 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Xenosaga Episode II - traducción al español\n"
+"Language: es_419\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Xeno-Source: 0:cf/en/sc8002.sbl\n"
+"X-Xeno-Tipo: cinematica\n"
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#5"
+msgid "So this entire thing was a set-up?"
+msgstr "¿Así que todo esto fue un montaje?"
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#6"
+msgid "Exactly."
+msgstr "Exacto."
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#. Opciones: una por línea. Mantener 2 líneas en el mismo orden.
+#, fuzzy
+msgctxt "#7"
+msgid ""
+"It's all part of an attempt to\n"
+"make the U-TIC Organization,"
+msgstr ""
+"Es parte de un intento por convertir\n"
+"a la Organización U-TIC,"
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#8"
+msgid "or should I say, all of Miltia, into a scapegoat."
+msgstr "o mejor dicho, a toda Miltia, en el chivo expiatorio."
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#. Opciones: una por línea. Mantener 2 líneas en el mismo orden.
+#, fuzzy
+msgctxt "#9"
+msgid ""
+"Even the Realian violence\n"
+"that we're seeing right now"
+msgstr ""
+"Incluso la violencia de los Realians\n"
+"que estamos viendo ahora mismo"
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#. Opciones: una por línea. Mantener 2 líneas en el mismo orden.
+#, fuzzy
+msgctxt "#10"
+msgid ""
+"is nothing more than a brush\n"
+"stroke in the larger picture."
+msgstr ""
+"no es más que una pincelada\n"
+"en un cuadro mucho más grande."
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#11"
+msgid "But who's behind this? And why?"
+msgstr "Pero ¿quién está detrás de esto? ¿Y por qué?"
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#12"
+msgid "U-TIC is undoubtedly a cover for a greater power"
+msgstr "La U-TIC es sin duda la fachada de un poder mayor"
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#13"
+msgid "still operating in the shadows. "
+msgstr "que sigue actuando en las sombras."
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#14"
+msgid ""
+"I believe that this power is manipulating\n"
+"the conflict between the Federation and\n"
+"the Miltian system,"
+msgstr ""
+"Creo que ese poder está manipulando\n"
+"el conflicto entre la Federación y\n"
+"el sistema de Miltia,"
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#15"
+msgid ""
+"driving a sequence of events in order to\n"
+"get their hands on something very specific."
+msgstr ""
+"provocando una serie de sucesos para\n"
+"hacerse con algo muy concreto."
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#16"
+msgid "Like what?"
+msgstr "¿Como qué?"
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#17"
+msgid "The Y-Data."
+msgstr "Los Y-Data."
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#18"
+msgid "The Y-Data?"
+msgstr "¿Los Y-Data?"
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#19"
+msgid "I relieved an operative of this disc."
+msgstr "Le quité este disco a un agente."
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#20"
+msgid "And though I was only able to decode it partially,"
+msgstr "Y aunque solo pude descifrarlo en parte,"
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#21"
+msgid ""
+"I discovered that all manner of\n"
+"data from all existing phenomena "
+msgstr ""
+"descubrí que todo tipo de datos\n"
+"de todos los fenómenos existentes"
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#22"
+msgid "is gathered together within an area of space."
+msgstr "se reúne en una zona del espacio."
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#23"
+msgid ""
+"And beyond that lies a special\n"
+"place only described in the Y-Data."
+msgstr ""
+"Y que más allá hay un lugar especial\n"
+"que solo se describe en los Y-Data."
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#24"
+msgid ""
+"Captain Uzuki, how in the world\n"
+"did you acquire this information?"
+msgstr ""
+"Capitán Uzuki, ¿cómo diablos\n"
+"consiguió esta información?"
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#25"
+msgid "I have my ways."
+msgstr "Tengo mis métodos."

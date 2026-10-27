@@ -1,0 +1,107 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Xenosaga Episode II - traducción al español\n"
+"Language: es_419\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Xeno-Source: 0:cf/en/sc8030.sbl\n"
+"X-Xeno-Tipo: cinematica\n"
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#7"
+msgid "Oh no. Poor MOMO."
+msgstr "Ay, no. Pobre MOMO."
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#8"
+msgid ""
+"I'm so sorry. We were right there\n"
+"and we still let this happen to her."
+msgstr ""
+"Lo siento mucho. Estábamos ahí mismo\n"
+"y aun así dejamos que le pasara esto."
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#9"
+msgid "Her basic functions have recovered."
+msgstr "Sus funciones básicas se recuperaron."
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#10"
+msgid "Though she avoided death,"
+msgstr "Aunque se salvó de morir,"
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#. Opciones: una por línea. Mantener 2 líneas en el mismo orden.
+#, fuzzy
+msgctxt "#11"
+msgid ""
+"her neural network, the\n"
+"rough equivalent of her brain,"
+msgstr ""
+"su red neuronal, el equivalente\n"
+"aproximado de su cerebro,"
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#12"
+msgid "has been completely shattered to pieces."
+msgstr "quedó completamente hecha pedazos."
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#13"
+msgid ""
+"We need the expertise of Vector's\n"
+"Third Division if we stand any\n"
+"chance of recovering the Y-Data."
+msgstr ""
+"Necesitamos la experiencia de la Tercera\n"
+"División de Vector si queremos tener alguna\n"
+"posibilidad de recuperar los Y-Data."
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#. Opciones: una por línea. Mantener 2 líneas en el mismo orden.
+#, fuzzy
+msgctxt "#14"
+msgid ""
+"This crisis isn't just Second\n"
+"Miltia's problem anymore."
+msgstr ""
+"Esta crisis ya no es solo un\n"
+"problema de Segunda Miltia."
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#15"
+msgid ""
+"On behalf of the entire government, I am\n"
+"hereby requesting your official assistance."
+msgstr ""
+"En nombre de todo el gobierno, les\n"
+"solicito oficialmente su ayuda."
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#16"
+msgid "MOMO...All this to protect her father's wishes."
+msgstr ""
+"MOMO... Todo esto por proteger\n"
+"la voluntad de su padre."
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#17"
+msgid "Very well. We would be honored to assist you."
+msgstr "Muy bien. Será un honor ayudarlos."
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#18"
+msgid "Besides, MOMO is a close friend."
+msgstr "Además, MOMO es una gran amiga."

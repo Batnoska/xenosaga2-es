@@ -1,0 +1,118 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Xenosaga Episode II - traducción al español\n"
+"Language: es_419\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Xeno-Source: 0:cf/en/sc8003.sbl\n"
+"X-Xeno-Tipo: cinematica\n"
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#4"
+msgid "Congratulations, Canaan."
+msgstr "Felicidades, Canaan."
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#5"
+msgid ""
+"This brings our total loss count to 127. \n"
+"I'd say that's a new record."
+msgstr ""
+"Con esta, ya van 127 intentos fallidos.\n"
+"Diría que es un récord."
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#6"
+msgid "I remember the first time as if it was yesterday."
+msgstr "Recuerdo la primera vez como si fuera ayer."
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#7"
+msgid "My son was born the next day."
+msgstr "Mi hijo nació al día siguiente."
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#8"
+msgid "How old is he now?"
+msgstr "¿Cuántos años tiene ahora?"
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#9"
+msgid "He starts junior high next month."
+msgstr "El mes que viene empieza la secundaria."
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#10"
+msgid "I see."
+msgstr "Ya veo."
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#11"
+msgid "It's...it's gotta be that shadow."
+msgstr "Tiene... tiene que ser esa sombra."
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#12"
+msgid "I mean, think about it."
+msgstr "Piénsalo un poco."
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#13"
+msgid "Its influence severs your data-link every time."
+msgstr "Su influencia corta tu enlace de datos cada vez."
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#14"
+msgid "If we only knew what it was,"
+msgstr "Si tan solo supiéramos qué es,"
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#15"
+msgid "then we could access the data he gave you."
+msgstr "podríamos acceder a los datos que él te dio."
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#. Opciones: una por línea. Mantener 2 líneas en el mismo orden.
+#, fuzzy
+msgctxt "#16"
+msgid ""
+"Canaan, it's a summons\n"
+"from Representative Helmer."
+msgstr ""
+"Canaan, el representante Helmer\n"
+"te manda llamar."
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#17"
+msgid ""
+"Could you go ahead and report\n"
+"today's results while you're there?"
+msgstr ""
+"Ya que vas, ¿le pasas los\n"
+"resultados de hoy?"
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#18"
+msgid "I'm not your secretary, you know."
+msgstr "No soy tu secretario, ¿eh?"
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#19"
+msgid "But today's my son's birthday."
+msgstr "Pero hoy es el cumpleaños de mi hijo."

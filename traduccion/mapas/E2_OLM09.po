@@ -1,0 +1,164 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Xenosaga Episode II - traducción al español\n"
+"Language: es_419\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Xeno-Source: 0:model/map/en/E2_OLM09.sbl\n"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#5"
+msgid "$zoom13;Sentenza (Strike)"
+msgstr "$zoom13;Sentenza (Golpe)"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#6"
+msgid "$zoom13;Lacteus Orbis (Thunder)"
+msgstr "$zoom13;Lacteus Orbis (Rayo)"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#7"
+msgid "$zoom13;Fine Ray (Beam)"
+msgstr "$zoom13;Fine Ray (Haz)"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#8"
+msgid "$zoom13;Sentenza (Strike/L Slow)"
+msgstr "$zoom13;Sentenza (Golpe/Lentitud L)"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#9"
+msgid "$zoom13;Refresh L"
+msgstr "$zoom13;Refresh L"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#10"
+msgid "$zoom13;Refresh H"
+msgstr "$zoom13;Refresh H"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#11"
+msgid "$zoom13;Decaying Gas (L Poison)"
+msgstr "$zoom13;Gas putrefacto (Veneno L)"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#12"
+msgid "$zoom13;Medica"
+msgstr "$zoom13;Medica"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#13"
+msgid "$zoom13;Armor Field"
+msgstr "$zoom13;Campo de blindaje"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#14"
+msgid "$zoom13;Lightning's Grace"
+msgstr "$zoom13;Gracia del rayo"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#15"
+msgid "$zoom15;$col7AF9FB;Sentenza is filled with thunder Ether.$colc0c0c0;"
+msgstr "$zoom15;$col7AF9FB;Sentenza se carga de éter de rayo.$colc0c0c0;"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#16"
+msgid "$zoom13;Hero's Shield"
+msgstr "$zoom13;Escudo del héroe"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#17"
+msgid "$zoom15;$colc0c0c0;Absorb half of Richard's damage.$colc0c0c0;"
+msgstr "$zoom15;$colc0c0c0;Absorbe la mitad del daño de Richard.$colc0c0c0;"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#19"
+msgid "$zoom15;$colc0c0c0;There seems to be something wrong with Richard.$colc0c0c0;"
+msgstr "$zoom15;$colc0c0c0;Parece que a Richard le pasa algo raro.$colc0c0c0;"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#21"
+msgid "$zoom15;$col7AF9FB;Madness overcomes Richard!$colc0c0c0;"
+msgstr "$zoom15;$col7AF9FB;¡Richard pierde la razón!$colc0c0c0;"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#24"
+msgid "$zoom15;$colc0c0c0;Richard is ecstatic!$colc0c0c0;"
+msgstr "$zoom15;$colc0c0c0;¡Richard está extasiado!$colc0c0c0;"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#26"
+msgid "$zoom15;$colc0c0c0;Richard is in a frenzy!$colc0c0c0;"
+msgstr "$zoom15;$colc0c0c0;¡Richard está frenético!$colc0c0c0;"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#28"
+msgid "$zoom15;$col7AF9FB;Defense attribute reset.$colc0c0c0;"
+msgstr "$zoom15;$col7AF9FB;Atributo defensivo restablecido.$colc0c0c0;"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#30"
+msgid "$zoom15;$col7AF9FB;Defense attribute changed.$colc0c0c0;"
+msgstr "$zoom15;$col7AF9FB;Atributo defensivo cambiado.$colc0c0c0;"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#31"
+msgid "$zoom13;Impulsion (Pierce)"
+msgstr "$zoom13;Impulsión (Perforación)"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#32"
+msgid "$zoom13;Raucous Dance (Pierce)"
+msgstr "$zoom13;Danza estridente (Perforación)"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#33"
+msgid "$zoom13;Egalite Launcher (Fire)"
+msgstr "$zoom13;Lanzador Egalite (Fuego)"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#34"
+msgid "$zoom13;Naglfar Third Portable Weapon (Beam)"
+msgstr "$zoom13;Tercera arma portátil del Naglfar (Haz)"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#35"
+msgid "$zoom13;Impale (Pierce)"
+msgstr "$zoom13;Empalar (Perforación)"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#36"
+msgid "$zoom13;Raucous Dance - Madness (Pierce)"
+msgstr "$zoom13;Danza estridente - Locura (Perforación)"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#37"
+msgid "$zoom13;Boost 1"
+msgstr "$zoom13;Boost 1"

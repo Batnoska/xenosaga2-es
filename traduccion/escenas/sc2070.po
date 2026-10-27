@@ -1,0 +1,80 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Xenosaga Episode II - traducción al español\n"
+"Language: es_419\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Xeno-Source: 0:cf/en/sc2070.sbl\n"
+
+#. habla: Arabella
+#, fuzzy
+msgctxt "#0"
+msgid "Ahh! Who touched me?!"
+msgstr "¡Ah! ¡¿Quién me tocó?!"
+
+#. habla: Arabella
+#, fuzzy
+msgctxt "#1"
+msgid "Hmm, Sakura Mizrahi's treatment is entering phase six."
+msgstr "Hmm, el tratamiento de Sakura Mizrahi entra en la fase seis."
+
+#. habla: Arabella
+#, fuzzy
+msgctxt "#2"
+msgid "I heard she's the daughter of Professor Joachim Mizrahi, the leader of the U-TIC Organization, but I wonder how effective this treatment will be."
+msgstr "Escuché que es la hija del profesor Joachim Mizrahi, el líder de la Organización U-TIC, pero me pregunto qué tan eficaz será este tratamiento."
+
+#. habla: Alois
+#, fuzzy
+msgctxt "#3"
+msgid "Who's there?! Stop sneaking around!"
+msgstr "¡¿Quién anda ahí?! ¡Deja de andar a escondidas!"
+
+#. habla: Alois
+#, fuzzy
+msgctxt "#4"
+msgid "Another unit from the girls' ward failed. Why are the female types so unstable?"
+msgstr "Falló otra unidad del pabellón de niñas. ¿Por qué los tipos femeninos son tan inestables?"
+
+#. habla: Alois
+#, fuzzy
+msgctxt "#5"
+msgid "It looks like we still need to do more research."
+msgstr "Parece que todavía hay que investigar más."
+
+#. habla: Jochen
+#, fuzzy
+msgctxt "#6"
+msgid "Dammit, I'm hungry!"
+msgstr "¡Maldición, tengo hambre!"
+
+#. habla: Jochen
+#, fuzzy
+msgctxt "#7"
+msgid "Uh-oh, I have to hurry up and hand in that training dive report."
+msgstr "Uy, tengo que entregar rápido ese informe de la inmersión de entrenamiento."
+
+#. habla: Jochen
+#, fuzzy
+msgctxt "#8"
+msgid "I'm too busy to even eat."
+msgstr "Estoy tan ocupado que ni puedo comer."
+
+#. habla: Trine
+#, fuzzy
+msgctxt "#9"
+msgid "Who's there? Oh...no one..."
+msgstr "¿Quién anda ahí? Ah... nadie..."
+
+#. habla: Trine
+#, fuzzy
+msgctxt "#10"
+msgid "Those U.R.T.V.s are really eerie. They look like children, but they're actually terrible bioweapons."
+msgstr "Esos U.R.T.V. dan escalofríos. Parecen niños, pero en realidad son armas biológicas terribles."
+
+#. habla: Trine
+#, fuzzy
+msgctxt "#11"
+msgid "If it wasn't my job, I wouldn't want anything to do with them."
+msgstr "Si no fuera mi trabajo, no querría tener nada que ver con ellos."

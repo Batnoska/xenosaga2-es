@@ -1,0 +1,80 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Xenosaga Episode II - traducción al español\n"
+"Language: es_419\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Xeno-Source: 0:cf/en/sc1600.sbl\n"
+
+#. habla: Helmer
+#, fuzzy
+msgctxt "#0"
+msgid "What is it? There's no need for concern. As long as she is in this building, the safety of the 100-Series Prototype is assured."
+msgstr "¿Qué sucede? No hay de qué preocuparse. Mientras esté en este edificio, la seguridad del prototipo de la Serie 100 está garantizada."
+
+#. habla: Helmer
+#, fuzzy
+msgctxt "#1"
+msgid "The 100-Series Prototype's main analysis starts tomorrow. Get some rest for today."
+msgstr "El análisis principal del prototipo de la Serie 100 empieza mañana. Descanse por hoy."
+
+#. habla: Helmer
+#, fuzzy
+msgctxt "#2"
+msgid "It's about time for the analysis to begin. I'll head over to the U.M.N. Control Center soon."
+msgstr "Ya casi es hora de que empiece el análisis. Pronto iré al Centro de Control de la U.M.N."
+
+#. habla: Helmer
+#, fuzzy
+msgctxt "#3"
+msgid "I know I'm asking a lot of you. Please take care of the situation with the Y-Data and the 100-Series Prototype."
+msgstr "Sé que les pido mucho. Por favor, ocúpense de la situación de los Y-Data y del prototipo de la Serie 100."
+
+#. habla: Helmer
+#, fuzzy
+msgctxt "#4"
+msgid "The enemy is after the original Zohar that lies on Miltia. Secure it at all costs."
+msgstr "El enemigo va tras el Zohar original que está en Miltia. Asegúrenlo a toda costa."
+
+#. habla: Helmer
+#, fuzzy
+msgctxt "#5"
+msgid "How is everything? Have you managed to secure the Zohar?"
+msgstr "¿Cómo va todo? ¿Lograron asegurar el Zohar?"
+
+#. habla: Helmer
+#, fuzzy
+msgctxt "#6"
+msgid "Secure it at all costs. I'm counting on you."
+msgstr "Asegúrenlo a toda costa. Cuento con ustedes."
+
+#. habla: Helmer
+#, fuzzy
+msgctxt "#7"
+msgid "I can't believe the Immigrant Fleet got their hands on the Omega Prototype."
+msgstr "No puedo creer que la Flota de Inmigrantes se haya apoderado del Proto Omega."
+
+#. habla: Helmer
+#, fuzzy
+msgctxt "#8"
+msgid "This tragedy was born from our inability to take the initiative."
+msgstr "Esta tragedia nació de nuestra incapacidad para tomar la iniciativa."
+
+#. habla: Canaan
+#, fuzzy
+msgctxt "#9"
+msgid "The 100-Series Prototype is undergoing preparatory adjustments for tomorrow. You cannot see her."
+msgstr "El prototipo de la Serie 100 está en ajustes preparatorios para mañana. No puede verla."
+
+#. habla: Gaignun
+#, fuzzy
+msgctxt "#10"
+msgid "What is it? Is there something you're concerned about? I'll be at tomorrow's analysis as well, so don't worry."
+msgstr "¿Qué sucede? ¿Hay algo que le preocupa? Yo también estaré mañana en el análisis, así que no se preocupe."
+
+#. habla: Gaignun
+#, fuzzy
+msgctxt "#11"
+msgid "I was right there and I still failed to stop Albedo's infiltration. I'm sorry."
+msgstr "Estaba ahí mismo y aun así no pude impedir la infiltración de Albedo. Lo siento."

@@ -1,0 +1,33 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Xenosaga Episode II - traducción al español\n"
+"Language: es_419\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Xeno-Source: 0:cf/en/sc1620.sbl\n"
+
+#, fuzzy
+msgctxt "#0"
+msgid "Attempt the power distribution repair job?"
+msgstr "¿Intentar la reparación de la planta de distribución de energía?"
+
+#. Opciones: una por línea. Mantener 2 líneas en el mismo orden.
+#, fuzzy
+msgctxt "#1"
+msgid ""
+"Yes\n"
+"No"
+msgstr ""
+"Sí\n"
+"No"
+
+#, fuzzy
+msgctxt "#2"
+msgid "Further work is too dangerous. Operation aborted."
+msgstr "Seguir trabajando es demasiado peligroso. Operación cancelada."
+
+#, fuzzy
+msgctxt "#3"
+msgid "Safety device activation confirmed. Restoring power distribution to nominal values."
+msgstr "Activación del dispositivo de seguridad confirmada. Restableciendo la distribución de energía a los valores nominales."

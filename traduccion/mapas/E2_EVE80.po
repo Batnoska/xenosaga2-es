@@ -1,0 +1,78 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Xenosaga Episode II - traducción al español\n"
+"Language: es_419\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Xeno-Source: 0:model/map/en/E2_EVE80.sbl\n"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#0"
+msgid "$zoom15;$col7AF9FB;Matrika Shakti has dispersed!$colc0c0c0;"
+msgstr "$zoom15;$col7AF9FB;¡Matrika Shakti se dispersó!$colc0c0c0;"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#1"
+msgid "$zoom15;$col7AF9FB;Effects of Mahakala disappeared!$colc0c0c0;"
+msgstr "$zoom15;$col7AF9FB;¡Desaparecieron los efectos de Mahakala!$colc0c0c0;"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#2"
+msgid "$zoom13;Dakshina Marg (Slash)"
+msgstr "$zoom13;Dakshina Marg (Corte)"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#3"
+msgid "$zoom13;Amavasya (Slash)"
+msgstr "$zoom13;Amavasya (Corte)"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#4"
+msgid "$zoom13;Vama Marg (Slash)"
+msgstr "$zoom13;Vama Marg (Corte)"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#5"
+msgid "$zoom13;Purnima (Slash)"
+msgstr "$zoom13;Purnima (Corte)"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#6"
+msgid "$zoom13;Matrika Shakti"
+msgstr "$zoom13;Matrika Shakti"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#7"
+msgid ""
+"$zoom15;$col7AF9FB;Anti-Break stance.\n"
+"Acquired resistance to physical attacks.$colc0c0c0;"
+msgstr ""
+"$zoom15;$col7AF9FB;Postura antidesequilibrio.\n"
+"Adquirió resistencia a ataques físicos.$colc0c0c0;"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#8"
+msgid "$zoom13;Coercion (Strike)"
+msgstr "$zoom13;Coerción (Golpe)"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#9"
+msgid "$zoom13;Brahma - Increase Aim"
+msgstr "$zoom13;Brahma - Más puntería"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#10"
+msgid "$zoom13;Mahakala - Spirit Sword"
+msgstr "$zoom13;Mahakala - Espada del espíritu"

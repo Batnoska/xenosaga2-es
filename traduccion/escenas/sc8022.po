@@ -1,0 +1,101 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Xenosaga Episode II - traducción al español\n"
+"Language: es_419\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Xeno-Source: 0:cf/en/sc8022.sbl\n"
+"X-Xeno-Tipo: cinematica\n"
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#5"
+msgid ""
+"Well, I'd better get going.\n"
+"They're probably waiting for me, so I..."
+msgstr ""
+"Bueno, mejor me voy. Seguro\n"
+"que me están esperando, así que..."
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#6"
+msgid "I'm very sorry you had to see that."
+msgstr "Lamento mucho que hayan tenido que ver eso."
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#7"
+msgid "It's a little embarrassing."
+msgstr "Es un poco vergonzoso."
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#8"
+msgid "Oh, no, don't worry. Are you guys okay?"
+msgstr "Ah, no, no te preocupes. ¿Ustedes están bien?"
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#9"
+msgid "Oh yes. We're still brother and sister, after all."
+msgstr ""
+"Claro. Después de todo,\n"
+"seguimos siendo hermanos."
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#10"
+msgid "I'm sorry,"
+msgstr "Disculpa,"
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#11"
+msgid "but would you mind if I stayed here tonight?"
+msgstr "¿te molestaría si me quedo aquí esta noche?"
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#12"
+msgid "Of course, I don't want to intrude."
+msgstr "Claro, si no es mucha molestia."
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#13"
+msgid "You're not intruding at all."
+msgstr "No molestas en absoluto."
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#14"
+msgid ""
+"Please, you are welcome. Shion\n"
+"will be delighted you're staying."
+msgstr ""
+"Por favor, eres bienvenido. A Shion\n"
+"le encantará que te quedes."
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#15"
+msgid "Well, it's all right with me."
+msgstr "Bueno, por mí está bien."
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#16"
+msgid ""
+"MOMO isn't getting analyzed 'til tomorrow.\n"
+"Just come by then and we should be okay."
+msgstr ""
+"A MOMO no la analizan hasta mañana.\n"
+"Ven para entonces y no habrá problema."
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#17"
+msgid "I will. Thanks."
+msgstr "Lo haré. Gracias."

@@ -1,0 +1,469 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Xenosaga Episode II - traducción al español\n"
+"Language: es_419\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Xeno-Source: 0:iwase/Treasure.txt\n"
+
+#. máximo 20 caracteres; 1 línea(s) de hasta 153 píxeles
+#, fuzzy
+msgctxt "No.1/Item"
+msgid "Secret Key 8"
+msgstr "Llave Secreta 8"
+
+#. máximo 26 caracteres; 1 línea(s) de hasta 171 píxeles
+#, fuzzy
+msgctxt "No.1/Locate"
+msgid "Restricted Area"
+msgstr "Zona restringida"
+
+#. máximo 120 caracteres; 5 línea(s) de hasta 216 píxeles
+#, fuzzy
+msgctxt "No.1/Expl"
+msgid ""
+"Unlocks the Level 2\n"
+"Class H skill, Boost 1\n"
+"(increase Boost by 1)."
+msgstr ""
+"Abre la habilidad\n"
+"Boost 1 (nivel 2,\n"
+"clase H): Boost +1."
+
+#. máximo 20 caracteres; 1 línea(s) de hasta 153 píxeles
+#, fuzzy
+msgctxt "No.2/Item"
+msgid "Secret Key 22"
+msgstr "Llave Secreta 22"
+
+#. máximo 26 caracteres; 1 línea(s) de hasta 171 píxeles
+#, fuzzy
+msgctxt "No.2/Locate"
+msgid "Elsa"
+msgstr "Elsa"
+
+#. máximo 120 caracteres; 5 línea(s) de hasta 216 píxeles
+#, fuzzy
+msgctxt "No.2/Expl"
+msgid ""
+"Unlocks the Level 3\n"
+"Class H skill, Combo\n"
+"Boost (able to Boost at\n"
+"any time)."
+msgstr ""
+"Abre la habilidad\n"
+"Combo Boost (nivel 3,\n"
+"clase H): permite usar\n"
+"Boost en cualquier\n"
+"momento."
+
+#. máximo 20 caracteres; 1 línea(s) de hasta 153 píxeles
+#, fuzzy
+msgctxt "No.3/Item"
+msgid "Robot Part L Leg"
+msgstr "Robot: pierna izq."
+
+#. máximo 26 caracteres; 1 línea(s) de hasta 171 píxeles
+#, fuzzy
+msgctxt "No.3/Locate"
+msgid "Second Miltia"
+msgstr "Segunda Miltia"
+
+#. máximo 120 caracteres; 5 línea(s) de hasta 216 píxeles
+#, fuzzy
+msgctxt "No.3/Expl"
+msgid ""
+"The left leg of a giant\n"
+"robot. Take it to the\n"
+"Professor when you find\n"
+"both legs!"
+msgstr ""
+"Pierna izquierda de un\n"
+"robot gigante. ¡Cuando\n"
+"tengas las dos, llévalas\n"
+"al Profesor!"
+
+#. máximo 20 caracteres; 1 línea(s) de hasta 153 píxeles
+#, fuzzy
+msgctxt "No.4/Item"
+msgid "Secret Key 9"
+msgstr "Llave Secreta 9"
+
+#. máximo 26 caracteres; 1 línea(s) de hasta 171 píxeles
+#, fuzzy
+msgctxt "No.4/Locate"
+msgid "Ormus Stronghold"
+msgstr "Fortaleza de Ormus"
+
+#. máximo 120 caracteres; 5 línea(s) de hasta 216 píxeles
+#, fuzzy
+msgctxt "No.4/Expl"
+msgid ""
+"Unlocks the Level 2\n"
+"Class H skill, Expansion\n"
+"Pack (increase skill slots\n"
+"by 1)."
+msgstr ""
+"Abre la habilidad\n"
+"Expansión (nivel 2,\n"
+"clase H): una casilla\n"
+"de habilidad más."
+
+#. máximo 20 caracteres; 1 línea(s) de hasta 153 píxeles
+#, fuzzy
+msgctxt "No.5/Item"
+msgid "Secret Key 20"
+msgstr "Llave Secreta 20"
+
+#. máximo 26 caracteres; 1 línea(s) de hasta 171 píxeles
+#, fuzzy
+msgctxt "No.5/Locate"
+msgid "Labyrinthos"
+msgstr "Labyrinthos"
+
+#. máximo 120 caracteres; 5 línea(s) de hasta 216 píxeles
+#, fuzzy
+msgctxt "No.5/Expl"
+msgid ""
+"Unlocks the Level 3\n"
+"Class H skill, Skill Up 10\n"
+"(raise skill points by 10%)."
+msgstr ""
+"Abre la habilidad\n"
+"Habilidad +10 (nivel 3,\n"
+"clase H): sube un 10%\n"
+"los PH que ganas."
+
+#. máximo 20 caracteres; 1 línea(s) de hasta 153 píxeles
+#, fuzzy
+msgctxt "No.6/Item"
+msgid "Secret Key 3"
+msgstr "Llave Secreta 3"
+
+#. máximo 26 caracteres; 1 línea(s) de hasta 171 píxeles
+#, fuzzy
+msgctxt "No.6/Locate"
+msgid "Second Miltia"
+msgstr "Segunda Miltia"
+
+#. máximo 120 caracteres; 5 línea(s) de hasta 216 píxeles
+#, fuzzy
+msgctxt "No.6/Expl"
+msgid ""
+"Unlocks the Level 1\n"
+"Class H skill, Focus 1\n"
+"(recover 10% EP with the\n"
+"Stock command)."
+msgstr ""
+"Abre la habilidad\n"
+"Enfoque 1 (nivel 1,\n"
+"clase H): recupera un\n"
+"10% de EP con Stock."
+
+#. máximo 20 caracteres; 1 línea(s) de hasta 153 píxeles
+#, fuzzy
+msgctxt "No.7/Item"
+msgid "Robot Part L Arm"
+msgstr "Robot: brazo izq."
+
+#. máximo 26 caracteres; 1 línea(s) de hasta 171 píxeles
+#, fuzzy
+msgctxt "No.7/Locate"
+msgid "Restricted Area"
+msgstr "Zona restringida"
+
+#. máximo 120 caracteres; 5 línea(s) de hasta 216 píxeles
+#, fuzzy
+msgctxt "No.7/Expl"
+msgid ""
+"The left arm of a giant\n"
+"robot. Take it to the\n"
+"Professor when you find\n"
+"both arms!"
+msgstr ""
+"Brazo izquierdo de un\n"
+"robot gigante. ¡Cuando\n"
+"tengas los dos, llévalos\n"
+"al Profesor!"
+
+#. máximo 20 caracteres; 1 línea(s) de hasta 153 píxeles
+#, fuzzy
+msgctxt "No.8/Item"
+msgid "Robot Part Body"
+msgstr "Robot: cuerpo"
+
+#. máximo 26 caracteres; 1 línea(s) de hasta 171 píxeles
+#, fuzzy
+msgctxt "No.8/Locate"
+msgid "Desert"
+msgstr "Desierto"
+
+#. máximo 120 caracteres; 5 línea(s) de hasta 216 píxeles
+#, fuzzy
+msgctxt "No.8/Expl"
+msgid ""
+"The body of a giant\n"
+"robot. Take it to the\n"
+"Professor!"
+msgstr ""
+"El cuerpo de un robot\n"
+"gigante. ¡Llévaselo\n"
+"al Profesor!"
+
+#. máximo 20 caracteres; 1 línea(s) de hasta 153 píxeles
+#, fuzzy
+msgctxt "No.9/Item"
+msgid "Secret Key 4"
+msgstr "Llave Secreta 4"
+
+#. máximo 26 caracteres; 1 línea(s) de hasta 171 píxeles
+#, fuzzy
+msgctxt "No.9/Locate"
+msgid "Uzuki Residence"
+msgstr "Casa de los Uzuki"
+
+#. máximo 120 caracteres; 5 línea(s) de hasta 216 píxeles
+#, fuzzy
+msgctxt "No.9/Expl"
+msgid ""
+"Unlocks the Level 1\n"
+"Class H skill, EP Regen\n"
+"(recover 2 EP per turn)."
+msgstr ""
+"Abre la habilidad\n"
+"Regen. EP (nivel 1,\n"
+"clase H): recupera\n"
+"2 EP por turno."
+
+#. máximo 20 caracteres; 1 línea(s) de hasta 153 píxeles
+#, fuzzy
+msgctxt "No.10/Item"
+msgid "Secret Key 26"
+msgstr "Llave Secreta 26"
+
+#. máximo 26 caracteres; 1 línea(s) de hasta 171 píxeles
+#, fuzzy
+msgctxt "No.10/Locate"
+msgid "Submerged City"
+msgstr "Ciudad sumergida"
+
+#. máximo 120 caracteres; 5 línea(s) de hasta 216 píxeles
+#, fuzzy
+msgctxt "No.10/Expl"
+msgid ""
+"Unlocks the Level 4\n"
+"Class C skill, Overload\n"
+"(50% chance of Stocking\n"
+"2 when using the Stock\n"
+"command)."
+msgstr ""
+"Abre la habilidad\n"
+"Sobrecarga (nivel 4,\n"
+"clase C): 50% de hacer\n"
+"Stock 2 al usar Stock."
+
+#. máximo 20 caracteres; 1 línea(s) de hasta 153 píxeles
+#, fuzzy
+msgctxt "No.11/Item"
+msgid "Secret Key 23"
+msgstr "Llave Secreta 23"
+
+#. máximo 26 caracteres; 1 línea(s) de hasta 171 píxeles
+#, fuzzy
+msgctxt "No.11/Locate"
+msgid "Kukai Foundation"
+msgstr "Fundación Kukai"
+
+#. máximo 120 caracteres; 5 línea(s) de hasta 216 píxeles
+#, fuzzy
+msgctxt "No.11/Expl"
+msgid ""
+"Unlocks the Level 3\n"
+"Class H skill, EP Half\n"
+"(reduce EP consumption\n"
+"by 50%)."
+msgstr ""
+"Abre la habilidad\n"
+"EP a la mitad (nivel 3,\n"
+"clase H): gasta la\n"
+"mitad de EP."
+
+#. máximo 20 caracteres; 1 línea(s) de hasta 153 píxeles
+#, fuzzy
+msgctxt "No.12/Item"
+msgid "Sequencer D"
+msgstr "Secuenciador D"
+
+#. máximo 26 caracteres; 1 línea(s) de hasta 171 píxeles
+#, fuzzy
+msgctxt "No.12/Locate"
+msgid "Heaven's Ruins"
+msgstr "Ruinas del Cielo"
+
+#. máximo 120 caracteres; 5 línea(s) de hasta 216 píxeles
+#, fuzzy
+msgctxt "No.12/Expl"
+msgid ""
+"Unlocks the Final\n"
+"Forbidden Device. Stop\n"
+"the Dark Professor's\n"
+"evil plans!"
+msgstr ""
+"Abre el último\n"
+"Dispositivo Prohibido.\n"
+"¡Frena los planes del\n"
+"Profesor Oscuro!"
+
+#. máximo 20 caracteres; 1 línea(s) de hasta 153 píxeles
+#, fuzzy
+msgctxt "No.13/Item"
+msgid "Robot Part Head"
+msgstr "Robot: cabeza"
+
+#. máximo 26 caracteres; 1 línea(s) de hasta 171 píxeles
+#, fuzzy
+msgctxt "No.13/Locate"
+msgid "Ormus Stronghold"
+msgstr "Fortaleza de Ormus"
+
+#. máximo 120 caracteres; 5 línea(s) de hasta 216 píxeles
+#, fuzzy
+msgctxt "No.13/Expl"
+msgid ""
+"The head of a giant\n"
+"robot. Take it to the\n"
+"Professor!"
+msgstr ""
+"La cabeza de un robot\n"
+"gigante. ¡Llévasela\n"
+"al Profesor!"
+
+#. máximo 20 caracteres; 1 línea(s) de hasta 153 píxeles
+#, fuzzy
+msgctxt "No.14/Item"
+msgid "Robot Part R Arm"
+msgstr "Robot: brazo der."
+
+#. máximo 26 caracteres; 1 línea(s) de hasta 171 píxeles
+#, fuzzy
+msgctxt "No.14/Locate"
+msgid "Old Miltia"
+msgstr "Antigua Miltia"
+
+#. máximo 120 caracteres; 5 línea(s) de hasta 216 píxeles
+#, fuzzy
+msgctxt "No.14/Expl"
+msgid ""
+"The right arm of a giant\n"
+"robot. Take it to the\n"
+"Professor when you find\n"
+"both arms!"
+msgstr ""
+"Brazo derecho de un\n"
+"robot gigante. ¡Cuando\n"
+"tengas los dos, llévalos\n"
+"al Profesor!"
+
+#. máximo 20 caracteres; 1 línea(s) de hasta 153 píxeles
+#, fuzzy
+msgctxt "No.15/Item"
+msgid "Secret Key 5"
+msgstr "Llave Secreta 5"
+
+#. máximo 26 caracteres; 1 línea(s) de hasta 171 píxeles
+#, fuzzy
+msgctxt "No.15/Locate"
+msgid "SC Domain (Winter)"
+msgstr "Dominio SC (inv.)"
+
+#. máximo 120 caracteres; 5 línea(s) de hasta 216 píxeles
+#, fuzzy
+msgctxt "No.15/Expl"
+msgid ""
+"Unlocks the Level 2\n"
+"Class D skill, Stock 1\n"
+"(increase Stock count\n"
+"by 1)."
+msgstr ""
+"Abre la habilidad\n"
+"Stock 1 (nivel 2,\n"
+"clase D): Stock +1."
+
+#. máximo 20 caracteres; 1 línea(s) de hasta 153 píxeles
+#, fuzzy
+msgctxt "No.16/Item"
+msgid "Robot Part R Leg"
+msgstr "Robot: pierna der."
+
+#. máximo 26 caracteres; 1 línea(s) de hasta 171 píxeles
+#, fuzzy
+msgctxt "No.16/Locate"
+msgid "Kukai Foundation"
+msgstr "Fundación Kukai"
+
+#. máximo 120 caracteres; 5 línea(s) de hasta 216 píxeles
+#, fuzzy
+msgctxt "No.16/Expl"
+msgid ""
+"The right leg of a giant\n"
+"robot. Take it to the\n"
+"Professor when you find\n"
+"both legs!"
+msgstr ""
+"Pierna derecha de un\n"
+"robot gigante. ¡Cuando\n"
+"tengas las dos, llévalas\n"
+"al Profesor!"
+
+#. máximo 20 caracteres; 1 línea(s) de hasta 153 píxeles
+#, fuzzy
+msgctxt "No.17/Item"
+msgid "Secret Key 28"
+msgstr "Llave Secreta 28"
+
+#. máximo 26 caracteres; 1 línea(s) de hasta 171 píxeles
+#, fuzzy
+msgctxt "No.17/Locate"
+msgid "Ω System"
+msgstr "Sistema Ω"
+
+#. máximo 120 caracteres; 5 línea(s) de hasta 216 píxeles
+#, fuzzy
+msgctxt "No.17/Expl"
+msgid ""
+"Unlocks the Level 4\n"
+"Class D skill, Best Ally\n"
+"(auto revive and recover\n"
+"HP of one ally)."
+msgstr ""
+"Abre la habilidad\n"
+"Mejor aliado (nivel 4,\n"
+"clase D): revive a un\n"
+"aliado y le cura HP."
+
+#. máximo 20 caracteres; 1 línea(s) de hasta 153 píxeles
+#, fuzzy
+msgctxt "No.18/Item"
+msgid "Secret Key 16"
+msgstr "Llave Secreta 16"
+
+#. máximo 26 caracteres; 1 línea(s) de hasta 171 píxeles
+#, fuzzy
+msgctxt "No.18/Locate"
+msgid "Submerged City"
+msgstr "Ciudad sumergida"
+
+#. máximo 120 caracteres; 5 línea(s) de hasta 216 píxeles
+#, fuzzy
+msgctxt "No.18/Expl"
+msgid ""
+"Unlocks the Level 3\n"
+"Class E skill, First Combo\n"
+"(one extra Stock at the\n"
+"start of a battle)."
+msgstr ""
+"Abre la habilidad\n"
+"Primer combo (nivel 3,\n"
+"clase E): un Stock más\n"
+"al empezar el combate."

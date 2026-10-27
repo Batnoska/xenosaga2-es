@@ -1,0 +1,236 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Xenosaga Episode II - traducción al español\n"
+"Language: es_419\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Xeno-Source: 0:cf/en/sc1810.sbl\n"
+
+#. habla: Jun
+#, fuzzy
+msgctxt "#0"
+msgid "Oh, Master Uzuki! D...don't worry! I ain't done nothing."
+msgstr "¡Oh, patrón Uzuki! ¡N... no se preocupe! Yo no hice nadita."
+
+#. habla: Jun
+#, fuzzy
+msgctxt "#1"
+msgid "Some day, I wanna know even more stuff than you, Master!"
+msgstr "¡Algún día quiero saber todavía más cosas que usté, patrón!"
+
+#. habla: Jun
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#2"
+msgid "You ready? Then lemme tell you about the bookshelves! These bookshelves got both vertical and horizontal patterns! Use the left analog stick or the directional buttons to move the bookshelves and line up the vertical and horizontal patterns! If you wanna give up, press <×>! Anyway, just give it a go! The time limit's three minutes. Ready, go!"
+msgstr "¿Listo? ¡Entonces le cuento de los estantes! ¡Estos estantes tienen dibujos verticales y horizontales! ¡Use el stick analógico izquierdo o los botones de dirección pa' mover los estantes y alinear los dibujos verticales y horizontales! Si quiere rendirse, ¡presione <×>! En fin, ¡usté pruebe nomás! El tiempo límite es de tres minutos. ¿Listo? ¡Ya!"
+
+#. habla: Jun
+#, fuzzy
+msgctxt "#3"
+msgid "There's still lots of bookshelves I done screwed up! Will you put them back for me?"
+msgstr "¡Todavía hay un montón de estantes que eché a perder! ¿Me los acomoda?"
+
+#. Opciones: una por línea. Mantener 2 líneas en el mismo orden.
+#, fuzzy
+msgctxt "#4"
+msgid ""
+"Fine, fine.\n"
+"No!"
+msgstr ""
+"Bueno, bueno.\n"
+"¡No!"
+
+#. habla: Jun
+#, fuzzy
+msgctxt "#5"
+msgid "Okay, which one you wanna do?"
+msgstr "Bueno, ¿cuál quiere hacer?"
+
+#. Opciones: una por línea. Mantener 3 líneas en el mismo orden.
+#, fuzzy
+msgctxt "#6"
+msgid ""
+"Level 1\n"
+"Level 2\n"
+"I changed my mind."
+msgstr ""
+"Nivel 1\n"
+"Nivel 2\n"
+"Cambié de idea."
+
+#. habla: Jun
+#, fuzzy
+msgctxt "#7"
+msgid "Okay, you got three minutes. Ready, go!"
+msgstr "Bueno, tiene tres minutos. ¿Listo? ¡Ya!"
+
+#. habla: Jun
+#, fuzzy
+msgctxt "#8"
+msgid "It's kinda hard, so you got five minutes. Ready, go!"
+msgstr "Este es medio difícil, así que tiene cinco minutos. ¿Listo? ¡Ya!"
+
+#. habla: Jun
+#, fuzzy
+msgctxt "#9"
+msgid "Aw, shucks. That's too bad."
+msgstr "Ay, caramba. Qué lástima."
+
+#. habla: Jun
+#, fuzzy
+msgctxt "#10"
+msgid "There's still lots of bookshelves I done screwed up! Will you put them back for me?"
+msgstr "¡Todavía hay un montón de estantes que eché a perder! ¿Me los acomoda?"
+
+#. habla: Jun
+#, fuzzy
+msgctxt "#11"
+msgid "Okay, which one you wanna do?"
+msgstr "Bueno, ¿cuál quiere hacer?"
+
+#. Opciones: una por línea. Mantener 4 líneas en el mismo orden.
+#, fuzzy
+msgctxt "#12"
+msgid ""
+"Level 1\n"
+"Level 2\n"
+"Level 3\n"
+"I changed my mind."
+msgstr ""
+"Nivel 1\n"
+"Nivel 2\n"
+"Nivel 3\n"
+"Cambié de idea."
+
+#. habla: Jun
+#, fuzzy
+msgctxt "#13"
+msgid "This one's even harder, so you got eight minutes. Ready, go!"
+msgstr "Este es todavía más difícil, así que tiene ocho minutos. ¿Listo? ¡Ya!"
+
+#. habla: Jun
+#, fuzzy
+msgctxt "#14"
+msgid "There's still lots of bookshelves I done screwed up! Will you put them back for me?"
+msgstr "¡Todavía hay un montón de estantes que eché a perder! ¿Me los acomoda?"
+
+#. Opciones: una por línea. Mantener 5 líneas en el mismo orden.
+#, fuzzy
+msgctxt "#15"
+msgid ""
+"Level 1\n"
+"Level 2\n"
+"Level 3\n"
+"Level 4\n"
+"I changed my mind."
+msgstr ""
+"Nivel 1\n"
+"Nivel 2\n"
+"Nivel 3\n"
+"Nivel 4\n"
+"Cambié de idea."
+
+#. habla: Jun
+#, fuzzy
+msgctxt "#16"
+msgid "Now this one's real tough, so you got ten minutes. Ready, go!"
+msgstr "Ahora este sí que es bravo, así que tiene diez minutos. ¿Listo? ¡Ya!"
+
+#. habla: Jun
+#, fuzzy
+msgctxt "#17"
+msgid "Game over!"
+msgstr "¡Se acabó el juego!"
+
+#. habla: Jun
+#, fuzzy
+msgctxt "#18"
+msgid "Hey now, did you give up?"
+msgstr "Oiga, ¿se rindió?"
+
+#. habla: Jun
+#, fuzzy
+msgctxt "#19"
+msgid "Yee haw! Master ain't gonna yell at me now! I'm gonna give you a reward! It's some sort of key. Take it!"
+msgstr "¡Yija! ¡Ahora el patrón no me va a regañar! ¡Le voy a dar un premio! Es una especie de llave. ¡Tómela!"
+
+#, fuzzy
+msgctxt "#21"
+msgid "You obtained Decoder 01!"
+msgstr "¡Obtuviste el Decodificador 01!"
+
+#. habla: Jun
+#, fuzzy
+msgctxt "#22"
+msgid "And here's a little extra!"
+msgstr "¡Y aquí tiene un extra!"
+
+#, fuzzy
+msgctxt "#23"
+msgid "You can now use the Double Attack \"Archangel's Requiem\"! Archangel's Requiem is a Double Attack for Jr. and Shion."
+msgstr "¡Ahora puedes usar el Ataque Doble \"Réquiem del arcángel\"! Réquiem del arcángel es un Ataque Doble de Jr. y Shion."
+
+#. habla: Jun
+#, fuzzy
+msgctxt "#24"
+msgid "I'm in hot water now! I done messed up the Master's bookshelves. I wanna put them back proper, but I don't get how they go together! Could you do it for me?"
+msgstr "¡Ahora sí que estoy en problemas! Desordené los estantes del patrón. Quiero dejarlos como estaban, ¡pero no entiendo cómo van! ¿Me los acomodaría usté?"
+
+#. Opciones: una por línea. Mantener 2 líneas en el mismo orden.
+#, fuzzy
+msgctxt "#25"
+msgid ""
+"Yes\n"
+"No"
+msgstr ""
+"Sí\n"
+"No"
+
+#. habla: Jun
+#, fuzzy
+msgctxt "#26"
+msgid "Really? Thanks a bunch!"
+msgstr "¿De veras? ¡Muchas gracias!"
+
+#. habla: Jun
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#28"
+msgid "Lemme tell you about the bookshelves! These bookshelves got both vertical and horizontal patterns! Use the left analog stick or the directional buttons to move the bookshelves and line up the vertical and horizontal patterns! If you wanna give up, press <×>! Well, tell me when you're ready!"
+msgstr "¡Le cuento de los estantes! ¡Estos estantes tienen dibujos verticales y horizontales! ¡Use el stick analógico izquierdo o los botones de dirección pa' mover los estantes y alinear los dibujos verticales y horizontales! Si quiere rendirse, ¡presione <×>! Bueno, ¡avíseme cuando esté listo!"
+
+#. habla: Jun
+#, fuzzy
+msgctxt "#29"
+msgid "Aw, shucks. Now Master's gonna yell at me 'til my ears fall off!"
+msgstr "Ay, caramba. Ahora el patrón me va a regañar hasta que se me caigan las orejas."
+
+#. habla: Jun
+#, fuzzy
+msgctxt "#34"
+msgid "Yee haw! You've fixed this bookshelf, too? You're good. Here, take this as a token of my appreciation!"
+msgstr "¡Yija! ¿También arregló este estante? Sí que es bueno. ¡Tome esto como agradecimiento!"
+
+#, fuzzy
+msgctxt "#35"
+msgid "You obtained Skill Upgrade D x10!"
+msgstr "¡Obtuviste Mejora de Habilidad D x10!"
+
+#, fuzzy
+msgctxt "#36"
+msgid "You obtained Class Upgrade C x10!"
+msgstr "¡Obtuviste Mejora de Clase C x10!"
+
+#. habla: Jun
+#, fuzzy
+msgctxt "#37"
+msgid "Yee haw! You're amazing! I really owe you one!"
+msgstr "¡Yija! ¡Es increíble! ¡De veras le debo una!"
+
+#. habla: Jun
+#, fuzzy
+msgctxt "#38"
+msgid "Yee haw! You're amazing! I really owe you one!"
+msgstr "¡Yija! ¡Es increíble! ¡De veras le debo una!"

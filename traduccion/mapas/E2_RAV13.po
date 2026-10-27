@@ -1,0 +1,178 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Xenosaga Episode II - traducción al español\n"
+"Language: es_419\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Xeno-Source: 0:model/map/en/E2_RAV13.sbl\n"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#1"
+msgid ""
+"$zoom15;$colc0c0c0;Settle this once and for all!\n"
+"$col7AF9FB;Defeat him with Jin!$colc0c0c0;"
+msgstr ""
+"$zoom15;$colc0c0c0;¡Terminen con esto de una vez!\n"
+"$col7AF9FB;¡Derrótenlo con Jin!$colc0c0c0;"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#4"
+msgid "$zoom15;$colc0c0c0;Margulis weaves a $col7AF9FB;pure shadow$colc0c0c0;.$colc0c0c0;"
+msgstr "$zoom15;$colc0c0c0;Margulis teje una $col7AF9FB;sombra pura$colc0c0c0;.$colc0c0c0;"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#6"
+msgid "$zoom15;$col7AF9FB;Margulis erases the shadow!$colc0c0c0;"
+msgstr "$zoom15;$col7AF9FB;¡Margulis borra la sombra!$colc0c0c0;"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#9"
+msgid "$zoom13;Krita-Yuga"
+msgstr "$zoom13;Krita-Yuga"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#10"
+msgid ""
+"$zoom15;$col7AF9FB;Formed first Acala Seal!\n"
+"$colc0c0c0;It feels like the surrounding spirit is tied down.$colc0c0c0;"
+msgstr ""
+"$zoom15;$col7AF9FB;¡Se formó el primer Sello de Acala!\n"
+"$colc0c0c0;El espíritu del entorno parece quedar atado.$colc0c0c0;"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#11"
+msgid "$zoom15;$col7AF9FB;3 more left until forced H Stop.$colc0c0c0;"
+msgstr "$zoom15;$col7AF9FB;Faltan 3 para la Inmovilidad H forzada.$colc0c0c0;"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#13"
+msgid "$zoom13;Treta-Yuga"
+msgstr "$zoom13;Treta-Yuga"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#14"
+msgid ""
+"$zoom15;$col7AF9FB;Formed second Acala Seal!\n"
+"$colc0c0c0;Acala's protection renders the spirit powerless.$colc0c0c0;"
+msgstr ""
+"$zoom15;$col7AF9FB;¡Se formó el segundo Sello de Acala!\n"
+"$colc0c0c0;La protección de Acala anula el espíritu.$colc0c0c0;"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#15"
+msgid "$zoom15;$col7AF9FB;2 more left until forced H Stop.$colc0c0c0;"
+msgstr "$zoom15;$col7AF9FB;Faltan 2 para la Inmovilidad H forzada.$colc0c0c0;"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#17"
+msgid "$zoom13;Dvapara-Yuga"
+msgstr "$zoom13;Dvapara-Yuga"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#18"
+msgid ""
+"$zoom15;$col7AF9FB;Formed third Acala Seal!\n"
+"$colc0c0c0;Heavenly powers shroud the spirit.$colc0c0c0;"
+msgstr ""
+"$zoom15;$col7AF9FB;¡Se formó el tercer Sello de Acala!\n"
+"$colc0c0c0;Poderes divinos envuelven el espíritu.$colc0c0c0;"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#19"
+msgid ""
+"$zoom15;$col7AF9FB;1 more left until forced H Stop.\n"
+"The situation is dangerous!$colc0c0c0;"
+msgstr ""
+"$zoom15;$col7AF9FB;Falta 1 para la Inmovilidad H forzada.\n"
+"¡La situación es peligrosa!$colc0c0c0;"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#20"
+msgid "$zoom13;Shakti (Slash/Pierce)"
+msgstr "$zoom13;Shakti (Corte/Perforación)"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#21"
+msgid "$zoom13;Shiva (Slash/Pierce/Fire)"
+msgstr "$zoom13;Shiva (Corte/Perforación/Fuego)"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#22"
+msgid "$zoom13;Syama (Thunder)"
+msgstr "$zoom13;Syama (Rayo)"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#23"
+msgid "$zoom13;Rakta (Fire)"
+msgstr "$zoom13;Rakta (Fuego)"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#24"
+msgid "$zoom13;Summon Chaaya"
+msgstr "$zoom13;Invocar a Chaaya"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#25"
+msgid "$zoom13;Kalagnirudra (Strike)"
+msgstr "$zoom13;Kalagnirudra (Golpe)"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#26"
+msgid "$zoom13;Suppress Chaaya"
+msgstr "$zoom13;Suprimir a Chaaya"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#27"
+msgid "$zoom13;Kali-Yuga"
+msgstr "$zoom13;Kali-Yuga"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#28"
+msgid ""
+"$zoom15;$col7AF9FB;Formed the last Acala Seal!\n"
+"The Acala Code is complete and\n"
+"the battle is forced to H Stop!$colc0c0c0;"
+msgstr ""
+"$zoom15;$col7AF9FB;¡Se formó el último Sello de Acala!\n"
+"¡El Código de Acala está completo\n"
+"y la batalla queda en Inmovilidad H!$colc0c0c0;"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#29"
+msgid "$zoom15;$colc0c0c0;Margulis' shadow disappears.$colc0c0c0;"
+msgstr "$zoom15;$colc0c0c0;La sombra de Margulis desaparece.$colc0c0c0;"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#30"
+msgid "$zoom13;Medica"
+msgstr "$zoom13;Medica"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#31"
+msgid "$zoom15;$col7AF9FB;Margulis' HP devoured.$colc0c0c0;"
+msgstr "$zoom15;$col7AF9FB;Devoró los HP de Margulis.$colc0c0c0;"

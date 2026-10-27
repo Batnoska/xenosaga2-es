@@ -1,0 +1,122 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Xenosaga Episode II - traducción al español\n"
+"Language: es_419\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Xeno-Source: 0:cf/en/sc2050.sbl\n"
+
+#. habla: Eckbert
+#, fuzzy
+msgctxt "#0"
+msgid "Hey, U.R.T.V.! I told you not to come into this room!"
+msgstr "¡Oye, U.R.T.V.! ¡Te dije que no entraras a esta sala!"
+
+#. habla: Eckbert
+#, fuzzy
+msgctxt "#1"
+msgid "Huh? I could have sworn someone was there."
+msgstr "¿Eh? Habría jurado que había alguien ahí."
+
+#. habla: Eckbert
+#, fuzzy
+msgctxt "#2"
+msgid "Anti-waves are designed to resist U-DO, but they will not neutralize each other. According to this data, the waveform collision will release enormous thermal energy."
+msgstr "Las antiondas están diseñadas para resistir a U-DO, pero no se neutralizan entre sí. Según estos datos, la colisión de las formas de onda liberará una enorme energía térmica."
+
+#. habla: Eckbert
+#, fuzzy
+msgctxt "#3"
+msgid "Does Dr. Yuriev realize this?"
+msgstr "¿El doctor Yuriev se dará cuenta de esto?"
+
+#. habla: Mare
+#, fuzzy
+msgctxt "#4"
+msgid "Hmm? What is it? Is someone there?"
+msgstr "¿Hmm? ¿Qué pasa? ¿Hay alguien ahí?"
+
+#. habla: Mare
+#, fuzzy
+msgctxt "#5"
+msgid "Hmm. Sakura's mental wavelengths seem to have a strong response to No. 666."
+msgstr "Hmm. Las longitudes de onda mentales de Sakura parecen responder con fuerza al N.º 666."
+
+#. habla: Mare
+#, fuzzy
+msgctxt "#6"
+msgid "It appears that she harbors some feelings towards No. 666."
+msgstr "Parece que siente algo por el N.º 666."
+
+#. habla: Cornelia
+#, fuzzy
+msgctxt "#7"
+msgid "Hmm? That's strange. I suddenly have this feeling like Rubedo is here."
+msgstr "¿Hmm? Qué raro. De repente siento como si Rubedo estuviera aquí."
+
+#. habla: Cornelia
+#, fuzzy
+msgctxt "#8"
+msgid "Hmm, just as I thought―the variant units have unstable values compared to the standard units."
+msgstr "Hmm, tal como pensaba: las unidades variantes tienen valores inestables en comparación con las unidades estándar."
+
+#. habla: Cornelia
+#, fuzzy
+msgctxt "#9"
+msgid "Their capabilities are high, but it looks like there are still problems."
+msgstr "Sus capacidades son altas, pero parece que todavía hay problemas."
+
+#. habla: Gene
+#, fuzzy
+msgctxt "#10"
+msgid "Is someone there?! Uh-oh! I hope nobody overheard what I just said!"
+msgstr "¡¿Hay alguien ahí?! ¡Uy! ¡Espero que nadie haya oído lo que acabo de decir!"
+
+#. habla: Gene
+#, fuzzy
+msgctxt "#11"
+msgid "Training, training, training! Just how many times a day do they have to dive before they're satisfied?"
+msgstr "¡Entrenamiento, entrenamiento, entrenamiento! ¿Cuántas veces al día tienen que hacer una inmersión para quedar satisfechos?"
+
+#. habla: Gene
+#, fuzzy
+msgctxt "#12"
+msgid "These dive pods are made specifically for U.R.T.V.s. They don't use any regular parts, so maintaining them is a pain."
+msgstr "Estas cápsulas de inmersión están hechas especialmente para los U.R.T.V. No usan ninguna pieza estándar, así que mantenerlas es un fastidio."
+
+#. habla: Shion
+#, fuzzy
+msgctxt "#13"
+msgid "What is this place?"
+msgstr "¿Qué es este lugar?"
+
+#. habla: Jr.
+#, fuzzy
+msgctxt "#14"
+msgid "The Yuriev Institute. It's the U.R.T.V. development facility. The place where I was made."
+msgstr "El Instituto Yuriev. Es la instalación donde se desarrollaron los U.R.T.V. El lugar donde me crearon."
+
+#. habla: Shion
+#, fuzzy
+msgctxt "#15"
+msgid "It feels strange, like time has stopped. The people here can't see us?"
+msgstr "Es una sensación extraña, como si el tiempo se hubiera detenido. ¿La gente de aquí no puede vernos?"
+
+#. habla: Jr.
+#, fuzzy
+msgctxt "#16"
+msgid "Yeah, looks like it. This place is frozen in time at a point when Sakura was alive. But why here? How do we save MOMO?"
+msgstr "Sí, eso parece. Este lugar quedó congelado en el tiempo en un momento en que Sakura estaba viva. Pero ¿por qué aquí? ¿Cómo salvamos a MOMO?"
+
+#. habla: Ziggy
+#, fuzzy
+msgctxt "#17"
+msgid "Hmm. It would seem that those three phantoms are the key. They look like they're leading us somewhere."
+msgstr "Hmm. Parece que esos tres fantasmas son la clave. Da la impresión de que nos guían hacia algún lugar."
+
+#. habla: Shion
+#, fuzzy
+msgctxt "#18"
+msgid "Right, we don't have time to wander around. Let's go look for them."
+msgstr "Cierto, no tenemos tiempo para dar vueltas. Vamos a buscarlos."

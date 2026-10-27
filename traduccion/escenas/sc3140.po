@@ -1,0 +1,74 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Xenosaga Episode II - traducción al español\n"
+"Language: es_419\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Xeno-Source: 0:cf/en/sc3140.sbl\n"
+
+#. habla: Harvey
+#, fuzzy
+msgctxt "#2"
+msgid "What in the world is going on?! The coordinates to the lost Miltian column are observable again! Couldn't the U.M.N. Administrations Bureau see this coming?"
+msgstr "¡¿Qué demonios está pasando?! ¡Las coordenadas de la columna perdida de Miltia se pueden observar otra vez! ¿La Oficina de Administración de la U.M.N. no lo vio venir?"
+
+#. habla: Bernard
+#, fuzzy
+msgctxt "#3"
+msgid "The Immigrant Fleet has hundreds of ships. They ignored the Federation government's warning and have begun their descent. It seems their target is the U-TIC Organization's central tower, Labyrinthos."
+msgstr "La Flota de Inmigrantes tiene cientos de naves. Ignoraron la advertencia del gobierno de la Federación y empezaron a descender. Parece que su objetivo es la torre central de la Organización U-TIC, Labyrinthos."
+
+#. habla: Bernard
+#, fuzzy
+msgctxt "#4"
+msgid "Are they after the original Zohar left on Miltia?"
+msgstr "¿Irán tras el Zohar original que quedó en Miltia?"
+
+#. habla: Marguerite
+#, fuzzy
+msgctxt "#5"
+msgid "The U.M.N. Administrations Bureau restricted gate jumps within the column, but the majority of the Immigrant Fleet's ships have already completed their jumps."
+msgstr "La Oficina de Administración de la U.M.N. restringió los saltos de puerta dentro de la columna, pero la mayoría de las naves de la Flota de Inmigrantes ya completaron sus saltos."
+
+#. habla: Marguerite
+#, fuzzy
+msgctxt "#6"
+msgid "They're even restricting the movement of the Federation fleet. Why did they bother to seal the gate?"
+msgstr "Hasta están restringiendo los movimientos de la flota de la Federación. ¿Para qué se molestaron en sellar la puerta?"
+
+#. habla: Miluse
+#, fuzzy
+msgctxt "#7"
+msgid "You've got to be kidding me! I worked so hard to get into Vector, and I even got assigned to headquarters, but I didn't expect my first job to be something this big!"
+msgstr "¡No puede ser! ¡Me esforcé tanto para entrar a Vector, y hasta me asignaron a la sede central, pero no esperaba que mi primer trabajo fuera algo tan grande!"
+
+#. habla: Miluse
+#, fuzzy
+msgctxt "#8"
+msgid "I didn't join this company to fight a war!"
+msgstr "¡No entré a esta empresa para pelear una guerra!"
+
+#. habla: Clair
+#, fuzzy
+msgctxt "#9"
+msgid "It's almost like the Immigrant Fleet expected the reappearance of the Abyss and Old Miltia."
+msgstr "Es casi como si la Flota de Inmigrantes hubiera previsto la reaparición del Abismo y de la Antigua Miltia."
+
+#. habla: Clair
+#, fuzzy
+msgctxt "#10"
+msgid "Maybe they were involved in the failure of the Y-Data analysis on Second Miltia as well."
+msgstr "Quizá también estuvieron involucrados en el fracaso del análisis de los Y-Data en Segunda Miltia."
+
+#. habla: Steinbock
+#, fuzzy
+msgctxt "#11"
+msgid "Hello. The communications room lies ahead, but the U.M.N. is currently under restricted access. The use of communication lines is limited."
+msgstr "Hola. Más adelante está la sala de comunicaciones, pero la U.M.N. tiene el acceso restringido. El uso de las líneas de comunicación está limitado."
+
+#. habla: Shion
+#, fuzzy
+msgctxt "#12"
+msgid "Let's see, the transport is located..."
+msgstr "A ver, el transporte está..."

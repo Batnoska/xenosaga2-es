@@ -1,0 +1,452 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Xenosaga Episode II - traducción al español\n"
+"Language: es_419\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Xeno-Source: 0:cf/en/sc1940.sbl\n"
+
+#. habla: Maxim
+#, fuzzy
+msgctxt "#0"
+msgid "A cyborg, huh? You have a great retro look that Realians just don't have."
+msgstr "Un cíborg, ¿eh? Tiene un aspecto retro genial que los Realians no tienen."
+
+#. habla: Maxim
+#, fuzzy
+msgctxt "#1"
+msgid "The U.M.N. is managed by the Federation. You could say that we're government employees."
+msgstr "La U.M.N. la administra la Federación. Se podría decir que somos empleados públicos."
+
+#. habla: Maxim
+#, fuzzy
+msgctxt "#2"
+msgid "We may be government employees, but unfortunately, we're usually too busy to leave on time."
+msgstr "Seremos empleados públicos, pero lamentablemente casi siempre estamos demasiado ocupados para salir a horario."
+
+#. habla: Maxim
+#, fuzzy
+msgctxt "#3"
+msgid "You must be pretty heavy. You make some seriously loud noise when you walk."
+msgstr "Debe ser bastante pesado. Hace un ruido tremendo al caminar."
+
+#. habla: Maxim
+#, fuzzy
+msgctxt "#4"
+msgid "Just what is the Y-Data? If the 100-Series Prototype is involved, does that mean it has something to do with Joachim Mizrahi and the Miltian Conflict?"
+msgstr "¿Qué son exactamente los Y-Data? Si el prototipo de la Serie 100 está involucrado, ¿quiere decir que tienen algo que ver con Joachim Mizrahi y el Conflicto de Miltia?"
+
+#. habla: Maxim
+#, fuzzy
+msgctxt "#5"
+msgid "It's hard to believe a whole planet just disappeared. We're living in amazing times."
+msgstr "Cuesta creer que un planeta entero haya desaparecido así. Vivimos en tiempos increíbles."
+
+#. habla: Maxim
+#, fuzzy
+msgctxt "#6"
+msgid "The 100-Series are only deployed to a small section of the military, right?"
+msgstr "Las Serie 100 solo se asignan a una pequeña parte del ejército, ¿no?"
+
+#. habla: Maxim
+#, fuzzy
+msgctxt "#7"
+msgid "Do you think you could use your influence and get us one?"
+msgstr "¿Cree que podría usar sus influencias y conseguirnos una?"
+
+#. habla: Maxim
+#, fuzzy
+msgctxt "#8"
+msgid "I love that beautiful steel body of yours. It's awesome! I can feel the robot-freak in me coming to life just looking at you!"
+msgstr "Me encanta ese hermoso cuerpo de acero. ¡Es genial! ¡Solo de mirarlo se me despierta el fanático de los robots que llevo dentro!"
+
+#. habla: Maxim
+#, fuzzy
+msgctxt "#9"
+msgid "I heard that the disappearance of Miltia fourteen years ago was due to the emergence of a local space-time anomaly, but the actual root cause is still unknown."
+msgstr "Escuché que la desaparición de Miltia hace catorce años se debió a la aparición de una anomalía espaciotemporal local, pero la verdadera causa todavía se desconoce."
+
+#. habla: Maxim
+#, fuzzy
+msgctxt "#10"
+msgid "My father was born on Old Miltia. He's always grumbling that he wants to go home some day."
+msgstr "Mi padre nació en la Antigua Miltia. Siempre se queja de que algún día quiere volver a casa."
+
+#. habla: Maxim
+#, fuzzy
+msgctxt "#11"
+msgid "Why did they design the 100-Series Prototype to look like a little girl? "
+msgstr "¿Por qué diseñaron al prototipo de la Serie 100 con aspecto de niña?"
+
+#. habla: Maxim
+#, fuzzy
+msgctxt "#12"
+msgid "The developer and I must think the same way."
+msgstr "El desarrollador y yo debemos pensar igual."
+
+#. habla: Maxim
+#, fuzzy
+msgctxt "#13"
+msgid "It's difficult to get Ziggurat parts, isn't it? They're really old. Be careful not to break them."
+msgstr "Es difícil conseguir piezas de Ziggurat, ¿no? Son muy viejas. Tenga cuidado de no romperlas."
+
+#. habla: Maxim
+#, fuzzy
+msgctxt "#14"
+msgid "Would you let me repair you if you break down?"
+msgstr "Si se avería, ¿me dejaría repararlo?"
+
+#. habla: Maxim
+#, fuzzy
+msgctxt "#15"
+msgid "Miltia was just blown away! That was my father's home planet! He'll be so sad when he finds out."
+msgstr "¡Miltia voló en pedazos! ¡Era el planeta natal de mi padre! Se va a poner muy triste cuando se entere."
+
+#. habla: Corrine
+#, fuzzy
+msgctxt "#16"
+msgid "A Ziggurat series?! I saw one on display when I was a child. I didn't think there were any that are still operational."
+msgstr "¡¿Un modelo de la serie Ziggurat?! Vi uno en exhibición cuando era niña. No pensé que quedara alguno en funcionamiento."
+
+#. habla: Corrine
+#, fuzzy
+msgctxt "#17"
+msgid "Are you here on a visit? This is a Realian maintenance room."
+msgstr "¿Viene de visita? Esta es una sala de mantenimiento de Realians."
+
+#. habla: Corrine
+#, fuzzy
+msgctxt "#18"
+msgid "Please speak with the receptionist in the other room."
+msgstr "Por favor, hable con la recepcionista de la otra sala."
+
+#. habla: Corrine
+#, fuzzy
+msgctxt "#19"
+msgid "I wanted to become a normal executive assistant, but because of this job, I've wound up learning a lot about Realians and cyborgs."
+msgstr "Quería ser una asistente ejecutiva común, pero por este trabajo terminé aprendiendo un montón sobre Realians y cíborgs."
+
+#. habla: Corrine
+#, fuzzy
+msgctxt "#20"
+msgid "I don't know if I should be happy or sad."
+msgstr "No sé si alegrarme o ponerme triste."
+
+#. habla: Corrine
+#, fuzzy
+msgctxt "#21"
+msgid "You met Dr. Juli Mizrahi?! It'd be such an honor to meet the authority on neural physics!"
+msgstr "¡¿Conoció a la doctora Juli Mizrahi?! ¡Sería un honor conocer a la máxima autoridad en neurofísica!"
+
+#. habla: Corrine
+#, fuzzy
+msgctxt "#22"
+msgid "I heard about the analysis. Please, don't let it get you down."
+msgstr "Supe lo del análisis. Por favor, que eso no lo desanime."
+
+#. habla: Corrine
+#, fuzzy
+msgctxt "#23"
+msgid "I heard that Vector is developing a new type of android."
+msgstr "Escuché que Vector está desarrollando un nuevo tipo de androide."
+
+#. habla: Corrine
+#, fuzzy
+msgctxt "#24"
+msgid "She and you might make a good couple."
+msgstr "Ella y usted podrían hacer buena pareja."
+
+#. habla: Corrine
+#, fuzzy
+msgctxt "#25"
+msgid "My friend on the analysis team was kicking himself over how badly the analysis went. Was it really that important?"
+msgstr "Un amigo mío del equipo de análisis no se perdonaba lo mal que salió el análisis. ¿De verdad era tan importante?"
+
+#. habla: Corrine
+#, fuzzy
+msgctxt "#26"
+msgid "And just what is that Y-Data, anyway?"
+msgstr "Y, de todos modos, ¿qué son esos Y-Data?"
+
+#. habla: Corrine
+#, fuzzy
+msgctxt "#27"
+msgid "Say, you've got a state-of-the-art scanning system on you, right?"
+msgstr "Oiga, usted tiene un sistema de escaneo de última generación, ¿no?"
+
+#. habla: Corrine
+#, fuzzy
+msgctxt "#28"
+msgid "Could you investigate the status of Old Miltia? What happened to the Federation fleet?"
+msgstr "¿Podría investigar qué pasa en la Antigua Miltia? ¿Qué le pasó a la flota de la Federación?"
+
+#. habla: Corrine
+#, fuzzy
+msgctxt "#29"
+msgid "If the new android Vector is developing is mass-produced, you'll be out of a job, won't you?"
+msgstr "Si la nueva androide que desarrolla Vector se produce en masa, usted se queda sin trabajo, ¿no?"
+
+#. habla: Corrine
+#, fuzzy
+msgctxt "#30"
+msgid "Was the Federation fleet wiped out?"
+msgstr "¿Aniquilaron a la flota de la Federación?"
+
+#. habla: Corrine
+#, fuzzy
+msgctxt "#31"
+msgid "With the communication channels overloaded, we can't get a handle on the situation at all."
+msgstr "Con los canales de comunicación saturados, no logramos entender la situación para nada."
+
+#. habla: Ninette
+#, fuzzy
+msgctxt "#32"
+msgid "You're a cyborg reused through the Life Recycling Act, right? How does it feel to die and come back?"
+msgstr "Usted es un cíborg reutilizado gracias a la Ley de Reciclaje de Vidas, ¿no? ¿Qué se siente morir y volver?"
+
+#. habla: Ninette
+#, fuzzy
+msgctxt "#33"
+msgid "Is it true that Director Gaignun of the Foundation has a child? I heard he has a son with red hair."
+msgstr "¿Es verdad que el director Gaignun de la Fundación tiene un hijo? Escuché que tiene un hijo pelirrojo."
+
+#. habla: Ninette
+#, fuzzy
+msgctxt "#34"
+msgid "What? That's not his son? Oh, I'm so glad. I'm a member of his fan club."
+msgstr "¿Qué? ¿No es su hijo? Ay, qué alivio. Soy miembro de su club de fans."
+
+#. habla: Ninette
+#, fuzzy
+msgctxt "#35"
+msgid "But then who is that red-haired boy?"
+msgstr "Pero entonces, ¿quién es ese chico pelirrojo?"
+
+#. habla: Ninette
+#, fuzzy
+msgctxt "#36"
+msgid "Say, wouldn't it be more efficient to make your whole body into a machine rather than having some organic parts?"
+msgstr "Oiga, ¿no sería más eficiente que todo su cuerpo fuera una máquina en vez de tener algunas partes orgánicas?"
+
+#. habla: Ninette
+#, fuzzy
+msgctxt "#37"
+msgid "The impact of the failed analysis even reached us. Now we're going to be up all night restoring the system."
+msgstr "Las consecuencias del análisis fallido llegaron hasta aquí. Ahora vamos a pasar la noche en vela restaurando el sistema."
+
+#. habla: Ninette
+#, fuzzy
+msgctxt "#38"
+msgid "I heard there was unauthorized access from the outside during the analysis. How can a human being force himself into the Encephalon? "
+msgstr "Escuché que durante el análisis hubo un acceso no autorizado desde afuera. ¿Cómo puede un ser humano meterse a la fuerza en el Encéfalo?"
+
+#. habla: Ninette
+#, fuzzy
+msgctxt "#39"
+msgid "Are you doing well, Miss 100-Series? If there's ever anything bothering you, come talk to me about it."
+msgstr "¿Cómo estás, señorita Serie 100? Si alguna vez algo te preocupa, ven a contármelo."
+
+#. habla: Ninette
+#, fuzzy
+msgctxt "#40"
+msgid "When you think of cyborgs, you think of their whole bodies as being made out of weapons, you know?"
+msgstr "Cuando uno piensa en cíborgs, se imagina que todo su cuerpo está hecho de armas, ¿no?"
+
+#. habla: Ninette
+#, fuzzy
+msgctxt "#41"
+msgid "Can you launch punches and missiles and stuff?"
+msgstr "¿Puede lanzar puñetazos y misiles y esas cosas?"
+
+#. habla: Ninette
+#, fuzzy
+msgctxt "#42"
+msgid "I heard that fourteen years ago there was a unit on Old Miltia comprised of weapons disguised as children, and that they were different from both cyborgs and Realians."
+msgstr "Escuché que hace catorce años, en la Antigua Miltia, había una unidad compuesta por armas disfrazadas de niños, y que eran distintas tanto de los cíborgs como de los Realians."
+
+#. habla: Ninette
+#, fuzzy
+msgctxt "#43"
+msgid "But that just seems like it's a popular urban legend among the engineers."
+msgstr "Pero parece que es solo una leyenda urbana popular entre los ingenieros."
+
+#. habla: Ninette
+#, fuzzy
+msgctxt "#44"
+msgid "It seems both the Federation and Immigrant Fleets were wiped out. What in the world is that thing that broke out of Miltia?"
+msgstr "Parece que aniquilaron tanto a la flota de la Federación como a la Flota de Inmigrantes. ¿Qué demonios es esa cosa que salió de Miltia?"
+
+#. habla: Katarzyna
+#, fuzzy
+msgctxt "#45"
+msgid "Are you a cyborg? Your parents must be sad that you modified the body they gave you."
+msgstr "¿Es un cíborg? Sus padres deben estar tristes de que haya modificado el cuerpo que le dieron."
+
+#. habla: Katarzyna
+#, fuzzy
+msgctxt "#46"
+msgid "Yes? Can I help you? We take care of weary Realians here."
+msgstr "¿Sí? ¿Puedo ayudarle? Aquí cuidamos de los Realians cansados."
+
+#. habla: Katarzyna
+#, fuzzy
+msgctxt "#47"
+msgid "What is it? Do you want to rest, too?"
+msgstr "¿Qué pasa? ¿Tú también quieres descansar?"
+
+#. habla: Katarzyna
+#, fuzzy
+msgctxt "#48"
+msgid "Do you need something? I'm sorry, but I've never performed maintenance on a cyborg."
+msgstr "¿Necesita algo? Lo siento, pero nunca le hice mantenimiento a un cíborg."
+
+#. habla: Katarzyna
+#, fuzzy
+msgctxt "#49"
+msgid "I don't think I'd care to do something as disgusting as that."
+msgstr "No creo que me interese hacer algo tan desagradable."
+
+#. habla: Katarzyna
+#, fuzzy
+msgctxt "#50"
+msgid "I heard that the analysis of that 100-Series Realian failed."
+msgstr "Escuché que el análisis de esa Realian de la Serie 100 falló."
+
+#. habla: Katarzyna
+#, fuzzy
+msgctxt "#51"
+msgid "I feel so sorry for her. I hope she gets well soon."
+msgstr "Me da mucha pena. Ojalá se recupere pronto."
+
+#. habla: Katarzyna
+#, fuzzy
+msgctxt "#52"
+msgid "Oh, are you back, little one? Is anything wrong? I'll play with you later, okay?"
+msgstr "Oh, ¿volviste, pequeña? ¿Pasa algo? Después juego contigo, ¿sí?"
+
+#. habla: Katarzyna
+#, fuzzy
+msgctxt "#53"
+msgid "You're so cute the way you blush like that!"
+msgstr "¡Qué linda te ves cuando te sonrojas así!"
+
+#. habla: Katarzyna
+#, fuzzy
+msgctxt "#54"
+msgid "What are you doing wandering around here? I don't want to see that grimy body of yours!"
+msgstr "¿Qué hace dando vueltas por aquí? ¡No quiero ver ese cuerpo mugriento!"
+
+#. habla: Katarzyna
+#, fuzzy
+msgctxt "#55"
+msgid "Eww. Metal bodies are so repulsive."
+msgstr "Puaj. Los cuerpos de metal me dan asco."
+
+#. habla: Katarzyna
+#, fuzzy
+msgctxt "#56"
+msgid "Civilian use of the column to Old Miltia is prohibited in order to give priority to the Federation Fleet's operation."
+msgstr "Para darle prioridad a la operación de la flota de la Federación, se prohibió el uso civil de la columna a la Antigua Miltia."
+
+#. habla: Katarzyna
+#, fuzzy
+msgctxt "#57"
+msgid "We can't leave Second Miltia for a while."
+msgstr "Por un tiempo no podemos salir de Segunda Miltia."
+
+#. habla: Katarzyna
+#, fuzzy
+msgctxt "#58"
+msgid "What is it, dear? Do you want to play?"
+msgstr "¿Qué pasa, querida? ¿Quieres jugar?"
+
+#. habla: Katarzyna
+#, fuzzy
+msgctxt "#59"
+msgid "Oh, you're so cute I just can't stand it!"
+msgstr "¡Ay, eres tan linda que no lo soporto!"
+
+#. habla: Katarzyna
+#, fuzzy
+msgctxt "#60"
+msgid "This is the age of Realians. Antiques like cyborgs are best off in a museum."
+msgstr "Esta es la era de los Realians. Las antigüedades como los cíborgs están mejor en un museo."
+
+#. habla: Katarzyna
+#, fuzzy
+msgctxt "#61"
+msgid "Hey! What happened to the Federation fleet?"
+msgstr "¡Oiga! ¿Qué le pasó a la flota de la Federación?"
+
+#. habla: Katarzyna
+#, fuzzy
+msgctxt "#62"
+msgid "I can't reach any of the communication officers in the Federation fleet. Are they all dead?"
+msgstr "No logro comunicarme con ninguno de los oficiales de comunicaciones de la flota de la Federación. ¿Están todos muertos?"
+
+#. habla: Sylvia
+#, fuzzy
+msgctxt "#63"
+msgid "This room primarily handles cyborg maintenance."
+msgstr "Esta sala se encarga principalmente del mantenimiento de cíborgs."
+
+#. habla: Sylvia
+#, fuzzy
+msgctxt "#64"
+msgid "What? Droid maintenance? It's not impossible, but if you're trying to repair something old-fashioned like a droid, small workshops in the city might be better at it. ♪"
+msgstr "¿Qué? ¿Mantenimiento de droides? No es imposible, pero si quieres reparar algo tan anticuado como un droide, quizá te convenga más un taller pequeño de la ciudad. ♪"
+
+#. habla: Sylvia
+#, fuzzy
+msgctxt "#65"
+msgid "A broken droid came here saying he wanted repairs! I went ahead and did some basic treatment, and he gave me this in return."
+msgstr "¡Vino un droide averiado pidiendo que lo reparara! Le hice un tratamiento básico y me dio esto a cambio."
+
+#, fuzzy
+msgctxt "#66"
+msgid "You obtained ZAZA's Clue 7!"
+msgstr "¡Obtuviste la Pista de ZAZA 7!"
+
+#. habla: Sylvia
+#, fuzzy
+msgctxt "#67"
+msgid "His status? Well, he uses nothing but ancient parts, so what I did was really just temporary! He said he had to go back, and headed for the launch boarding platform for the Foundation."
+msgstr "¿Cómo estaba? Bueno, solo usa piezas antiquísimas, así que lo que hice fue apenas algo temporal. Dijo que tenía que volver y se fue a la plataforma de embarque de lanzaderas a la Fundación."
+
+#. habla: Sylvia
+#, fuzzy
+msgctxt "#68"
+msgid "Is that droid going to be all right with that worn-out old body?"
+msgstr "¿Ese droide estará bien con ese cuerpo viejo y gastado?"
+
+#. habla: Sylvia
+#, fuzzy
+msgctxt "#69"
+msgid "He said he was going to return somewhere. I hope he made it there safely. I think he's probably at a launch boarding platform somewhere."
+msgstr "Dijo que iba a volver a algún lugar. Espero que haya llegado bien. Creo que seguro está en alguna plataforma de embarque de lanzaderas."
+
+#. habla: Sylvia
+#, fuzzy
+msgctxt "#70"
+msgid "What? A broken droid? I haven't seen one here."
+msgstr "¿Qué? ¿Un droide averiado? No vi ninguno por aquí."
+
+#. habla: Sylvia
+#, fuzzy
+msgctxt "#71"
+msgid "Is that droid doing well? Thanks to him, I've decided to increase the number of different repairs that we can perform here!"
+msgstr "¿Ese droide está bien? ¡Gracias a él, decidí ampliar los tipos de reparaciones que hacemos aquí!"
+
+#, fuzzy
+msgctxt "#72"
+msgid ""
+"...\n"
+"...\n"
+"...\n"
+"(He is not functioning at the moment.)"
+msgstr ""
+"...\n"
+"...\n"
+"...\n"
+"(En este momento no está funcionando.)"

@@ -1,0 +1,706 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Xenosaga Episode II - traducción al español\n"
+"Language: es_419\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Xeno-Source: 0:cf/en/sc3830.sbl\n"
+
+#. habla: AWAMORI
+#, fuzzy
+msgctxt "#1"
+msgid "Yes. I'm a droid. The probability of my becoming shorter than you is 0%%."
+msgstr "Sí. Soy un droide. La probabilidad de que me vuelva más bajo que tú es del 0%%."
+
+#. habla: AWAMORI
+#, fuzzy
+msgctxt "#2"
+msgid "Yes. I'm a droid. You have nice gloves."
+msgstr "Sí. Soy un droide. Tienes lindos guantes."
+
+#. habla: AWAMORI
+#, fuzzy
+msgctxt "#3"
+msgid "Yes. I'm a droid. I am different from the droids on the Elsa. I can speak normally."
+msgstr "Sí. Soy un droide. Soy distinto de los droides del Elsa. Puedo hablar normalmente."
+
+#. habla: AWAMORI
+#, fuzzy
+msgctxt "#4"
+msgid "Yes. I'm a droid. Hurry up and get back to work!"
+msgstr "Sí. Soy un droide. ¡Apúrate y vuelve al trabajo!"
+
+#. habla: AWAMORI
+#, fuzzy
+msgctxt "#5"
+msgid "Yes. I'm a droid. Let's race in space some time. If I win, I get your gloves."
+msgstr "Sí. Soy un droide. Hagamos una carrera por el espacio alguna vez. Si gano, me quedo con tus guantes."
+
+#. habla: AWAMORI
+#, fuzzy
+msgctxt "#6"
+msgid "Yes. I'm a droid. A duster coat suits me better than it does you."
+msgstr "Sí. Soy un droide. Una gabardina me queda mejor a mí que a ti."
+
+#. habla: AWAMORI
+#, fuzzy
+msgctxt "#7"
+msgid "Yes. I'm a droid. I'd like to try smiling like you do."
+msgstr "Sí. Soy un droide. Me gustaría intentar sonreír como tú."
+
+#. habla: AWAMORI
+#, fuzzy
+msgctxt "#8"
+msgid "Yes. I'm a droid. My dream is to combine with another robot. But I'm not interested in searching for a partner."
+msgstr "Sí. Soy un droide. Mi sueño es combinarme con otro robot. Pero no me interesa buscar compañero."
+
+#. habla: AWAMORI
+#, fuzzy
+msgctxt "#9"
+msgid "Yes. I'm a droid. These days, the world is in complete disarray. Everyone has their hands full just looking after themselves."
+msgstr "Sí. Soy un droide. Hoy en día el mundo es un caos total. Todos tienen las manos ocupadas cuidándose a sí mismos."
+
+#. habla: AWAMORI
+#, fuzzy
+msgctxt "#10"
+msgid "Yes. I'm a droid. Little Master. Ah, I just wanted to try saying that once."
+msgstr "Sí. Soy un droide. Joven amo. Ah, solo quería probar decirlo una vez."
+
+#. habla: AWAMORI
+#, fuzzy
+msgctxt "#11"
+msgid "Yes. I'm a droid. Hahaha! Laughing is fun."
+msgstr "Sí. Soy un droide. ¡Jajaja! Reírse es divertido."
+
+#. habla: AWAMORI
+#, fuzzy
+msgctxt "#12"
+msgid "Yes. I'm a droid. The dream was just a dream. I'm more enlightened than most humans. Life is tough."
+msgstr "Sí. Soy un droide. El sueño era solo un sueño. Soy más iluminado que la mayoría de los humanos. La vida es dura."
+
+#. habla: AWAMORI
+#, fuzzy
+msgctxt "#13"
+msgid "Yes. I'm a droid. We're down to the last big job! Hang in there!"
+msgstr "Sí. Soy un droide. ¡Ya llegamos al último gran trabajo! ¡Aguanten!"
+
+#. habla: Harvel
+#, fuzzy
+msgctxt "#14"
+msgid "Little Dude! What's up with MOMO? Is she alright?"
+msgstr "¡Chiquito! ¿Qué pasa con MOMO? ¿Está bien?"
+
+#. habla: Harvel
+#, fuzzy
+msgctxt "#15"
+msgid "You \"guess so\"? You mean, you don't know? Little Dude, I guess we just can't count on you."
+msgstr "¿\"Supones que sí\"? ¿O sea que no sabes? Chiquito, supongo que no se puede contar contigo."
+
+#. habla: Harvel
+#, fuzzy
+msgctxt "#16"
+msgid "Hey, chaos! What are you doing here?"
+msgstr "¡Oye, chaos! ¿Qué haces aquí?"
+
+#. habla: Harvel
+#, fuzzy
+msgctxt "#17"
+msgid "You should be with MOMO! Come on, dude!"
+msgstr "¡Deberías estar con MOMO! ¡Vamos, hombre!"
+
+#. habla: Harvel
+#, fuzzy
+msgctxt "#18"
+msgid "I hope MOMO's operation goes okay."
+msgstr "Espero que la operación de MOMO salga bien."
+
+#. habla: Harvel
+#, fuzzy
+msgctxt "#19"
+msgid "I'm sure it'll be fine! Mary and a lot of 100-Series are going to help so there's no way it'll go bad!"
+msgstr "¡Seguro que va a salir bien! Mary y un montón de Serie 100 van a ayudar, ¡así que es imposible que salga mal!"
+
+#. habla: Harvel
+#, fuzzy
+msgctxt "#20"
+msgid "Oh, it's Miss Vector. If you're looking for Little Dude, he's on Second Miltia helping with MOMO's operation."
+msgstr "Ah, es la señorita Vector. Si buscas al Chiquito, está en Segunda Miltia ayudando con la operación de MOMO."
+
+#. habla: Harvel
+#, fuzzy
+msgctxt "#21"
+msgid "There's nothing to worry about! He'll be back soon along with a happy, healthy MOMO!"
+msgstr "¡No hay de qué preocuparse! ¡Pronto va a volver con una MOMO feliz y sana!"
+
+#. habla: Harvel
+#, fuzzy
+msgctxt "#22"
+msgid "Hmm? Is MOMO's analysis over?"
+msgstr "¿Hmm? ¿Ya terminó el análisis de MOMO?"
+
+#. habla: Harvel
+#, fuzzy
+msgctxt "#23"
+msgid "What, are you goofing off? How can you do that to MOMO?! Get back there!"
+msgstr "¿Qué, estás holgazaneando? ¡¿Cómo puedes hacerle eso a MOMO?! ¡Vuelve allá!"
+
+#. habla: Harvel
+#, fuzzy
+msgctxt "#24"
+msgid "Say, chaos, where did you learn to pilot an A.M.W.S.?"
+msgstr "Oye, chaos, ¿dónde aprendiste a pilotear un A.M.W.S.?"
+
+#. habla: Harvel
+#, fuzzy
+msgctxt "#25"
+msgid "If someone like you can ride it, just wait to see what I can do in one!"
+msgstr "Si alguien como tú puede manejarlo, ¡espera a ver lo que puedo hacer yo con uno!"
+
+#. habla: Harvel
+#, fuzzy
+msgctxt "#26"
+msgid "Little Dude! Where've you been?"
+msgstr "¡Chiquito! ¿Dónde estabas?"
+
+#. habla: Harvel
+#, fuzzy
+msgctxt "#27"
+msgid "It's a mess out there! You better protect everybody!"
+msgstr "¡Allá afuera es un desastre! ¡Más vale que protejas a todos!"
+
+#. habla: Harvel
+#, fuzzy
+msgctxt "#28"
+msgid "M...MOMO! A...are you okay, now? "
+msgstr "¡M... MOMO! ¿Ya... ya estás bien?"
+
+#. habla: Harvel
+#, fuzzy
+msgctxt "#29"
+msgid "W...well, you know, i...if you insist, I guess I could play with you."
+msgstr "B... bueno, ¿sabes?, s... si insistes, supongo que podría jugar contigo."
+
+#. habla: Harvel
+#, fuzzy
+msgctxt "#30"
+msgid "Wasn't Old Miltia swallowed by a black hole or something?"
+msgstr "¿La Antigua Miltia no se la había tragado un agujero negro o algo así?"
+
+#. habla: Harvel
+#, fuzzy
+msgctxt "#31"
+msgid "Then is that planet fake?"
+msgstr "¿Entonces ese planeta es falso?"
+
+#. habla: Harvel
+#, fuzzy
+msgctxt "#32"
+msgid "W...what is it, chaos? Are you scared of that monster?"
+msgstr "¿Q... qué pasa, chaos? ¿Te da miedo ese monstruo?"
+
+#. habla: Harvel
+#, fuzzy
+msgctxt "#33"
+msgid "W...well, I'll go with you to the bathroom at n...night, if you want."
+msgstr "B... bueno, si quieres, de n... noche te acompaño al baño."
+
+#. habla: Harvel
+#, fuzzy
+msgctxt "#34"
+msgid "Little Dude! You're going to get it, right? Go kill that monster!"
+msgstr "¡Chiquito! Vas a ir por él, ¿no? ¡Ve y mata a ese monstruo!"
+
+#. habla: Harvel
+#, fuzzy
+msgctxt "#35"
+msgid "M...MOMO?! D...don't worry! I'll take care of that m...monster b...before you know it!"
+msgstr "¡¿M... MOMO?! ¡N... no te preocupes! ¡Yo me encargo de ese m... monstruo a... antes de que te des cuenta!"
+
+#. habla: Harvel
+#, fuzzy
+msgctxt "#36"
+msgid "Just leave it to me! E...everything will be f...fine! R...really!"
+msgstr "¡Déjamelo a mí! ¡T... todo va a salir b... bien! ¡D... de verdad!"
+
+#. habla: Harvel
+#, fuzzy
+msgctxt "#37"
+msgid "Did you see that monster?! A monster popped out of Miltia! Coolness!"
+msgstr "¡¿Vieron ese monstruo?! ¡Salió un monstruo de Miltia! ¡Qué genial!"
+
+#. habla: Harvel
+#, fuzzy
+msgctxt "#38"
+msgid "Hey, Little Dude! What's with the weird look on your face?"
+msgstr "¡Oye, Chiquito! ¿Qué es esa cara tan rara?"
+
+#. habla: Harvel
+#, fuzzy
+msgctxt "#39"
+msgid "Heh, drop the look. It's just not you. You don't look scary at all."
+msgstr "Je, déjate de poner esa cara. No va contigo. No das nada de miedo."
+
+#. habla: Wandering Mass-Produced 100-Series
+#, fuzzy
+msgctxt "#40"
+msgid "Oh, you're Jr., right? It seems like everyone likes you and calls you Little Master. I'll call you that from now on as well."
+msgstr "Ah, tú eres Jr., ¿no? Parece que todos te quieren y te llaman joven amo. Yo también te voy a llamar así de ahora en adelante."
+
+#. habla: Wandering Mass-Produced 100-Series
+#, fuzzy
+msgctxt "#41"
+msgid "Is that all right, Little Master?"
+msgstr "¿Le parece bien, joven amo?"
+
+#. habla: Wandering Mass-Produced 100-Series
+#, fuzzy
+msgctxt "#42"
+msgid "Who are you? I'll check the shared database."
+msgstr "¿Quién eres? Voy a revisar la base de datos compartida."
+
+#. habla: Wandering Mass-Produced 100-Series
+#, fuzzy
+msgctxt "#43"
+msgid "I see. You're chaos from the Elsa, a ship affiliated with the Kukai Foundation."
+msgstr "Ya veo. Eres chaos, del Elsa, una nave afiliada a la Fundación Kukai."
+
+#. habla: Wandering Mass-Produced 100-Series
+#, fuzzy
+msgctxt "#44"
+msgid "This data is based on the experiences of the 100-Series Observational Units on the bridge."
+msgstr "Estos datos se basan en las experiencias de las Unidades de Observación Serie 100 del puente."
+
+#. habla: Wandering Mass-Produced 100-Series
+#, fuzzy
+msgctxt "#45"
+msgid "I was just rolled out yesterday, so I'm performing data collection."
+msgstr "Me activaron ayer, así que estoy recopilando datos."
+
+#. habla: Wandering Mass-Produced 100-Series
+#, fuzzy
+msgctxt "#46"
+msgid "We mass-produced 100-Series use a shared, U.M.N.-based database, so we can receive information and experiences of other units via the U.M.N. In other words, each individual unit's experience becomes everyone's experience."
+msgstr "Las Serie 100 producidas en masa usamos una base de datos compartida basada en la U.M.N., así que podemos recibir por la U.M.N. la información y las experiencias de otras unidades. En otras palabras, la experiencia de cada unidad se convierte en la experiencia de todas."
+
+#. habla: Wandering Mass-Produced 100-Series
+#, fuzzy
+msgctxt "#47"
+msgid "chaos, what sort of functions do you perform onboard the Elsa?"
+msgstr "chaos, ¿qué funciones cumples a bordo del Elsa?"
+
+#. habla: Wandering Mass-Produced 100-Series
+#, fuzzy
+msgctxt "#48"
+msgid "You dedicate yourself to ensuring that the other crew members can have a safe flight? That's a rather vague function."
+msgstr "¿Te dedicas a garantizar que los demás tripulantes tengan un vuelo seguro? Es una función bastante vaga."
+
+#. habla: Wandering Mass-Produced 100-Series
+#, fuzzy
+msgctxt "#49"
+msgid "Do you really serve a purpose? Oh, well, regardless, I still collected new data."
+msgstr "¿De verdad cumples algún propósito? Bueno, de todos modos, recopilé datos nuevos."
+
+#. habla: Wandering Mass-Produced 100-Series
+#, fuzzy
+msgctxt "#50"
+msgid "Little Master, we can surmise that the Zohar is deeply connected to this current conflict."
+msgstr "Joven amo, podemos deducir que el Zohar está muy ligado a este conflicto."
+
+#. habla: Wandering Mass-Produced 100-Series
+#, fuzzy
+msgctxt "#51"
+msgid "This conjecture is derived from data gathered from the 100-Series on the bridge, and it appears to be correct. I've now gained a new experience!"
+msgstr "Esta conjetura se basa en datos recopilados por las Serie 100 del puente, y parece ser correcta. ¡Gané una nueva experiencia!"
+
+#. habla: Wandering Mass-Produced 100-Series
+#, fuzzy
+msgctxt "#52"
+msgid "MOMO, what does it mean to \"have fun\"? I have not had such an experience."
+msgstr "MOMO, ¿qué significa \"divertirse\"? No tuve esa experiencia."
+
+#. habla: Wandering Mass-Produced 100-Series
+#, fuzzy
+msgctxt "#53"
+msgid "It would seem that this is something I must experience for myself in order to understand."
+msgstr "Parece que es algo que tengo que vivir yo misma para entenderlo."
+
+#. habla: Wandering Mass-Produced 100-Series
+#, fuzzy
+msgctxt "#54"
+msgid "MOMO, make me have fun! Now!"
+msgstr "¡MOMO, haz que me divierta! ¡Ya!"
+
+#. habla: Wandering Mass-Produced 100-Series
+#, fuzzy
+msgctxt "#55"
+msgid "What type of organization is the Immigrant Fleet? There appears to be no data beyond that they are a religious nation."
+msgstr "¿Qué tipo de organización es la Flota de Inmigrantes? Parece que no hay datos aparte de que son una nación religiosa."
+
+#. habla: Wandering Mass-Produced 100-Series
+#, fuzzy
+msgctxt "#56"
+msgid "I am curious about them. I can smell the scent of new knowledge. By the way, I'm not implying that there is actually a smell."
+msgstr "Me dan curiosidad. Huelo el aroma del conocimiento nuevo. Por cierto, no estoy dando a entender que haya un olor de verdad."
+
+#. habla: Wandering Mass-Produced 100-Series
+#, fuzzy
+msgctxt "#57"
+msgid "chaos, if the Gnosis attacked, would you save everyone without any hesitation?"
+msgstr "chaos, si atacaran los Gnosis, ¿salvarías a todos sin dudarlo?"
+
+#. habla: Wandering Mass-Produced 100-Series
+#, fuzzy
+msgctxt "#58"
+msgid "What wonderful bravery. Would you come to the rescue even if I was the one being attacked?"
+msgstr "Qué valentía tan maravillosa. ¿Vendrías al rescate aunque la atacada fuera yo?"
+
+#. habla: Wandering Mass-Produced 100-Series
+#, fuzzy
+msgctxt "#59"
+msgid "Hmm. That's truly wonderful! If it happens, I'll be counting on you."
+msgstr "Hmm. ¡Eso es realmente maravilloso! Si pasa, cuento contigo."
+
+#. habla: Wandering Mass-Produced 100-Series
+#, fuzzy
+msgctxt "#60"
+msgid "Why do you seek the Zohar, Little Master? What is the reason?"
+msgstr "¿Por qué busca el Zohar, joven amo? ¿Cuál es el motivo?"
+
+#. habla: Wandering Mass-Produced 100-Series
+#, fuzzy
+msgctxt "#61"
+msgid "The fact that you won't answer indicates that this is a topic that is best left alone. I've gained yet another new experience."
+msgstr "Que no responda indica que es un tema que es mejor no tocar. Gané otra experiencia nueva."
+
+#. habla: Wandering Mass-Produced 100-Series
+#, fuzzy
+msgctxt "#62"
+msgid "I envy all the places you are able to travel, MOMO. I'd like you to tell me sometime about places I've never been."
+msgstr "Te envidio por todos los lugares a los que puedes viajar, MOMO. Me gustaría que algún día me contaras de lugares en los que nunca estuve."
+
+#. habla: Wandering Mass-Produced 100-Series
+#, fuzzy
+msgctxt "#63"
+msgid "Thank you for consenting. Is this what friends do? I've gained a new experience."
+msgstr "Gracias por aceptar. ¿Esto es lo que hacen las amigas? Gané una nueva experiencia."
+
+#. habla: Wandering Mass-Produced 100-Series
+#, fuzzy
+msgctxt "#64"
+msgid "Proto Omega...There is no data regarding that object in our database. It would appear that the 100-Series database still needs to be expanded."
+msgstr "Proto Omega... No hay datos sobre ese objeto en nuestra base de datos. Parece que todavía hay que ampliar la base de datos de las Serie 100."
+
+#. habla: Wandering Mass-Produced 100-Series
+#, fuzzy
+msgctxt "#65"
+msgid "This new space-time anomaly was created by the consciousness called Albedo, correct?"
+msgstr "Esta nueva anomalía espaciotemporal la creó la conciencia llamada Albedo, ¿correcto?"
+
+#. habla: Wandering Mass-Produced 100-Series
+#, fuzzy
+msgctxt "#66"
+msgid "When entering this fact into the database, should I take into consideration your complex relationship with him?"
+msgstr "Al ingresar este dato en la base de datos, ¿debería tener en cuenta su compleja relación con él?"
+
+#. habla: Pamela
+#, fuzzy
+msgctxt "#67"
+msgid "I guess someone like you, Little Master, must have attended a lot of high-class studies. Things like horseback riding, piano lessons, and foreign languages. You must do ballroom dancing too."
+msgstr "Supongo que alguien como usted, joven amo, debe haber tomado un montón de clases de alta sociedad. Cosas como equitación, piano e idiomas. Seguro que también baile de salón."
+
+#. habla: Pamela
+#, fuzzy
+msgctxt "#68"
+msgid "But just the thought of you dancing...haha! I can't even imagine it. Haha!"
+msgstr "Pero solo de imaginarlo bailando... ¡jaja! Ni me lo puedo imaginar. ¡Jaja!"
+
+#. habla: Pamela
+#, fuzzy
+msgctxt "#69"
+msgid "You've got a nice body. You must load and unload cargo on the Elsa, right?"
+msgstr "Tienes un buen físico. Seguro que cargas y descargas mercancía en el Elsa, ¿no?"
+
+#. habla: Pamela
+#, fuzzy
+msgctxt "#70"
+msgid "Do me a favor and see if you can get me that job, too. I haven't been getting enough exercise lately."
+msgstr "Hazme un favor y fíjate si me consigues ese trabajo a mí también. Últimamente no hago suficiente ejercicio."
+
+#. habla: Pamela
+#, fuzzy
+msgctxt "#71"
+msgid "These days there's no reason to strain yourself with physical labor since everything is automated. *Sigh* I really need to work out."
+msgstr "Hoy en día no hay motivo para matarse con trabajo físico, porque todo está automatizado. *Suspiro* De verdad necesito hacer ejercicio."
+
+#. habla: Pamela
+#, fuzzy
+msgctxt "#72"
+msgid "I met the captain of the Elsa the other day. He's a cool, handsome gentleman!"
+msgstr "El otro día conocí al capitán del Elsa. ¡Es un caballero atractivo y genial!"
+
+#. habla: Pamela
+#, fuzzy
+msgctxt "#73"
+msgid "That reminds me, the captain complimented you and said you did a nice job even though you're small."
+msgstr "Eso me recuerda que el capitán lo elogió y dijo que hizo un buen trabajo aunque sea pequeño."
+
+#. habla: Pamela
+#, fuzzy
+msgctxt "#74"
+msgid "Little Master, have you tried Encephalon diving? I've been thinking about trying it out with my son. Is there anything I should know about?"
+msgstr "Joven amo, ¿probó la inmersión en el Encéfalo? Estuve pensando en probarla con mi hijo. ¿Hay algo que deba saber?"
+
+#. habla: Pamela
+#, fuzzy
+msgctxt "#75"
+msgid "What's that? Empty your mind, squeal loudly, and run around in the middle of the night? Can you show me how it's done, Little Master?"
+msgstr "¿Qué dice? ¿Vaciar la mente, chillar fuerte y correr en plena noche? ¿Me muestra cómo se hace, joven amo?"
+
+#. habla: Pamela
+#, fuzzy
+msgctxt "#76"
+msgid "I've made up my mind. I'm going to have a body like yours by this time next year."
+msgstr "Ya me decidí. Para esta época del año que viene voy a tener un cuerpo como el tuyo."
+
+#. habla: Pamela
+#, fuzzy
+msgctxt "#77"
+msgid "But what can I do about my height? Maybe I'll change my bone structure with nanomachines."
+msgstr "Pero ¿qué hago con mi altura? Quizá me cambie la estructura ósea con nanomáquinas."
+
+#. habla: Pamela
+#, fuzzy
+msgctxt "#78"
+msgid "My son and I are going mountain climbing in the Encephalon. Doesn't that sound nice? "
+msgstr "Mi hijo y yo vamos a hacer montañismo en el Encéfalo. ¿No suena lindo?"
+
+#. habla: Pamela
+#, fuzzy
+msgctxt "#79"
+msgid "I'll take care of my son and lose weight! It's killing two birds with one stone!"
+msgstr "¡Voy a cuidar a mi hijo y a bajar de peso! ¡Mato dos pájaros de un tiro!"
+
+#. habla: Pamela
+#, fuzzy
+msgctxt "#80"
+msgid "I need to get out of here, right now. Take me with you on the Elsa!"
+msgstr "Tengo que irme de aquí ya mismo. ¡Llévenme con ustedes en el Elsa!"
+
+#. habla: Pamela
+#, fuzzy
+msgctxt "#81"
+msgid "Take me to Second Miltia."
+msgstr "Llévenme a Segunda Miltia."
+
+#. habla: Pamela
+#, fuzzy
+msgctxt "#82"
+msgid "Little Master, I have a favor to ask. I simply must go to Second Miltia. Is there anything you can do to help me?"
+msgstr "Joven amo, tengo un favor que pedirle. Necesito ir a Segunda Miltia como sea. ¿Puede hacer algo para ayudarme?"
+
+#. habla: Pamela
+#, fuzzy
+msgctxt "#83"
+msgid "My parents on Second Miltia have fallen ill with a rare disease called Mushroom Sickness and...Hey, let me finish!"
+msgstr "Mis padres, en Segunda Miltia, se enfermaron de una enfermedad rara llamada el Mal de los Hongos y... ¡Oye, déjame terminar!"
+
+#. habla: Pamela
+#, fuzzy
+msgctxt "#84"
+msgid "I've decided to try mountain climbing to lose weight, so I can get a body like yours."
+msgstr "Decidí probar el montañismo para bajar de peso y tener un cuerpo como el tuyo."
+
+#. habla: Pamela
+#, fuzzy
+msgctxt "#85"
+msgid "Mountains are so nice. You can eat all the wild plants and mushrooms you could want! Would you like to come along?"
+msgstr "Las montañas son tan lindas. ¡Puedes comer todas las plantas silvestres y los hongos que quieras! ¿Quieres venir?"
+
+#. habla: Pamela
+#, fuzzy
+msgctxt "#86"
+msgid "I climbed a mountain during an Encephalon dive, and it made me want to take a trip to climb some real mountains."
+msgstr "Escalé una montaña durante una inmersión en el Encéfalo, y me dieron ganas de hacer un viaje para escalar montañas de verdad."
+
+#. habla: Pamela
+#, fuzzy
+msgctxt "#87"
+msgid "But we're under security alert, so I can't go to Second Miltia. I wonder if there's anything anyone can do."
+msgstr "Pero estamos en alerta de seguridad, así que no puedo ir a Segunda Miltia. Me pregunto si alguien podrá hacer algo."
+
+#. habla: Pamela
+#, fuzzy
+msgctxt "#88"
+msgid "*Sigh* I wonder when I'll be able to go mountain climbing."
+msgstr "*Suspiro* Me pregunto cuándo podré ir a hacer montañismo."
+
+#. habla: Launch
+#, fuzzy
+msgctxt "#89"
+msgid "Currently, launch flights are suspended due to the state of emergency."
+msgstr "Por el momento, los vuelos de lanzadera están suspendidos por el estado de emergencia."
+
+#. habla: Launch
+#, fuzzy
+msgctxt "#90"
+msgid "This is the boarding area for the direct-flight launch to the Foundation. Would you like to board?"
+msgstr "Esta es la zona de embarque de la lanzadera directa a la Fundación. ¿Desea embarcar?"
+
+#. Opciones: una por línea. Mantener 2 líneas en el mismo orden.
+#, fuzzy
+msgctxt "#91"
+msgid ""
+"Yes\n"
+"No"
+msgstr ""
+"Sí\n"
+"No"
+
+#. habla: Launch
+#, fuzzy
+msgctxt "#92"
+msgid "Please pass through the gate and board the launch. It will leave soon."
+msgstr "Por favor, pase la puerta y suba a la lanzadera. Saldrá en breve."
+
+#. habla: Launch
+#, fuzzy
+msgctxt "#93"
+msgid "We await your next visit."
+msgstr "Esperamos su próxima visita."
+
+#. habla: Luciano
+#, fuzzy
+msgctxt "#94"
+msgid "Currently, all shuttle flights are suspended due to the state of emergency."
+msgstr "Por el momento, todos los vuelos de lanzadera están suspendidos por el estado de emergencia."
+
+#. habla: Luciano
+#, fuzzy
+msgctxt "#95"
+msgid "This is a direct elevator to the dock for the descent shuttle to Second Miltia. The shuttle will be leaving soon, so passengers bound for Second Miltia should board now."
+msgstr "Este es un ascensor directo al muelle de la lanzadera de descenso a Segunda Miltia. La lanzadera saldrá en breve, así que los pasajeros con destino a Segunda Miltia deben embarcar ahora."
+
+#. habla: Rodrigo
+#, fuzzy
+msgctxt "#96"
+msgid "The Elsa's not here right now. Just give up."
+msgstr "El Elsa no está aquí ahora. Mejor ríndanse."
+
+#. habla: Matthews
+#, fuzzy
+msgctxt "#97"
+msgid "Sorry, Little Master. It's going to take a little more time to restock, so just hang in there."
+msgstr "Perdón, joven amo. El reabastecimiento va a tardar un poco más, así que aguanta."
+
+#. habla: Matthews
+#, fuzzy
+msgctxt "#98"
+msgid "I know you're in a hurry, but how about relaxing for a bit?"
+msgstr "Sé que tienes prisa, pero ¿qué tal si te relajas un rato?"
+
+#. habla: Tony
+#, fuzzy
+msgctxt "#99"
+msgid "Oh, Little Master. You're gonna ask us to go to another weird place again, right?"
+msgstr "Ah, joven amo. Vas a pedirnos que vayamos a otro lugar raro, ¿no?"
+
+#. habla: Tony
+#, fuzzy
+msgctxt "#100"
+msgid "I know, I know. We'll take you anywhere you ask. As long as it's someplace the Elsa can get to, that is."
+msgstr "Ya sé, ya sé. Te llevamos adonde quieras. Siempre que el Elsa pueda llegar, claro."
+
+#. habla: Guttorm
+#, fuzzy
+msgctxt "#101"
+msgid "Man, this is a big ship! I'm from the country, so I don't know my way around here at all!"
+msgstr "¡Vaya, qué nave tan grande! ¡Soy del campo, así que no me ubico para nada aquí!"
+
+#. habla: Guttorm
+#, fuzzy
+msgctxt "#102"
+msgid "You wanna know what I'm doing here? I'm waiting for a letter from Mom! It's supposed to be in a cute, heart-shaped envelope!"
+msgstr "¿Quieres saber qué hago aquí? ¡Espero una carta de mamá! ¡Se supone que viene en un sobre lindo con forma de corazón!"
+
+#. habla: Guttorm
+#, fuzzy
+msgctxt "#103"
+msgid "Oh! Is that heart-shaped letter the one from Mom? Could you give it to me?"
+msgstr "¡Oh! ¿Esa carta con forma de corazón es la de mamá? ¿Me la darías?"
+
+#. Opciones: una por línea. Mantener 2 líneas en el mismo orden.
+#, fuzzy
+msgctxt "#104"
+msgid ""
+"Hand it over\n"
+"Don't hand it over"
+msgstr ""
+"Dársela\n"
+"No dársela"
+
+#. habla: Guttorm
+#, fuzzy
+msgctxt "#105"
+msgid "I knew it was for me. Yay, this is great!!"
+msgstr "Sabía que era para mí. ¡Bien, qué genial!"
+
+#. habla: Guttorm
+#, fuzzy
+msgctxt "#106"
+msgid "Oh, it's not for me, huh? I hope it gets here soon."
+msgstr "Ah, ¿no es para mí? Ojalá llegue pronto."
+
+#. habla: Guttorm
+#, fuzzy
+msgctxt "#107"
+msgid "Thanks for delivering the letter! But that letter wasn't from Mom!"
+msgstr "¡Gracias por entregar la carta! ¡Pero esa carta no era de mamá!"
+
+#. habla: Guttorm
+#, fuzzy
+msgctxt "#108"
+msgid "My letter never got here. I guess the days of hand deliveries are over."
+msgstr "Mi carta nunca llegó. Supongo que se acabaron los días de las entregas en mano."
+
+#, fuzzy
+msgctxt "#109"
+msgid "Board the launch for the Foundation?"
+msgstr "¿Subir a la lanzadera a la Fundación?"
+
+#. Opciones: una por línea. Mantener 2 líneas en el mismo orden.
+#, fuzzy
+msgctxt "#110"
+msgid ""
+"Yes\n"
+"No"
+msgstr ""
+"Sí\n"
+"No"
+
+#, fuzzy
+msgctxt "#112"
+msgid "Board the descent shuttle for Second Miltia?"
+msgstr "¿Subir a la lanzadera de descenso a Segunda Miltia?"
+
+#, fuzzy
+msgctxt "#113"
+msgid "You cannot use the elevator at this time."
+msgstr "En este momento no puedes usar el ascensor."
+
+#, fuzzy
+msgctxt "#114"
+msgid "Where would you like to go?"
+msgstr "¿Adónde quieres ir?"
+
+#. Opciones: una por línea. Mantener 3 líneas en el mismo orden.
+#, fuzzy
+msgctxt "#115"
+msgid ""
+"Bridge Area\n"
+"Park Area\n"
+"Cancel"
+msgstr ""
+"Zona del puente\n"
+"Zona del parque\n"
+"Cancelar"

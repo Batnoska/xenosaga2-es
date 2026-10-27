@@ -1,0 +1,328 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Xenosaga Episode II - traducción al español\n"
+"Language: es_419\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Xeno-Source: 0:cf/en/sc4170.sbl\n"
+
+#. habla: Farouk
+#, fuzzy
+msgctxt "#2"
+msgid "So I allowed Mina to see Johnny! Then all of a sudden he started working really hard. It seems he's cooking up something!"
+msgstr "¡Así que le permití a Mina salir con Johnny! Y de repente empezó a trabajar muy duro. ¡Parece que está tramando algo!"
+
+#. habla: Farouk
+#, fuzzy
+msgctxt "#3"
+msgid "That Johnny is a much harder worker than he looks, even if he is a little bit reckless. I bet that hard-working-yet-reckless spirit is what King liked about him, too."
+msgstr "Ese Johnny trabaja mucho más de lo que parece, aunque sea un poco imprudente. Apuesto a que ese espíritu trabajador pero imprudente también fue lo que le gustó a King de él."
+
+#. habla: Farouk
+#, fuzzy
+msgctxt "#4"
+msgid "I did a lot of crazy things when I was his age, too, like sneaking into the bakery and stealing bread."
+msgstr "Yo también hice muchas locuras a su edad, como meterme a escondidas en la panadería a robar pan."
+
+#. habla: Mina
+#, fuzzy
+msgctxt "#5"
+msgid "Oh, hi, Little Master! Is Johnny up front?"
+msgstr "¡Ah, hola, joven amo! ¿Johnny está afuera?"
+
+#. habla: Mina
+#, fuzzy
+msgctxt "#6"
+msgid "Johnny starts goofing off immediately when you take your eyes off of him! Daddy says he shows promise, but I know Johnny. I'm sure he's up to no good!"
+msgstr "¡Johnny se pone a holgazanear apenas le sacas los ojos de encima! Papá dice que tiene futuro, pero yo conozco a Johnny. ¡Seguro que está tramando algo malo!"
+
+#. habla: Mina
+#, fuzzy
+msgctxt "#7"
+msgid "Little Master, if Johnny starts goofing off, tell me, okay? I'll really yell at him!"
+msgstr "Joven amo, si Johnny se pone a holgazanear, avíseme, ¿sí? ¡Le voy a dar un buen regaño!"
+
+#. habla: Mina
+#, fuzzy
+msgctxt "#8"
+msgid "Am I in love with Johnny? You're a little young to ask about that kind of stuff, aren't you? Of course I love him! Otherwise, there's no way I'd be with a loser like that!"
+msgstr "¿Si estoy enamorada de Johnny? Usted es un poco joven para preguntar esas cosas, ¿no? ¡Claro que lo quiero! ¡Si no, es imposible que estuviera con un perdedor así!"
+
+#. habla: Mina
+#, fuzzy
+msgctxt "#9"
+msgid "Anyway, I want Johnny to do a good job! I'll get together with him for real once he pulls off something great!"
+msgstr "En fin, ¡quiero que a Johnny le vaya bien! ¡Me voy a comprometer con él en serio cuando logre algo grande!"
+
+#. habla: Mina
+#, fuzzy
+msgctxt "#10"
+msgid "Do you want to hear about the events Johnny has held so far?"
+msgstr "¿Quiere que le cuente los eventos que hizo Johnny hasta ahora?"
+
+#. Opciones: una por línea. Mantener 2 líneas en el mismo orden.
+#, fuzzy
+msgctxt "#11"
+msgid ""
+"Of course!\n"
+"I think I'll pass."
+msgstr ""
+"¡Claro!\n"
+"Creo que paso."
+
+#. habla: Mina
+#, fuzzy
+msgctxt "#12"
+msgid "Every last one was a disaster! The first one was, \"Buy bread and board a train!\" Next was, \"We'll teach you the right way to eat bread.\" Then the last one was the \"Goldfish-scooping and bread festival.\" *Sigh* I wonder what in the world he's scheming up this time. "
+msgstr "¡Todos y cada uno fueron un desastre! El primero fue \"Compra pan y sube a un tren\". El siguiente fue \"Te enseñamos la forma correcta de comer pan\". Y el último fue el \"Festival del pan y la pesca de pececitos de colores\". *Suspiro* Me pregunto qué estará tramando esta vez."
+
+#. habla: Mina
+#, fuzzy
+msgctxt "#13"
+msgid "Yeah, you're better off not knowing."
+msgstr "Sí, mejor no saberlo."
+
+#. habla: Gizem
+#, fuzzy
+msgctxt "#14"
+msgid "Is this the Smile Bakery that everyone's talking about? I came all the way from Miltia after hearing about this place."
+msgstr "¿Esta es la Panadería Smile de la que todos hablan? Vine desde Miltia porque me hablaron de este lugar."
+
+#. habla: Gizem
+#, fuzzy
+msgctxt "#15"
+msgid "It seems the baking methods that they use are quite old-fashioned, and that's grabbed the hearts of the people."
+msgstr "Parece que los métodos de horneado que usan son bastante anticuados, y eso conquistó el corazón de la gente."
+
+#. habla: Gizem
+#, fuzzy
+msgctxt "#16"
+msgid "Me? I'm just a gourmet."
+msgstr "¿Yo? Solo soy un gourmet."
+
+#. habla: Gizem
+#, fuzzy
+msgctxt "#17"
+msgid "I stopped by a bar called the Ironman in the next district. The food there is superb!"
+msgstr "Pasé por un bar llamado Ironman, en el distrito de al lado. ¡La comida es excelente!"
+
+#. habla: Gizem
+#, fuzzy
+msgctxt "#18"
+msgid "The food at the Ironman is four-star quality! I never expected a chef of that caliber to be in a place like that."
+msgstr "La comida del Ironman es de calidad cuatro estrellas. Nunca esperé que hubiera un chef de ese nivel en un lugar así."
+
+#. habla: Gizem
+#, fuzzy
+msgctxt "#19"
+msgid "But I must have offended him in some way because he suddenly kicked me out of the bar!"
+msgstr "¡Pero debo haberlo ofendido de alguna forma, porque de repente me echó del bar!"
+
+#. habla: Gizem
+#, fuzzy
+msgctxt "#20"
+msgid "What's that? Have I been to Moby Dick's Café on Second Miltia? Of course! It's truly a hidden treasure! I'm a big fan!"
+msgstr "¿Qué dices? ¿Si fui al Moby Dick's Café, en Segunda Miltia? ¡Por supuesto! ¡Es un verdadero tesoro escondido! ¡Soy un gran admirador!"
+
+#. habla: Gizem
+#, fuzzy
+msgctxt "#21"
+msgid "Moby Dick's curry is especially great! It uses gourmet ingredients, yet stays within the framework of everyday cooking. And that mild feeling hidden within its spiciness could only be brought out by a master chef. It's the ultimate in home style cooking!"
+msgstr "¡El curry del Moby Dick's es especialmente bueno! Usa ingredientes gourmet, pero sin salirse del marco de la cocina de todos los días. Y esa suavidad escondida dentro de lo picante solo la podría lograr un maestro de la cocina. ¡Es lo máximo en comida casera!"
+
+#. habla: Gizem
+#, fuzzy
+msgctxt "#22"
+msgid "But when I heard that they'd hired a youngster to help out over there, I went to see if they might be losing their distinctive taste. Well, it seems the new chef's dishes are carrying on the owner's style almost perfectly. But I sense a hesitation in the flavor somewhere. I heard he's young, though, so perhaps he's just getting started."
+msgstr "Pero cuando supe que habían contratado a un joven para ayudar, fui a ver si estaban perdiendo su sabor característico. Bueno, parece que los platos del nuevo chef continúan el estilo del dueño casi a la perfección. Pero noto cierta inseguridad en el sabor. Aunque escuché que es joven, así que quizá apenas está empezando."
+
+#. habla: Axel
+#, fuzzy
+msgctxt "#23"
+msgid "Oh, Little Master! It's me! Axel! The one that was in King's gang! I've decided to separate myself from King now, though. Now, I've wound up with Johnny. Anyway, I'm working here at the Smile Bakery!"
+msgstr "¡Oh, joven amo! ¡Soy yo! ¡Axel! ¡El que estaba en la pandilla de King! Aunque ahora decidí separarme de King. Ahora terminé con Johnny. En fin, ¡trabajo aquí en la Panadería Smile!"
+
+#. habla: Axel
+#, fuzzy
+msgctxt "#24"
+msgid "The gang life? Well, it was kind of carefree and easy, but while I was in the militia on the Durandal, I decided I wanted to do a job that would be useful to the people."
+msgstr "¿La vida de pandilla? Bueno, era bastante despreocupada y fácil, pero mientras estuve en la milicia del Durandal, decidí que quería hacer un trabajo útil para la gente."
+
+#. habla: Axel
+#, fuzzy
+msgctxt "#25"
+msgid "The rest of the people who were with King? I hope they're all doing well."
+msgstr "¿El resto de los que estaban con King? Espero que estén todos bien."
+
+#. habla: Axel
+#, fuzzy
+msgctxt "#26"
+msgid "You want to know who I am? I'm glad you asked! I'm the greatest hell-raiser there is, the one and only Axel!"
+msgstr "¿Quieres saber quién soy? ¡Me alegra que preguntes! ¡Soy el mayor alborotador que existe, el único e inigualable Axel!"
+
+#. habla: Axel
+#, fuzzy
+msgctxt "#27"
+msgid "Do you remember me? I worked for King, but I told him I was tired of him and ran off! Heh, just kidding! Actually, I owe him a lot. When I tried to repay him for the things he'd done for me, he told me I would be better off spending my time helping others. He's a real man!"
+msgstr "¿Se acuerda de mí? Trabajaba para King, ¡pero le dije que estaba harto de él y me escapé! Je, ¡es broma! En realidad le debo mucho. Cuando intenté devolverle todo lo que hizo por mí, me dijo que mejor dedicara mi tiempo a ayudar a los demás. ¡Es todo un hombre!"
+
+#. habla: Axel
+#, fuzzy
+msgctxt "#28"
+msgid "Just what is Johnny planning this time?"
+msgstr "¿Qué estará planeando Johnny esta vez?"
+
+#. habla: Axel
+#, fuzzy
+msgctxt "#29"
+msgid "Ah, are you a customer? I'll take you at the register...wait, it's you. Johnny's project? You have to ask him yourself! He won't tell me anything!"
+msgstr "Ah, ¿es cliente? Lo atiendo en la caja... un momento, es usted. ¿El proyecto de Johnny? ¡Tiene que preguntárselo a él! ¡A mí no me cuenta nada!"
+
+#. habla: Axel
+#, fuzzy
+msgctxt "#30"
+msgid "The only thing I know about the project is that its key phrase is \"rock-paper-scissors!\" Well, I hope it's better than that goldfish-scooping campaign."
+msgstr "Lo único que sé del proyecto es que su frase clave es \"¡piedra, papel o tijera!\". Bueno, espero que sea mejor que esa campaña de pesca de pececitos de colores."
+
+#. habla: Vilmos
+#, fuzzy
+msgctxt "#31"
+msgid "Did you come to buy A.G.W.S. bread, too, Jr.?"
+msgstr "¿Tú también viniste a comprar pan A.G.W.S., Jr.?"
+
+#. habla: Vilmos
+#, fuzzy
+msgctxt "#32"
+msgid "My six-year-old boy absolutely loves the Smile Bakery's A.G.W.S. bread!"
+msgstr "¡A mi hijo de seis años le encanta el pan A.G.W.S. de la Panadería Smile!"
+
+#. habla: Vilmos
+#, fuzzy
+msgctxt "#33"
+msgid "Oh, my, I'm sorry. I forgot. You're an adult!"
+msgstr "Ay, perdón. Me olvidé. ¡Tú eres un adulto!"
+
+#. habla: Vilmos
+#, fuzzy
+msgctxt "#34"
+msgid "*Sigh* It's so much trouble handling a lot of kids! They're all hungry and waiting to eat!"
+msgstr "*Suspiro* ¡Cuántos problemas da cuidar a tantos niños! ¡Todos tienen hambre y esperan para comer!"
+
+#. habla: Vilmos
+#, fuzzy
+msgctxt "#35"
+msgid "Speaking of troublesome children, I heard Sheila at the cleaners has her hands full. Dominic is playing jokes on everyone, while she's about to have her second baby!"
+msgstr "Hablando de niños que dan problemas, escuché que Sheila, la de la tintorería, está desbordada. ¡Dominic le hace bromas a todo el mundo, y ella está por tener su segundo bebé!"
+
+#. habla: Vilmos
+#, fuzzy
+msgctxt "#36"
+msgid "But Dominic has calmed down lately. When a troublemaker like that gets quiet, that's a sign he's planning something! My little ones are the same way. When you think of it that way, Johnny's not much different from my kids!"
+msgstr "Pero últimamente Dominic se calmó. ¡Cuando un revoltoso así se queda tranquilo, es señal de que está planeando algo! Mis pequeños son iguales. Si lo piensas así, ¡Johnny no es muy distinto de mis hijos!"
+
+#. habla: Vilmos
+#, fuzzy
+msgctxt "#37"
+msgid "A.G.W.S. bread...Now that I think about it, Layla over at the hotel likes it, too."
+msgstr "Pan A.G.W.S... Ahora que lo pienso, a Layla, la del hotel, también le gusta."
+
+#. habla: Vilmos
+#, fuzzy
+msgctxt "#38"
+msgid "I know! I think I'll give Layla some A.G.W.S. bread! I'm sure that'll make her happy!"
+msgstr "¡Ya sé! ¡Creo que le voy a llevar pan A.G.W.S. a Layla! ¡Seguro que se pone contenta!"
+
+#. habla: Diego
+#, fuzzy
+msgctxt "#39"
+msgid "Let's see, what have we here? Fluffy, freshly baked sweet bread...I love this stuff. It looks a little like you-know-what. Hehehehe."
+msgstr "A ver, ¿qué tenemos aquí? Pan dulce esponjoso y recién horneado... Me encanta. Se parece un poco a ya sabes qué. Jejejeje."
+
+#. habla: Diego
+#, fuzzy
+msgctxt "#40"
+msgid "Oh! Jr.?! What are you doing here?!"
+msgstr "¡Oh! ¡¿Jr.?! ¡¿Qué haces aquí?!"
+
+#. habla: Diego
+#, fuzzy
+msgctxt "#41"
+msgid "Ah, I meant, um, you know, the sweet bread looks just like delicious mushrooms! Haha!"
+msgstr "Ah, quise decir, eh, ya sabes, ¡que el pan dulce se parece a unos hongos deliciosos! ¡Jaja!"
+
+#. habla: Diego
+#, fuzzy
+msgctxt "#42"
+msgid "Haha! I heard the news! That chicken, Johnny, is up to something again!"
+msgstr "¡Jaja! ¡Me enteré de la noticia! ¡Ese gallina de Johnny está tramando algo otra vez!"
+
+#. habla: Diego
+#, fuzzy
+msgctxt "#43"
+msgid "You gotta give him some credit! So, what's he up to this time?"
+msgstr "¡Hay que reconocerle el mérito! Y bien, ¿qué está tramando esta vez?"
+
+#. habla: Diego
+#, fuzzy
+msgctxt "#44"
+msgid "His last project was the \"Goldfish-scooping and bread festival.\" It was a big flop."
+msgstr "Su último proyecto fue el \"Festival del pan y la pesca de pececitos de colores\". Fue un fracaso total."
+
+#. habla: Diego
+#, fuzzy
+msgctxt "#45"
+msgid "Johnny and King seem to still be friends! Johnny was the only man to show up when Josephine was born."
+msgstr "¡Parece que Johnny y King siguen siendo amigos! Johnny fue el único hombre que apareció cuando nació Josephine."
+
+#. habla: Diego
+#, fuzzy
+msgctxt "#46"
+msgid "Josephine's such a cute cat. I wish I had a cat like that."
+msgstr "Josephine es un gato tan lindo. Ojalá yo tuviera un gato así."
+
+#, fuzzy
+msgctxt "#47"
+msgid "The vibration checker is reacting. What would you like to do?"
+msgstr "El detector de vibraciones está reaccionando. ¿Qué quieres hacer?"
+
+#, fuzzy
+msgctxt "#48"
+msgid ""
+"Check the reaction again.\n"
+"Leave it alone.\n"
+"Register it as the matching ring and pick it up."
+msgstr ""
+"Volver a revisar la reacción.\n"
+"Dejarlo.\n"
+"Registrarlo como el anillo correcto y recogerlo."
+
+#, fuzzy
+msgctxt "#49"
+msgid "Reaction check complete."
+msgstr "Revisión de la reacción completa."
+
+#, fuzzy
+msgctxt "#50"
+msgid "You left the ring alone."
+msgstr "Dejaste el anillo."
+
+#, fuzzy
+msgctxt "#51"
+msgid "Once you pick up a ring, the vibration checker will cease functioning. You will not be able to search for rings anymore. Are you sure?"
+msgstr "Una vez que recojas un anillo, el detector de vibraciones dejará de funcionar. Ya no podrás buscar anillos. ¿Continuar?"
+
+#. Opciones: una por línea. Mantener 2 líneas en el mismo orden.
+#, fuzzy
+msgctxt "#52"
+msgid ""
+"Yes.\n"
+"No, don't pick it up."
+msgstr ""
+"Sí.\n"
+"No, no recogerlo."
+
+#, fuzzy
+msgctxt "#53"
+msgid "You obtained an Engagement Ring!"
+msgstr "¡Obtuviste un Anillo de compromiso!"

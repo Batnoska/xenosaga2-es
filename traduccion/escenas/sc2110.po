@@ -1,0 +1,43 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Xenosaga Episode II - traducción al español\n"
+"Language: es_419\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Xeno-Source: 0:cf/en/sc2110.sbl\n"
+
+#. habla: Rubedo
+#, fuzzy
+msgctxt "#5"
+msgid "The target point is the beach. We should reach it if we proceed north through the forest. Let's go! "
+msgstr "El punto objetivo es la playa. Deberíamos llegar si avanzamos hacia el norte por el bosque. ¡Vamos!"
+
+#. habla: Hugo's Memo
+#, fuzzy
+msgctxt "#6"
+msgid "Blue skies and white clouds, but I'm stuck here in this dark room. I really envy them! I am the genius, Bravo Hugo! If you want to disarm my traps, do as I say! \"Behind the sign to the north.\" You can unlock the first trap protection there!"
+msgstr "Cielo azul y nubes blancas, y yo aquí atrapado en esta sala oscura. ¡Qué envidia! ¡Soy el genio Bravo Hugo! ¡Si quieres desactivar mis trampas, haz lo que te digo! \"Detrás del cartel del norte\". ¡Ahí puedes desbloquear la primera protección de trampa!"
+
+#. habla: Hugo's Memo
+#, fuzzy
+msgctxt "#7"
+msgid "I am the genius, Bravo Hugo! \"Behind the sign to the north.\" You can unlock the first trap protection there!"
+msgstr "¡Soy el genio Bravo Hugo! \"Detrás del cartel del norte\". ¡Ahí puedes desbloquear la primera protección de trampa!"
+
+#, fuzzy
+msgctxt "#8"
+msgid "You unlocked Protection 01!"
+msgstr "¡Desbloqueaste la Protección 01!"
+
+#. habla: Hugo's Memo
+#, fuzzy
+msgctxt "#9"
+msgid "Aha! I see you've succeeded in unlocking the first protection! You deserve a \"Bravo!\" as well! But it's not over yet! I've got plenty of layers of protection left. I'm the great genius Bravo Hugo, after all! The next protection is set at the \"place where red flowers bloom.\" You can unlock trap protection 02 there!"
+msgstr "¡Ajá! ¡Veo que lograste desbloquear la primera protección! ¡Tú también te mereces un \"¡Bravo!\"! ¡Pero esto no termina aquí! Todavía me quedan muchas capas de protección. ¡Después de todo, soy el gran genio Bravo Hugo! La siguiente protección está en el \"lugar donde florecen las flores rojas\". ¡Ahí puedes desbloquear la protección de trampa 02!"
+
+#. habla: Hugo's Memo
+#, fuzzy
+msgctxt "#10"
+msgid "The next protection is set at the \"place where red flowers bloom.\" You can unlock trap protection 02 there!"
+msgstr "La siguiente protección está en el \"lugar donde florecen las flores rojas\". ¡Ahí puedes desbloquear la protección de trampa 02!"

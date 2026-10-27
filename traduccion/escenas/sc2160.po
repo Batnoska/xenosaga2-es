@@ -1,0 +1,57 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Xenosaga Episode II - traducción al español\n"
+"Language: es_419\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Xeno-Source: 0:cf/en/sc2160.sbl\n"
+
+#, fuzzy
+msgctxt "#6"
+msgid "Go down?"
+msgstr "¿Bajar?"
+
+#. Opciones: una por línea. Mantener 2 líneas en el mismo orden.
+#, fuzzy
+msgctxt "#7"
+msgid ""
+"Yes\n"
+"No"
+msgstr ""
+"Sí\n"
+"No"
+
+#, fuzzy
+msgctxt "#8"
+msgid "You unlocked Protection 05!"
+msgstr "¡Desbloqueaste la Protección 05!"
+
+#. habla: Hugo's Memo
+#, fuzzy
+msgctxt "#9"
+msgid "Well, well! Did you succeed in unlocking the fifth trap protection? Bravo for that! But there are plenty of people that have made it this far! Now it gets hard! The next protection is set \"on top of the boulder near the shed, where the red flower blooms.\" You can unlock trap protection 06 there!"
+msgstr "¡Vaya, vaya! ¿Lograste desbloquear la quinta protección de trampa? ¡Bravo por eso! ¡Pero mucha gente llegó hasta aquí! ¡Ahora se pone difícil! La siguiente protección está \"encima de la roca cerca del cobertizo, donde florece la flor roja\". ¡Ahí puedes desbloquear la protección de trampa 06!"
+
+#. habla: Hugo's Memo
+#, fuzzy
+msgctxt "#10"
+msgid "The next protection is set \"on top of the boulder near the shed, where the red flower blooms.\" You can unlock trap protection 06 there!"
+msgstr "La siguiente protección está \"encima de la roca cerca del cobertizo, donde florece la flor roja\". ¡Ahí puedes desbloquear la protección de trampa 06!"
+
+#, fuzzy
+msgctxt "#11"
+msgid "You unlocked Protection 08!"
+msgstr "¡Desbloqueaste la Protección 08!"
+
+#. habla: Hugo's Memo
+#, fuzzy
+msgctxt "#12"
+msgid "Well, you've finally made it this far! There're very few people that have done that! In other words, you deserve a \"super bravo!\" There're only two left. Hang in there! The next protection is set on the \"face rock.\" You can unlock trap protection 09 there!"
+msgstr "¡Bueno, por fin llegaste hasta aquí! ¡Muy poca gente lo logró! ¡O sea que te mereces un \"súper bravo\"! Solo quedan dos. ¡Aguanta! La siguiente protección está en la \"roca con cara\". ¡Ahí puedes desbloquear la protección de trampa 09!"
+
+#. habla: Hugo's Memo
+#, fuzzy
+msgctxt "#13"
+msgid "The next protection is set on the \"face rock.\" You can unlock trap protection 09 there!"
+msgstr "La siguiente protección está en la \"roca con cara\". ¡Ahí puedes desbloquear la protección de trampa 09!"

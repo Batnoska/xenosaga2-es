@@ -1,0 +1,122 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Xenosaga Episode II - traducción al español\n"
+"Language: es_419\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Xeno-Source: 0:model/map/en/E2_EVE85.sbl\n"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#1"
+msgid "$zoom13;Regenerate Consciousness"
+msgstr "$zoom13;Regenerar la conciencia"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#3"
+msgid "$zoom13;Regenerate Space-Time"
+msgstr "$zoom13;Regenerar el espacio-tiempo"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#4"
+msgid "$zoom15;$col7AF9FB;Albedo's tension is uplifted!$colc0c0c0;"
+msgstr "$zoom15;$col7AF9FB;¡Albedo está cada vez más exaltado!$colc0c0c0;"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#7"
+msgid "$zoom13;Provocation 5"
+msgstr "$zoom13;Provocación 5"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#9"
+msgid "$zoom13;Provocation 6"
+msgstr "$zoom13;Provocación 6"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#11"
+msgid "$zoom13;Provocation 7"
+msgstr "$zoom13;Provocación 7"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#12"
+msgid "$zoom13;Provocation 8"
+msgstr "$zoom13;Provocación 8"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#14"
+msgid "$zoom13;Provocation 9"
+msgstr "$zoom13;Provocación 9"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#16"
+msgid "$zoom13;Provocation 10"
+msgstr "$zoom13;Provocación 10"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#18"
+msgid "$zoom13;Provocation 1"
+msgstr "$zoom13;Provocación 1"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#20"
+msgid "$zoom13;Provocation 2"
+msgstr "$zoom13;Provocación 2"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#22"
+msgid "$zoom13;Provocation 3"
+msgstr "$zoom13;Provocación 3"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#24"
+msgid "$zoom13;Provocation 4"
+msgstr "$zoom13;Provocación 4"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#26"
+msgid "$zoom13;Resentment"
+msgstr "$zoom13;Resentimiento"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#32"
+msgid "$zoom13;Will to Break Apart"
+msgstr "$zoom13;Voluntad de desgarrar"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#33"
+msgid "$zoom13;Eternal Chain (Aura)"
+msgstr "$zoom13;Cadena eterna (Aura)"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#34"
+msgid "$zoom13;Miracle Star"
+msgstr "$zoom13;Estrella milagrosa"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#35"
+msgid "$zoom13;Ice Blast"
+msgstr "$zoom13;Ráfaga gélida"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#36"
+msgid "$zoom13;Safety Level"
+msgstr "$zoom13;Nivel seguro"

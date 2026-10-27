@@ -1,0 +1,289 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Xenosaga Episode II - traducción al español\n"
+"Language: es_419\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Xeno-Source: 0:cf/en/sc8031.sbl\n"
+"X-Xeno-Tipo: cinematica\n"
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#10"
+msgid "What are you talking about?"
+msgstr "¿De qué está hablando?"
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#. Opciones: una por línea. Mantener 3 líneas en el mismo orden.
+#, fuzzy
+msgctxt "#11"
+msgid ""
+"What reason could there possibly\n"
+"be for the Immigrant Fleet to\n"
+"deploy ships to Second Miltia?"
+msgstr ""
+"¿Qué razón podría tener la Flota\n"
+"de Inmigrantes para desplegar\n"
+"naves hacia Segunda Miltia?"
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#12"
+msgid ""
+"Now, now, let's not be so quick to judge.\n"
+"Let's at least hear what they have to say."
+msgstr ""
+"Vamos, vamos, no nos apresuremos a juzgar.\n"
+"Al menos escuchemos lo que tienen que decir."
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#. Opciones: una por línea. Mantener 2 líneas en el mismo orden.
+#, fuzzy
+msgctxt "#13"
+msgid ""
+"Thank you for allowing me\n"
+"the opportunity to speak."
+msgstr ""
+"Gracias por darme\n"
+"la oportunidad de hablar."
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#14"
+msgid ""
+"Once, in this region of space,\n"
+"there existed the great land of Miltia."
+msgstr ""
+"Antiguamente, en esta región del espacio,\n"
+"existía la gran tierra de Miltia."
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#15"
+msgid ""
+"As you all know, when the unfortunate\n"
+"events occurred fourteen years ago, that land"
+msgstr ""
+"Como todos saben, tras los lamentables\n"
+"sucesos de hace catorce años, esa tierra,"
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#16"
+msgid ""
+"along with mankind's greatest treasure,\n"
+"was sealed away like a cursed past."
+msgstr ""
+"junto con el mayor tesoro de la humanidad,\n"
+"quedó sellada como un pasado maldito."
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#17"
+msgid ""
+"That greatest of treasures originally\n"
+"belonged to all of mankind,"
+msgstr ""
+"Ese gran tesoro originalmente\n"
+"pertenecía a toda la humanidad,"
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#18"
+msgid ""
+"and we of the Immigrant Fleet had been\n"
+"its caretakers from time immemorial."
+msgstr ""
+"y nosotros, la Flota de Inmigrantes, fuimos\n"
+"sus guardianes desde tiempos inmemoriales."
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#19"
+msgid "Now wait just a minute."
+msgstr "Un momento."
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#20"
+msgid ""
+"All Zohar activity currently falls under\n"
+"the jurisdiction of the Federation."
+msgstr ""
+"Toda actividad relacionada con el Zohar está\n"
+"bajo la jurisdicción de la Federación."
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#21"
+msgid ""
+"You aren't trying to monopolize that great\n"
+"treasure for yourselves, now, are you?"
+msgstr ""
+"No estarán intentando quedarse con ese\n"
+"gran tesoro para ustedes solos, ¿verdad?"
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#22"
+msgid "We wouldn't dream of it."
+msgstr "Ni se nos ocurriría."
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#23"
+msgid ""
+"All I am saying is, there are those\n"
+"who would claim it as their own."
+msgstr ""
+"Solo digo que hay quienes\n"
+"querrían reclamarlo como propio."
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#24"
+msgid ""
+"Are you insinuating that the Miltian\n"
+"government would do such a thing?"
+msgstr ""
+"¿Insinúa que el gobierno de\n"
+"Miltia haría algo así?"
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#25"
+msgid ""
+"They have clearly used the events of\n"
+"fourteen years ago to justify their mobilization."
+msgstr ""
+"Está claro que usaron los sucesos de hace\n"
+"catorce años para justificar su movilización."
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#26"
+msgid ""
+"To demonstrate that, they have summoned\n"
+"the great evil, Proto Merkabah,"
+msgstr ""
+"Prueba de ello es que invocaron\n"
+"al gran mal, el Proto Merkabah,"
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#27"
+msgid ""
+"in an attempt to reignite the flames\n"
+"of conflict across the galaxy. "
+msgstr ""
+"en un intento de reavivar las llamas\n"
+"del conflicto en toda la galaxia."
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#28"
+msgid ""
+"They intend to take advantage of\n"
+"the chaos of war to use the relic in\n"
+"Old Miltia for their own self-interests."
+msgstr ""
+"Pretenden aprovechar el caos de la\n"
+"guerra para usar la reliquia de la\n"
+"Antigua Miltia en su propio interés."
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#. Opciones: una por línea. Mantener 2 líneas en el mismo orden.
+#, fuzzy
+msgctxt "#29"
+msgid ""
+"In response to these usurpers,\n"
+"the Miltian government,"
+msgstr ""
+"Frente a estos usurpadores, es decir,\n"
+"el gobierno de Miltia,"
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#30"
+msgid ""
+"we propose to reclaim our\n"
+"long-standing traditional rights\n"
+"to be the caretakers of the relic."
+msgstr ""
+"proponemos recuperar nuestro\n"
+"derecho tradicional y ancestral\n"
+"a ser los guardianes de la reliquia."
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#31"
+msgid ""
+"The incident you speak of was\n"
+"perpetrated by the U-TIC Organization."
+msgstr ""
+"El incidente del que habla lo\n"
+"perpetró la Organización U-TIC."
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#32"
+msgid ""
+"All accusations against the Miltian government\n"
+"were officially cleared, were they not?"
+msgstr ""
+"Todas las acusaciones contra el gobierno de\n"
+"Miltia se descartaron oficialmente, ¿no?"
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#. Opciones: una por línea. Mantener 2 líneas en el mismo orden.
+#, fuzzy
+msgctxt "#33"
+msgid ""
+"I believe there was even\n"
+"evidence provided by Vector."
+msgstr ""
+"Creo que incluso Vector\n"
+"aportó pruebas."
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#34"
+msgid ""
+"Yes. But there are also rumors that\n"
+"Vector is supporting the Miltian government."
+msgstr ""
+"Sí. Pero también hay rumores de que\n"
+"Vector apoya al gobierno de Miltia."
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#. Opciones: una por línea. Mantener 2 líneas en el mismo orden.
+#, fuzzy
+msgctxt "#35"
+msgid ""
+"I wonder just how trustworthy\n"
+"Vector's data really is."
+msgstr ""
+"Me pregunto qué tan confiables\n"
+"son los datos de Vector."
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#. Opciones: una por línea. Mantener 2 líneas en el mismo orden.
+#, fuzzy
+msgctxt "#36"
+msgid ""
+"Where is the Miltian\n"
+"government's representative now?"
+msgstr ""
+"¿Dónde está ahora el representante\n"
+"del gobierno de Miltia?"
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#37"
+msgid ""
+"Where is Representative Helmer? Doesn't\n"
+"he have anything to say in this matter?"
+msgstr ""
+"¿Dónde está el representante Helmer? ¿No\n"
+"tiene nada que decir sobre este asunto?"

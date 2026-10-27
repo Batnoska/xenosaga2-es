@@ -1,0 +1,122 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Xenosaga Episode II - traducción al español\n"
+"Language: es_419\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Xeno-Source: 0:model/map/en/E2_OLM08.sbl\n"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#0"
+msgid "$zoom13;Maximilian G4 (Pierce)"
+msgstr "$zoom13;Maximilian G4 (Perforación)"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#1"
+msgid "$zoom13;Grenade (Fire)"
+msgstr "$zoom13;Granada (Fuego)"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#2"
+msgid "$zoom13;Hyams P88R (Pierce)"
+msgstr "$zoom13;Hyams P88R (Perforación)"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#3"
+msgid "$zoom13;Flash Grenade (L Blind)"
+msgstr "$zoom13;Granada cegadora (Ceguera L)"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#4"
+msgid "$zoom13;Double Tap (Pierce)"
+msgstr "$zoom13;Doble disparo (Perforación)"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#5"
+msgid "$zoom13;Full Magazine Shot (Pierce)"
+msgstr "$zoom13;Cargador completo (Perforación)"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#6"
+msgid "$zoom13;Operation A"
+msgstr "$zoom13;Operación A"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#7"
+msgid "$zoom13;Retreat (Fire)"
+msgstr "$zoom13;Retirada (Fuego)"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#8"
+msgid "$zoom13;Medica"
+msgstr "$zoom13;Medica"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#9"
+msgid "$zoom13;Medeia (Pierce/L Poison)"
+msgstr "$zoom13;Medea (Perforación/Veneno L)"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#10"
+msgid "$zoom13;Ismene (Beam)"
+msgstr "$zoom13;Ismene (Haz)"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#11"
+msgid "$zoom13;Antigone (Beam)"
+msgstr "$zoom13;Antígona (Haz)"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#12"
+msgid "$zoom13;Iphigeneia"
+msgstr "$zoom13;Ifigenia"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#13"
+msgid "$col7AF9FB;$zoom15;Anti-attribute voltage increases!"
+msgstr "$col7AF9FB;$zoom15;¡Aumenta el voltaje antiatributo!"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#14"
+msgid "$col7AF9FB;$zoom15;Anti-attribute voltage at maximum!"
+msgstr "$col7AF9FB;$zoom15;¡Voltaje antiatributo al máximo!"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#15"
+msgid "$zoom13;Clytemnestra (Pierce/Fire/L Slow)"
+msgstr "$zoom13;Clitemnestra (Perforación/Fuego/Lentitud L)"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#16"
+msgid "$zoom13;Elektra (Ice)"
+msgstr "$zoom13;Electra (Hielo)"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#17"
+msgid "$zoom13;Muscle Break (L Heavy)"
+msgstr "$zoom13;Rotura muscular (Pesadez L)"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#18"
+msgid "$zoom13;Break Spirit (L Ether PD)"
+msgstr "$zoom13;Quebrar espíritu (Éter PD L)"

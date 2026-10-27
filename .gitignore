@@ -1,0 +1,15 @@
+# Archivos del juego: nunca al repositorio
+*.iso
+iso_path.txt
+__pycache__/
+*.mo
+
+# work/ tiene lo extraído del juego, las ISO armadas, el kit y los borradores. Solo se suben
+# los scripts de revisión y control que usa la documentación.
+work/*
+!work/control_calidad.py
+!work/dialogos.py
+!work/reemplazar.py
+!work/revision_global.py
+!work/verificar_graficos.py
+!work/verificar_gs.py

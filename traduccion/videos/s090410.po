@@ -1,0 +1,29 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Xenosaga Episode II - traducción al español\n"
+"Language: es_419\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Xeno-Source: 2:movie/en/s090410.txt\n"
+
+#. tiempo 00:20:25
+#. Subtítulo: un tramo de la frase, sincronizado con la voz. Máximo 2 líneas.
+#, fuzzy
+msgctxt "L24"
+msgid "Jr."
+msgstr "Jr."
+
+#. tiempo 00:22:02
+#. Subtítulo: un tramo de la frase, sincronizado con la voz. Máximo 2 líneas.
+#, fuzzy
+msgctxt "L25"
+msgid "Don't trust..."
+msgstr "No confíes..."
+
+#. tiempo 00:24:22
+#. Subtítulo: un tramo de la frase, sincronizado con la voz. Máximo 2 líneas.
+#, fuzzy
+msgctxt "L27"
+msgid "...my...words."
+msgstr "...en mis... palabras."

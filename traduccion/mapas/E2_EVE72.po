@@ -1,0 +1,138 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Xenosaga Episode II - traducción al español\n"
+"Language: es_419\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Xeno-Source: 0:model/map/en/E2_EVE72.sbl\n"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#0"
+msgid "$zoom15;$colc0c0c0;Counter Boost system malfunctioning."
+msgstr "$zoom15;$colc0c0c0;Falla en el sistema de Boost de contraataque."
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#1"
+msgid "$zoom15;$colc0c0c0;Counter Boost system malfunction!"
+msgstr "$zoom15;$colc0c0c0;¡Falla en el sistema de Boost de contraataque!"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#2"
+msgid ""
+"$zoom15;$colc0c0c0;Inversion is leaking fluids!\n"
+"$col7AF9FB;Counter Boost system damaged.$colc0c0c0;"
+msgstr ""
+"$zoom15;$colc0c0c0;¡El Inversion pierde fluidos!\n"
+"$col7AF9FB;Sistema de Boost de contraataque dañado.$colc0c0c0;"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#3"
+msgid "$zoom15;$colc0c0c0;Counter Boost system damaged!$colc0c0c0;"
+msgstr "$zoom15;$colc0c0c0;¡Sistema de Boost de contraataque dañado!$colc0c0c0;"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#4"
+msgid "$zoom15;$colc0c0c0;Counter Boost system$col7AF9FB; begins auto-repair!$colc0c0c0;"
+msgstr "$zoom15;$colc0c0c0;¡El Boost de contraataque$col7AF9FB; se autorrepara!$colc0c0c0;"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#5"
+msgid "$zoom15;$colc0c0c0;Analyzing enemy combat powers.$colc0c0c0;"
+msgstr "$zoom15;$colc0c0c0;Analizando el poder de combate enemigo.$colc0c0c0;"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#6"
+msgid ""
+"$zoom15;$colc0c0c0;Analysis complete.\n"
+"$col7AF9FB;Setting E-C Counter Boost launch plug-in.$colc0c0c0;"
+msgstr ""
+"$zoom15;$colc0c0c0;Análisis completo.\n"
+"$col7AF9FB;Plug-in de Boost de contraataque E-C listo.$colc0c0c0;"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#7"
+msgid ""
+"$zoom15;$colc0c0c0;Analysis complete.\n"
+"$col7AF9FB;Setting B-C Counter Boost launch plug-in.$colc0c0c0;"
+msgstr ""
+"$zoom15;$colc0c0c0;Análisis completo.\n"
+"$col7AF9FB;Plug-in de Boost de contraataque B-C listo.$colc0c0c0;"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#8"
+msgid ""
+"$zoom15;$colc0c0c0;Analysis complete.\n"
+"$col7AF9FB;Setting H-P Counter Boost launch plug-in.$colc0c0c0;"
+msgstr ""
+"$zoom15;$colc0c0c0;Análisis completo.\n"
+"$col7AF9FB;Plug-in de Boost de contraataque H-P listo.$colc0c0c0;"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#9"
+msgid "$zoom15;$col7AF9FB;Analyzing enemy Ether skills.$colc0c0c0;"
+msgstr "$zoom15;$col7AF9FB;Analizando las habilidades de éter enemigas.$colc0c0c0;"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#10"
+msgid "$zoom13;Spiral Ray (Beam)"
+msgstr "$zoom13;Rayo espiral (Haz)"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#11"
+msgid "$zoom13;High-Altitude Guided Laser (Beam)"
+msgstr "$zoom13;Láser guiado de gran altitud (Haz)"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#12"
+msgid "$zoom13;AEE (Beam/Ice/L Ether PD)"
+msgstr "$zoom13;AEE (Haz/Hielo/Éter PD L)"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#13"
+msgid "$zoom13;High Shout (Beam/Thunder/L Charge Down)"
+msgstr "$zoom13;Grito agudo (Haz/Rayo/Menos carga L)"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#14"
+msgid "$zoom13;AEE (Beam/Ice/L Ether DD)"
+msgstr "$zoom13;AEE (Haz/Hielo/Éter DD L)"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#15"
+msgid "$zoom13;Quick"
+msgstr "$zoom13;Rapidez"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#16"
+msgid "$zoom13;Ether Jamming (H Lost)"
+msgstr "$zoom13;Interferencia de éter (Pérdida H)"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#17"
+msgid "$zoom13;Ether Spear"
+msgstr "$zoom13;Lanza de éter"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#18"
+msgid "$zoom13;Refresh H"
+msgstr "$zoom13;Refresh H"

@@ -1,0 +1,13 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Xenosaga Episode II - traducción al español\n"
+"Language: es_419\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Xeno-Source: 0:cf/en/sc5920.sbl\n"
+
+#, fuzzy
+msgctxt "#7"
+msgid "The door is held shut by a mysterious mechanism."
+msgstr "Un mecanismo misterioso mantiene la puerta cerrada."

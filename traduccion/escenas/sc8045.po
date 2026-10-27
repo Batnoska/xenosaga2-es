@@ -1,0 +1,380 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Xenosaga Episode II - traducción al español\n"
+"Language: es_419\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Xeno-Source: 0:cf/en/sc8045.sbl\n"
+"X-Xeno-Tipo: cinematica\n"
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#7"
+msgid "Nephilim..."
+msgstr "Nephilim..."
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#8"
+msgid "So it was you."
+msgstr "Así que eras tú."
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#9"
+msgid "Was this all your doing?"
+msgstr "¿Todo esto fue obra tuya?"
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#10"
+msgid "What's this about?"
+msgstr "¿Qué significa todo esto?"
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#. Opciones: una por línea. Mantener 2 líneas en el mismo orden.
+#, fuzzy
+msgctxt "#11"
+msgid ""
+"What in the world are you and\n"
+"Feb trying to tell me?"
+msgstr ""
+"¿Qué es lo que tú y\n"
+"Feb intentan decirme?"
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#12"
+msgid "Feb is waiting for you."
+msgstr "Feb te está esperando."
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#13"
+msgid "There is no time left."
+msgstr "Ya no queda tiempo."
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#14"
+msgid "Waiting?"
+msgstr "¿Esperando?"
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#15"
+msgid "At that place in my dream?"
+msgstr "¿En ese lugar de mi sueño?"
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#16"
+msgid "Shion."
+msgstr "Shion."
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#17"
+msgid "You must go."
+msgstr "Debes ir."
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#18"
+msgid "And there, you must make an important choice."
+msgstr "Y allí deberás tomar una decisión importante."
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#19"
+msgid "It is for your sake,"
+msgstr "Es por tu bien,"
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#20"
+msgid "as well as theirs."
+msgstr "y también por el de ellos."
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#. Opciones: una por línea. Mantener 2 líneas en el mismo orden.
+#, fuzzy
+msgctxt "#21"
+msgid ""
+"It is something very important\n"
+"to both your past"
+msgstr ""
+"Es algo muy importante\n"
+"tanto para tu pasado"
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#22"
+msgid "and to your future."
+msgstr "como para tu futuro."
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#23"
+msgid "My choice?"
+msgstr "¿Mi decisión?"
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#24"
+msgid "Past? Future? What are you saying?"
+msgstr "¿Pasado? ¿Futuro? ¿Qué estás diciendo?"
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#25"
+msgid "The path has already been opened."
+msgstr "El camino ya está abierto."
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#26"
+msgid "Please grant her this one request."
+msgstr "Por favor, concédele este único pedido."
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#27"
+msgid "The path?"
+msgstr "¿El camino?"
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#28"
+msgid "You mean...Miltia."
+msgstr "Te refieres a... Miltia."
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#29"
+msgid "Feb's sisters are on Miltia!"
+msgstr "¡Las hermanas de Feb están en Miltia!"
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#30"
+msgid "Shion...Hurry."
+msgstr "Shion... Apúrate."
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#31"
+msgid "Before he awakens again."
+msgstr "Antes de que él vuelva a despertar."
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#32"
+msgid "Feb..."
+msgstr "Feb..."
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#33"
+msgid "Save her sisters..."
+msgstr "Salva a sus hermanas..."
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#34"
+msgid "Chief!"
+msgstr "¡Jefa!"
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#35"
+msgid "Are you in there?"
+msgstr "¿Estás ahí?"
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#36"
+msgid "Ah, Chief!"
+msgstr "¡Ah, jefa!"
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#37"
+msgid "You're not busy, are you?"
+msgstr "No estás ocupada, ¿verdad?"
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#38"
+msgid "If it's okay with you I―"
+msgstr "Si te parece bien, yo―"
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#39"
+msgid "I'm sorry, I have to go somewhere now."
+msgstr "Perdón, ahora tengo que ir a un lugar."
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#40"
+msgid "Talk to me later, okay?"
+msgstr "Hablamos después, ¿sí?"
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#41"
+msgid "What? Hey, where are you going in such a hurry?"
+msgstr "¿Qué? Oye, ¿adónde vas tan apurada?"
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#42"
+msgid "Old Miltia."
+msgstr "A la Antigua Miltia."
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#43"
+msgid "Ah, I see. It's very romantic this time of..."
+msgstr "Ah, ya veo. Es muy romántico en esta época del..."
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#44"
+msgid "Wait, Miltia?!"
+msgstr "Espera, ¡¿Miltia?!"
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#45"
+msgid "Wh...wh...whoa! Chief, are you out of your mind?"
+msgstr "¡Ep... ep... epa! Jefa, ¿te volviste loca?"
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#46"
+msgid ""
+"Do you understand what's going on out there?\n"
+"We're on high-security alert!"
+msgstr ""
+"¿Entiendes lo que está pasando allá afuera?\n"
+"¡Estamos en alerta de seguridad máxima!"
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#47"
+msgid "There's a war about to start!"
+msgstr "¡Está por empezar una guerra!"
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#. Opciones: una por línea. Mantener 2 líneas en el mismo orden.
+#, fuzzy
+msgctxt "#48"
+msgid ""
+"Besides, what are you gonna\n"
+"do for transportation?"
+msgstr "Además, ¿en qué piensas viajar?"
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#49"
+msgid ""
+"There's no way the Administrations\n"
+"Bureau's gonna authorize a transfer\n"
+"in a state of emergency!"
+msgstr ""
+"¡La Oficina de Administración jamás\n"
+"autorizaría un traslado\n"
+"en estado de emergencia!"
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#50"
+msgid "It's all right, I've got an idea."
+msgstr "Tranquilo, tengo una idea."
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#51"
+msgid ""
+"There's a transport here on the\n"
+"Dämmerung that Kevin was developing\n"
+"concurrently with KOS-MOS."
+msgstr ""
+"Aquí en el Dämmerung hay un transporte\n"
+"que Kevin desarrollaba\n"
+"al mismo tiempo que KOS-MOS."
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#52"
+msgid ""
+"If I use it, I can travel through hyperspace\n"
+"without going near the U.M.N."
+msgstr ""
+"Si lo uso, puedo viajar por el hiperespacio\n"
+"sin acercarme a la U.M.N."
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#53"
+msgid "Oh, well that makes sen―"
+msgstr "Ah, bueno, eso tiene senti―"
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#54"
+msgid "Wait, what are you saying?!"
+msgstr "Espera, ¡¿qué estás diciendo?!"
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#55"
+msgid "That's a AA Rank secret, even within Vector!"
+msgstr ""
+"¡Es un secreto de rango AA,\n"
+"incluso dentro de Vector!"
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#56"
+msgid "You can't just go and..."
+msgstr "No puedes simplemente..."
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#57"
+msgid "I'm going. I've already made up my mind."
+msgstr "Voy a ir. Ya lo decidí."
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#58"
+msgid "Please, don't try and stop me."
+msgstr "Por favor, no intentes detenerme."
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#59"
+msgid "Oh man."
+msgstr "Ay, no."
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#60"
+msgid "Why did I have to fall for somebody like her?"
+msgstr "¿Por qué tuve que enamorarme de alguien como ella?"
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#61"
+msgid "Hey, Chief!"
+msgstr "¡Oye, jefa!"
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#62"
+msgid "Wait up!"
+msgstr "¡Espérame!"

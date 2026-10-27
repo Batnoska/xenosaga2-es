@@ -1,0 +1,62 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Xenosaga Episode II - traducción al español\n"
+"Language: es_419\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Xeno-Source: 0:cf/en/sc2040.sbl\n"
+
+#. habla: No. 573
+#, fuzzy
+msgctxt "#0"
+msgid "Will Rubedo and the others be infected as well?"
+msgstr "¿Rubedo y los demás también se infectarán?"
+
+#. habla: No. 573
+#, fuzzy
+msgctxt "#1"
+msgid "Three units were infected with U-DO waves during training yesterday."
+msgstr "Ayer se infectaron con ondas de U-DO tres unidades durante el entrenamiento."
+
+#. habla: No. 573
+#, fuzzy
+msgctxt "#2"
+msgid "The infected units will never return to normal."
+msgstr "Las unidades infectadas nunca volverán a la normalidad."
+
+#. habla: Elze
+#, fuzzy
+msgctxt "#3"
+msgid "Hey! Get back to your training! Huh? I thought I just saw No. 666 over there."
+msgstr "¡Oye! ¡Vuelve a tu entrenamiento! ¿Eh? Me pareció ver al N.º 666 por allá."
+
+#. habla: Elze
+#, fuzzy
+msgctxt "#4"
+msgid "This place is always so dark and gloomy."
+msgstr "Este lugar siempre es tan oscuro y lúgubre."
+
+#. habla: Elze
+#, fuzzy
+msgctxt "#5"
+msgid "I always see U.R.T.V.s deep in the forest. Do they like cold, damp places?"
+msgstr "Siempre veo U.R.T.V. en lo profundo del bosque. ¿Les gustan los lugares fríos y húmedos?"
+
+#. habla: No. 498
+#, fuzzy
+msgctxt "#6"
+msgid "Male type wavelength?"
+msgstr "¿Longitud de onda de tipo masculino?"
+
+#. habla: No. 498
+#, fuzzy
+msgctxt "#7"
+msgid "I'll make the grave here. Albedo was making a grave, so I'm sure they won't get mad at me."
+msgstr "Voy a hacer la tumba aquí. Albedo estaba haciendo una tumba, así que seguro que no se van a enojar conmigo."
+
+#. habla: No. 498
+#, fuzzy
+msgctxt "#8"
+msgid "Citrine may get mad, but I want to make a grave for him."
+msgstr "Quizá Citrine se enoje, pero quiero hacerle una tumba."

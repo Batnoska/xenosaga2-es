@@ -1,0 +1,566 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Xenosaga Episode II - traducción al español\n"
+"Language: es_419\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Xeno-Source: 0:model/map/en/E2_EXA04.sbl\n"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#0"
+msgid "$zoom15;$col7AF9FB;Scarabeille is surprised by the visitors!$colc0c0c0;"
+msgstr "$zoom15;$col7AF9FB;¡Scarabeille se sorprende con los visitantes!$colc0c0c0;"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#1"
+msgid "$zoom15;$col7AF9FB;Scarabeille bows to the visitors.$colc0c0c0;"
+msgstr "$zoom15;$col7AF9FB;Scarabeille hace una reverencia a los visitantes.$colc0c0c0;"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#2"
+msgid "$zoom15;$col7AF9FB;Scarabeille decides the visitors are enemies!$colc0c0c0;"
+msgstr "$zoom15;$col7AF9FB;¡Scarabeille decide que los visitantes son enemigos!$colc0c0c0;"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#3"
+msgid "$zoom15;$col7AF9FB;Scarabeille decides the visitors are uncivilized!$colc0c0c0;"
+msgstr "$zoom15;$col7AF9FB;¡Scarabeille cree que los visitantes son salvajes!$colc0c0c0;"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#4"
+msgid "$zoom15;$col7AF9FB;Scarabeille is cautious.$colc0c0c0;"
+msgstr "$zoom15;$col7AF9FB;Scarabeille está en guardia.$colc0c0c0;"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#5"
+msgid "$zoom15;$col7AF9FB;Scarabeille increases gear speed!$colc0c0c0;"
+msgstr "$zoom15;$col7AF9FB;¡Scarabeille sube de marcha!$colc0c0c0;"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#6"
+msgid ""
+"$zoom15;$colc0c0c0;Scarabeille accelerates to the highest\n"
+"gear and reaches the $col7AF9FB;speed of sound!$colc0c0c0;"
+msgstr ""
+"$zoom15;$colc0c0c0;¡Scarabeille pone la marcha más alta\n"
+"y alcanza la $col7AF9FB;velocidad del sonido!$colc0c0c0;"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#7"
+msgid "$zoom15;$col7AF9FB;It seems rather mad!$colc0c0c0;"
+msgstr "$zoom15;$col7AF9FB;¡Parece bastante enojado!$colc0c0c0;"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#8"
+msgid "$zoom15;$col7AF9FB;Scarabeille is tired!$colc0c0c0;"
+msgstr "$zoom15;$col7AF9FB;¡Scarabeille está cansado!$colc0c0c0;"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#9"
+msgid ""
+"$zoom15;$col7AF9FB;Scarabeille breaks the sound barrier\n"
+"and reaches the speed of light!$colc0c0c0;"
+msgstr ""
+"$zoom15;$col7AF9FB;¡Scarabeille rompe la barrera del sonido\n"
+"y alcanza la velocidad de la luz!$colc0c0c0;"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#10"
+msgid "$zoom15;$col7AF9FB;How far will Scarabeille go?!$colc0c0c0;"
+msgstr "$zoom15;$col7AF9FB;¡¿Hasta dónde llegará Scarabeille?!$colc0c0c0;"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#11"
+msgid "$zoom13;Blade Attack (Slash)"
+msgstr "$zoom13;Ataque de cuchilla (Corte)"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#12"
+msgid "$zoom13;Dream Sting (Pierce/L Stun)"
+msgstr "$zoom13;Aguijón onírico (Perforación/Aturdimiento L)"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#13"
+msgid "$zoom13;Compressed Wave Cannon (Beam)"
+msgstr "$zoom13;Cañón de ondas comprimidas (Haz)"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#14"
+msgid "$zoom13;Gravestone Bind (H Bind)"
+msgstr "$zoom13;Atadura sepulcral (Atadura H)"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#15"
+msgid "$zoom13;Quick"
+msgstr "$zoom13;Rapidez"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#16"
+msgid "$zoom13;Decaying Gas (L Poison)"
+msgstr "$zoom13;Gas putrefacto (Veneno L)"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#17"
+msgid "$zoom13;Refresh H"
+msgstr "$zoom13;Refresh H"
+
+#, fuzzy
+msgctxt "#18"
+msgid "faceA"
+msgstr "faceA"
+
+#, fuzzy
+msgctxt "#19"
+msgid "faceB"
+msgstr "faceB"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#20"
+msgid "$zoom15;$colFAB2AA;Who goes there?$colc0c0c0;"
+msgstr "$zoom15;$colFAB2AA;¿Quién anda ahí?$colc0c0c0;"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#21"
+msgid "$zoom15;$colFAB2AA;Our name is Mikumari.$colc0c0c0;"
+msgstr "$zoom15;$colFAB2AA;Nuestro nombre es Mikumari.$colc0c0c0;"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#22"
+msgid "$zoom15;$colFAB2AA;Worship us and sing our praises!$colc0c0c0;"
+msgstr "$zoom15;$colFAB2AA;¡Adórennos y canten nuestras alabanzas!$colc0c0c0;"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#23"
+msgid "$zoom15;$colFAB2AA;Our children...We have cleansed you...$colc0c0c0;"
+msgstr "$zoom15;$colFAB2AA;Hijos nuestros... Los hemos purificado...$colc0c0c0;"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#24"
+msgid "$zoom15;$colFAB2AA;...of your sins.$colc0c0c0;"
+msgstr "$zoom15;$colFAB2AA;...de sus pecados.$colc0c0c0;"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#25"
+msgid "$zoom15;$colFAB2AA;What's taking you so long?●$colc0c0c0;"
+msgstr "$zoom15;$colFAB2AA;¿Por qué tardan tanto?●$colc0c0c0;"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#26"
+msgid "$zoom15;$colFAB2AA;Your presence is beginning to bore us!●$colc0c0c0;"
+msgstr "$zoom15;$colFAB2AA;¡Su presencia empieza a aburrirnos!●$colc0c0c0;"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#27"
+msgid "$zoom15;$colFAB2AA;Are you finished yet?●$colc0c0c0;"
+msgstr "$zoom15;$colFAB2AA;¿Ya terminaron?●$colc0c0c0;"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#28"
+msgid "$zoom15;$colFAB2AA;Hey! We are not some wind-up toy!$colc0c0c0;"
+msgstr "$zoom15;$colFAB2AA;¡Oigan! ¡No somos un juguete de cuerda!$colc0c0c0;"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#29"
+msgid "$zoom15;$col7AF9FB;It appears you've angered Mikumari.●$colc0c0c0;"
+msgstr "$zoom15;$col7AF9FB;Parece que hiciste enojar a Mikumari.●$colc0c0c0;"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#30"
+msgid "$zoom15;$colFAB2AA;Don't bother me!$colc0c0c0;"
+msgstr "$zoom15;$colFAB2AA;¡No me molesten!$colc0c0c0;"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#31"
+msgid "$zoom15;$col7AF9FB;You have offended Mikumari!●$colc0c0c0;"
+msgstr "$zoom15;$col7AF9FB;¡Ofendiste a Mikumari!●$colc0c0c0;"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#32"
+msgid "$zoom15;$colFAB2AA;Ah yes! That is good!$colc0c0c0;"
+msgstr "$zoom15;$colFAB2AA;¡Ah, sí! ¡Eso está bien!$colc0c0c0;"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#33"
+msgid "$zoom15;$col7AF9FB;You have pleased Mikumari.●$colc0c0c0;"
+msgstr "$zoom15;$col7AF9FB;Complaciste a Mikumari.●$colc0c0c0;"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#34"
+msgid "$zoom15;$colFAB2AA;Oh! Congratulations are in order!$colc0c0c0;"
+msgstr "$zoom15;$colFAB2AA;¡Oh! ¡Hay que felicitarlos!$colc0c0c0;"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#35"
+msgid ""
+"$zoom15;$col7AF9FB;It seems that it has grown happy\n"
+"and has weakened its attacks.●$colc0c0c0;"
+msgstr ""
+"$zoom15;$col7AF9FB;Parece que se puso contento\n"
+"y debilitó sus ataques.●$colc0c0c0;"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#36"
+msgid "$zoom15;$colFAB2AA;How unfortunate!$colc0c0c0;"
+msgstr "$zoom15;$colFAB2AA;¡Qué lástima!$colc0c0c0;"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#37"
+msgid "$zoom15;$colFAB2AA;Yes, now there's our good child...$colc0c0c0;"
+msgstr "$zoom15;$colFAB2AA;Sí, así se porta un buen hijo...$colc0c0c0;"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#38"
+msgid "$zoom15;$colFAB2AA;With our very breath,$colc0c0c0;"
+msgstr "$zoom15;$colFAB2AA;Con nuestro propio aliento,$colc0c0c0;"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#39"
+msgid "$zoom15;$colFAB2AA;we will purge you of your sins!$colc0c0c0;"
+msgstr "$zoom15;$colFAB2AA;¡los purgaremos de sus pecados!$colc0c0c0;"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#40"
+msgid "$zoom15;$col7AF9FB;It seems like Mikumari's parameters improved.●$colc0c0c0;"
+msgstr "$zoom15;$col7AF9FB;Parece que Mikumari mejoró sus parámetros.●$colc0c0c0;"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#41"
+msgid "$zoom15;$colFAB2AA;Just who do you think you are?!$colc0c0c0;"
+msgstr "$zoom15;$colFAB2AA;¡¿Quiénes se creen que son?!$colc0c0c0;"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#42"
+msgid ""
+"$zoom15;$col7AF9FB;It seems like Mikumari's parameters\n"
+"have changed to a special attack mode.●$colc0c0c0;"
+msgstr ""
+"$zoom15;$col7AF9FB;Parece que los parámetros de Mikumari\n"
+"cambiaron a modo de ataque especial.●$colc0c0c0;"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#43"
+msgid ""
+"$zoom15;$colFAB2AA;This world is darkness!\n"
+"Everything is darkness!$colc0c0c0;"
+msgstr ""
+"$zoom15;$colFAB2AA;¡Este mundo es oscuridad!\n"
+"¡Todo es oscuridad!$colc0c0c0;"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#44"
+msgid ""
+"$zoom15;$col7AF9FB;It seems like Mikumari's parameters\n"
+"have reached their final levels.●$colc0c0c0;"
+msgstr ""
+"$zoom15;$col7AF9FB;Parece que los parámetros de Mikumari\n"
+"llegaron a su nivel final.●$colc0c0c0;"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#45"
+msgid "$zoom15;$col7AF9FB;It's changing into creeping mode.●$colc0c0c0;"
+msgstr "$zoom15;$col7AF9FB;Está cambiando a modo reptante.●$colc0c0c0;"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#46"
+msgid "$zoom13;Vengeance (Slash)"
+msgstr "$zoom13;Venganza (Corte)"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#47"
+msgid "$zoom15;$colFAB2AA;Feel the resentment of our children!$colc0c0c0;"
+msgstr "$zoom15;$colFAB2AA;¡Sientan el rencor de nuestros hijos!$colc0c0c0;"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#48"
+msgid "$zoom13;Between Heaven and Earth (Thunder/L Charge Down)"
+msgstr "$zoom13;Entre el cielo y la tierra (Rayo/Menos carga L)"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#49"
+msgid "$zoom15;$colFAB2AA;You shall feel our rage!$colc0c0c0;"
+msgstr "$zoom15;$colFAB2AA;¡Sentirán nuestra ira!$colc0c0c0;"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#50"
+msgid ""
+"$zoom15;$colFAB2AA;God of Heaven! God of Earth!\n"
+"Come together as one!$colc0c0c0;"
+msgstr ""
+"$zoom15;$colFAB2AA;¡Dios del Cielo! ¡Dios de la Tierra!\n"
+"¡Fúndanse en uno solo!$colc0c0c0;"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#51"
+msgid "$zoom13;Purge Filth (Strike/Fire/L Slow)"
+msgstr "$zoom13;Purgar la inmundicia (Golpe/Fuego/Lentitud L)"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#52"
+msgid "$zoom15;$colFAB2AA;Fear us! We are a god!$colc0c0c0;"
+msgstr "$zoom15;$colFAB2AA;¡Témannos! ¡Somos un dios!$colc0c0c0;"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#53"
+msgid "$zoom13;Creeping in the Dark (Ice/L Blind)"
+msgstr "$zoom13;Reptar en la oscuridad (Hielo/Ceguera L)"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#54"
+msgid "$zoom15;$colFAB2AA;Here in the shadow of heaven,$colc0c0c0;"
+msgstr "$zoom15;$colFAB2AA;Aquí, a la sombra del cielo,$colc0c0c0;"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#55"
+msgid "$zoom15;$colFAB2AA;you will know our darkness!$colc0c0c0;"
+msgstr "$zoom15;$colFAB2AA;¡conocerán nuestra oscuridad!$colc0c0c0;"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#56"
+msgid "$zoom13;Creeping"
+msgstr "$zoom13;Reptar"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#57"
+msgid "$zoom15;$colFAB2AA;We crawl down the path of darkness!$colc0c0c0;"
+msgstr "$zoom15;$colFAB2AA;¡Reptamos por el sendero de la oscuridad!$colc0c0c0;"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#58"
+msgid "$zoom13;Purification"
+msgstr "$zoom13;Purificación"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#59"
+msgid "$zoom15;$colFAB2AA;We have been reborn pure!$colc0c0c0;"
+msgstr "$zoom15;$colFAB2AA;¡Renacimos puros!$colc0c0c0;"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#60"
+msgid "$zoom13;Rebirth (Heal All)"
+msgstr "$zoom13;Renacimiento (Curar a todos)"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#61"
+msgid "$zoom15;$colFAB2AA;Our precious children...$colc0c0c0;"
+msgstr "$zoom15;$colFAB2AA;Nuestros preciados hijos...$colc0c0c0;"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#62"
+msgid "$zoom13;Resentment (Pierce)"
+msgstr "$zoom13;Resentimiento (Perforación)"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#63"
+msgid "$zoom15;$colFAB2AA;Which one should feel our wrath?$colc0c0c0;"
+msgstr "$zoom15;$colFAB2AA;¿Quién debería sentir nuestra ira?$colc0c0c0;"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#64"
+msgid ""
+"$zoom15;$colFAB2AA;Enemy of our children!\n"
+"We shall strike you down!$colc0c0c0;"
+msgstr ""
+"$zoom15;$colFAB2AA;¡Enemigo de nuestros hijos!\n"
+"¡Te aniquilaremos!$colc0c0c0;"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#65"
+msgid "$zoom13;Good Deed (Aura)"
+msgstr "$zoom13;Buena obra (Aura)"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#66"
+msgid "$zoom15;$colFAB2AA;Our darling children!$colc0c0c0;"
+msgstr "$zoom15;$colFAB2AA;¡Nuestros queridos hijos!$colc0c0c0;"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#67"
+msgid "$zoom13;Ill Words (Thunder)"
+msgstr "$zoom13;Palabras malditas (Rayo)"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#68"
+msgid "$zoom15;$colFAB2AA;You are annoying us!$colc0c0c0;"
+msgstr "$zoom15;$colFAB2AA;¡Nos están molestando!$colc0c0c0;"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#69"
+msgid "$zoom13;Healing Waters (Medica 2)"
+msgstr "$zoom13;Aguas sanadoras (Medica 2)"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#70"
+msgid "$zoom15;$colFAB2AA;Ah, sweet waters of life...$colc0c0c0;"
+msgstr "$zoom15;$colFAB2AA;Ah, dulces aguas de la vida...$colc0c0c0;"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#71"
+msgid "$zoom13;Holy Water (Refresh L)"
+msgstr "$zoom13;Agua bendita (Refresh L)"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#72"
+msgid "$zoom15;$colFAB2AA;Your happiness pleases us...$colc0c0c0;"
+msgstr "$zoom15;$colFAB2AA;Su felicidad nos complace...$colc0c0c0;"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#73"
+msgid "$zoom13;Holy Water (Refresh H)"
+msgstr "$zoom13;Agua bendita (Refresh H)"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#74"
+msgid "$zoom13;Devour Heart (EP Drain)"
+msgstr "$zoom13;Devorar corazón (Drenar EP)"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#75"
+msgid "$zoom15;$colFAB2AA;Feel our sorrow!$colc0c0c0;"
+msgstr "$zoom15;$colFAB2AA;¡Sientan nuestra pena!$colc0c0c0;"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#76"
+msgid "$zoom15;$colFAB2AA;We are not some toy...$colc0c0c0;"
+msgstr "$zoom15;$colFAB2AA;No somos un juguete...$colc0c0c0;"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#77"
+msgid ""
+"$zoom15;$col7AF9FB;It seems like it doesn't want\n"
+"you to cast Break Ethers.●$colc0c0c0;"
+msgstr ""
+"$zoom15;$col7AF9FB;Parece que no quiere\n"
+"que uses éteres de tipo Romper.●$colc0c0c0;"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#78"
+msgid ""
+"$zoom15;$colFAB2AA;Worship us! Kneel before\n"
+"us and sing our praises!$colc0c0c0;"
+msgstr ""
+"$zoom15;$colFAB2AA;¡Adórennos! ¡Arrodíllense ante\n"
+"nosotros y canten alabanzas!$colc0c0c0;"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#79"
+msgid ""
+"$zoom15;$colFAB2AA;Our children, we shall grant\n"
+"you some of our life.$colc0c0c0;"
+msgstr ""
+"$zoom15;$colFAB2AA;Hijos nuestros, les concederemos\n"
+"un poco de nuestra vida.$colc0c0c0;"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#80"
+msgid "$zoom15;$col7AF9FB;It seems like it wants to heal you.●$colc0c0c0;"
+msgstr "$zoom15;$col7AF9FB;Parece que quiere curarte.●$colc0c0c0;"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#81"
+msgid "$zoom15;$colFAB2AA;We are alive.$colc0c0c0;"
+msgstr "$zoom15;$colFAB2AA;Estamos vivos.$colc0c0c0;"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#82"
+msgid "$zoom15;$col7AF9FB;It seems like it wants you to cast Down Ethers.●$colc0c0c0;"
+msgstr "$zoom15;$col7AF9FB;Parece que quiere que uses éteres de tipo Bajar.●$colc0c0c0;"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#83"
+msgid "$zoom15;$colFAB2AA;We loathe you white things...$colc0c0c0;"
+msgstr "$zoom15;$colFAB2AA;Los aborrecemos, cosas blancas...$colc0c0c0;"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#84"
+msgid "$zoom15;$colFAB2AA;We loathe you pink things...$colc0c0c0;"
+msgstr "$zoom15;$colFAB2AA;Los aborrecemos, cosas rosadas...$colc0c0c0;"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#85"
+msgid "$zoom15;$colFAB2AA;We loathe you blue things...$colc0c0c0;"
+msgstr "$zoom15;$colFAB2AA;Los aborrecemos, cosas azules...$colc0c0c0;"

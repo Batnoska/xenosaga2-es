@@ -1,0 +1,101 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Xenosaga Episode II - traducción al español\n"
+"Language: es_419\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Xeno-Source: 0:cf/en/sc1510.sbl\n"
+
+#. habla: Second Miltia Transportation Bureau
+#, fuzzy
+msgctxt "#2"
+msgid "This is an announcement from the Transportation Bureau. Shuttle flights to the Durandal have now resumed. Passengers wishing to board, please proceed to the space port."
+msgstr "Anuncio de la Oficina de Transporte. Se reanudaron los vuelos de lanzadera al Durandal. Los pasajeros que deseen embarcar, diríjanse al puerto espacial."
+
+#. habla: chaos
+#, fuzzy
+msgctxt "#3"
+msgid "MOMO and the others are waiting. I better get to the U.M.N. Control Center!"
+msgstr "MOMO y los demás están esperando. ¡Mejor voy al Centro de Control de la U.M.N.!"
+
+#. habla: Shion
+#, fuzzy
+msgctxt "#4"
+msgid "Well, there's no point in getting upset about it. I guess I'll go to the city and have a look around."
+msgstr "Bueno, no tiene sentido enojarse por eso. Supongo que iré a la ciudad a dar una vuelta."
+
+#. habla: Shion
+#, fuzzy
+msgctxt "#5"
+msgid "I have to hurry! I'll be right there, MOMO!"
+msgstr "¡Tengo que darme prisa! ¡Ya voy, MOMO!"
+
+#. habla: 【Second Miltia】
+#, fuzzy
+msgctxt "#6"
+msgid "Go to the U.M.N. Control Center?"
+msgstr "¿Ir al Centro de Control de la U.M.N.?"
+
+#. Opciones: una por línea. Mantener 2 líneas en el mismo orden.
+#, fuzzy
+msgctxt "#7"
+msgid ""
+"Yes\n"
+"No"
+msgstr ""
+"Sí\n"
+"No"
+
+#, fuzzy
+msgctxt "#8"
+msgid "You can't go there right now."
+msgstr "Ahora no puedes ir allí."
+
+#. habla: 【Second Miltia】
+#, fuzzy
+msgctxt "#9"
+msgid "Go to the Uzuki residence?"
+msgstr "¿Ir a la casa de los Uzuki?"
+
+#. habla: 【Second Miltia】
+#, fuzzy
+msgctxt "#10"
+msgid "Go to the space port?"
+msgstr "¿Ir al puerto espacial?"
+
+#. habla: 【Second Miltia】
+#, fuzzy
+msgctxt "#11"
+msgid "Go to Vector's Second Division?"
+msgstr "¿Ir a la Segunda División de Vector?"
+
+#. habla: 【Second Miltia】
+#, fuzzy
+msgctxt "#12"
+msgid "Go to the government offices?"
+msgstr "¿Ir a las oficinas del gobierno?"
+
+#. habla: 【Second Miltia】
+#, fuzzy
+msgctxt "#13"
+msgid "Go to the city?"
+msgstr "¿Ir a la ciudad?"
+
+#. habla: 【Second Miltia】
+#, fuzzy
+msgctxt "#14"
+msgid "Where would you like to go?"
+msgstr "¿Adónde quieres ir?"
+
+#. Opciones: una por línea. Mantener 3 líneas en el mismo orden.
+#, fuzzy
+msgctxt "#15"
+msgid ""
+"Sector One\n"
+"Sector Two\n"
+"Cancel"
+msgstr ""
+"Sector Uno\n"
+"Sector Dos\n"
+"Cancelar"

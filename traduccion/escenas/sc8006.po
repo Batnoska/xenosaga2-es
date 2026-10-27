@@ -1,0 +1,134 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Xenosaga Episode II - traducción al español\n"
+"Language: es_419\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Xeno-Source: 0:cf/en/sc8006.sbl\n"
+"X-Xeno-Tipo: cinematica\n"
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#6"
+msgid "They get suspicious when they get old."
+msgstr "Cuando envejecen, se vuelven desconfiados."
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#7"
+msgid "The weaker they are, the louder they bark."
+msgstr "Cuanto más débiles son, más fuerte ladran."
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#8"
+msgid "Pellegri. What's your status?"
+msgstr "Pellegri. Informa."
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#9"
+msgid "Everything is proceeding smoothly."
+msgstr "Todo avanza sin problemas."
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#. Opciones: una por línea. Mantener 2 líneas en el mismo orden.
+#, fuzzy
+msgctxt "#10"
+msgid ""
+"I have Hermann and Richard\n"
+"pursuing the target as we speak."
+msgstr ""
+"Hermann y Richard están persiguiendo\n"
+"al objetivo en este momento."
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#11"
+msgid "As this is an independent Inquisitor operation,"
+msgstr "Como es una operación propia de los Inquisidores,"
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#. Opciones: una por línea. Mantener 2 líneas en el mismo orden.
+#, fuzzy
+msgctxt "#12"
+msgid ""
+"I'm granting you permission\n"
+"to use the E.S. Issachar."
+msgstr ""
+"te autorizo a usar\n"
+"el E.S. Issachar."
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#13"
+msgid "E.S.?"
+msgstr "¿E.S.?"
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#14"
+msgid "You mean those thousand-year-old relics?"
+msgstr "¿Se refiere a esas reliquias de mil años?"
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#15"
+msgid "Do they still work?"
+msgstr "¿Todavía funcionan?"
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#16"
+msgid "The E.S. is equipped with the Vessel of Anima."
+msgstr "El E.S. está equipado con la Vasija de Anima."
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#17"
+msgid "The Vessel of Anima..."
+msgstr "La Vasija de Anima..."
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#18"
+msgid ""
+"The Vessel of Anima was discovered\n"
+"at the same time as the Zohar."
+msgstr ""
+"La Vasija de Anima se descubrió\n"
+"al mismo tiempo que el Zohar."
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#. Opciones: una por línea. Mantener 2 líneas en el mismo orden.
+#, fuzzy
+msgctxt "#19"
+msgid ""
+"Its power rivals the military\n"
+"might of an entire star system."
+msgstr ""
+"Su poder rivaliza con el poderío\n"
+"militar de todo un sistema estelar."
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#20"
+msgid "Handle it with care."
+msgstr "Trátalo con cuidado."
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#21"
+msgid ""
+"We can't afford for it to get damaged,\n"
+"particularly after the effort it took to restore it."
+msgstr ""
+"No podemos permitir que se dañe, sobre\n"
+"todo después de lo que costó restaurarlo."
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#22"
+msgid "Understood."
+msgstr "Entendido."

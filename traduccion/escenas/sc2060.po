@@ -1,0 +1,44 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Xenosaga Episode II - traducción al español\n"
+"Language: es_419\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Xeno-Source: 0:cf/en/sc2060.sbl\n"
+
+#. habla: No. 297
+#, fuzzy
+msgctxt "#0"
+msgid "No. 666 is even scarier."
+msgstr "El N.º 666 da todavía más miedo."
+
+#. habla: No. 297
+#, fuzzy
+msgctxt "#1"
+msgid "It's all scary. U-DO's scary. The waves are scary."
+msgstr "Todo da miedo. U-DO da miedo. Las ondas dan miedo."
+
+#. habla: No. 466
+#, fuzzy
+msgctxt "#2"
+msgid "I can hear No. 666's voice."
+msgstr "Oigo la voz del N.º 666."
+
+#. habla: No. 466
+#, fuzzy
+msgctxt "#3"
+msgid "We are on break until the next training session. Break? I want to fight. I want to fight now."
+msgstr "Estamos en descanso hasta la próxima sesión de entrenamiento. ¿Descanso? Quiero pelear. Quiero pelear ya."
+
+#. habla: No. 352
+#, fuzzy
+msgctxt "#4"
+msgid "The girl is always with No. 666."
+msgstr "La niña siempre está con el N.º 666."
+
+#. habla: No. 352
+#, fuzzy
+msgctxt "#5"
+msgid "The piano. The sound of the piano. I can always hear it. The girl is playing it."
+msgstr "El piano. El sonido del piano. Siempre lo oigo. La niña lo toca."

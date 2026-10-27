@@ -1,0 +1,110 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Xenosaga Episode II - traducción al español\n"
+"Language: es_419\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Xeno-Source: 0:cf/en/sc8043.sbl\n"
+"X-Xeno-Tipo: cinematica\n"
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#8"
+msgid ""
+"Commencing with neural monitoring\n"
+"of unit number 666."
+msgstr ""
+"Iniciando el monitoreo neuronal\n"
+"de la unidad número 666."
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#9"
+msgid "Membrane electrical potential, stable."
+msgstr "Potencial eléctrico de membrana estable."
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#10"
+msgid ""
+"Spontaneous brain wave frequency\n"
+"of number 667 shifting from 20 to 28Hz."
+msgstr ""
+"Las ondas cerebrales espontáneas del\n"
+"número 667 pasan de 20 a 28 Hz."
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#11"
+msgid "Calm down, children. Don't get flustered."
+msgstr "Calma, niños. No se pongan nerviosos."
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#12"
+msgid "Stabilized, 8Hz."
+msgstr "Estabilizado, 8 Hz."
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#13"
+msgid "That's better. Just like that."
+msgstr "Así está mejor. Así, justo así."
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#14"
+msgid "So these are the U.R.T.V.s..."
+msgstr "Así que estos son los U.R.T.V..."
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#15"
+msgid "Dmitri, will they be all right?"
+msgstr "Dmitri, ¿estarán bien?"
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#16"
+msgid ""
+"I don't want to hurt these children,\n"
+"even for Sakura's sake."
+msgstr ""
+"No quiero lastimar a estos niños,\n"
+"ni siquiera por el bien de Sakura."
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#17"
+msgid ""
+"I'd heard they were young, but I didn't\n"
+"expect them to be this young..."
+msgstr ""
+"Sabía que eran jóvenes, pero no\n"
+"esperaba que fueran tan pequeños..."
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#18"
+msgid "You're pretty sentimental for a soldier, Helmer."
+msgstr ""
+"Para ser un soldado,\n"
+"eres muy sentimental, Helmer."
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#. Opciones: una por línea. Mantener 2 líneas en el mismo orden.
+#, fuzzy
+msgctxt "#19"
+msgid ""
+"I believe a soldier's duty is\n"
+"to protect human life."
+msgstr ""
+"Creo que el deber de un soldado\n"
+"es proteger la vida humana."
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#20"
+msgid "This time, Sakura will be with you, too."
+msgstr "Esta vez, Sakura también estará con ustedes."

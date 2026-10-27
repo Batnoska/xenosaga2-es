@@ -1,0 +1,102 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Xenosaga Episode II - traducción al español\n"
+"Language: es_419\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Xeno-Source: 0:model/map/en/E2_OLM05.sbl\n"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#0"
+msgid "$zoom15;$col7AF9FB;D Field disappeared.$colc0c0c0;"
+msgstr "$zoom15;$col7AF9FB;El Campo D desapareció.$colc0c0c0;"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#2"
+msgid "$zoom15;$col7AF9FB;The distortion slowed down the missiles!$colc0c0c0;"
+msgstr "$zoom15;$col7AF9FB;¡La distorsión frenó los misiles!$colc0c0c0;"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#7"
+msgid "$zoom13;Day of Judgment"
+msgstr "$zoom13;Día del Juicio"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#9"
+msgid "$zoom13;Vicious Crimson (Pierce)"
+msgstr "$zoom13;Carmesí despiadado (Perforación)"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#10"
+msgid "$zoom13;Merciless Rain (Strike)"
+msgstr "$zoom13;Lluvia implacable (Golpe)"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#11"
+msgid "$zoom13;Angel Tower (HP Drain)"
+msgstr "$zoom13;Torre del ángel (Drenar HP)"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#12"
+msgid "$zoom13;Falling Rose (Fire)"
+msgstr "$zoom13;Rosa que cae (Fuego)"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#13"
+msgid "$zoom13;Genesis (Thunder)"
+msgstr "$zoom13;Génesis (Rayo)"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#14"
+msgid "$zoom13;Falling Rose II (Fire/L Ether DD)"
+msgstr "$zoom13;Rosa que cae II (Fuego/Éter DD L)"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#15"
+msgid "$zoom13;Gungnir's Blow (Pierce)"
+msgstr "$zoom13;Golpe de Gungnir (Perforación)"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#16"
+msgid "$zoom13;Refresh L"
+msgstr "$zoom13;Refresh L"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#17"
+msgid "$zoom13;Refresh H"
+msgstr "$zoom13;Refresh H"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#18"
+msgid "$zoom13;Boost Up"
+msgstr "$zoom13;Aumento de Boost"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#19"
+msgid "$zoom13;D Field"
+msgstr "$zoom13;Campo D"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#20"
+msgid ""
+"$zoom15;$col7AF9FB;The Ether around the E.S. Issachar compressed\n"
+"and a distortion appeared.$colc0c0c0;"
+msgstr ""
+"$zoom15;$col7AF9FB;El éter en torno al E.S. Issachar se comprimió\n"
+"y apareció una distorsión.$colc0c0c0;"

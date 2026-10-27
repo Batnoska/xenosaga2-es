@@ -1,0 +1,125 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Xenosaga Episode II - traducción al español\n"
+"Language: es_419\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Xeno-Source: 2:movie/en/s080110.txt\n"
+
+#. tiempo 00:14:00
+#. Subtítulo: un tramo de la frase, sincronizado con la voz. Máximo 2 líneas.
+#, fuzzy
+msgctxt "L24"
+msgid "You're just like us."
+msgstr "Eres igual que nosotros."
+
+#. tiempo 00:17:00
+#. Subtítulo: un tramo de la frase, sincronizado con la voz. Máximo 2 líneas.
+#, fuzzy
+msgctxt "L26"
+msgid "Like you?"
+msgstr "¿Como ustedes?"
+
+#. tiempo 00:17:28
+#. Subtítulo: un tramo de la frase, sincronizado con la voz. Máximo 2 líneas.
+#, fuzzy
+msgctxt "L28"
+msgid "Code name: Red Dragon."
+msgstr "Nombre clave: Dragón Rojo."
+
+#. tiempo 00:20:18
+#. Subtítulo: un tramo de la frase, sincronizado con la voz. Máximo 2 líneas.
+#, fuzzy
+msgctxt "L30"
+msgid ""
+"A useful, yet dangerous creature\n"
+"with the potential to lose control."
+msgstr ""
+"Una criatura útil pero peligrosa,\n"
+"capaz de perder el control."
+
+#. tiempo 00:24:28
+#. Subtítulo: un tramo de la frase, sincronizado con la voz. Máximo 2 líneas.
+#, fuzzy
+msgctxt "L32"
+msgid ""
+"Our duty is to manage and subdue the\n"
+"Red Dragon's violent nature."
+msgstr ""
+"Nuestro deber es controlar y someter\n"
+"la naturaleza violenta del Dragón Rojo."
+
+#. tiempo 00:31:25
+#. Subtítulo: un tramo de la frase, sincronizado con la voz. Máximo 2 líneas.
+#, fuzzy
+msgctxt "L34"
+msgid "Don't you think it's strange?"
+msgstr "¿No te parece extraño?"
+
+#. tiempo 00:35:05
+#. Subtítulo: un tramo de la frase, sincronizado con la voz. Máximo 2 líneas.
+#, fuzzy
+msgctxt "L36"
+msgid ""
+"The way you don't react\n"
+"to the U-DO simulator?"
+msgstr ""
+"¿Que no reacciones\n"
+"al simulador de U-DO?"
+
+#. tiempo 00:40:20
+#. Subtítulo: un tramo de la frase, sincronizado con la voz. Máximo 2 líneas.
+#, fuzzy
+msgctxt "L39"
+msgid "You don't mean..."
+msgstr "No me digas que..."
+
+#. tiempo 00:43:05
+#. Subtítulo: un tramo de la frase, sincronizado con la voz. Máximo 2 líneas.
+#, fuzzy
+msgctxt "L42"
+msgid "That's right."
+msgstr "Así es."
+
+#. tiempo 00:44:15
+#. Subtítulo: un tramo de la frase, sincronizado con la voz. Máximo 2 líneas.
+#, fuzzy
+msgctxt "L43"
+msgid "Red Dragon..."
+msgstr "Dragón Rojo..."
+
+#. tiempo 00:46:13
+#. Subtítulo: un tramo de la frase, sincronizado con la voz. Máximo 2 líneas.
+#, fuzzy
+msgctxt "L45"
+msgid "Red...and precious."
+msgstr "Rojo... y valioso."
+
+#. tiempo 00:58:00
+#. Subtítulo: un tramo de la frase, sincronizado con la voz. Máximo 2 líneas.
+#, fuzzy
+msgctxt "L48"
+msgid "Nigredo, come here."
+msgstr "Nigredo, ven aquí."
+
+#. tiempo 01:07:10
+#. Subtítulo: un tramo de la frase, sincronizado con la voz. Máximo 2 líneas.
+#, fuzzy
+msgctxt "L51"
+msgid "No!"
+msgstr "¡No!"
+
+#. tiempo 01:08:15
+#. Subtítulo: un tramo de la frase, sincronizado con la voz. Máximo 2 líneas.
+#, fuzzy
+msgctxt "L53"
+msgid "I'm abandoning my mission!"
+msgstr "¡Abandono mi misión!"
+
+#. tiempo 01:11:20
+#. Subtítulo: un tramo de la frase, sincronizado con la voz. Máximo 2 líneas.
+#, fuzzy
+msgctxt "L55"
+msgid "I won't follow your orders anymore!"
+msgstr "¡Ya no voy a seguir tus órdenes!"

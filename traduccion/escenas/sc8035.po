@@ -1,0 +1,147 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Xenosaga Episode II - traducción al español\n"
+"Language: es_419\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Xeno-Source: 0:cf/en/sc8035.sbl\n"
+"X-Xeno-Tipo: cinematica\n"
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#10"
+msgid "Where are we?"
+msgstr "¿Dónde estamos?"
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#11"
+msgid ""
+"The world inside MOMO's subconscious\n"
+"domain. Sakura's inner world."
+msgstr ""
+"En el mundo dentro del dominio subconsciente\n"
+"de MOMO. El mundo interior de Sakura."
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#12"
+msgid "MOMO!"
+msgstr "¡MOMO!"
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#13"
+msgid "MOMO, you're okay!"
+msgstr "¡MOMO, estás bien!"
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#14"
+msgid "Hey, can't you hear me?"
+msgstr "Oye, ¿no me oyes?"
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#15"
+msgid "Say something!"
+msgstr "¡Di algo!"
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#16"
+msgid "It's no use, Jr. She's not going to answer."
+msgstr "Es inútil, Jr. No va a responder."
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#17"
+msgid "Why not?! She's right there in front of us!"
+msgstr "¡¿Por qué no?! ¡Está justo frente a nosotros!"
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#18"
+msgid "Her personality layer is off-line."
+msgstr "Su capa de personalidad está desconectada."
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#19"
+msgid ""
+"Plus, her neural network's completely fragmented.\n"
+"She can't understand anything we say."
+msgstr ""
+"Además, su red neuronal está toda fragmentada.\n"
+"No entiende nada de lo que decimos."
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#20"
+msgid "She may not be able to even hear us right now."
+msgstr "Quizá ni siquiera pueda oírnos ahora."
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#21"
+msgid "No. Dammit!"
+msgstr "No. ¡Maldición!"
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#22"
+msgid ""
+"The MOMO you're seeing here is nothing more\n"
+"than a product of her own subconscious."
+msgstr ""
+"La MOMO que ves aquí no es más que\n"
+"un producto de su propio subconsciente."
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#23"
+msgid ""
+"Even if she were able to take some sort\n"
+"of action, it would only be a simple reflex."
+msgstr ""
+"Aunque pudiera hacer algo,\n"
+"sería solo un simple reflejo."
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#24"
+msgid ""
+"MOMO...Even in her current state,\n"
+"she's still trying so hard to help us."
+msgstr ""
+"MOMO... Incluso en este estado,\n"
+"sigue esforzándose tanto por ayudarnos."
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#25"
+msgid "What are you doing?"
+msgstr "¿Qué haces?"
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#26"
+msgid ""
+"We don't have much time.\n"
+"Do you want to worry MOMO even more?"
+msgstr ""
+"No tenemos mucho tiempo.\n"
+"¿Quieres preocupar todavía más a MOMO?"
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#27"
+msgid "Right."
+msgstr "Sí, tienes razón."
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#28"
+msgid "MOMO...just hang on a little bit longer."
+msgstr "MOMO... aguanta solo un poco más."

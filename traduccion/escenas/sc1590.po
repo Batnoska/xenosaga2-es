@@ -1,0 +1,342 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Xenosaga Episode II - traducción al español\n"
+"Language: es_419\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Xeno-Source: 0:cf/en/sc1590.sbl\n"
+
+#. habla: Hayashi
+#, fuzzy
+msgctxt "#0"
+msgid "I defeated my brother! (Debug Use)"
+msgstr "¡Derroté a mi hermano! (Uso de depuración)"
+
+#, fuzzy
+msgctxt "#1"
+msgid "This looks like a good open space. Would you like to put up a poster?"
+msgstr "Parece un buen espacio libre. ¿Quieres poner un póster?"
+
+#. Opciones: una por línea. Mantener 2 líneas en el mismo orden.
+#, fuzzy
+msgctxt "#2"
+msgid ""
+"Yes\n"
+"No"
+msgstr ""
+"Sí\n"
+"No"
+
+#, fuzzy
+msgctxt "#3"
+msgid "Transporting and projecting a poster."
+msgstr "Transportando y proyectando el póster."
+
+#, fuzzy
+msgctxt "#4"
+msgid "Canceling poster."
+msgstr "Se canceló el póster."
+
+#. habla: Stella
+#, fuzzy
+msgctxt "#5"
+msgid "Yes, yes, I can hear you. So, you're here for my autograph, too?"
+msgstr "Sí, sí, te escucho. ¿Así que tú también vienes por mi autógrafo?"
+
+#. habla: Stella
+#, fuzzy
+msgctxt "#6"
+msgid "What? The girl upstairs? Please leave her alone. She has very deep emotional scars. "
+msgstr "¿Qué? ¿La chica de arriba? Por favor, déjala en paz. Tiene heridas emocionales muy profundas."
+
+#. habla: Stella
+#, fuzzy
+msgctxt "#7"
+msgid "I'm still doing great! After all, I was the number-one prima ballerina on Miltia! Well, I mean, sure, my legs may not be what they used to be, but even at this age, I still remember the excitement of going on stage, dancing with all my heart, and basking in the applause of a packed house."
+msgstr "¡Todavía estoy espléndida! ¡Después de todo, fui la mejor primera bailarina de Miltia! Bueno, claro, quizá mis piernas ya no sean lo que eran, pero incluso a esta edad recuerdo la emoción de subir al escenario, bailar con todo el corazón y recibir los aplausos de una sala llena."
+
+#. habla: Stella
+#, fuzzy
+msgctxt "#8"
+msgid "Oh, you'd listen to an old woman?"
+msgstr "Oh, ¿escucharías a una anciana?"
+
+#. habla: Stella
+#. Opciones: una por línea. Mantener 2 líneas en el mismo orden.
+#, fuzzy
+msgctxt "#9"
+msgid ""
+"It's my shoes and hairpin!\n"
+"Is this everything you've found?"
+msgstr ""
+"¡Son mis zapatillas y mi horquilla!\n"
+"¿Esto es todo lo que encontraste?"
+
+#. Opciones: una por línea. Mantener 2 líneas en el mismo orden.
+#, fuzzy
+msgctxt "#10"
+msgid ""
+"I can't find anymore.\n"
+"No, I'm going to keep looking!"
+msgstr ""
+"No encuentro nada más.\n"
+"No, ¡voy a seguir buscando!"
+
+#. habla: Stella
+#, fuzzy
+msgctxt "#11"
+msgid "Is that it?"
+msgstr "¿Eso es todo?"
+
+#. habla: Stella
+#, fuzzy
+msgctxt "#12"
+msgid "Thank you!"
+msgstr "¡Gracias!"
+
+#. habla: Stella
+#. Opciones: una por línea. Mantener 2 líneas en el mismo orden.
+#, fuzzy
+msgctxt "#13"
+msgid ""
+"It's my shoes and corset!\n"
+"Is this everything you've found?"
+msgstr ""
+"¡Son mis zapatillas y mi corsé!\n"
+"¿Esto es todo lo que encontraste?"
+
+#. habla: Stella
+#. Opciones: una por línea. Mantener 2 líneas en el mismo orden.
+#, fuzzy
+msgctxt "#14"
+msgid ""
+"It's my hairpin and corset!\n"
+"Is this everything you've found?"
+msgstr ""
+"¡Son mi horquilla y mi corsé!\n"
+"¿Esto es todo lo que encontraste?"
+
+#. habla: Stella
+#. Opciones: una por línea. Mantener 2 líneas en el mismo orden.
+#, fuzzy
+msgctxt "#15"
+msgid ""
+"It's my shoes!\n"
+"Is this everything you've found?"
+msgstr ""
+"¡Son mis zapatillas!\n"
+"¿Esto es todo lo que encontraste?"
+
+#. habla: Stella
+#. Opciones: una por línea. Mantener 2 líneas en el mismo orden.
+#, fuzzy
+msgctxt "#16"
+msgid ""
+"It's my corset!\n"
+"Is this everything you've found?"
+msgstr ""
+"¡Es mi corsé!\n"
+"¿Esto es todo lo que encontraste?"
+
+#. habla: Stella
+#. Opciones: una por línea. Mantener 2 líneas en el mismo orden.
+#, fuzzy
+msgctxt "#17"
+msgid ""
+"It's my hairpin!\n"
+"Is this everything you've found?"
+msgstr ""
+"¡Es mi horquilla!\n"
+"¿Esto es todo lo que encontraste?"
+
+#. habla: Stella
+#, fuzzy
+msgctxt "#18"
+msgid "Hey, you said you were going to help! Please find the things that I auctioned off!"
+msgstr "¡Oye, dijiste que ibas a ayudar! ¡Por favor, encuentra las cosas que vendí en subastas!"
+
+#. habla: Stella
+#, fuzzy
+msgctxt "#19"
+msgid "Now then, I think I'll practice dancing for the first time in decades."
+msgstr "Bueno, creo que voy a practicar baile por primera vez en décadas."
+
+#. habla: Stella
+#, fuzzy
+msgctxt "#20"
+msgid "I wonder if I can dance as well as I did when I was young. I'm a bit nervous!"
+msgstr "Me pregunto si podré bailar tan bien como cuando era joven. ¡Estoy un poco nerviosa!"
+
+#. habla: Kate
+#, fuzzy
+msgctxt "#21"
+msgid "What is it? Did you come here to ask me to sing, too?"
+msgstr "¿Qué pasa? ¿Tú también viniste a pedirme que cante?"
+
+#. habla: Kate
+#, fuzzy
+msgctxt "#22"
+msgid "I haven't been able to sing for a long time...ever since that day fourteen years ago when everything was taken away from me."
+msgstr "Hace mucho que no puedo cantar... desde aquel día, hace catorce años, en que me lo quitaron todo."
+
+#. habla: Kate
+#, fuzzy
+msgctxt "#23"
+msgid "Please don't worry about me. I'm more concerned about Stella. She's not as young as she used to be, so I worry about her."
+msgstr "Por favor, no te preocupes por mí. Me preocupa más Stella. Ya no es tan joven como antes, así que me preocupo por ella."
+
+#. habla: Kate
+#, fuzzy
+msgctxt "#24"
+msgid "You know, I think Rod was carrying a locket with a photo of us when he went to Old Miltia."
+msgstr "¿Sabes? Creo que Rod llevaba un relicario con una foto nuestra cuando fue a la Antigua Miltia."
+
+#. habla: Kate
+#, fuzzy
+msgctxt "#25"
+msgid "That locket may be on Old Miltia somewhere."
+msgstr "Ese relicario quizá esté en algún lugar de la Antigua Miltia."
+
+#. habla: Kate
+#, fuzzy
+msgctxt "#26"
+msgid "Well, I think I've taken enough time off. It's about to get busy around here."
+msgstr "Bueno, creo que ya descansé bastante. Pronto va a haber mucho movimiento por aquí."
+
+#. habla: Kate
+#, fuzzy
+msgctxt "#27"
+msgid "If Stella is up for it, I'd like the two of us to have a little performance together."
+msgstr "Si Stella tiene ganas, me gustaría que hiciéramos una pequeña función juntas."
+
+#. habla: Stella
+#, fuzzy
+msgctxt "#28"
+msgid "Lately, I've been thinking a lot about whether I've lived a happy life. I mean, I don't think it's been an unhappy one, but it's just I don't have any family and I feel a little sad thinking that this room will be my final home. If I'm going to pass away without knowing whether the choices I made were right or wrong, then I want to go on stage once more! If I take to the stage one last time, I'm sure I could tell whether I've done the right things with my life! I wonder if there is anyone who could help this old ballerina..."
+msgstr "Últimamente pienso mucho en si tuve una vida feliz. O sea, no creo que haya sido infeliz, pero no tengo familia y me pone un poco triste pensar que esta habitación será mi último hogar. Si voy a irme de este mundo sin saber si mis decisiones fueron buenas o malas, ¡quiero volver a subir al escenario una vez más! Si subo al escenario por última vez, ¡seguro que podré saber si hice bien las cosas en mi vida! Me pregunto si habrá alguien que pueda ayudar a esta vieja bailarina..."
+
+#, fuzzy
+msgctxt "#29"
+msgid ""
+"I'll help!\n"
+"Don't get discouraged! Hang in there!"
+msgstr ""
+"¡Yo la ayudo!\n"
+"¡No se desanime! ¡Ánimo!"
+
+#. habla: Stella
+#, fuzzy
+msgctxt "#30"
+msgid "Really? You'll help me?"
+msgstr "¿De verdad? ¿Me vas a ayudar?"
+
+#. habla: Stella
+#, fuzzy
+msgctxt "#32"
+msgid "Some items that are very dear to me wound up in the hands of people in this city. I wonder if you could go find them and bring them back to me."
+msgstr "Algunas cosas que quiero mucho terminaron en manos de gente de esta ciudad. Me pregunto si podrías encontrarlas y traérmelas."
+
+#. habla: Stella
+#, fuzzy
+msgctxt "#33"
+msgid "I don't need many of them in order to relive my past. Even one or two would bring back some memories, but if I had more, I could truly dance again!"
+msgstr "No necesito muchas para revivir mi pasado. Con una o dos me volverían algunos recuerdos, ¡pero si tuviera más, podría bailar de verdad otra vez!"
+
+#. habla: Stella
+#, fuzzy
+msgctxt "#34"
+msgid "Hahaha, I don't imagine I have much time left, but I'll do my best! Thanks for listening."
+msgstr "Jajaja, no creo que me quede mucho tiempo, ¡pero voy a dar lo mejor de mí! Gracias por escucharme."
+
+#. habla: Stella
+#, fuzzy
+msgctxt "#35"
+msgid "Oh, my! You really found three?!"
+msgstr "¡Ay, Dios! ¡¿De verdad encontraste las tres?!"
+
+#. habla: Stella
+#, fuzzy
+msgctxt "#37"
+msgid "It's not much, but please take this as a token of my gratitude!"
+msgstr "No es mucho, ¡pero por favor acepta esto como muestra de mi gratitud!"
+
+#, fuzzy
+msgctxt "#38"
+msgid "You obtained Class Upgrade C x2!"
+msgstr "¡Obtuviste Mejora de Clase C x2!"
+
+#. habla: Stella
+#, fuzzy
+msgctxt "#39"
+msgid "Oh, I forgot. Here, take these too if you want."
+msgstr "Ah, me olvidaba. Toma, llévate esto también si quieres."
+
+#, fuzzy
+msgctxt "#40"
+msgid "You obtained chaos' Swimsuit!"
+msgstr "¡Obtuviste el Traje de baño de chaos!"
+
+#, fuzzy
+msgctxt "#41"
+msgid "You obtained Shion's Swimsuit!"
+msgstr "¡Obtuviste el Traje de baño de Shion!"
+
+#. habla: Stella
+#, fuzzy
+msgctxt "#42"
+msgid "They're props I used a long time ago. I won't be using them anymore, so I'll give them to you. Of course, if you don't need them, you don't have to use them."
+msgstr "Son accesorios que usé hace mucho. Ya no los voy a usar, así que te los doy. Claro que, si no los necesitas, no tienes por qué usarlos."
+
+#. habla: Stella
+#, fuzzy
+msgctxt "#43"
+msgid "Ah, I guess finding three was difficult. Oh, well, I shouldn't ask too much of you!"
+msgstr "Ah, supongo que encontrar las tres era difícil. Bueno, ¡no debería pedirte demasiado!"
+
+#. habla: Stella
+#, fuzzy
+msgctxt "#45"
+msgid "I'm sure you had a tough time. Here, take this as a token of my thanks!"
+msgstr "Seguro que te costó mucho. ¡Toma, acepta esto como agradecimiento!"
+
+#. habla: Kate
+#, fuzzy
+msgctxt "#46"
+msgid "The reason why I kept singing? It was all for my brother. After losing our parents when we were young, Rod and I lived without any help. I became a successful singer and Rod showed promise as a mechanic. With our success, we were both happier than we'd ever been...until the war fourteen years ago. Rod was highly valuable as a mechanic and went to Old Miltia. He never came back. I know he's dead, but I have a feeling that he's wandering in that place fourteen years ago, unaware that he's no longer part of our world. It's like he's still looking for me, calling out, \"Kate! Kate!\" just like when he got lost as a child. When I think about that, I just can't go on stage. I have a favor to ask. Do you know about the Encephalon? I want you to dive in there, go to that place fourteen years ago, and bring back proof that my brother was there! I don't know if something like that actually exists, but..."
+msgstr "¿Por qué seguí cantando? Todo era por mi hermano. Después de perder a nuestros padres de niños, Rod y yo salimos adelante sin ayuda de nadie. Yo me convertí en una cantante exitosa y Rod prometía como mecánico. Con nuestro éxito, éramos más felices que nunca... hasta la guerra de hace catorce años. Rod era un mecánico muy valioso y fue a la Antigua Miltia. Nunca volvió. Sé que está muerto, pero siento que vaga en aquel lugar de hace catorce años, sin saber que ya no pertenece a nuestro mundo. Es como si todavía me estuviera buscando, llamando \"¡Kate! ¡Kate!\", igual que cuando se perdía de niño. Cuando pienso en eso, no puedo subir al escenario. Tengo un favor que pedirte. ¿Conoces el Encéfalo? Quiero que hagas una inmersión, vayas a aquel lugar de hace catorce años y me traigas una prueba de que mi hermano estuvo allí. No sé si existe algo así, pero..."
+
+#. habla: Kate
+#, fuzzy
+msgctxt "#47"
+msgid "I just knew you'd help me."
+msgstr "Sabía que me ibas a ayudar."
+
+#. habla: Kate
+#, fuzzy
+msgctxt "#49"
+msgid "The last I heard from my brother, he was in the city on Old Miltia. If you go there, maybe you can find something!"
+msgstr "Lo último que supe de mi hermano es que estaba en la ciudad de la Antigua Miltia. Si vas allí, ¡quizá encuentres algo!"
+
+#. habla: Kate
+#, fuzzy
+msgctxt "#50"
+msgid "I guess, in the end, you're just like the others. When I'm doing well, you can't get enough of me, but when I'm in trouble, you run away with your tail between your legs."
+msgstr "Supongo que, al final, eres igual que los demás. Cuando me va bien, no te cansas de mí, pero cuando tengo problemas, sales corriendo con la cola entre las patas."
+
+#. habla: Kate
+#, fuzzy
+msgctxt "#51"
+msgid "This is his locket! So, you met Rod. I probably shouldn't ask about the details. Thank you! I feel like I've finally gotten over this! I think I can go on stage once again and sing for my brother...no, for everyone who has suffered like I have."
+msgstr "¡Es su relicario! Así que conociste a Rod. Supongo que no debería preguntar los detalles. ¡Gracias! ¡Siento que por fin lo superé! Creo que puedo volver a subir al escenario y cantar para mi hermano... no, para todos los que sufrieron como yo."
+
+#. habla: Kate
+#, fuzzy
+msgctxt "#53"
+msgid "Please take this as my thanks. I hope you like it."
+msgstr "Por favor, acepta esto como agradecimiento. Espero que te guste."
+
+#, fuzzy
+msgctxt "#54"
+msgid "You obtained Secret Key 21! This key opens the Level 3 Class H skill \"Experience Up 10.\""
+msgstr "¡Obtuviste la Llave Secreta 21! Esta llave desbloquea la habilidad de Clase H de nivel 3 \"Experiencia +10\"."

@@ -1,0 +1,126 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Xenosaga Episode II - traducción al español\n"
+"Language: es_419\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Xeno-Source: 0:cf/en/sc8011.sbl\n"
+"X-Xeno-Tipo: cinematica\n"
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#4"
+msgid "I guess I...I owe them my life."
+msgstr "Supongo que yo... les debo la vida."
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#5"
+msgid "So, you've known chaos for a long time, too?"
+msgstr ""
+"Entonces, ¿tú también conoces\n"
+"a chaos desde hace mucho?"
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#6"
+msgid "Um..."
+msgstr "Eh..."
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#. Opciones: una por línea. Mantener 2 líneas en el mismo orden.
+#, fuzzy
+msgctxt "#7"
+msgid ""
+"Can I also call you Rubedo, too?\n"
+"It's a very pretty name."
+msgstr ""
+"¿Puedo llamarte Rubedo yo también?\n"
+"Es un nombre muy bonito."
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#8"
+msgid "S...sorry, it's just..."
+msgstr "P... perdón, es que..."
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#9"
+msgid "Oh, I'm sorry."
+msgstr "Ay, perdón."
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#10"
+msgid "Nah, nah, it's just..."
+msgstr "No, no, es que..."
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#. Opciones: una por línea. Mantener 2 líneas en el mismo orden.
+#, fuzzy
+msgctxt "#11"
+msgid ""
+"I don't have a lot of good\n"
+"memories of that name."
+msgstr ""
+"No tengo muchos buenos\n"
+"recuerdos con ese nombre."
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#12"
+msgid ""
+"Oh. You and Ziggy don't like your\n"
+"original names very much, do you?"
+msgstr ""
+"Ah. A ti y a Ziggy no les gustan\n"
+"mucho sus nombres originales, ¿verdad?"
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#. Opciones: una por línea. Mantener 2 líneas en el mismo orden.
+#, fuzzy
+msgctxt "#13"
+msgid ""
+"Names tend to link themselves\n"
+"to memories, both good and bad."
+msgstr ""
+"Los nombres suelen quedar pegados\n"
+"a los recuerdos, buenos y malos."
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#14"
+msgid ""
+"I have a feeling that old man over\n"
+"there has a lot of baggage, himself."
+msgstr ""
+"Me da la impresión de que el viejo\n"
+"de allá también arrastra lo suyo."
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#15"
+msgid ""
+"Besides, I think old man over there\n"
+"seems to like being called Ziggy."
+msgstr ""
+"Además, creo que al viejo de allá\n"
+"le gusta que le digan Ziggy."
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#16"
+msgid "Oh, I hope he does!"
+msgstr "¡Ojalá sea así!"
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#17"
+msgid ""
+"Even though it kinda sounds like\n"
+"something you would call your dog."
+msgstr ""
+"Aunque suena un poco\n"
+"a nombre de perro."

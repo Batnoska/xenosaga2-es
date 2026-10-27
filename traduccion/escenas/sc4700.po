@@ -1,0 +1,84 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Xenosaga Episode II - traducción al español\n"
+"Language: es_419\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Xeno-Source: 0:cf/en/sc4700.sbl\n"
+
+#. habla: Canaan
+#, fuzzy
+msgctxt "#4"
+msgid "This must be Labyrinthos' main terminal."
+msgstr "Esta debe ser la terminal principal de Labyrinthos."
+
+#. habla: Jin
+#, fuzzy
+msgctxt "#5"
+msgid ""
+"So it would seem.\n"
+"...\n"
+"Canaan, the powerful protection placed on the data within you uses the wave pattern emitted by the Zohar. We should be able to remove it with this terminal."
+msgstr ""
+"Eso parece.\n"
+"...\n"
+"Canaan, la poderosa protección de los datos que llevas dentro usa el patrón de ondas que emite el Zohar. Con esta terminal deberíamos poder quitarla."
+
+#. habla: Canaan
+#, fuzzy
+msgctxt "#6"
+msgid "You don't have to explain the details. Just hurry up and get it out."
+msgstr "No hace falta que expliques los detalles. Apúrate y sácalos."
+
+#. habla: Shion
+#, fuzzy
+msgctxt "#7"
+msgid "Come on, let's get inside!"
+msgstr "¡Vamos, entremos!"
+
+#, fuzzy
+msgctxt "#8"
+msgid "Push the button?"
+msgstr "¿Presionar el botón?"
+
+#. Opciones: una por línea. Mantener 2 líneas en el mismo orden.
+#, fuzzy
+msgctxt "#9"
+msgid ""
+"Yes\n"
+"No"
+msgstr ""
+"Sí\n"
+"No"
+
+#, fuzzy
+msgctxt "#11"
+msgid "Use the elevator?"
+msgstr "¿Usar el ascensor?"
+
+#, fuzzy
+msgctxt "#12"
+msgid "Move the platform?"
+msgstr "¿Mover la plataforma?"
+
+#. habla: 【Isolation Area Elevator】
+#, fuzzy
+msgctxt "#13"
+msgid "Go to the Zohar Isolation Area?"
+msgstr "¿Ir al Área de Aislamiento del Zohar?"
+
+#, fuzzy
+msgctxt "#14"
+msgid "The label reads \"Lock A.\""
+msgstr "La etiqueta dice \"Cierre A\"."
+
+#, fuzzy
+msgctxt "#15"
+msgid "There appears to be a button on the other side."
+msgstr "Parece que del otro lado hay un botón."
+
+#, fuzzy
+msgctxt "#16"
+msgid "The label reads \"Lock B.\""
+msgstr "La etiqueta dice \"Cierre B\"."

@@ -1,0 +1,31 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Xenosaga Episode II - traducción al español\n"
+"Language: es_419\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Xeno-Source: 0:cf/en/sc6302.sbl\n"
+"X-Xeno-Tipo: cinematica\n"
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#3"
+msgid "Long time no see! You're looking well."
+msgstr "¡Cuánto tiempo! Te ves bien."
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#4"
+msgid "You remember me, right?"
+msgstr "Te acuerdas de mí, ¿verdad?"
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#5"
+msgid ""
+"My name is Richard! Let that name\n"
+"burn in your mind as you die!"
+msgstr ""
+"¡Me llamo Richard! ¡Que ese nombre\n"
+"te queme la mente mientras mueres!"

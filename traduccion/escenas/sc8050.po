@@ -1,0 +1,117 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Xenosaga Episode II - traducción al español\n"
+"Language: es_419\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Xeno-Source: 0:cf/en/sc8050.sbl\n"
+"X-Xeno-Tipo: cinematica\n"
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#7"
+msgid "Hurry, Captain!"
+msgstr "¡Rápido, capitán!"
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#8"
+msgid ""
+"We're going to be pulled into the\n"
+"Abyss with the fortress!"
+msgstr ""
+"¡La fortaleza va a arrastrarnos\n"
+"al Abismo con ella!"
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#9"
+msgid "Shut up, I know!"
+msgstr "¡Cállate, ya lo sé!"
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#10"
+msgid "Tony, what's up?"
+msgstr "Tony, ¿qué pasa?"
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#11"
+msgid "It's no good, Captain."
+msgstr "No hay manera, capitán."
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#12"
+msgid "The Logical Drive was damaged in the battle."
+msgstr "El Logical Drive se dañó en el combate."
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#13"
+msgid "We don't have enough thrust."
+msgstr "No tenemos suficiente empuje."
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#14"
+msgid "Hammer!"
+msgstr "¡Hammer!"
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#15"
+msgid "I'm workin' on it!"
+msgstr "¡En eso estoy!"
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#16"
+msgid "Damn, thrust is down 40%."
+msgstr "Maldición, el empuje bajó un 40%."
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#17"
+msgid "It's no good. She's still dropping!"
+msgstr "No sirve de nada. ¡Seguimos cayendo!"
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#18"
+msgid ""
+"What the? Who the hell slammed\n"
+"the ship into this place, anyway?"
+msgstr ""
+"¿Pero qué...? ¿Quién diablos\n"
+"metió la nave en este lugar?"
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#19"
+msgid "Well it was the Captain's idea, but Tony,"
+msgstr "Bueno, fue idea del capitán, pero, Tony,"
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#20"
+msgid "you're the one who did the slamming!"
+msgstr "¡tú fuiste el que la metió!"
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#21"
+msgid "Shut up!"
+msgstr "¡Cállate!"
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#22"
+msgid ""
+"Quit your bitching and do something already!\n"
+"You wanna die here?!"
+msgstr ""
+"¡Dejen de lloriquear y hagan algo de una vez!\n"
+"¡¿Quieren morir aquí?!"

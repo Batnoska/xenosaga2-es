@@ -1,0 +1,451 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Xenosaga Episode II - traducción al español\n"
+"Language: es_419\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Xeno-Source: 0:model/map/en/E2_KML03.sbl\n"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#0"
+msgid "$zoom13;20Y Raid Bash (Pierce)"
+msgstr "$zoom13;20Y Raid Bash (Perforación)"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#1"
+msgid "$zoom13;Smoothbore E1 (Beam)"
+msgstr "$zoom13;Smoothbore E1 (Haz)"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#2"
+msgid "$zoom13;Homing Laser (Beam)"
+msgstr "$zoom13;Láser teledirigido (Haz)"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#3"
+msgid ""
+"$col808080;All right, I'll explain the controls during battle.\n"
+"I'm not going to repeat myself, so pay attention.●"
+msgstr ""
+"$col808080;Bien, te voy a explicar los controles del combate.\n"
+"No lo voy a repetir, así que presta atención.●"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#4"
+msgid ""
+"$col7AF9FB;<Movement Order>\n"
+"$col808080;The fastest craft will move first. The order is\n"
+"displayed using icons on the bottom right corner\n"
+"of the screen.●"
+msgstr ""
+"$col7AF9FB;<Orden de movimiento>\n"
+"$col808080;La nave más rápida se mueve primero. El orden\n"
+"se muestra con íconos en la esquina inferior\n"
+"derecha de la pantalla.●"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#5"
+msgid ""
+"$col808080;There are three enemy icons:\n"
+"&07 Mechanical\n"
+"&06 Biological\n"
+"&08 Gnosis●"
+msgstr ""
+"$col808080;Hay tres íconos de enemigos:\n"
+"&07 Mecánico\n"
+"&06 Biológico\n"
+"&08 Gnosis●"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#6"
+msgid ""
+"$col7AF9FB;<Basic Attack>\n"
+"$col808080;Press &01 or &02 to attack immediately. The icons on\n"
+"the bottom left of the screen display the attack\n"
+"information. If you're unable to use an attack, the\n"
+"selection will be grayed out.●"
+msgstr ""
+"$col7AF9FB;<Ataque básico>\n"
+"$col808080;Presiona &01 o &02 para atacar al instante. Los\n"
+"íconos de abajo a la izquierda muestran los datos\n"
+"del ataque. Si no puedes usar un ataque, la opción\n"
+"aparece en gris.●"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#7"
+msgid ""
+"$col7AF9FB;<Cursor>\n"
+"$col808080;Select the target with the directional buttons. The\n"
+"enemy can have its front or back to you. If you\n"
+"attack an enemy in the back, your aim will be 100%\n"
+"and the critical rate will increase by 50%.●"
+msgstr ""
+"$col7AF9FB;<Cursor>\n"
+"$col808080;Elige el objetivo con los botones de dirección. El\n"
+"enemigo puede estar de frente o de espaldas. Si lo\n"
+"atacas por la espalda, la puntería será del 100%\n"
+"y la probabilidad de crítico subirá un 50%.●"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#8"
+msgid ""
+"$col808080;Of course, when the enemy is facing away, it is\n"
+"to your advantage, but the opposite is true if you\n"
+"are facing away from the enemy.●"
+msgstr ""
+"$col808080;Claro que, si el enemigo te da la espalda, es una\n"
+"ventaja para ti, pero pasa lo contrario si tú le\n"
+"das la espalda al enemigo.●"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#9"
+msgid ""
+"$col808080;Understand how it works so far? Then take care of\n"
+"the enemies in front of us.●"
+msgstr ""
+"$col808080;¿Entendiste hasta aquí? Entonces encárgate de\n"
+"los enemigos que tenemos enfrente.●"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#10"
+msgid ""
+"$col808080;I'll explain about the icon information at another\n"
+"time. You won't be able to keep up if\n"
+"I taught everything to you in one sitting anyway.●"
+msgstr ""
+"$col808080;La información de los íconos te la explico en otro\n"
+"momento. De todos modos, no podrías seguirme si\n"
+"te enseñara todo de una vez.●"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#11"
+msgid ""
+"$col7AF9FB;<Boost>\n"
+"$col808080;Cutting in the movement order is called Boosting.\n"
+"Press the R1 button to display characters who are\n"
+"able to Boost.●"
+msgstr ""
+"$col7AF9FB;<Boost>\n"
+"$col808080;Adelantarse en el orden de movimiento se\n"
+"llama Boost. Presiona el botón R1 para ver los\n"
+"personajes que pueden hacer Boost.●"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#12"
+msgid ""
+"$col808080;Pressing the R1 button and the corresponding\n"
+"&01, &02, or &03 will allow you to Boost. Try Boosting\n"
+"now.●"
+msgstr ""
+"$col808080;Presionando el botón R1 y el &01, &02 o &03\n"
+"correspondiente puedes hacer Boost. Prueba\n"
+"hacer Boost ahora.●"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#13"
+msgid "$col808080;Press the R1 button and &01!"
+msgstr "$col808080;¡Presiona el botón R1 y &01!"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#14"
+msgid ""
+"$col7AF9FB;<Command Menu>\n"
+"$col808080;You can press &04 to open the Command menu.\n"
+"I'll bring it up now.●"
+msgstr ""
+"$col7AF9FB;<Menú de comandos>\n"
+"$col808080;Puedes presionar &04 para abrir el menú de\n"
+"comandos. Ahora lo abro.●"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#15"
+msgid ""
+"$col7AF9FB;【STOCK】\n"
+"$col808080;This will charge the craft's energy by 100. You can\n"
+"check the current charge value by looking at the\n"
+"EC meter. Basic attacks will charge the EC meter\n"
+"by 25.●"
+msgstr ""
+"$col7AF9FB;【STOCK】\n"
+"$col808080;Carga 100 de energía a la nave. Puedes ver la\n"
+"carga actual en el medidor de EC. Los ataques\n"
+"básicos cargan el medidor de EC en 25.●"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#16"
+msgid ""
+"$col7AF9FB;【ETHER】\n"
+"$col808080;Use Ether skills. This craft, unfortunately, cannot\n"
+"use Ether skills. It's a special command for a\n"
+"unique craft.●"
+msgstr ""
+"$col7AF9FB;【ÉTER】\n"
+"$col808080;Usa habilidades de éter. Lamentablemente, esta\n"
+"nave no puede usar habilidades de éter. Es un\n"
+"comando especial para una nave única.●"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#17"
+msgid ""
+"$col7AF9FB;【SPECIAL】\n"
+"$col808080;This will open the special attacks menu.  Special\n"
+"attacks require EC (energy).  Changing the\n"
+"copilot will change the available special attacks.●"
+msgstr ""
+"$col7AF9FB;【TÉCNICA】\n"
+"$col808080;Abre el menú de ataques especiales, que\n"
+"requieren EC (energía). Al cambiar de copiloto\n"
+"cambian los ataques especiales disponibles.●"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#18"
+msgid "$col808080;I'll charge EC to 200.●"
+msgstr "$col808080;Voy a cargar el EC a 200.●"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#19"
+msgid ""
+"Shot Buster                                                            100\n"
+"Ice Storm                                                               200●"
+msgstr ""
+"Cañón lanza                                                          100\n"
+"Ventisca                                                                200●"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#20"
+msgid ""
+"$col808080;The values 100 and 200 next to the special\n"
+"attacks indicate the amount of energy needed to\n"
+"execute them.●"
+msgstr ""
+"$col808080;Los valores 100 y 200 junto a los ataques\n"
+"especiales indican la energía necesaria para\n"
+"ejecutarlos.●"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#21"
+msgid ""
+"$col7AF9FB;【MOVE】\n"
+"$col808080;Depending on the location, it is possible to\n"
+"move during battle. If not, you won't be able to\n"
+"select it.●"
+msgstr ""
+"$col7AF9FB;【MOVER】\n"
+"$col808080;Según el lugar, es posible moverse durante el\n"
+"combate. Si no, no podrás elegirlo.●"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#22"
+msgid ""
+"$col808080;Next, tilting the left analog stick will open another\n"
+"menu.●"
+msgstr ""
+"$col808080;Ahora, al inclinar el stick analógico izquierdo se\n"
+"abre otro menú.●"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#23"
+msgid ""
+"$col7AF9FB;【CHANGE】\n"
+"$col808080;Switch the craft currently in battle\n"
+"with a reserve craft.●"
+msgstr ""
+"$col7AF9FB;【CAMBIO】\n"
+"$col808080;Cambia la nave que está en combate\n"
+"por una de reserva.●"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#24"
+msgid ""
+"$col808080;Currently there's no one in reserve so it's unusable.\n"
+"This may also be grayed out under certain status\n"
+"effects, so pay attention.●"
+msgstr ""
+"$col808080;No hay nadie en reserva, así que no se puede usar.\n"
+"También puede aparecer en gris con algunos\n"
+"estados alterados, así que presta atención.●"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#25"
+msgid ""
+"$col7AF9FB;【ESCAPE】\n"
+"$col808080;It's a command that can only be used with a\n"
+"certain craft. It can't be used in this craft.\n"
+"Of course, not that we would anyway.●"
+msgstr ""
+"$col7AF9FB;【HUIR】\n"
+"$col808080;Este comando solo sirve con cierta nave.\n"
+"Con esta no se puede usar.\n"
+"Aunque, claro, igual no lo haríamos.●"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#26"
+msgid ""
+"$col7AF9FB;<Intercept Attack>\n"
+"$col808080;This is a system unique to the E.S. battles.\n"
+"When you use the Stock command, there is a\n"
+"chance that the craft will intercept an enemy's\n"
+"attack until the next turn.●"
+msgstr ""
+"$col7AF9FB;<Ataque de intercepción>\n"
+"$col808080;Es un sistema propio de los combates de E.S.\n"
+"Al usar el comando Stock, hay una probabilidad\n"
+"de que la nave intercepte un ataque enemigo\n"
+"hasta el siguiente turno.●"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#27"
+msgid ""
+"$col808080;The probability of intercepting the enemy's attack\n"
+"is indicated by the IA value.●"
+msgstr ""
+"$col808080;La probabilidad de interceptar el ataque enemigo\n"
+"se indica con el valor IA.●"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#28"
+msgid ""
+"$col808080;To increase the probability, you need to execute\n"
+"basic attacks. If you're hit with a critical attack,\n"
+"however, the IA value will decrease by half.●"
+msgstr ""
+"$col808080;Para aumentar la probabilidad, tienes que hacer\n"
+"ataques básicos. Pero si recibes un golpe crítico,\n"
+"el valor IA se reduce a la mitad.●"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#29"
+msgid ""
+"$col808080;That's about it for now. The rest, you'll have to\n"
+"figure out for yourself.●"
+msgstr ""
+"$col808080;Eso es todo por ahora. El resto vas a tener que\n"
+"descubrirlo por tu cuenta.●"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#30"
+msgid ""
+"$col7AF9FB;<Event Slot>\n"
+"$col808080;The Event Slot during the current turn is displayed.\n"
+"There are several types of Event Slots which will\n"
+"change with each turn:\n"
+"&09 > &10 > &11 > random > &09●"
+msgstr ""
+"$col7AF9FB;<Casilla de evento>\n"
+"$col808080;Se muestra la casilla de evento del turno actual.\n"
+"Hay varios tipos de casillas de evento, que\n"
+"cambian en cada turno:\n"
+"&09 > &10 > &11 > aleatoria > &09●"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#31"
+msgid ""
+"$col808080;The Event Slots have the following effects:\n"
+"&09 Increases chance of a critical hit by 50%.\n"
+"&10 Increases rate at which the Boost Gauge rises.\n"
+"&11 Increases Skill Points earned from enemies.●"
+msgstr ""
+"$col808080;Las casillas de evento tienen estos efectos:\n"
+"&09 Probabilidad de golpe crítico +50%.\n"
+"&10 La barra de Boost sube más rápido.\n"
+"&11 Más Puntos de habilidad de los enemigos.●"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#32"
+msgid ""
+"$col808080;There are 3 random Event Slots and 1 non-event:\n"
+"&12 Increases Ether damage & healing by 50%.\n"
+"&13 Target loses its turn if damaged by an attack.\n"
+"&15 Target's Boost Gauge increases if attacked.●"
+msgstr ""
+"$col808080;Hay 3 casillas de evento aleatorias y 1 sin evento:\n"
+"&12 Daño y curación de éter +50%.\n"
+"&13 El objetivo pierde el turno si recibe daño.\n"
+"&15 Sube la barra de Boost del atacado.●"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#33"
+msgid ""
+"Only enemies in character battles give Skill Points,\n"
+"so don't worry about &11 in this battle.●"
+msgstr ""
+"Solo los combates de personajes dan Puntos de\n"
+"Habilidad, así que ignora &11 en este combate.●"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#34"
+msgid ""
+"$col7AF9FB;<Target Information>\n"
+"$col808080;When you place the cursor on the target,\n"
+"the enemy's position is displayed above the\n"
+"cursor, and its HP and IA are displayed at\n"
+"the bottom right.●"
+msgstr ""
+"$col7AF9FB;<Información del objetivo>\n"
+"$col808080;Al poner el cursor sobre el objetivo, se\n"
+"muestra arriba la posición del enemigo, y\n"
+"abajo a la derecha, sus HP e IA.●"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#35"
+msgid ""
+"$col808080;The enemy can face front or back. Attacking an\n"
+"enemy from the back will increase your aim to\n"
+"100% and the critical rate by 50%.●"
+msgstr ""
+"$col808080;El enemigo puede estar de frente o de espaldas.\n"
+"Atacarlo por la espalda sube la puntería al 100%\n"
+"y la probabilidad de crítico un 50%.●"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#36"
+msgid ""
+"$col808080;Of course, when the enemy is facing away, it is\n"
+"to your advantage, but the opposite is true if you\n"
+"are facing away from the enemy. Also, you cannot\n"
+"change the direction you face--it is set to the last\n"
+"enemy you attacked.●"
+msgstr ""
+"$col808080;Claro que, si el enemigo te da la espalda, es una\n"
+"ventaja para ti, pero pasa lo contrario si tú le\n"
+"das la espalda. Además, no puedes cambiar hacia\n"
+"dónde miras: quedas mirando al último enemigo\n"
+"que atacaste.●"

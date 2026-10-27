@@ -1,0 +1,185 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Xenosaga Episode II - traducción al español\n"
+"Language: es_419\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Xeno-Source: 0:cf/en/sc8071.sbl\n"
+"X-Xeno-Tipo: cinematica\n"
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#. Opciones: una por línea. Mantener 2 líneas en el mismo orden.
+#, fuzzy
+msgctxt "#5"
+msgid ""
+"So tell me...what exactly are\n"
+"we expecting to happen here?"
+msgstr ""
+"Dime... ¿qué es exactamente\n"
+"lo que esperamos que pase aquí?"
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#6"
+msgid ""
+"Well, the problem is that the U.R.T.V.s\n"
+"aren't merely machines."
+msgstr ""
+"Bueno, el problema es que los U.R.T.V.\n"
+"no son simples máquinas."
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#. Opciones: una por línea. Mantener 2 líneas en el mismo orden.
+#, fuzzy
+msgctxt "#7"
+msgid ""
+"They're real people with\n"
+"their consciousness intact."
+msgstr ""
+"Son personas reales con\n"
+"la conciencia intacta."
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#8"
+msgid "The system that currently controls the Zohar"
+msgstr "El sistema que controla actualmente el Zohar"
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#. Opciones: una por línea. Mantener 2 líneas en el mismo orden.
+#, fuzzy
+msgctxt "#9"
+msgid ""
+"was actually designed to be used\n"
+"for the U.M.N. transport system."
+msgstr ""
+"en realidad se diseñó para usarse en\n"
+"el sistema de transporte de la U.M.N."
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#10"
+msgid "However..."
+msgstr "Sin embargo..."
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#11"
+msgid "Yes?"
+msgstr "¿Sí?"
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#12"
+msgid ""
+"Well, they experimented with the transport\n"
+"of living beings numerous times,"
+msgstr ""
+"Bueno, experimentaron con el transporte\n"
+"de seres vivos muchas veces,"
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#13"
+msgid "but every attempt ended in failure."
+msgstr "pero todos los intentos fracasaron."
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#. Opciones: una por línea. Mantener 2 líneas en el mismo orden.
+#, fuzzy
+msgctxt "#14"
+msgid ""
+"According to the records, 99.76%\n"
+"of them were killed instantly."
+msgstr ""
+"Según los registros, el 99.76%\n"
+"murió al instante."
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#15"
+msgid ""
+"However, it seems that on very rare\n"
+"occasions, there were survivors."
+msgstr ""
+"Sin embargo, parece que en muy raras\n"
+"ocasiones hubo sobrevivientes."
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#16"
+msgid "They didn't exist as people anymore, though."
+msgstr "Pero ya no existían como personas."
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#17"
+msgid ""
+"They were just things, never able to\n"
+"recover their consciousness―the\n"
+"very element that made them human."
+msgstr ""
+"Eran solo cosas, incapaces de recuperar\n"
+"su conciencia―justamente\n"
+"lo que los hacía humanos."
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#18"
+msgid "Mental breakdown..."
+msgstr "Colapso mental..."
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#19"
+msgid ""
+"Lieutenant General Helmer concluded that\n"
+"if contact with the system led to the\n"
+"destruction of the human mind,"
+msgstr ""
+"El teniente general Helmer concluyó que,\n"
+"si el contacto con el sistema llevaba a\n"
+"la destrucción de la mente humana,"
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#20"
+msgid ""
+"then even the U.R.T.V.s, created as the\n"
+"system's antithesis, might be affected."
+msgstr ""
+"incluso los U.R.T.V., creados como la antítesis\n"
+"del sistema, podrían verse afectados."
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#21"
+msgid ""
+"Therefore, if the U.R.T.V.s were to suffer\n"
+"a mental breakdown, then likely the Zohar,"
+msgstr ""
+"Por lo tanto, si los U.R.T.V. sufrían\n"
+"un colapso mental, probablemente el Zohar,"
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#22"
+msgid ""
+"a source of infinite energy, would spiral out\n"
+"of control. That would be devastating."
+msgstr ""
+"una fuente de energía infinita, quedaría\n"
+"fuera de control. Sería devastador."
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#23"
+msgid ""
+"And yet the General Staff's decision\n"
+"wasn't overturned. I suppose\n"
+"that's where we come in..."
+msgstr ""
+"Y aun así, el Estado Mayor no revocó\n"
+"su decisión. Supongo que ahí\n"
+"es donde entramos nosotros..."

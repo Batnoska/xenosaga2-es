@@ -1,0 +1,47 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Xenosaga Episode II - traducción al español\n"
+"Language: es_419\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Xeno-Source: 0:cf/en/sc8009.sbl\n"
+"X-Xeno-Tipo: cinematica\n"
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#7"
+msgid "What did Mommy say, Ziggy?"
+msgstr "¿Qué dijo mamá, Ziggy?"
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#8"
+msgid "Ah, right...She seemed...very busy."
+msgstr "Ah, cierto... Parecía... muy ocupada."
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#9"
+msgid "Oh. I knew it."
+msgstr "Ah... Ya me lo imaginaba."
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#10"
+msgid ""
+"She's one of the Contact Subcommittee's\n"
+"head members. I'm sure it's a demanding role."
+msgstr ""
+"Es una de las directoras del Subcomité de\n"
+"Contacto. Seguro que es un puesto exigente."
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#11"
+msgid ""
+"Yeah, I guess you're right. I guess\n"
+"I've got to do my best to help her out."
+msgstr ""
+"Sí, tienes razón. Entonces tengo\n"
+"que esforzarme para ayudarla."

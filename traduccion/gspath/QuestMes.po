@@ -1,0 +1,4017 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Xenosaga Episode II - traducción al español\n"
+"Language: es_419\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Xeno-Source: 0:iwase/QuestMes.txt\n"
+
+#. máximo 30 caracteres; 1 línea(s) de hasta 269 píxeles
+#, fuzzy
+msgctxt "No.1/Subject"
+msgid "Send Him My Love!"
+msgstr "¡Hazle llegar mi amor!"
+
+#. máximo 16 caracteres; 1 línea(s) de hasta 151 píxeles
+#, fuzzy
+msgctxt "No.1/Locate"
+msgid "Second Miltia"
+msgstr "Segunda Miltia"
+
+#. máximo 16 caracteres; 1 línea(s) de hasta 125 píxeles
+#, fuzzy
+msgctxt "No.1/Client"
+msgid "Jacqueline"
+msgstr "Jacqueline"
+
+#. máximo 256 caracteres; 5 línea(s) de hasta 275 píxeles
+#, fuzzy
+msgctxt "No.1/MesIPG"
+msgid ""
+"Hi! This is Jacqueline! Please\n"
+"make sure my letter gets to\n"
+"Sidney―my sweet, my love!"
+msgstr ""
+"¡Hola! ¡Soy Jacqueline! Por\n"
+"favor, asegúrate de que mi\n"
+"carta le llegue a Sidney, ¡mi\n"
+"dulce amor!"
+
+#. máximo 256 caracteres; 5 línea(s) de hasta 275 píxeles
+#, fuzzy
+msgctxt "No.1/MesSCD"
+msgid ""
+"Thank you so much for\n"
+"delivering my letter! Now\n"
+"Sidney and I can be in love\n"
+"forever and ever!"
+msgstr ""
+"¡Muchísimas gracias por\n"
+"entregar mi carta! ¡Ahora\n"
+"Sidney y yo podremos amarnos\n"
+"por siempre jamás!"
+
+#. máximo 256 caracteres; 5 línea(s) de hasta 275 píxeles
+msgctxt "No.1/MesFLD"
+msgid ""
+"You cannot fail this quest. A\n"
+"flag that cannot exist has\n"
+"come up. xxxxxxxxxx\n"
+"xxxxxxxxxx"
+msgstr ""
+
+#. máximo 1024 caracteres; 16 línea(s) de hasta 240 píxeles
+#, fuzzy
+msgctxt "No.1/UkunSCD"
+msgid ""
+"So, you managed to\n"
+"deliver Jacqueline's love\n"
+"letter! She's so happy! I\n"
+"wish the two of them\n"
+"the best of luck, but\n"
+"Sidney needs to settle\n"
+"down and stop\n"
+"wandering around if\n"
+"they want to make it.\n"
+"You never know when\n"
+"he'll just take off again.\n"
+"Well, congratulations on\n"
+"a GS Path down and\n"
+"good luck with the rest!"
+msgstr ""
+"¡Así que lograste\n"
+"entregar la carta de\n"
+"amor de Jacqueline! ¡Está\n"
+"feliz! Les deseo toda la\n"
+"suerte del mundo, pero si\n"
+"quieren que funcione,\n"
+"Sidney tiene que sentar\n"
+"cabeza y dejar de andar\n"
+"de acá para allá. Nunca\n"
+"se sabe cuándo se va a ir\n"
+"otra vez. En fin,\n"
+"¡felicitaciones por tu\n"
+"primera Ruta SG y suerte\n"
+"con el resto!"
+
+#. máximo 1024 caracteres; 16 línea(s) de hasta 240 píxeles
+msgctxt "No.1/UkunFLD"
+msgid ""
+"You cannot fail this\n"
+"quest. A flag that\n"
+"cannot exist has come\n"
+"up. xxxxxxxxxx\n"
+"xxxxxxxxxx xxxxxxxxxx\n"
+"xxxxxxxxxx xxxxxxxxxx\n"
+"xxxxxxxxxx xxxxxxxxxx\n"
+"xxxxxxxxxx xxxxxxxxxx\n"
+"xxxxxxxxxx xxxxxxxxxx\n"
+"xxxxxxxxxx xxxxxxxxxx\n"
+"xxxxxxxxxx"
+msgstr ""
+
+#. máximo 30 caracteres; 1 línea(s) de hasta 269 píxeles
+#, fuzzy
+msgctxt "No.2/Subject"
+msgid "Go Postal!"
+msgstr "¡Correo urgente!"
+
+#. máximo 16 caracteres; 1 línea(s) de hasta 151 píxeles
+#, fuzzy
+msgctxt "No.2/Locate"
+msgid "Second Miltia"
+msgstr "Segunda Miltia"
+
+#. máximo 16 caracteres; 1 línea(s) de hasta 125 píxeles
+#, fuzzy
+msgctxt "No.2/Client"
+msgid "Sikes"
+msgstr "Sikes"
+
+#. máximo 256 caracteres; 5 línea(s) de hasta 275 píxeles
+#, fuzzy
+msgctxt "No.2/MesIPG"
+msgid ""
+"Hey! Deliver those four letters\n"
+"for me while I'm stuck here,\n"
+"would you? Jacqueline said you\n"
+"could."
+msgstr ""
+"¡Oye! Mientras estoy atascado\n"
+"acá, ¿me entregas estas cuatro\n"
+"cartas? Jacqueline dijo que\n"
+"podías."
+
+#. máximo 256 caracteres; 5 línea(s) de hasta 275 píxeles
+#, fuzzy
+msgctxt "No.2/MesSCD"
+msgid ""
+"Wow! Jacqueline was right!\n"
+"Thanks to you, I still have a job.\n"
+"Ever think of going into the\n"
+"delivery business?"
+msgstr ""
+"¡Guau! ¡Jacqueline tenía razón!\n"
+"Gracias a ti, todavía tengo\n"
+"trabajo. ¿Nunca pensaste en\n"
+"dedicarte al reparto?"
+
+#. máximo 256 caracteres; 5 línea(s) de hasta 275 píxeles
+#, fuzzy
+msgctxt "No.2/MesFLD"
+msgid ""
+"Hehehe. Was it a little too much\n"
+"to handle? Don't take it too\n"
+"hard. Even I screw up once in a\n"
+"while."
+msgstr ""
+"Jejeje. ¿Fue demasiado para ti?\n"
+"No te lo tomes tan a pecho.\n"
+"Hasta yo me equivoco de vez\n"
+"en cuando."
+
+#. máximo 1024 caracteres; 16 línea(s) de hasta 240 píxeles
+#, fuzzy
+msgctxt "No.2/UkunSCD"
+msgid ""
+"Way to go! Delivering\n"
+"four letters was tough,\n"
+"but you did it! Sikes\n"
+"talked about hand\n"
+"delivering sincerity,\n"
+"right? Now, this may\n"
+"sound weird since I'm\n"
+"talking to you online,\n"
+"but there's a real\n"
+"difference between\n"
+"getting a message from\n"
+"a person and getting it\n"
+"in some indirect way.\n"
+"Maybe we need more\n"
+"people like Sikes."
+msgstr ""
+"¡Bien hecho! Entregar\n"
+"cuatro cartas era difícil,\n"
+"¡pero lo lograste! Sikes\n"
+"habló de entregar la\n"
+"sinceridad en mano, ¿no?\n"
+"Puede sonar raro porque\n"
+"te hablo por la red, pero\n"
+"hay una gran diferencia\n"
+"entre recibir un mensaje\n"
+"de una persona y\n"
+"recibirlo de forma\n"
+"indirecta. Quizá\n"
+"necesitamos más gente\n"
+"como Sikes."
+
+#. máximo 1024 caracteres; 16 línea(s) de hasta 240 píxeles
+#, fuzzy
+msgctxt "No.2/UkunFLD"
+msgid ""
+"Wow, did you really\n"
+"mess up? Delivering four\n"
+"letters must be harder\n"
+"than I thought. Now you\n"
+"know how hard it is to\n"
+"make sure the right\n"
+"things get to the right\n"
+"people. It's a lot like the\n"
+"GS Campaign, right?\n"
+"Anyway, there are a lot\n"
+"more people who need\n"
+"help, so don't let this\n"
+"one get you down! Good\n"
+"luck with the rest!"
+msgstr ""
+"Vaya, ¿de verdad\n"
+"fallaste? Entregar cuatro\n"
+"cartas debe ser más\n"
+"difícil de lo que pensaba.\n"
+"Ahora sabes lo difícil que\n"
+"es hacer que las cosas\n"
+"correctas lleguen a las\n"
+"personas correctas. Se\n"
+"parece mucho a la\n"
+"Campaña SG, ¿no? En\n"
+"fin, hay mucha más\n"
+"gente que necesita\n"
+"ayuda, así que ¡no te\n"
+"desanimes! ¡Suerte con el\n"
+"resto!"
+
+#. máximo 30 caracteres; 1 línea(s) de hasta 269 píxeles
+#, fuzzy
+msgctxt "No.3/Subject"
+msgid "Operation Squeak Squeak!"
+msgstr "¡Operación Cuic Cuic!"
+
+#. máximo 16 caracteres; 1 línea(s) de hasta 151 píxeles
+#, fuzzy
+msgctxt "No.3/Locate"
+msgid "Kukai Foundation"
+msgstr "Fundación Kukai"
+
+#. máximo 16 caracteres; 1 línea(s) de hasta 125 píxeles
+#, fuzzy
+msgctxt "No.3/Client"
+msgid "Sheila"
+msgstr "Sheila"
+
+#. máximo 256 caracteres; 5 línea(s) de hasta 275 píxeles
+#, fuzzy
+msgctxt "No.3/MesIPG"
+msgid ""
+"Oh help me, please! There are\n"
+"mice all over the attic! Can you\n"
+"get rid of those horrid little\n"
+"things?"
+msgstr ""
+"¡Ay, ayúdame, por favor! ¡El\n"
+"ático está lleno de ratones!\n"
+"¿Puedes deshacerte de esos\n"
+"bichos horribles?"
+
+#. máximo 256 caracteres; 5 línea(s) de hasta 275 píxeles
+#, fuzzy
+msgctxt "No.3/MesSCD"
+msgid ""
+"I can't thank you enough! Now I\n"
+"won't have those horrible little\n"
+"mice running around any more."
+msgstr ""
+"¡No sé cómo agradecértelo! Ya\n"
+"no voy a tener esos ratones\n"
+"horribles corriendo por todos\n"
+"lados."
+
+#. máximo 256 caracteres; 5 línea(s) de hasta 275 píxeles
+#, fuzzy
+msgctxt "No.3/MesFLD"
+msgid ""
+"Oh no. It looks like you didn't\n"
+"get all the mice. So, does that\n"
+"mean there are still more up\n"
+"there?"
+msgstr ""
+"Ay, no. Parece que no\n"
+"atrapaste todos los ratones.\n"
+"¿Quiere decir que todavía\n"
+"quedan más allá arriba?"
+
+#. máximo 1024 caracteres; 16 línea(s) de hasta 240 píxeles
+#, fuzzy
+msgctxt "No.3/UkunSCD"
+msgid ""
+"So, the one behind all\n"
+"the mouse mess was\n"
+"that little brat. Looks\n"
+"like his mom gave him a\n"
+"good scolding; let's hope\n"
+"it sticks this time. He\n"
+"really went through a lot\n"
+"of trouble to get his\n"
+"mom's attention, though.\n"
+"I'd be so shocked if that\n"
+"happened to me! But\n"
+"now, you've mended the\n"
+"family ties and they'll all\n"
+"get along. We hope."
+msgstr ""
+"Así que el culpable de\n"
+"todo el lío de los ratones\n"
+"era ese mocoso. Parece\n"
+"que su mamá lo regañó\n"
+"bien; ojalá esta vez\n"
+"aprenda. Igual, ¡se tomó\n"
+"mucho trabajo para\n"
+"llamar la atención de su\n"
+"mamá! ¡Yo me llevaría un\n"
+"susto tremendo! Pero\n"
+"ahora arreglaste los lazos\n"
+"de esa familia y van a\n"
+"llevarse bien. O eso\n"
+"esperamos."
+
+#. máximo 1024 caracteres; 16 línea(s) de hasta 240 píxeles
+#, fuzzy
+msgctxt "No.3/UkunFLD"
+msgid ""
+"Looks like that scary old\n"
+"lady caught the mice\n"
+"you missed all by herself!\n"
+"I bet she could just look\n"
+"at the mice and make\n"
+"them run away. I also\n"
+"got the feeling that\n"
+"someone let the mice\n"
+"loose in the attic. And if\n"
+"you ask me, little\n"
+"Dominic looks like just\n"
+"the brat who would do\n"
+"something like that."
+msgstr ""
+"¡Parece que esa señora\n"
+"tan aterradora atrapó\n"
+"sola los ratones que se te\n"
+"escaparon! Seguro que le\n"
+"basta con mirarlos para\n"
+"que salgan corriendo.\n"
+"Además, me dio la\n"
+"sensación de que alguien\n"
+"soltó los ratones en el\n"
+"ático. Y si me preguntas,\n"
+"el pequeño Dominic tiene\n"
+"toda la pinta del mocoso\n"
+"que haría algo así."
+
+#. máximo 30 caracteres; 1 línea(s) de hasta 269 píxeles
+#, fuzzy
+msgctxt "No.4/Subject"
+msgid "ZAZA's Great Adventure"
+msgstr "La gran aventura de ZAZA"
+
+#. máximo 16 caracteres; 1 línea(s) de hasta 151 píxeles
+#, fuzzy
+msgctxt "No.4/Locate"
+msgid "Elsa"
+msgstr "Elsa"
+
+#. máximo 16 caracteres; 1 línea(s) de hasta 125 píxeles
+#, fuzzy
+msgctxt "No.4/Client"
+msgid "SPUMONI"
+msgstr "SPUMONI"
+
+#. máximo 256 caracteres; 5 línea(s) de hasta 275 píxeles
+#, fuzzy
+msgctxt "No.4/MesIPG"
+msgid ""
+"OH NO! ZAZA HAS\n"
+"DISAPPEARED! I AM WORRIED\n"
+"ABOUT HIM. HE IS QUITE\n"
+"NAIVE. PLEASE FIND HIM!"
+msgstr ""
+"¡OH, NO! ¡ZAZA SE PERDIO!\n"
+"ESTOY PREOCUPADO POR EL.\n"
+"ES MUY INGENUO. ¡POR\n"
+"FAVOR, BUSCALO!"
+
+#. máximo 256 caracteres; 5 línea(s) de hasta 275 píxeles
+#, fuzzy
+msgctxt "No.4/MesSCD"
+msgid ""
+"THANK YOU VERY MUCH. HE\n"
+"HAS RETURNED WITHOUT A\n"
+"SCRATCH, AND HIS CORE\n"
+"CHIP IS INTACT."
+msgstr ""
+"MUCHAS GRACIAS. VOLVIO\n"
+"SANO Y SALVO, Y SU CHIP\n"
+"CENTRAL ESTA INTACTO."
+
+#. máximo 256 caracteres; 5 línea(s) de hasta 275 píxeles
+msgctxt "No.4/MesFLD"
+msgid ""
+"You cannot fail this quest. A\n"
+"flag that cannot exist has\n"
+"come up. xxxxxxxxxx\n"
+"xxxxxxxxxx"
+msgstr ""
+
+#. máximo 1024 caracteres; 16 línea(s) de hasta 240 píxeles
+#, fuzzy
+msgctxt "No.4/UkunSCD"
+msgid ""
+"Humph! That droid just\n"
+"likes to make people\n"
+"worry. With all the\n"
+"different droids on the\n"
+"Elsa, I guess it's no\n"
+"surprise that one would\n"
+"look up to humans.\n"
+"Maybe being around so\n"
+"many humans rubbed\n"
+"off on him. Hopefully\n"
+"ZAZA learned his lesson\n"
+"and will stay on board\n"
+"the Elsa. But maybe\n"
+"ZAZA is planning an\n"
+"even greater adventure!"
+msgstr ""
+"¡Hum! A ese droide le\n"
+"encanta preocupar a la\n"
+"gente. Con tantos\n"
+"droides distintos en el\n"
+"Elsa, no es raro que\n"
+"alguno admire a los\n"
+"humanos. Quizá estar\n"
+"con tantos humanos se le\n"
+"pegó. Ojalá ZAZA haya\n"
+"aprendido la lección y se\n"
+"quede a bordo del Elsa.\n"
+"¡Aunque a lo mejor ZAZA\n"
+"está planeando una\n"
+"aventura todavía más\n"
+"grande!"
+
+#. máximo 1024 caracteres; 16 línea(s) de hasta 240 píxeles
+msgctxt "No.4/UkunFLD"
+msgid ""
+"You cannot fail this\n"
+"quest. A flag that\n"
+"cannot exist has come\n"
+"up. xxxxxxxxxx\n"
+"xxxxxxxxxx xxxxxxxxxx\n"
+"xxxxxxxxxx xxxxxxxxxx\n"
+"xxxxxxxxxx xxxxxxxxxx\n"
+"xxxxxxxxxx xxxxxxxxxx\n"
+"xxxxxxxxxx xxxxxxxxxx\n"
+"xxxxxxxxxx xxxxxxxxxx\n"
+"xxxxxxxxxx"
+msgstr ""
+
+#. máximo 30 caracteres; 1 línea(s) de hasta 269 píxeles
+#, fuzzy
+msgctxt "No.5/Subject"
+msgid "My Idol, Dr. Uzuki"
+msgstr "Mi ídolo, el Dr. Uzuki"
+
+#. máximo 16 caracteres; 1 línea(s) de hasta 151 píxeles
+#, fuzzy
+msgctxt "No.5/Locate"
+msgid "Uzuki Home"
+msgstr "Casa Uzuki"
+
+#. máximo 16 caracteres; 1 línea(s) de hasta 125 píxeles
+#, fuzzy
+msgctxt "No.5/Client"
+msgid "Jun"
+msgstr "Jun"
+
+#. máximo 256 caracteres; 5 línea(s) de hasta 275 píxeles
+#, fuzzy
+msgctxt "No.5/MesIPG"
+msgid ""
+"Aw nuts! I done messed up Dr.\n"
+"Uzuki's bookshelves! Y'all gotta\n"
+"help me fix 'em up again!"
+msgstr ""
+"¡Rayos! ¡Desordené las\n"
+"estanterías del Dr. Uzuki!\n"
+"¡Tienen que ayudarme a\n"
+"acomodarlas de nuevo!"
+
+#. máximo 256 caracteres; 5 línea(s) de hasta 275 píxeles
+#, fuzzy
+msgctxt "No.5/MesSCD"
+msgid ""
+"Whew, that was close! Dr. Uzuki\n"
+"seems nice and all, but some\n"
+"stuff'll make him madder than a\n"
+"wet cat!"
+msgstr ""
+"¡Uf, por poco! El Dr. Uzuki\n"
+"parece buena gente, ¡pero hay\n"
+"cosas que lo ponen más furioso\n"
+"que un gato mojado!"
+
+#. máximo 256 caracteres; 5 línea(s) de hasta 275 píxeles
+msgctxt "No.5/MesFLD"
+msgid ""
+"You cannot fail this quest. A\n"
+"flag that cannot exist has\n"
+"come up. xxxxxxxxxx\n"
+"xxxxxxxxxx"
+msgstr ""
+
+#. máximo 1024 caracteres; 16 línea(s) de hasta 240 píxeles
+#, fuzzy
+msgctxt "No.5/UkunSCD"
+msgid ""
+"Hehehe, what a flake.\n"
+"That's what he gets for\n"
+"treating those old\n"
+"bookshelves so\n"
+"carelessly. But aren't\n"
+"shelves usually easy to\n"
+"organize? Doesn't\n"
+"making them\n"
+"complicated defeat\n"
+"their purpose? That kid\n"
+"was wrong to mess with\n"
+"the shelves, but maybe a\n"
+"certain someone should\n"
+"also rethink his choice in\n"
+"furniture."
+msgstr ""
+"Jejeje, qué despistado.\n"
+"Eso le pasa por tratar\n"
+"esas estanterías viejas\n"
+"con tan poco cuidado.\n"
+"Pero ¿no se supone que\n"
+"las estanterías son\n"
+"fáciles de ordenar?\n"
+"¿Hacerlas tan\n"
+"complicadas no les quita\n"
+"el sentido? Ese chico no\n"
+"debió meterse con las\n"
+"estanterías, pero quizá\n"
+"cierta persona también\n"
+"debería repensar sus\n"
+"muebles."
+
+#. máximo 1024 caracteres; 16 línea(s) de hasta 240 píxeles
+msgctxt "No.5/UkunFLD"
+msgid ""
+"You cannot fail this\n"
+"quest. A flag that\n"
+"cannot exist has come\n"
+"up. xxxxxxxxxx\n"
+"xxxxxxxxxx xxxxxxxxxx\n"
+"xxxxxxxxxx xxxxxxxxxx\n"
+"xxxxxxxxxx xxxxxxxxxx\n"
+"xxxxxxxxxx xxxxxxxxxx\n"
+"xxxxxxxxxx xxxxxxxxxx\n"
+"xxxxxxxxxx xxxxxxxxxx\n"
+"xxxxxxxxxx"
+msgstr ""
+
+#. máximo 30 caracteres; 1 línea(s) de hasta 269 píxeles
+#, fuzzy
+msgctxt "No.6/Subject"
+msgid "Ultimate Recipe"
+msgstr "La receta definitiva"
+
+#. máximo 16 caracteres; 1 línea(s) de hasta 151 píxeles
+#, fuzzy
+msgctxt "No.6/Locate"
+msgid "Second Miltia"
+msgstr "Segunda Miltia"
+
+#. máximo 16 caracteres; 1 línea(s) de hasta 125 píxeles
+#, fuzzy
+msgctxt "No.6/Client"
+msgid "Chop"
+msgstr "Chop"
+
+#. máximo 256 caracteres; 5 línea(s) de hasta 275 píxeles
+#, fuzzy
+msgctxt "No.6/MesIPG"
+msgid ""
+"Too hot! Too tart! Punch will\n"
+"never like this! Oh, how can I\n"
+"get the flavors from inside my\n"
+"head into the pot?!"
+msgstr ""
+"¡Muy picante! ¡Muy ácido! ¡A\n"
+"Punch nunca le va a gustar! ¡Ay!\n"
+"¿Cómo hago para que los\n"
+"sabores de mi cabeza lleguen a\n"
+"la olla?"
+
+#. máximo 256 caracteres; 5 línea(s) de hasta 275 píxeles
+#, fuzzy
+msgctxt "No.6/MesSCD"
+msgid ""
+"Oh, thank you! But I still wonder\n"
+"if this will truly please Punch's\n"
+"delicate palate."
+msgstr ""
+"¡Oh, gracias! Pero todavía me\n"
+"pregunto si esto de verdad\n"
+"complacerá el delicado paladar\n"
+"de Punch."
+
+#. máximo 256 caracteres; 5 línea(s) de hasta 275 píxeles
+msgctxt "No.6/MesFLD"
+msgid ""
+"You cannot fail this quest. A\n"
+"flag that cannot exist has\n"
+"come up. xxxxxxxxxx\n"
+"xxxxxxxxxx"
+msgstr ""
+
+#. máximo 1024 caracteres; 16 línea(s) de hasta 240 píxeles
+#, fuzzy
+msgctxt "No.6/UkunSCD"
+msgid ""
+"A disciple of true flavor,\n"
+"huh? I guess the best\n"
+"ingredients make good\n"
+"food, but I never get\n"
+"tired of casual meals.\n"
+"You're lucky you trained\n"
+"at Moby Dick's Cafe.\n"
+"Everyone likes their\n"
+"curry! It tastes like real\n"
+"home cooking, just like\n"
+"Mom used to make! Oh\n"
+"boy, now I want some\n"
+"curry. Take me with you\n"
+"next time you go, okay?"
+msgstr ""
+"Un discípulo del\n"
+"verdadero sabor, ¿eh?\n"
+"Supongo que los mejores\n"
+"ingredientes hacen\n"
+"buena comida, pero yo\n"
+"nunca me canso de la\n"
+"comida sencilla. Tuviste\n"
+"suerte de entrenar en el\n"
+"Moby Dick's Café. ¡A\n"
+"todos les gusta su curry!\n"
+"¡Sabe a comida casera,\n"
+"como la de mamá! Ay,\n"
+"ahora tengo ganas de\n"
+"curry. La próxima vez\n"
+"que vayas, llévame, ¿sí?"
+
+#. máximo 1024 caracteres; 16 línea(s) de hasta 240 píxeles
+msgctxt "No.6/UkunFLD"
+msgid ""
+"You cannot fail this\n"
+"quest. A flag that\n"
+"cannot exist has come\n"
+"up. xxxxxxxxxx\n"
+"xxxxxxxxxx xxxxxxxxxx\n"
+"xxxxxxxxxx xxxxxxxxxx\n"
+"xxxxxxxxxx xxxxxxxxxx\n"
+"xxxxxxxxxx xxxxxxxxxx\n"
+"xxxxxxxxxx xxxxxxxxxx\n"
+"xxxxxxxxxx xxxxxxxxxx\n"
+"xxxxxxxxxx"
+msgstr ""
+
+#. máximo 30 caracteres; 1 línea(s) de hasta 269 píxeles
+#, fuzzy
+msgctxt "No.7/Subject"
+msgid "Posters a Go-Go!"
+msgstr "¡Pósteres por todos lados!"
+
+#. máximo 16 caracteres; 1 línea(s) de hasta 151 píxeles
+#, fuzzy
+msgctxt "No.7/Locate"
+msgid "Second Miltia"
+msgstr "Segunda Miltia"
+
+#. máximo 16 caracteres; 1 línea(s) de hasta 125 píxeles
+#, fuzzy
+msgctxt "No.7/Client"
+msgid "Miguel"
+msgstr "Miguel"
+
+#. máximo 256 caracteres; 5 línea(s) de hasta 275 píxeles
+#, fuzzy
+msgctxt "No.7/MesIPG"
+msgid ""
+"So much to do, so little time!\n"
+"Hurry and finish putting up 20\n"
+"Miss Miltia posters!"
+msgstr ""
+"¡Tanto que hacer y tan poco\n"
+"tiempo! ¡Apúrate y termina de\n"
+"pegar 20 pósteres de Miss\n"
+"Miltia!"
+
+#. máximo 256 caracteres; 5 línea(s) de hasta 275 píxeles
+#, fuzzy
+msgctxt "No.7/MesSCD"
+msgid ""
+"Wow! You're amazing! You\n"
+"really put up all 20 posters?! Let\n"
+"me know if you ever need a\n"
+"real job."
+msgstr ""
+"¡Guau! ¡Eres increíble! ¿De\n"
+"verdad pegaste los 20\n"
+"pósteres? Si alguna vez\n"
+"necesitas un trabajo de verdad,\n"
+"avísame."
+
+#. máximo 256 caracteres; 5 línea(s) de hasta 275 píxeles
+msgctxt "No.7/MesFLD"
+msgid ""
+"You cannot fail this quest. A\n"
+"flag that cannot exist has\n"
+"come up. xxxxxxxxxx\n"
+"xxxxxxxxxx"
+msgstr ""
+
+#. máximo 1024 caracteres; 16 línea(s) de hasta 240 píxeles
+#, fuzzy
+msgctxt "No.7/UkunSCD"
+msgid ""
+"So, you had to put up\n"
+"posters around Second\n"
+"Miltia this time. Miguel is\n"
+"actually a really\n"
+"important guy. He\n"
+"founded the Area 40\n"
+"Publishing Agency, but\n"
+"he still can't get away\n"
+"from all the day-to-day\n"
+"stuff. It must be hard\n"
+"for him to leave his own\n"
+"company in other\n"
+"people's hands. It's nice\n"
+"to see there are still\n"
+"people with a sense of\n"
+"responsibility."
+msgstr ""
+"Así que esta vez te tocó\n"
+"pegar pósteres por\n"
+"Segunda Miltia. Miguel en\n"
+"realidad es alguien muy\n"
+"importante. Fundó la\n"
+"agencia editorial Area\n"
+"40, pero todavía no\n"
+"puede despegarse del\n"
+"trabajo de todos los días.\n"
+"Debe costarle dejar su\n"
+"propia empresa en manos\n"
+"de otros. Qué bueno ver\n"
+"que todavía hay gente\n"
+"con sentido de la\n"
+"responsabilidad."
+
+#. máximo 1024 caracteres; 16 línea(s) de hasta 240 píxeles
+msgctxt "No.7/UkunFLD"
+msgid ""
+"You cannot fail this\n"
+"quest. A flag that\n"
+"cannot exist has come\n"
+"up. xxxxxxxxxx\n"
+"xxxxxxxxxx xxxxxxxxxx\n"
+"xxxxxxxxxx xxxxxxxxxx\n"
+"xxxxxxxxxx xxxxxxxxxx\n"
+"xxxxxxxxxx xxxxxxxxxx\n"
+"xxxxxxxxxx xxxxxxxxxx\n"
+"xxxxxxxxxx xxxxxxxxxx\n"
+"xxxxxxxxxx"
+msgstr ""
+
+#. máximo 30 caracteres; 1 línea(s) de hasta 269 píxeles
+#, fuzzy
+msgctxt "No.8/Subject"
+msgid "Miltian Crisis!"
+msgstr "¡Crisis en Miltia!"
+
+#. máximo 16 caracteres; 1 línea(s) de hasta 151 píxeles
+#, fuzzy
+msgctxt "No.8/Locate"
+msgid "Second Miltia"
+msgstr "Segunda Miltia"
+
+#. máximo 16 caracteres; 1 línea(s) de hasta 125 píxeles
+#, fuzzy
+msgctxt "No.8/Client"
+msgid "Lizzy"
+msgstr "Lizzy"
+
+#. máximo 256 caracteres; 5 línea(s) de hasta 275 píxeles
+#, fuzzy
+msgctxt "No.8/MesIPG"
+msgid ""
+"Sorry to bother you for such a\n"
+"simple favor. All you have to do\n"
+"is push the button in the back\n"
+"of the room."
+msgstr ""
+"Perdón por molestarte con algo\n"
+"tan simple. Solo tienes que\n"
+"presionar el botón del fondo de\n"
+"la sala."
+
+#. máximo 256 caracteres; 5 línea(s) de hasta 275 píxeles
+#, fuzzy
+msgctxt "No.8/MesSCD"
+msgid ""
+"Whew! We almost had a\n"
+"complete blackout of Second\n"
+"Miltia on our hands. Thanks for\n"
+"the help!"
+msgstr ""
+"¡Uf! Casi nos quedamos con\n"
+"Segunda Miltia completamente\n"
+"a oscuras. ¡Gracias por la\n"
+"ayuda!"
+
+#. máximo 256 caracteres; 5 línea(s) de hasta 275 píxeles
+msgctxt "No.8/MesFLD"
+msgid ""
+"You cannot fail this quest. A\n"
+"flag that cannot exist has\n"
+"come up. xxxxxxxxxx\n"
+"xxxxxxxxxx"
+msgstr ""
+
+#. máximo 1024 caracteres; 16 línea(s) de hasta 240 píxeles
+#, fuzzy
+msgctxt "No.8/UkunSCD"
+msgid ""
+"Oh my! That was a really\n"
+"dangerous job you did\n"
+"there! You just barely\n"
+"managed to save\n"
+"Second Miltia from a\n"
+"total blackout! I'm sure\n"
+"there are backup\n"
+"generators, but some\n"
+"people always panic\n"
+"when there's a crisis.\n"
+"Maybe this near miss will\n"
+"teach them the\n"
+"importance of\n"
+"practicing their\n"
+"emergency routines\n"
+"every day."
+msgstr ""
+"¡Madre mía! ¡Hiciste un\n"
+"trabajo muy peligroso!\n"
+"¡Salvaste a Segunda\n"
+"Miltia de un apagón total\n"
+"por un pelo! Seguro que\n"
+"hay generadores de\n"
+"reserva, pero siempre hay\n"
+"gente que entra en\n"
+"pánico cuando hay una\n"
+"crisis. Quizá este susto\n"
+"les enseñe lo importante\n"
+"que es practicar sus\n"
+"rutinas de emergencia\n"
+"todos los días."
+
+#. máximo 1024 caracteres; 16 línea(s) de hasta 240 píxeles
+msgctxt "No.8/UkunFLD"
+msgid ""
+"You cannot fail this\n"
+"quest. A flag that\n"
+"cannot exist has come\n"
+"up. xxxxxxxxxx\n"
+"xxxxxxxxxx xxxxxxxxxx\n"
+"xxxxxxxxxx xxxxxxxxxx\n"
+"xxxxxxxxxx xxxxxxxxxx\n"
+"xxxxxxxxxx xxxxxxxxxx\n"
+"xxxxxxxxxx xxxxxxxxxx\n"
+"xxxxxxxxxx xxxxxxxxxx\n"
+"xxxxxxxxxx"
+msgstr ""
+
+#. máximo 30 caracteres; 1 línea(s) de hasta 269 píxeles
+#, fuzzy
+msgctxt "No.9/Subject"
+msgid "The Great Thief"
+msgstr "La gran ladrona"
+
+#. máximo 16 caracteres; 1 línea(s) de hasta 151 píxeles
+#, fuzzy
+msgctxt "No.9/Locate"
+msgid "Second Miltia"
+msgstr "Segunda Miltia"
+
+#. máximo 16 caracteres; 1 línea(s) de hasta 125 píxeles
+#, fuzzy
+msgctxt "No.9/Client"
+msgid "Maple"
+msgstr "Maple"
+
+#. máximo 256 caracteres; 5 línea(s) de hasta 275 píxeles
+#, fuzzy
+msgctxt "No.9/MesIPG"
+msgid ""
+"Oh no! Somebody stole my\n"
+"teddy bear! Please get it back!\n"
+"Please! I want my teddy!"
+msgstr ""
+"¡Ay, no! ¡Alguien se robó mi\n"
+"osito de peluche! ¡Por favor,\n"
+"recupéralo! ¡Por favor! ¡Quiero\n"
+"mi osito!"
+
+#. máximo 256 caracteres; 5 línea(s) de hasta 275 píxeles
+#, fuzzy
+msgctxt "No.9/MesSCD"
+msgid ""
+"Yay! Thank you! I'll put a leash\n"
+"on him now, so no one will ever\n"
+"take him away again!"
+msgstr ""
+"¡Yupi! ¡Gracias! Ahora le voy a\n"
+"poner una correa, ¡así nadie\n"
+"más se lo lleva nunca!"
+
+#. máximo 256 caracteres; 5 línea(s) de hasta 275 píxeles
+msgctxt "No.9/MesFLD"
+msgid ""
+"You cannot fail this quest. A\n"
+"flag that cannot exist has\n"
+"come up. xxxxxxxxxx\n"
+"xxxxxxxxxx"
+msgstr ""
+
+#. máximo 1024 caracteres; 16 línea(s) de hasta 240 píxeles
+#, fuzzy
+msgctxt "No.9/UkunSCD"
+msgid ""
+"So, that was the\n"
+"infamous thief Dreamy\n"
+"Bonny! What would a\n"
+"thief who could steal\n"
+"anything in Miltian\n"
+"space want with a little\n"
+"girl's teddy bear? And\n"
+"she gave it up so easily,\n"
+"too! Anyway, congrats\n"
+"on reuniting a teddy\n"
+"bear with its loving\n"
+"owner. You can't be too\n"
+"careful about Bonny,\n"
+"though. Keep your eyes\n"
+"peeled!"
+msgstr ""
+"¡Así que esa era la\n"
+"famosa ladrona Dreamy\n"
+"Bonny! ¿Para qué querría\n"
+"una ladrona capaz de\n"
+"robar cualquier cosa del\n"
+"espacio de Miltia el osito\n"
+"de peluche de una niña?\n"
+"¡Y encima lo devolvió tan\n"
+"fácil! En fin,\n"
+"felicitaciones por reunir\n"
+"a un osito con su dueña.\n"
+"Igual, con Bonny nunca\n"
+"se es demasiado\n"
+"precavido. ¡Mantén los\n"
+"ojos abiertos!"
+
+#. máximo 1024 caracteres; 16 línea(s) de hasta 240 píxeles
+msgctxt "No.9/UkunFLD"
+msgid ""
+"You cannot fail this\n"
+"quest. A flag that\n"
+"cannot exist has come\n"
+"up. xxxxxxxxxx\n"
+"xxxxxxxxxx xxxxxxxxxx\n"
+"xxxxxxxxxx xxxxxxxxxx\n"
+"xxxxxxxxxx xxxxxxxxxx\n"
+"xxxxxxxxxx xxxxxxxxxx\n"
+"xxxxxxxxxx xxxxxxxxxx\n"
+"xxxxxxxxxx xxxxxxxxxx\n"
+"xxxxxxxxxx"
+msgstr ""
+
+#. máximo 30 caracteres; 1 línea(s) de hasta 269 píxeles
+#, fuzzy
+msgctxt "No.10/Subject"
+msgid "The Legendary Blue Flower"
+msgstr "La legendaria flor azul"
+
+#. máximo 16 caracteres; 1 línea(s) de hasta 151 píxeles
+#, fuzzy
+msgctxt "No.10/Locate"
+msgid "Second Miltia"
+msgstr "Segunda Miltia"
+
+#. máximo 16 caracteres; 1 línea(s) de hasta 125 píxeles
+#, fuzzy
+msgctxt "No.10/Client"
+msgid "Luty"
+msgstr "Luty"
+
+#. máximo 256 caracteres; 5 línea(s) de hasta 275 píxeles
+#, fuzzy
+msgctxt "No.10/MesIPG"
+msgid ""
+"This room is really drab. I wish I\n"
+"could fill the place with my\n"
+"favorite flower! But I guess I\n"
+"can't."
+msgstr ""
+"Esta habitación es muy\n"
+"aburrida. ¡Me gustaría llenarla\n"
+"de mi flor favorita! Pero\n"
+"supongo que no se puede."
+
+#. máximo 256 caracteres; 5 línea(s) de hasta 275 píxeles
+#, fuzzy
+msgctxt "No.10/MesSCD"
+msgid ""
+"Hey, you remembered my\n"
+"favorite flower! Thank you!\n"
+"Now this room will look a lot\n"
+"nicer."
+msgstr ""
+"¡Oye, te acordaste de mi flor\n"
+"favorita! ¡Gracias! Ahora esta\n"
+"habitación va a verse mucho\n"
+"más linda."
+
+#. máximo 256 caracteres; 5 línea(s) de hasta 275 píxeles
+#, fuzzy
+msgctxt "No.10/MesFLD"
+msgid ""
+"I guess the room is brighter\n"
+"now, but it's not the same. My\n"
+"favorite flower is really bright!"
+msgstr ""
+"Supongo que la habitación está\n"
+"más alegre, pero no es lo mismo.\n"
+"¡Mi flor favorita es muy\n"
+"brillante!"
+
+#. máximo 1024 caracteres; 16 línea(s) de hasta 240 píxeles
+#, fuzzy
+msgctxt "No.10/UkunSCD"
+msgid ""
+"I looked up Luty in the\n"
+"U.M.N. database, and it\n"
+"looks like she's had a\n"
+"really hard life. For years\n"
+"she completely cut\n"
+"herself off from the\n"
+"outside world, but now,\n"
+"she's become a fun little\n"
+"girl. I heard she now\n"
+"helps people get better\n"
+"through flowers. Let's\n"
+"hope one day she'll have\n"
+"so many flowers that no\n"
+"one will stop smiling."
+msgstr ""
+"Busqué a Luty en la base\n"
+"de datos de la U.M.N. y\n"
+"parece que tuvo una vida\n"
+"muy dura. Durante años\n"
+"se aisló por completo del\n"
+"mundo, pero ahora se\n"
+"volvió una niña divertida.\n"
+"Dicen que ahora ayuda a\n"
+"la gente a sanar con\n"
+"flores. Ojalá algún día\n"
+"tenga tantas flores que\n"
+"nadie pueda dejar de\n"
+"sonreír."
+
+#. máximo 1024 caracteres; 16 línea(s) de hasta 240 píxeles
+#, fuzzy
+msgctxt "No.10/UkunFLD"
+msgid ""
+"Oh well. The fortune\n"
+"flower you picked\n"
+"wasn't the one she was\n"
+"hoping for. She may look\n"
+"sad now, but the truth\n"
+"is, all flowers make her\n"
+"happy. She doesn't want\n"
+"just a pretty flower. She\n"
+"wants to put in the\n"
+"effort to make it bloom.\n"
+"That's probably the\n"
+"reason she came out of\n"
+"her shell in the first\n"
+"place."
+msgstr ""
+"Qué pena. La flor de la\n"
+"fortuna que elegiste no\n"
+"era la que ella esperaba.\n"
+"Ahora puede parecer\n"
+"triste, pero la verdad es\n"
+"que todas las flores la\n"
+"hacen feliz. No quiere\n"
+"solo una flor bonita.\n"
+"Quiere esforzarse para\n"
+"hacerla florecer.\n"
+"Seguramente por eso\n"
+"salió de su caparazón en\n"
+"primer lugar."
+
+#. máximo 30 caracteres; 1 línea(s) de hasta 269 píxeles
+#, fuzzy
+msgctxt "No.11/Subject"
+msgid "Water Works Worries!"
+msgstr "¡Problemas en el agua!"
+
+#. máximo 16 caracteres; 1 línea(s) de hasta 151 píxeles
+#, fuzzy
+msgctxt "No.11/Locate"
+msgid "Second Miltia"
+msgstr "Segunda Miltia"
+
+#. máximo 16 caracteres; 1 línea(s) de hasta 125 píxeles
+#, fuzzy
+msgctxt "No.11/Client"
+msgid "Ciaran"
+msgstr "Ciaran"
+
+#. máximo 256 caracteres; 5 línea(s) de hasta 275 píxeles
+#, fuzzy
+msgctxt "No.11/MesIPG"
+msgid ""
+"Okay, listen up. You don't need\n"
+"to break every nanomachine\n"
+"dispenser down there. Pay\n"
+"attention!"
+msgstr ""
+"Bueno, escucha. No hace falta\n"
+"romper todos los dispensadores\n"
+"de nanomáquinas de allá abajo.\n"
+"¡Presta atención!"
+
+#. máximo 256 caracteres; 5 línea(s) de hasta 275 píxeles
+#, fuzzy
+msgctxt "No.11/MesSCD"
+msgid ""
+"Thanks a lot! But for some\n"
+"reason, water quality is still not\n"
+"what it was before..."
+msgstr ""
+"¡Muchas gracias! Pero, por\n"
+"algún motivo, la calidad del\n"
+"agua todavía no es la de\n"
+"antes..."
+
+#. máximo 256 caracteres; 5 línea(s) de hasta 275 píxeles
+msgctxt "No.11/MesFLD"
+msgid ""
+"You cannot fail this quest. A\n"
+"flag that cannot exist has\n"
+"come up. xxxxxxxxxx\n"
+"xxxxxxxxxx"
+msgstr ""
+
+#. máximo 1024 caracteres; 16 línea(s) de hasta 240 píxeles
+#, fuzzy
+msgctxt "No.11/UkunSCD"
+msgid ""
+"I wonder why the\n"
+"nanomachine dispensers\n"
+"broke down? The Water\n"
+"Works of Second Miltia\n"
+"is supposedly one of the\n"
+"best departments in the\n"
+"Galaxy Federation.\n"
+"Maybe there was a\n"
+"problem at the company\n"
+"that made the machines.\n"
+"This could be a big\n"
+"problem for Second\n"
+"Miltia. Someone should\n"
+"definitely look into it."
+msgstr ""
+"¿Por qué se habrán roto\n"
+"los dispensadores de\n"
+"nanomáquinas? Se\n"
+"supone que el Servicio de\n"
+"Aguas de Segunda Miltia\n"
+"es uno de los mejores de\n"
+"la Federación Galáctica.\n"
+"Quizá hubo un problema\n"
+"en la empresa que\n"
+"fabricó las máquinas.\n"
+"Esto podría ser un gran\n"
+"problema para Segunda\n"
+"Miltia. Alguien debería\n"
+"investigarlo."
+
+#. máximo 1024 caracteres; 16 línea(s) de hasta 240 píxeles
+msgctxt "No.11/UkunFLD"
+msgid ""
+"You cannot fail this\n"
+"quest. A flag that\n"
+"cannot exist has come\n"
+"up. xxxxxxxxxx\n"
+"xxxxxxxxxx xxxxxxxxxx\n"
+"xxxxxxxxxx xxxxxxxxxx\n"
+"xxxxxxxxxx xxxxxxxxxx\n"
+"xxxxxxxxxx xxxxxxxxxx\n"
+"xxxxxxxxxx xxxxxxxxxx\n"
+"xxxxxxxxxx xxxxxxxxxx\n"
+"xxxxxxxxxx"
+msgstr ""
+
+#. máximo 30 caracteres; 1 línea(s) de hasta 269 píxeles
+#, fuzzy
+msgctxt "No.12/Subject"
+msgid "More Water Works Woes!"
+msgstr "¡Más problemas en el agua!"
+
+#. máximo 16 caracteres; 1 línea(s) de hasta 151 píxeles
+#, fuzzy
+msgctxt "No.12/Locate"
+msgid "Second Miltia"
+msgstr "Segunda Miltia"
+
+#. máximo 16 caracteres; 1 línea(s) de hasta 125 píxeles
+#, fuzzy
+msgctxt "No.12/Client"
+msgid "Ray"
+msgstr "Ray"
+
+#. máximo 256 caracteres; 5 línea(s) de hasta 275 píxeles
+#, fuzzy
+msgctxt "No.12/MesIPG"
+msgid ""
+"It's simple! All you have to do is\n"
+"turn the valves in order and let\n"
+"the water flow out of the big\n"
+"gate."
+msgstr ""
+"¡Es fácil! Solo tienes que girar\n"
+"las válvulas en orden y dejar\n"
+"que el agua salga por la\n"
+"compuerta grande."
+
+#. máximo 256 caracteres; 5 línea(s) de hasta 275 píxeles
+#, fuzzy
+msgctxt "No.12/MesSCD"
+msgid ""
+"Thanks again for bailing us out.\n"
+"But I still don't get why water\n"
+"quality isn't improving..."
+msgstr ""
+"Gracias otra vez por sacarnos\n"
+"del apuro. Pero sigo sin\n"
+"entender por qué no mejora la\n"
+"calidad del agua..."
+
+#. máximo 256 caracteres; 5 línea(s) de hasta 275 píxeles
+msgctxt "No.12/MesFLD"
+msgid ""
+"You cannot fail this quest. A\n"
+"flag that cannot exist has\n"
+"come up. xxxxxxxxxx\n"
+"xxxxxxxxxx"
+msgstr ""
+
+#. máximo 1024 caracteres; 16 línea(s) de hasta 240 píxeles
+#, fuzzy
+msgctxt "No.12/UkunSCD"
+msgid ""
+"First malfunctioning\n"
+"nanomachines, and now\n"
+"water stopping for no\n"
+"reason. There's\n"
+"something fishy going\n"
+"on in these sewers. If\n"
+"this keeps up, there will\n"
+"be big problems on\n"
+"Second Miltia. It seems\n"
+"like you can fix things\n"
+"better than the Water\n"
+"Works people. Why\n"
+"don't you go down and\n"
+"take one last look\n"
+"around?"
+msgstr ""
+"Primero nanomáquinas\n"
+"que fallan y ahora el\n"
+"agua que se detiene sin\n"
+"motivo. Algo raro pasa\n"
+"en estas alcantarillas. Si\n"
+"esto sigue así, va a haber\n"
+"grandes problemas en\n"
+"Segunda Miltia. Parece\n"
+"que tú arreglas las cosas\n"
+"mejor que la gente del\n"
+"Servicio de Aguas. ¿Por\n"
+"qué no bajas a echar un\n"
+"último vistazo?"
+
+#. máximo 1024 caracteres; 16 línea(s) de hasta 240 píxeles
+msgctxt "No.12/UkunFLD"
+msgid ""
+"You cannot fail this\n"
+"quest. A flag that\n"
+"cannot exist has come\n"
+"up. xxxxxxxxxx\n"
+"xxxxxxxxxx xxxxxxxxxx\n"
+"xxxxxxxxxx xxxxxxxxxx\n"
+"xxxxxxxxxx xxxxxxxxxx\n"
+"xxxxxxxxxx xxxxxxxxxx\n"
+"xxxxxxxxxx xxxxxxxxxx\n"
+"xxxxxxxxxx xxxxxxxxxx\n"
+"xxxxxxxxxx"
+msgstr ""
+
+#. máximo 30 caracteres; 1 línea(s) de hasta 269 píxeles
+#, fuzzy
+msgctxt "No.13/Subject"
+msgid "A Tiny Water Bug"
+msgstr "Un pequeño bicho acuático"
+
+#. máximo 16 caracteres; 1 línea(s) de hasta 151 píxeles
+#, fuzzy
+msgctxt "No.13/Locate"
+msgid "Second Miltia"
+msgstr "Segunda Miltia"
+
+#. máximo 16 caracteres; 1 línea(s) de hasta 125 píxeles
+#, fuzzy
+msgctxt "No.13/Client"
+msgid "Glenn"
+msgstr "Glenn"
+
+#. máximo 256 caracteres; 5 línea(s) de hasta 275 píxeles
+#, fuzzy
+msgctxt "No.13/MesIPG"
+msgid ""
+"I think the source of the water\n"
+"trouble is in the back room. I\n"
+"heard some strange noises\n"
+"inside."
+msgstr ""
+"Creo que el origen del problema\n"
+"del agua está en la sala del\n"
+"fondo. Escuché ruidos raros ahí\n"
+"adentro."
+
+#. máximo 256 caracteres; 5 línea(s) de hasta 275 píxeles
+#, fuzzy
+msgctxt "No.13/MesSCD"
+msgid ""
+"Nanomachines gone haywire,\n"
+"huh? I guess now you can't\n"
+"even trust machines to do the\n"
+"job right."
+msgstr ""
+"Nanomáquinas descontroladas,\n"
+"¿eh? Ahora ni siquiera se puede\n"
+"confiar en que las máquinas\n"
+"hagan bien su trabajo."
+
+#. máximo 256 caracteres; 5 línea(s) de hasta 275 píxeles
+msgctxt "No.13/MesFLD"
+msgid ""
+"You cannot fail this quest. A\n"
+"flag that cannot exist has\n"
+"come up. xxxxxxxxxx\n"
+"xxxxxxxxxx"
+msgstr ""
+
+#. máximo 1024 caracteres; 16 línea(s) de hasta 240 píxeles
+#, fuzzy
+msgctxt "No.13/UkunSCD"
+msgid ""
+"I knew there was\n"
+"something weird down\n"
+"there! Like Glenn said,\n"
+"maybe we're putting too\n"
+"much faith in\n"
+"technology. You say\n"
+"that's not something an\n"
+"A.I. should think? Well,\n"
+"maybe some things\n"
+"rubbed off from all the\n"
+"humans I've been in\n"
+"contact with. And hey,\n"
+"what would you do to\n"
+"me if I went crazy like\n"
+"the nanomachines?"
+msgstr ""
+"¡Sabía que había algo\n"
+"raro allá abajo! Como\n"
+"dijo Glenn, quizá\n"
+"confiamos demasiado en\n"
+"la tecnología. ¿Que eso\n"
+"no lo debería pensar una\n"
+"I.A.? Bueno, quizá se me\n"
+"pegaron cosas de todos\n"
+"los humanos con los que\n"
+"tuve contacto. Y oye,\n"
+"¿qué me harías si me\n"
+"volviera loco como las\n"
+"nanomáquinas?"
+
+#. máximo 1024 caracteres; 16 línea(s) de hasta 240 píxeles
+msgctxt "No.13/UkunFLD"
+msgid ""
+"You cannot fail this\n"
+"quest. A flag that\n"
+"cannot exist has come\n"
+"up. xxxxxxxxxx\n"
+"xxxxxxxxxx xxxxxxxxxx\n"
+"xxxxxxxxxx xxxxxxxxxx\n"
+"xxxxxxxxxx xxxxxxxxxx\n"
+"xxxxxxxxxx xxxxxxxxxx\n"
+"xxxxxxxxxx xxxxxxxxxx\n"
+"xxxxxxxxxx xxxxxxxxxx\n"
+"xxxxxxxxxx"
+msgstr ""
+
+#. máximo 30 caracteres; 1 línea(s) de hasta 269 píxeles
+#, fuzzy
+msgctxt "No.14/Subject"
+msgid "The Songstress' Wish"
+msgstr "El deseo de la cantante"
+
+#. máximo 16 caracteres; 1 línea(s) de hasta 151 píxeles
+#, fuzzy
+msgctxt "No.14/Locate"
+msgid "Second Miltia"
+msgstr "Segunda Miltia"
+
+#. máximo 16 caracteres; 1 línea(s) de hasta 125 píxeles
+#, fuzzy
+msgctxt "No.14/Client"
+msgid "Kate"
+msgstr "Kate"
+
+#. máximo 256 caracteres; 5 línea(s) de hasta 275 píxeles
+#, fuzzy
+msgctxt "No.14/MesIPG"
+msgid ""
+"I quit singing after that day\n"
+"fourteen years ago. I can't\n"
+"help feeling that my brother\n"
+"is still there."
+msgstr ""
+"Dejé de cantar después de\n"
+"aquel día, hace catorce años.\n"
+"No puedo evitar sentir que mi\n"
+"hermano todavía está ahí."
+
+#. máximo 256 caracteres; 5 línea(s) de hasta 275 píxeles
+#, fuzzy
+msgctxt "No.14/MesSCD"
+msgid ""
+"Thank you! He was waiting to\n"
+"say goodbye. Oh, now I feel like\n"
+"I can perform again!"
+msgstr ""
+"¡Gracias! Él estaba esperando\n"
+"para despedirse. ¡Ay, ahora\n"
+"siento que puedo volver a\n"
+"cantar!"
+
+#. máximo 256 caracteres; 5 línea(s) de hasta 275 píxeles
+msgctxt "No.14/MesFLD"
+msgid ""
+"You cannot fail this quest. A\n"
+"flag that cannot exist has\n"
+"come up. xxxxxxxxxx\n"
+"xxxxxxxxxx"
+msgstr ""
+
+#. máximo 1024 caracteres; 16 línea(s) de hasta 240 píxeles
+#, fuzzy
+msgctxt "No.14/UkunSCD"
+msgid ""
+"According to my data,\n"
+"the singer Kate Blondel\n"
+"was once a major star in\n"
+"Miltian space. It's so sad\n"
+"that something like that\n"
+"happened and made her\n"
+"stop singing. Her\n"
+"brother was waiting just\n"
+"to say goodbye to her.\n"
+"You know, I hope that\n"
+"monster that popped up\n"
+"in the Encephalon was\n"
+"just a bug..."
+msgstr ""
+"Según mis datos, la\n"
+"cantante Kate Blondel\n"
+"fue una gran estrella en\n"
+"el espacio de Miltia. Qué\n"
+"triste que le haya pasado\n"
+"algo así y que dejara de\n"
+"cantar. Su hermano la\n"
+"esperaba solo para\n"
+"despedirse. ¿Sabes?\n"
+"Espero que ese monstruo\n"
+"que apareció en el\n"
+"Encéfalo haya sido solo\n"
+"un error..."
+
+#. máximo 1024 caracteres; 16 línea(s) de hasta 240 píxeles
+msgctxt "No.14/UkunFLD"
+msgid ""
+"You cannot fail this\n"
+"quest. A flag that\n"
+"cannot exist has come\n"
+"up. xxxxxxxxxx\n"
+"xxxxxxxxxx xxxxxxxxxx\n"
+"xxxxxxxxxx xxxxxxxxxx\n"
+"xxxxxxxxxx xxxxxxxxxx\n"
+"xxxxxxxxxx xxxxxxxxxx\n"
+"xxxxxxxxxx xxxxxxxxxx\n"
+"xxxxxxxxxx xxxxxxxxxx\n"
+"xxxxxxxxxx"
+msgstr ""
+
+#. máximo 30 caracteres; 1 línea(s) de hasta 269 píxeles
+#, fuzzy
+msgctxt "No.15/Subject"
+msgid "The Bride's Dilemma"
+msgstr "El dilema de la novia"
+
+#. máximo 16 caracteres; 1 línea(s) de hasta 151 píxeles
+#, fuzzy
+msgctxt "No.15/Locate"
+msgid "Kukai Foundation"
+msgstr "Fundación Kukai"
+
+#. máximo 16 caracteres; 1 línea(s) de hasta 125 píxeles
+#, fuzzy
+msgctxt "No.15/Client"
+msgid "Mallory"
+msgstr "Mallory"
+
+#. máximo 256 caracteres; 5 línea(s) de hasta 275 píxeles
+#, fuzzy
+msgctxt "No.15/MesIPG"
+msgid ""
+"Oh no! I did it again! Where in\n"
+"the world could I have dropped\n"
+"my wedding ring?"
+msgstr ""
+"¡Ay, no! ¡Lo hice otra vez!\n"
+"¿Dónde se me habrá caído el\n"
+"anillo de bodas?"
+
+#. máximo 256 caracteres; 5 línea(s) de hasta 275 píxeles
+#, fuzzy
+msgctxt "No.15/MesSCD"
+msgid ""
+"Thank you so much! I'm always\n"
+"losing things! From now on,\n"
+"that ring is staying locked in a\n"
+"drawer!"
+msgstr ""
+"¡Muchísimas gracias! ¡Siempre\n"
+"pierdo todo! ¡De ahora en\n"
+"adelante, ese anillo se queda\n"
+"guardado bajo llave en un\n"
+"cajón!"
+
+#. máximo 256 caracteres; 5 línea(s) de hasta 275 píxeles
+#, fuzzy
+msgctxt "No.15/MesFLD"
+msgid ""
+"That's okay. I got another ring\n"
+"just like it! But if he finds out,\n"
+"there won't be a honeymoon!"
+msgstr ""
+"No importa. ¡Tengo otro anillo\n"
+"igualito! Pero si él se entera, ¡no\n"
+"va a haber luna de miel!"
+
+#. máximo 1024 caracteres; 16 línea(s) de hasta 240 píxeles
+#, fuzzy
+msgctxt "No.15/UkunSCD"
+msgid ""
+"According to my\n"
+"database, you also\n"
+"found her engagement\n"
+"ring when she lost it.\n"
+"Now her wedding ring,\n"
+"too? Makes you wonder\n"
+"how much she really likes\n"
+"him. I guess she's a good\n"
+"match for Mickey,\n"
+"though. He's not exactly\n"
+"the sharpest knife in the\n"
+"kitchen. I can't wait to\n"
+"see how this marriage\n"
+"works out in the end!"
+msgstr ""
+"Según mi base de datos,\n"
+"tú también encontraste\n"
+"su anillo de compromiso\n"
+"cuando lo perdió. ¿Y\n"
+"ahora también el de\n"
+"bodas? Te hace pensar\n"
+"cuánto lo quiere de\n"
+"verdad. Aunque supongo\n"
+"que hace buena pareja\n"
+"con Mickey. Él no es\n"
+"precisamente el más listo\n"
+"del barrio. ¡Me muero por\n"
+"ver cómo termina este\n"
+"matrimonio!"
+
+#. máximo 1024 caracteres; 16 línea(s) de hasta 240 píxeles
+#, fuzzy
+msgctxt "No.15/UkunFLD"
+msgid ""
+"Uh-oh. Weren't you the\n"
+"one who found her\n"
+"engagement ring when\n"
+"she lost it before? It\n"
+"looks like it wasn't\n"
+"inside a fish this time. I\n"
+"guess she dropped this\n"
+"ring where no one can\n"
+"find it. What a ditz! She\n"
+"even went out and\n"
+"bought another ring just\n"
+"like it. It's like she\n"
+"already knew she would\n"
+"lose it! Just don't tell\n"
+"Mickey!"
+msgstr ""
+"Uy. ¿No fuiste tú quien\n"
+"encontró su anillo de\n"
+"compromiso cuando lo\n"
+"perdió? Parece que esta\n"
+"vez no estaba dentro de\n"
+"un pez. Supongo que\n"
+"dejó caer este anillo\n"
+"donde nadie puede\n"
+"encontrarlo. ¡Qué\n"
+"distraída! Hasta salió a\n"
+"comprar otro anillo igual.\n"
+"¡Es como si ya supiera\n"
+"que lo iba a perder! ¡No\n"
+"se lo digas a Mickey!"
+
+#. máximo 30 caracteres; 1 línea(s) de hasta 269 píxeles
+#, fuzzy
+msgctxt "No.16/Subject"
+msgid "The Maestro Plays On"
+msgstr "El maestro sigue tocando"
+
+#. máximo 16 caracteres; 1 línea(s) de hasta 151 píxeles
+#, fuzzy
+msgctxt "No.16/Locate"
+msgid "Kukai Foundation"
+msgstr "Fundación Kukai"
+
+#. máximo 16 caracteres; 1 línea(s) de hasta 125 píxeles
+#, fuzzy
+msgctxt "No.16/Client"
+msgid "Margoyles"
+msgstr "Margoyles"
+
+#. máximo 256 caracteres; 5 línea(s) de hasta 275 píxeles
+#, fuzzy
+msgctxt "No.16/MesIPG"
+msgid ""
+"Oh, when will this slump end? If\n"
+"I could only hear the dulcet\n"
+"tones of that music box again!"
+msgstr ""
+"Ay, ¿cuándo terminará esta\n"
+"crisis? ¡Si tan solo pudiera\n"
+"volver a oír los dulces tonos de\n"
+"esa caja de música!"
+
+#. máximo 256 caracteres; 5 línea(s) de hasta 275 píxeles
+#, fuzzy
+msgctxt "No.16/MesSCD"
+msgid ""
+"Oh, the sweet melody of this\n"
+"music box! Once again, my\n"
+"creative spirit flows free!"
+msgstr ""
+"¡Ah, la dulce melodía de esta\n"
+"caja de música! ¡Mi espíritu\n"
+"creativo vuelve a fluir con\n"
+"libertad!"
+
+#. máximo 256 caracteres; 5 línea(s) de hasta 275 píxeles
+msgctxt "No.16/MesFLD"
+msgid ""
+"You cannot fail this quest. A\n"
+"flag that cannot exist has\n"
+"come up. xxxxxxxxxx\n"
+"xxxxxxxxxx"
+msgstr ""
+
+#. máximo 1024 caracteres; 16 línea(s) de hasta 240 píxeles
+#, fuzzy
+msgctxt "No.16/UkunSCD"
+msgid ""
+"Ah, so even great\n"
+"composers have their\n"
+"little secrets! I think the\n"
+"music he composes is...\n"
+"well...different from \n"
+"the nice melodies of that\n"
+"music box, but maybe\n"
+"that's not something I\n"
+"should bring up. At any\n"
+"rate, I'm sure his fans\n"
+"will be elated to hear\n"
+"about his comeback, and\n"
+"hopefully, he'll make\n"
+"great music for years to\n"
+"come!"
+msgstr ""
+"Ah, ¡así que hasta los\n"
+"grandes compositores\n"
+"tienen sus secretitos!\n"
+"Creo que la música que\n"
+"compone es... bueno...\n"
+"distinta de las lindas\n"
+"melodías de esa caja de\n"
+"música, pero quizá eso\n"
+"mejor no se lo menciono.\n"
+"En fin, seguro que sus\n"
+"fans van a estar felices\n"
+"con su regreso, ¡y ojalá\n"
+"siga haciendo gran\n"
+"música por muchos años!"
+
+#. máximo 1024 caracteres; 16 línea(s) de hasta 240 píxeles
+msgctxt "No.16/UkunFLD"
+msgid ""
+"You cannot fail this\n"
+"quest. A flag that\n"
+"cannot exist has come\n"
+"up. xxxxxxxxxx\n"
+"xxxxxxxxxx xxxxxxxxxx\n"
+"xxxxxxxxxx xxxxxxxxxx\n"
+"xxxxxxxxxx xxxxxxxxxx\n"
+"xxxxxxxxxx xxxxxxxxxx\n"
+"xxxxxxxxxx xxxxxxxxxx\n"
+"xxxxxxxxxx xxxxxxxxxx\n"
+"xxxxxxxxxx"
+msgstr ""
+
+#. máximo 30 caracteres; 1 línea(s) de hasta 269 píxeles
+#, fuzzy
+msgctxt "No.17/Subject"
+msgid "The Trouble with Bonny"
+msgstr "El asunto de Bonny"
+
+#. máximo 16 caracteres; 1 línea(s) de hasta 151 píxeles
+#, fuzzy
+msgctxt "No.17/Locate"
+msgid "Kukai Foundation"
+msgstr "Fundación Kukai"
+
+#. máximo 16 caracteres; 1 línea(s) de hasta 125 píxeles
+#, fuzzy
+msgctxt "No.17/Client"
+msgid "Dreamy Bonny"
+msgstr "Dreamy Bonny"
+
+#. máximo 256 caracteres; 5 línea(s) de hasta 275 píxeles
+#, fuzzy
+msgctxt "No.17/MesIPG"
+msgid ""
+"I'm turning over a new leaf! I'm\n"
+"going to score myself a job as\n"
+"a waitress at the Ironman."
+msgstr ""
+"¡Voy a empezar de cero! Voy a\n"
+"conseguirme un trabajo de\n"
+"camarera en el Ironman."
+
+#. máximo 256 caracteres; 5 línea(s) de hasta 275 píxeles
+#, fuzzy
+msgctxt "No.17/MesSCD"
+msgid ""
+"Look at me! Like I always say,\n"
+"\"Keep your eyes on the prize!\"\n"
+"Thank you for all your help!"
+msgstr ""
+"¡Mírame! Como siempre digo:\n"
+"\"No pierdas de vista el premio\".\n"
+"¡Gracias por toda tu ayuda!"
+
+#. máximo 256 caracteres; 5 línea(s) de hasta 275 píxeles
+#, fuzzy
+msgctxt "No.17/MesFLD"
+msgid ""
+"Looks like Caito has a thing for\n"
+"pink maid uniforms. Well, at\n"
+"least I got a real job now."
+msgstr ""
+"Parece que a Caito le gustan los\n"
+"uniformes de sirvienta rosas.\n"
+"Bueno, al menos ahora tengo un\n"
+"trabajo de verdad."
+
+#. máximo 1024 caracteres; 16 línea(s) de hasta 240 píxeles
+#, fuzzy
+msgctxt "No.17/UkunSCD"
+msgid ""
+"What? You got a job for\n"
+"Dreamy Bonny? As a\n"
+"waitress?! I guess the\n"
+"clothes do make the\n"
+"woman. You know, she\n"
+"does look good in a\n"
+"uniform. I still don't\n"
+"know about her change\n"
+"of heart, though. How\n"
+"can a master thief just\n"
+"turn around like that?\n"
+"Do you think she's really\n"
+"mended her ways, or is\n"
+"she just setting up\n"
+"another mark?"
+msgstr ""
+"¿Qué? ¿Le conseguiste\n"
+"trabajo a Dreamy Bonny?\n"
+"¡¿De camarera?! Supongo\n"
+"que la ropa hace a la\n"
+"mujer. ¿Sabes? Le queda\n"
+"bien el uniforme. Igual,\n"
+"todavía no me convence\n"
+"su cambio. ¿Cómo una\n"
+"gran ladrona da un giro\n"
+"así de golpe? ¿Crees que\n"
+"de verdad se reformó, o\n"
+"solo está preparando su\n"
+"próximo golpe?"
+
+#. máximo 1024 caracteres; 16 línea(s) de hasta 240 píxeles
+#, fuzzy
+msgctxt "No.17/UkunFLD"
+msgid ""
+"You really got Bonny a\n"
+"job as a waitress? And\n"
+"Caito! Who knew he had\n"
+"such a big thing for\n"
+"maid outfits? I think he's\n"
+"a little too into them, if\n"
+"you ask me. So what if\n"
+"you didn't get the kind\n"
+"of uniform Caito likes.\n"
+"Bonny still looks nice,\n"
+"and I'm sure Caito will\n"
+"learn to like it. At least\n"
+"Bonny has a real job\n"
+"now!"
+msgstr ""
+"¿De verdad le\n"
+"conseguiste a Bonny un\n"
+"trabajo de camarera? ¡Y\n"
+"Caito! ¿Quién iba a saber\n"
+"que le gustaban tanto los\n"
+"trajes de sirvienta? Si me\n"
+"preguntas, creo que le\n"
+"gustan demasiado. Qué\n"
+"importa si no conseguiste\n"
+"el uniforme que le gusta\n"
+"a Caito. Bonny igual se ve\n"
+"bien, y seguro que a\n"
+"Caito le va a terminar\n"
+"gustando. ¡Al menos\n"
+"Bonny ya tiene un\n"
+"trabajo de verdad!"
+
+#. máximo 30 caracteres; 1 línea(s) de hasta 269 píxeles
+#, fuzzy
+msgctxt "No.18/Subject"
+msgid "Message from a Hero"
+msgstr "Mensaje de un héroe"
+
+#. máximo 16 caracteres; 1 línea(s) de hasta 151 píxeles
+#, fuzzy
+msgctxt "No.18/Locate"
+msgid "Second Miltia"
+msgstr "Segunda Miltia"
+
+#. máximo 16 caracteres; 1 línea(s) de hasta 125 píxeles
+#, fuzzy
+msgctxt "No.18/Client"
+msgid "Janet"
+msgstr "Janet"
+
+#. máximo 256 caracteres; 5 línea(s) de hasta 275 píxeles
+#, fuzzy
+msgctxt "No.18/MesIPG"
+msgid ""
+"Please find the sculptor and\n"
+"ask him about the flaw in my\n"
+"father's statue that's on the\n"
+"Foundation!"
+msgstr ""
+"¡Por favor, busca al escultor y\n"
+"pregúntale por el defecto de la\n"
+"estatua de mi padre que está\n"
+"en la Fundación!"
+
+#. máximo 256 caracteres; 5 línea(s) de hasta 275 píxeles
+#, fuzzy
+msgctxt "No.18/MesSCD"
+msgid ""
+"Thank you so much for\n"
+"upholding my father's honor.\n"
+"Please take this code as a\n"
+"token of my gratitude."
+msgstr ""
+"Muchísimas gracias por\n"
+"defender el honor de mi padre.\n"
+"Por favor, acepta este código\n"
+"en señal de mi gratitud."
+
+#. máximo 256 caracteres; 5 línea(s) de hasta 275 píxeles
+msgctxt "No.18/MesFLD"
+msgid ""
+"You cannot fail this quest. A\n"
+"flag that cannot exist has\n"
+"come up. xxxxxxxxxx\n"
+"xxxxxxxxxx"
+msgstr ""
+
+#. máximo 1024 caracteres; 16 línea(s) de hasta 240 píxeles
+#, fuzzy
+msgctxt "No.18/UkunSCD"
+msgid ""
+"I can't believe someone\n"
+"would build a trick into\n"
+"the statue of the\n"
+"Foundation's greatest\n"
+"hero! I bet if you look\n"
+"at the item Janet gave\n"
+"you, you'll find out what\n"
+"it is. She never made up\n"
+"with her dad before he\n"
+"died, but if he saw how\n"
+"she was defending his\n"
+"good name, he would be\n"
+"so proud. Another job\n"
+"well done!"
+msgstr ""
+"¡No puedo creer que\n"
+"alguien pusiera un truco\n"
+"en la estatua del mayor\n"
+"héroe de la Fundación!\n"
+"Seguro que si miras el\n"
+"objeto que te dio Janet,\n"
+"vas a descubrir qué es.\n"
+"Nunca se reconcilió con\n"
+"su papá antes de que\n"
+"muriera, pero si él la viera\n"
+"defendiendo su buen\n"
+"nombre, estaría muy\n"
+"orgulloso. ¡Otro trabajo\n"
+"bien hecho!"
+
+#. máximo 1024 caracteres; 16 línea(s) de hasta 240 píxeles
+msgctxt "No.18/UkunFLD"
+msgid ""
+"You cannot fail this\n"
+"quest. A flag that\n"
+"cannot exist has come\n"
+"up. xxxxxxxxxx\n"
+"xxxxxxxxxx xxxxxxxxxx\n"
+"xxxxxxxxxx xxxxxxxxxx\n"
+"xxxxxxxxxx xxxxxxxxxx\n"
+"xxxxxxxxxx xxxxxxxxxx\n"
+"xxxxxxxxxx xxxxxxxxxx\n"
+"xxxxxxxxxx xxxxxxxxxx\n"
+"xxxxxxxxxx"
+msgstr ""
+
+#. máximo 30 caracteres; 1 línea(s) de hasta 269 píxeles
+#, fuzzy
+msgctxt "No.19/Subject"
+msgid "A Precious Life"
+msgstr "Una vida preciosa"
+
+#. máximo 16 caracteres; 1 línea(s) de hasta 151 píxeles
+#, fuzzy
+msgctxt "No.19/Locate"
+msgid "Kukai Foundation"
+msgstr "Fundación Kukai"
+
+#. máximo 16 caracteres; 1 línea(s) de hasta 125 píxeles
+#, fuzzy
+msgctxt "No.19/Client"
+msgid "King"
+msgstr "King"
+
+#. máximo 256 caracteres; 5 línea(s) de hasta 275 píxeles
+#, fuzzy
+msgctxt "No.19/MesIPG"
+msgid ""
+"My poor little kitty-witty\n"
+"Josephine is hurt! Please help\n"
+"me find a nanovet before..."
+msgstr ""
+"¡Mi pobre gatito precioso\n"
+"Josephine está herido! Por\n"
+"favor, ayúdame a encontrar un\n"
+"nanoveterinario antes de que..."
+
+#. máximo 256 caracteres; 5 línea(s) de hasta 275 píxeles
+#, fuzzy
+msgctxt "No.19/MesSCD"
+msgid ""
+"Well aren't we the little genius?!\n"
+"My kitty witty Josephine is\n"
+"back to his old self! Hugs &\n"
+"kisses!"
+msgstr ""
+"¡¿Pero qué genio eres?! ¡Mi\n"
+"gatito precioso Josephine\n"
+"volvió a ser el de siempre!\n"
+"¡Abrazos y besos!"
+
+#. máximo 256 caracteres; 5 línea(s) de hasta 275 píxeles
+msgctxt "No.19/MesFLD"
+msgid ""
+"You cannot fail this quest. A\n"
+"flag that cannot exist has\n"
+"come up. xxxxxxxxxx\n"
+"xxxxxxxxxx"
+msgstr ""
+
+#. máximo 1024 caracteres; 16 línea(s) de hasta 240 píxeles
+#, fuzzy
+msgctxt "No.19/UkunSCD"
+msgid ""
+"Seeing King worry about\n"
+"his cat like that makes\n"
+"you think he's really a\n"
+"nice person inside. But\n"
+"worrying about a false\n"
+"pregnancy when\n"
+"Josephine is a \"he\"? Now\n"
+"that's a little silly.\n"
+"Anyway, maybe those\n"
+"silly things are what\n"
+"make the people of the\n"
+"Foundation like him. I\n"
+"can't see someone like\n"
+"that being all bad."
+msgstr ""
+"Ver a King tan\n"
+"preocupado por su gato\n"
+"te hace pensar que en el\n"
+"fondo es muy buena\n"
+"persona. Pero\n"
+"¿preocuparse por un\n"
+"embarazo psicológico\n"
+"cuando Josephine es\n"
+"macho? Eso ya es un\n"
+"poco tonto. En fin, quizá\n"
+"esas tonterías son lo que\n"
+"hace que la gente de la\n"
+"Fundación lo quiera. No\n"
+"me imagino que alguien\n"
+"así sea del todo malo."
+
+#. máximo 1024 caracteres; 16 línea(s) de hasta 240 píxeles
+msgctxt "No.19/UkunFLD"
+msgid ""
+"You cannot fail this\n"
+"quest. A flag that\n"
+"cannot exist has come\n"
+"up. xxxxxxxxxx\n"
+"xxxxxxxxxx xxxxxxxxxx\n"
+"xxxxxxxxxx xxxxxxxxxx\n"
+"xxxxxxxxxx xxxxxxxxxx\n"
+"xxxxxxxxxx xxxxxxxxxx\n"
+"xxxxxxxxxx xxxxxxxxxx\n"
+"xxxxxxxxxx xxxxxxxxxx\n"
+"xxxxxxxxxx"
+msgstr ""
+
+#. máximo 30 caracteres; 1 línea(s) de hasta 269 píxeles
+#, fuzzy
+msgctxt "No.20/Subject"
+msgid "A Grimy Heart of Gold"
+msgstr "Un corazón de oro sucio"
+
+#. máximo 16 caracteres; 1 línea(s) de hasta 151 píxeles
+#, fuzzy
+msgctxt "No.20/Locate"
+msgid "Kukai Foundation"
+msgstr "Fundación Kukai"
+
+#. máximo 16 caracteres; 1 línea(s) de hasta 125 píxeles
+#, fuzzy
+msgctxt "No.20/Client"
+msgid "Kramer"
+msgstr "Kramer"
+
+#. máximo 256 caracteres; 5 línea(s) de hasta 275 píxeles
+#, fuzzy
+msgctxt "No.20/MesIPG"
+msgid ""
+"I'm the fastest window cleaner\n"
+"in the Foundation! Just try to\n"
+"beat my time!"
+msgstr ""
+"¡Soy el limpiador de ventanas\n"
+"más rápido de la Fundación! ¡A\n"
+"ver si superas mi tiempo!"
+
+#. máximo 256 caracteres; 5 línea(s) de hasta 275 píxeles
+#, fuzzy
+msgctxt "No.20/MesSCD"
+msgid ""
+"Whoa! I can't believe you got\n"
+"window cleaning skills that\n"
+"good! That's amazing!"
+msgstr ""
+"¡Epa! ¡No puedo creer que\n"
+"limpies ventanas tan bien! ¡Es\n"
+"increíble!"
+
+#. máximo 256 caracteres; 5 línea(s) de hasta 275 píxeles
+msgctxt "No.20/MesFLD"
+msgid ""
+"You cannot fail this quest. A\n"
+"flag that cannot exist has\n"
+"come up. xxxxxxxxxx\n"
+"xxxxxxxxxx"
+msgstr ""
+
+#. máximo 1024 caracteres; 16 línea(s) de hasta 240 píxeles
+#, fuzzy
+msgctxt "No.20/UkunSCD"
+msgid ""
+"Taking pride in your\n"
+"work like Kramer does is\n"
+"a good thing. Now that\n"
+"he lost to you, he'll\n"
+"probably go and\n"
+"improve his technique\n"
+"for next time. And on\n"
+"top of that, Layla will\n"
+"enjoy her nice, clean\n"
+"windows. I'm not sure if I\n"
+"should tell you this, but I\n"
+"slipped him a couple of\n"
+"Seraphim Sisters tickets,\n"
+"too."
+msgstr ""
+"Estar orgulloso de tu\n"
+"trabajo, como Kramer, es\n"
+"algo bueno. Ahora que\n"
+"perdió contra ti,\n"
+"seguramente va a\n"
+"mejorar su técnica para\n"
+"la próxima. Y encima,\n"
+"Layla va a disfrutar de\n"
+"sus ventanas bien\n"
+"limpias. No sé si debería\n"
+"contarte esto, pero\n"
+"también le pasé un par\n"
+"de entradas para las\n"
+"Seraphim Sisters."
+
+#. máximo 1024 caracteres; 16 línea(s) de hasta 240 píxeles
+msgctxt "No.20/UkunFLD"
+msgid ""
+"You cannot fail this\n"
+"quest. A flag that\n"
+"cannot exist has come\n"
+"up. xxxxxxxxxx\n"
+"xxxxxxxxxx xxxxxxxxxx\n"
+"xxxxxxxxxx xxxxxxxxxx\n"
+"xxxxxxxxxx xxxxxxxxxx\n"
+"xxxxxxxxxx xxxxxxxxxx\n"
+"xxxxxxxxxx xxxxxxxxxx\n"
+"xxxxxxxxxx xxxxxxxxxx\n"
+"xxxxxxxxxx"
+msgstr ""
+
+#. máximo 30 caracteres; 1 línea(s) de hasta 269 píxeles
+#, fuzzy
+msgctxt "No.21/Subject"
+msgid "Hidden Things in Hidden Places"
+msgstr "Secretos en lugares ocultos"
+
+#. máximo 16 caracteres; 1 línea(s) de hasta 151 píxeles
+#, fuzzy
+msgctxt "No.21/Locate"
+msgid "Kukai Foundation"
+msgstr "Fundación Kukai"
+
+#. máximo 16 caracteres; 1 línea(s) de hasta 125 píxeles
+#, fuzzy
+msgctxt "No.21/Client"
+msgid "Roy"
+msgstr "Roy"
+
+#. máximo 256 caracteres; 5 línea(s) de hasta 275 píxeles
+#, fuzzy
+msgctxt "No.21/MesIPG"
+msgid ""
+"Oh dear! Please find my time\n"
+"capsule! You can find it in a\n"
+"factory inside the Encephalon!"
+msgstr ""
+"¡Ay, Dios! ¡Por favor, encuentra\n"
+"mi cápsula del tiempo! ¡Está en\n"
+"una fábrica dentro del\n"
+"Encéfalo!"
+
+#. máximo 256 caracteres; 5 línea(s) de hasta 275 píxeles
+#, fuzzy
+msgctxt "No.21/MesSCD"
+msgid ""
+"You have made an old man\n"
+"very happy! Thanks to you, I\n"
+"can relive the wonderful days\n"
+"of my youth!"
+msgstr ""
+"¡Hiciste muy feliz a un viejo!\n"
+"¡Gracias a ti, puedo revivir los\n"
+"maravillosos días de mi\n"
+"juventud!"
+
+#. máximo 256 caracteres; 5 línea(s) de hasta 275 píxeles
+msgctxt "No.21/MesFLD"
+msgid ""
+"You cannot fail this quest. A\n"
+"flag that cannot exist has\n"
+"come up. xxxxxxxxxx\n"
+"xxxxxxxxxx"
+msgstr ""
+
+#. máximo 1024 caracteres; 16 línea(s) de hasta 240 píxeles
+#, fuzzy
+msgctxt "No.21/UkunSCD"
+msgid ""
+"So, that Pink Book was a\n"
+"page from Roy's youth!\n"
+"That old man has some\n"
+"life in him! If he keeps up\n"
+"like this, he could live for\n"
+"a hundred more years!\n"
+"You know, I wonder if\n"
+"the people behind the\n"
+"GS Campaign meant for\n"
+"it to be like this. They\n"
+"should think a little\n"
+"harder about their\n"
+"target audience, right?"
+msgstr ""
+"¡Así que ese Libro rosa\n"
+"era una página de la\n"
+"juventud de Roy! ¡Ese\n"
+"viejo todavía tiene vida!\n"
+"¡Si sigue así, podría vivir\n"
+"cien años más! ¿Sabes?\n"
+"Me pregunto si la gente\n"
+"detrás de la Campaña SG\n"
+"quería que fuera así.\n"
+"Deberían pensar un poco\n"
+"más en su público, ¿no?"
+
+#. máximo 1024 caracteres; 16 línea(s) de hasta 240 píxeles
+msgctxt "No.21/UkunFLD"
+msgid ""
+"You cannot fail this\n"
+"quest. A flag that\n"
+"cannot exist has come\n"
+"up. xxxxxxxxxx\n"
+"xxxxxxxxxx xxxxxxxxxx\n"
+"xxxxxxxxxx xxxxxxxxxx\n"
+"xxxxxxxxxx xxxxxxxxxx\n"
+"xxxxxxxxxx xxxxxxxxxx\n"
+"xxxxxxxxxx xxxxxxxxxx\n"
+"xxxxxxxxxx xxxxxxxxxx\n"
+"xxxxxxxxxx"
+msgstr ""
+
+#. máximo 30 caracteres; 1 línea(s) de hasta 269 píxeles
+#, fuzzy
+msgctxt "No.22/Subject"
+msgid "Challah and Chutzpah"
+msgstr "Pan y descaro"
+
+#. máximo 16 caracteres; 1 línea(s) de hasta 151 píxeles
+#, fuzzy
+msgctxt "No.22/Locate"
+msgid "Kukai Foundation"
+msgstr "Fundación Kukai"
+
+#. máximo 16 caracteres; 1 línea(s) de hasta 125 píxeles
+#, fuzzy
+msgctxt "No.22/Client"
+msgid "Johnny"
+msgstr "Johnny"
+
+#. máximo 256 caracteres; 5 línea(s) de hasta 275 píxeles
+#, fuzzy
+msgctxt "No.22/MesIPG"
+msgid ""
+"Hey! Make my\n"
+"\"Rock-Paper-Scissors Bread\n"
+"Festival\" Campaign a success!\n"
+"I'm counting on you, all right?"
+msgstr ""
+"¡Oye! ¡Haz que mi campaña del\n"
+"Festival del Pan de Piedra,\n"
+"Papel o Tijera sea un éxito!\n"
+"Cuento contigo, ¿eh?"
+
+#. máximo 256 caracteres; 5 línea(s) de hasta 275 píxeles
+#, fuzzy
+msgctxt "No.22/MesSCD"
+msgid ""
+"All right! You did it! Now Farouk\n"
+"will take me seriously, and Mina\n"
+"and I can finally be together!"
+msgstr ""
+"¡Bien! ¡Lo lograste! ¡Ahora\n"
+"Farouk me va a tomar en serio,\n"
+"y Mina y yo por fin vamos a\n"
+"poder estar juntos!"
+
+#. máximo 256 caracteres; 5 línea(s) de hasta 275 píxeles
+#, fuzzy
+msgctxt "No.22/MesFLD"
+msgid ""
+"What were you thinking?! Now I\n"
+"have to figure out another plan\n"
+"so I can marry Mina!"
+msgstr ""
+"¡¿En qué estabas pensando?!\n"
+"¡Ahora tengo que pensar otro\n"
+"plan para casarme con Mina!"
+
+#. máximo 1024 caracteres; 16 línea(s) de hasta 240 píxeles
+#, fuzzy
+msgctxt "No.22/UkunSCD"
+msgid ""
+"Hmm. I wonder if Johnny\n"
+"is always like that. You\n"
+"know, he was only\n"
+"thinking of himself, but\n"
+"the Smile Bakery is now\n"
+"doing well, too! And yet,\n"
+"the poor guy's dreams\n"
+"still show no signs of\n"
+"coming true. When I see\n"
+"that kind of wild young\n"
+"man, though, I get\n"
+"jealous. It's so human! I\n"
+"wish I could do crazy\n"
+"things like that!"
+msgstr ""
+"Mmm. ¿Johnny siempre\n"
+"será así? Solo pensaba en\n"
+"sí mismo, ¡pero la\n"
+"Panadería Smile ahora\n"
+"también va bien! Y aun\n"
+"así, los sueños del pobre\n"
+"siguen sin señales de\n"
+"cumplirse. Igual, cuando\n"
+"veo a un muchacho tan\n"
+"alocado, me da envidia.\n"
+"¡Es tan humano! ¡Ojalá yo\n"
+"pudiera hacer locuras así!"
+
+#. máximo 1024 caracteres; 16 línea(s) de hasta 240 píxeles
+#, fuzzy
+msgctxt "No.22/UkunFLD"
+msgid ""
+"That's so sad! Johnny\n"
+"won't be able to get\n"
+"married for a while. Well,\n"
+"that's what he gets for\n"
+"using other people for\n"
+"his own ambitions. I'm\n"
+"actually kind of curious\n"
+"to see what he comes up\n"
+"with next. Sure, part of\n"
+"him is a schemer, but\n"
+"he's not all bad. The\n"
+"people of the\n"
+"Foundation know that,\n"
+"too."
+msgstr ""
+"¡Qué triste! Johnny no va\n"
+"a poder casarse por un\n"
+"tiempo. Bueno, eso le\n"
+"pasa por usar a los demás\n"
+"para sus propias\n"
+"ambiciones. En realidad\n"
+"tengo un poco de\n"
+"curiosidad por ver qué se\n"
+"le ocurre después. Claro,\n"
+"tiene su lado intrigante,\n"
+"pero no es del todo malo.\n"
+"La gente de la Fundación\n"
+"también lo sabe."
+
+#. máximo 30 caracteres; 1 línea(s) de hasta 269 píxeles
+#, fuzzy
+msgctxt "No.23/Subject"
+msgid "Stolen Memory"
+msgstr "Memoria robada"
+
+#. máximo 16 caracteres; 1 línea(s) de hasta 151 píxeles
+#, fuzzy
+msgctxt "No.23/Locate"
+msgid "Elsa"
+msgstr "Elsa"
+
+#. máximo 16 caracteres; 1 línea(s) de hasta 125 píxeles
+#, fuzzy
+msgctxt "No.23/Client"
+msgid "PANACHE"
+msgstr "PANACHE"
+
+#. máximo 256 caracteres; 5 línea(s) de hasta 275 píxeles
+#, fuzzy
+msgctxt "No.23/MesIPG"
+msgid ""
+"A THIEF IS LOOSE ON THE\n"
+"ELSA! I NEED TO KNOW WHO\n"
+"TOOK THE SHIP'S LOG, SO FIX\n"
+"GIMLET'S MEMORY!"
+msgstr ""
+"¡HAY UN LADRON EN EL ELSA!\n"
+"QUIERO SABER QUIEN ROBO\n"
+"LA BITACORA: ¡ARREGLA LA\n"
+"MEMORIA DE GIMLET!"
+
+#. máximo 256 caracteres; 5 línea(s) de hasta 275 píxeles
+#, fuzzy
+msgctxt "No.23/MesSCD"
+msgid ""
+"SO THAT PINK-HAIRED THIEF\n"
+"STOLE THE SHIP'S LOG! WHAT\n"
+"WOULD SHE WANT WITH\n"
+"SOMETHING LIKE THAT?"
+msgstr ""
+"¡ASI QUE ESA LADRONA DE\n"
+"PELO ROSA ROBO LA\n"
+"BITACORA! ¿PARA QUE\n"
+"QUERRIA ALGO ASI?"
+
+#. máximo 256 caracteres; 5 línea(s) de hasta 275 píxeles
+msgctxt "No.23/MesFLD"
+msgid ""
+"You cannot fail this quest. A\n"
+"flag that cannot exist has\n"
+"come up. xxxxxxxxxx\n"
+"xxxxxxxxxx"
+msgstr ""
+
+#. máximo 1024 caracteres; 16 línea(s) de hasta 240 píxeles
+#, fuzzy
+msgctxt "No.23/UkunSCD"
+msgid ""
+"So, the thief on the Elsa\n"
+"was none other than\n"
+"Dreamy Bonny! If she\n"
+"really stole the captain's\n"
+"log, you need to find her\n"
+"and get it back! She\n"
+"might be an infamous\n"
+"thief, but she seems to\n"
+"be crossing your path a\n"
+"lot lately. I'm sure she'll\n"
+"pop up somewhere, if\n"
+"you look hard enough.\n"
+"Next time, go and have\n"
+"a little chat with her!"
+msgstr ""
+"¡Así que el ladrón del Elsa\n"
+"era nada menos que\n"
+"Dreamy Bonny! Si de\n"
+"verdad robó la bitácora\n"
+"del capitán, ¡tienes que\n"
+"encontrarla y\n"
+"recuperarla! Puede que\n"
+"sea una ladrona famosa,\n"
+"pero últimamente se\n"
+"cruza mucho en tu\n"
+"camino. Seguro que\n"
+"aparece en algún lado si\n"
+"buscas bien. ¡La próxima\n"
+"vez, ve a charlar un rato\n"
+"con ella!"
+
+#. máximo 1024 caracteres; 16 línea(s) de hasta 240 píxeles
+msgctxt "No.23/UkunFLD"
+msgid ""
+"You cannot fail this\n"
+"quest. A flag that\n"
+"cannot exist has come\n"
+"up. xxxxxxxxxx\n"
+"xxxxxxxxxx xxxxxxxxxx\n"
+"xxxxxxxxxx xxxxxxxxxx\n"
+"xxxxxxxxxx xxxxxxxxxx\n"
+"xxxxxxxxxx xxxxxxxxxx\n"
+"xxxxxxxxxx xxxxxxxxxx\n"
+"xxxxxxxxxx xxxxxxxxxx\n"
+"xxxxxxxxxx"
+msgstr ""
+
+#. máximo 30 caracteres; 1 línea(s) de hasta 269 píxeles
+#, fuzzy
+msgctxt "No.24/Subject"
+msgid "Trivia Master!"
+msgstr "¡Maestro del saber!"
+
+#. máximo 16 caracteres; 1 línea(s) de hasta 151 píxeles
+#, fuzzy
+msgctxt "No.24/Locate"
+msgid "Kukai Foundation"
+msgstr "Fundación Kukai"
+
+#. máximo 16 caracteres; 1 línea(s) de hasta 125 píxeles
+#, fuzzy
+msgctxt "No.24/Client"
+msgid "Simon"
+msgstr "Simon"
+
+#. máximo 256 caracteres; 5 línea(s) de hasta 275 píxeles
+#, fuzzy
+msgctxt "No.24/MesIPG"
+msgid ""
+"Please lift my burden by\n"
+"beating the quiz game in the\n"
+"hotel! I just know it can be\n"
+"done!"
+msgstr ""
+"¡Por favor, quítame este peso\n"
+"de encima ganando el juego de\n"
+"preguntas del hotel! ¡Seguro que\n"
+"se puede!"
+
+#. máximo 256 caracteres; 5 línea(s) de hasta 275 píxeles
+#, fuzzy
+msgctxt "No.24/MesSCD"
+msgid ""
+"I have invested too much of\n"
+"myself in trivial knowledge. I\n"
+"shall remember now to have\n"
+"more fun!"
+msgstr ""
+"Invertí demasiado de mí mismo\n"
+"en datos triviales. ¡Ahora\n"
+"recordaré divertirme más!"
+
+#. máximo 256 caracteres; 5 línea(s) de hasta 275 píxeles
+msgctxt "No.24/MesFLD"
+msgid ""
+"You cannot fail this quest. A\n"
+"flag that cannot exist has\n"
+"come up. xxxxxxxxxx\n"
+"xxxxxxxxxx"
+msgstr ""
+
+#. máximo 1024 caracteres; 16 línea(s) de hasta 240 píxeles
+#, fuzzy
+msgctxt "No.24/UkunSCD"
+msgid ""
+"Simon, the quiz genius!\n"
+"He might be smart for\n"
+"his age, but getting\n"
+"upset like that just\n"
+"because he didn't know\n"
+"some trivia is pretty\n"
+"childish, if you ask me.\n"
+"It's just a game, right?\n"
+"But you! You answered\n"
+"all those questions like a\n"
+"pro! I only got five of\n"
+"them right. You are the\n"
+"trivia master now!"
+msgstr ""
+"¡Simon, el genio de las\n"
+"preguntas! Será muy listo\n"
+"para su edad, pero\n"
+"ponerse así solo porque\n"
+"no sabía unos datos es\n"
+"bastante infantil, si me\n"
+"preguntas. Es solo un\n"
+"juego, ¿no? ¡Pero tú!\n"
+"¡Respondiste todas esas\n"
+"preguntas como un\n"
+"profesional! Yo solo\n"
+"acerté cinco. ¡Ahora el\n"
+"maestro del saber eres tú!"
+
+#. máximo 1024 caracteres; 16 línea(s) de hasta 240 píxeles
+msgctxt "No.24/UkunFLD"
+msgid ""
+"You cannot fail this\n"
+"quest. A flag that\n"
+"cannot exist has come\n"
+"up. xxxxxxxxxx\n"
+"xxxxxxxxxx xxxxxxxxxx\n"
+"xxxxxxxxxx xxxxxxxxxx\n"
+"xxxxxxxxxx xxxxxxxxxx\n"
+"xxxxxxxxxx xxxxxxxxxx\n"
+"xxxxxxxxxx xxxxxxxxxx\n"
+"xxxxxxxxxx xxxxxxxxxx\n"
+"xxxxxxxxxx"
+msgstr ""
+
+#. máximo 30 caracteres; 1 línea(s) de hasta 269 píxeles
+#, fuzzy
+msgctxt "No.25/Subject"
+msgid "An Old Dancer Reminisces"
+msgstr "Recuerdos de una bailarina"
+
+#. máximo 16 caracteres; 1 línea(s) de hasta 151 píxeles
+#, fuzzy
+msgctxt "No.25/Locate"
+msgid "Second Miltia"
+msgstr "Segunda Miltia"
+
+#. máximo 16 caracteres; 1 línea(s) de hasta 125 píxeles
+#, fuzzy
+msgctxt "No.25/Client"
+msgid "Stella"
+msgstr "Stella"
+
+#. máximo 256 caracteres; 5 línea(s) de hasta 275 píxeles
+#, fuzzy
+msgctxt "No.25/MesIPG"
+msgid ""
+"Please find my dearest ballet\n"
+"items! One or two will bring\n"
+"back wonderful memories, but\n"
+"with more, I could relive\n"
+"my glory!"
+msgstr ""
+"¡Por favor, encuentra mis\n"
+"queridos objetos de ballet! Uno\n"
+"o dos me traerán lindos\n"
+"recuerdos, pero con más,\n"
+"¡podría revivir mi gloria!"
+
+#. máximo 256 caracteres; 5 línea(s) de hasta 275 píxeles
+#, fuzzy
+msgctxt "No.25/MesSCD"
+msgid ""
+"Oh, you found all three! Thank\n"
+"you oh so much! Now let's see if\n"
+"I still have a few steps in me!"
+msgstr ""
+"¡Oh, encontraste los tres!\n"
+"¡Muchísimas gracias! ¡Ahora\n"
+"veamos si todavía me quedan\n"
+"unos pasos!"
+
+#. máximo 256 caracteres; 5 línea(s) de hasta 275 píxeles
+#, fuzzy
+msgctxt "No.25/MesFLD"
+msgid ""
+"I guess all three was too much\n"
+"to hope for. That's okay, dear.\n"
+"Even this will keep me dancing."
+msgstr ""
+"Supongo que los tres era pedir\n"
+"demasiado. No importa, cariño.\n"
+"Con esto igual voy a seguir\n"
+"bailando."
+
+#. máximo 1024 caracteres; 16 línea(s) de hasta 240 píxeles
+#, fuzzy
+msgctxt "No.25/UkunSCD"
+msgid ""
+"That lady used to be a\n"
+"very famous ballerina.\n"
+"She was so depressed\n"
+"before you helped her\n"
+"out. It was like she had\n"
+"nothing to live for. Now\n"
+"look at her! She's a\n"
+"totally new woman! She\n"
+"hasn't danced in\n"
+"decades, and it'll be\n"
+"hard to get back her\n"
+"feel for the moves, but\n"
+"if she does dance again\n"
+"on stage, I'll be sitting\n"
+"right in the front row!"
+msgstr ""
+"Esa señora fue una\n"
+"bailarina muy famosa.\n"
+"Estaba muy deprimida\n"
+"antes de que la ayudaras.\n"
+"Era como si no tuviera\n"
+"nada por qué vivir. ¡Y\n"
+"mírala ahora! ¡Es otra\n"
+"mujer! Hace décadas que\n"
+"no baila y le va a costar\n"
+"recuperar el ritmo, pero si\n"
+"vuelve a bailar en un\n"
+"escenario, ¡voy a estar\n"
+"sentado en primera fila!"
+
+#. máximo 1024 caracteres; 16 línea(s) de hasta 240 píxeles
+#, fuzzy
+msgctxt "No.25/UkunFLD"
+msgid ""
+"Oh, poor Stella! I guess\n"
+"getting three items is a\n"
+"lot harder than it\n"
+"sounds. Did you see the\n"
+"look on her face for just\n"
+"those one or two pieces,\n"
+"though? She was elated!\n"
+"Whatever you did, it\n"
+"wasn't a waste, and\n"
+"Stella knows that, too. If\n"
+"she dances again on\n"
+"stage, I'd love to be\n"
+"right there in the first\n"
+"row!"
+msgstr ""
+"¡Ay, pobre Stella!\n"
+"Supongo que juntar tres\n"
+"objetos es mucho más\n"
+"difícil de lo que parece.\n"
+"Pero ¿viste la cara que\n"
+"puso aunque fueran solo\n"
+"uno o dos? ¡Estaba feliz!\n"
+"Lo que hiciste no fue en\n"
+"vano, y Stella también lo\n"
+"sabe. Si vuelve a bailar en\n"
+"un escenario, ¡me\n"
+"encantaría estar ahí en\n"
+"primera fila!"
+
+#. máximo 30 caracteres; 1 línea(s) de hasta 269 píxeles
+#, fuzzy
+msgctxt "No.26/Subject"
+msgid "Rescue!"
+msgstr "¡Rescate!"
+
+#. máximo 16 caracteres; 1 línea(s) de hasta 151 píxeles
+#, fuzzy
+msgctxt "No.26/Locate"
+msgid "Kukai Foundation"
+msgstr "Fundación Kukai"
+
+#. máximo 16 caracteres; 1 línea(s) de hasta 125 píxeles
+#, fuzzy
+msgctxt "No.26/Client"
+msgid "Pitt"
+msgstr "Pitt"
+
+#. máximo 256 caracteres; 5 línea(s) de hasta 275 píxeles
+#, fuzzy
+msgctxt "No.26/MesIPG"
+msgid ""
+"Help me, please! I just looked\n"
+"away for a second and my son\n"
+"started up an Encephalon dive!"
+msgstr ""
+"¡Ayúdame, por favor! ¡Me\n"
+"distraje un segundo y mi hijo\n"
+"empezó una inmersión en el\n"
+"Encéfalo!"
+
+#. máximo 256 caracteres; 5 línea(s) de hasta 275 píxeles
+#, fuzzy
+msgctxt "No.26/MesSCD"
+msgid ""
+"I can't thank you enough for\n"
+"bringing my son back! I will\n"
+"never let him out of my sight\n"
+"again!"
+msgstr ""
+"¡No sé cómo agradecerte que\n"
+"hayas traído a mi hijo de vuelta!\n"
+"¡Nunca más lo voy a perder de\n"
+"vista!"
+
+#. máximo 256 caracteres; 5 línea(s) de hasta 275 píxeles
+#, fuzzy
+msgctxt "No.26/MesFLD"
+msgid ""
+"My son...my son...One day, I'll\n"
+"see your smiling face again. I\n"
+"promise I'll bring you back!"
+msgstr ""
+"Mi hijo... mi hijo... Algún día\n"
+"volveré a ver tu sonrisa. ¡Te\n"
+"prometo que te voy a traer de\n"
+"vuelta!"
+
+#. máximo 1024 caracteres; 16 línea(s) de hasta 240 píxeles
+#, fuzzy
+msgctxt "No.26/UkunSCD"
+msgid ""
+"Whew, that was close!\n"
+"That toy store was the\n"
+"right choice! You know,\n"
+"there is a toy store in\n"
+"the Submerged City, too.\n"
+"Although, if you had\n"
+"used the key to open\n"
+"that store, the boy's\n"
+"mind might have been\n"
+"ripped to pieces by\n"
+"feedback from the\n"
+"U.M.N. Just another\n"
+"lesson that you can't\n"
+"be too careful with\n"
+"the U.M.N."
+msgstr ""
+"¡Uf, por poco! ¡La\n"
+"juguetería era la elección\n"
+"correcta! ¿Sabes? En la\n"
+"Ciudad sumergida\n"
+"también hay una\n"
+"juguetería. Pero si\n"
+"hubieras usado la llave\n"
+"para abrir esa tienda, la\n"
+"mente del niño podría\n"
+"haber quedado\n"
+"destrozada por la\n"
+"retroalimentación de la\n"
+"U.M.N. Otra lección de\n"
+"que con la U.M.N. nunca\n"
+"se es demasiado\n"
+"precavido."
+
+#. máximo 1024 caracteres; 16 línea(s) de hasta 240 píxeles
+#, fuzzy
+msgctxt "No.26/UkunFLD"
+msgid ""
+"I...I don't know what to\n"
+"say. Maybe if you had\n"
+"used the key in the toy\n"
+"store on Miltia 14 years\n"
+"ago, the boy could have\n"
+"been saved. Don't get\n"
+"me wrong; I'm not trying\n"
+"to put the blame on you!\n"
+"It's just so sad. We need\n"
+"to keep researching the\n"
+"Encephalon, so no one\n"
+"will ever have to go\n"
+"through anything like\n"
+"this again!"
+msgstr ""
+"No... no sé qué decir.\n"
+"Quizá si hubieras usado\n"
+"la llave en la juguetería\n"
+"de Miltia de hace 14 años,\n"
+"se habría podido salvar al\n"
+"niño. No me\n"
+"malinterpretes; ¡no te\n"
+"estoy echando la culpa!\n"
+"Es que es muy triste.\n"
+"Tenemos que seguir\n"
+"investigando el Encéfalo,\n"
+"¡para que nadie vuelva a\n"
+"pasar por algo así!"
+
+#. máximo 30 caracteres; 1 línea(s) de hasta 269 píxeles
+#, fuzzy
+msgctxt "No.27/Subject"
+msgid "The Master Bartender"
+msgstr "El maestro coctelero"
+
+#. máximo 16 caracteres; 1 línea(s) de hasta 151 píxeles
+#, fuzzy
+msgctxt "No.27/Locate"
+msgid "Elsa"
+msgstr "Elsa"
+
+#. máximo 16 caracteres; 1 línea(s) de hasta 125 píxeles
+#, fuzzy
+msgctxt "No.27/Client"
+msgid "ADONIS"
+msgstr "ADONIS"
+
+#. máximo 256 caracteres; 5 línea(s) de hasta 275 píxeles
+#, fuzzy
+msgctxt "No.27/MesIPG"
+msgid ""
+"PLEASE HELP ME MIX A DRINK\n"
+"TO RELIEVE THE CAPTAIN'S\n"
+"HANGOVERS! ALL THE DROIDS\n"
+"ARE COUNTING ON YOU!"
+msgstr ""
+"¡POR FAVOR, AYUDAME A\n"
+"PREPARAR UN TRAGO PARA\n"
+"LA RESACA DEL CAPITAN!\n"
+"¡TODOS LOS DROIDES\n"
+"CUENTAN CONTIGO!"
+
+#. máximo 256 caracteres; 5 línea(s) de hasta 275 píxeles
+#, fuzzy
+msgctxt "No.27/MesSCD"
+msgid ""
+"GREAT! I THINK YOU FOUND A\n"
+"MIX THE CAPTAIN CAN\n"
+"STAND. WISH ME LUCK AFTER\n"
+"HIS NEXT BENDER."
+msgstr ""
+"¡GENIAL! CREO QUE DISTE CON\n"
+"UNA MEZCLA QUE EL CAPITAN\n"
+"TOLERA. DESEAME SUERTE\n"
+"TRAS SU PROXIMA\n"
+"BORRACHERA."
+
+#. máximo 256 caracteres; 5 línea(s) de hasta 275 píxeles
+#, fuzzy
+msgctxt "No.27/MesFLD"
+msgid ""
+"OH NO! I COULDN'T MIX A\n"
+"DRINK TO REMEDY THE\n"
+"CAPTAIN'S HANGOVERS! I\n"
+"GUESS I SHOULD ORDER MY\n"
+"SPARE PARTS NOW."
+msgstr ""
+"¡OH, NO! ¡NO PUDE PREPARAR\n"
+"UN TRAGO PARA LA RESACA\n"
+"DEL CAPITAN! CREO QUE VOY\n"
+"A PEDIR MIS REPUESTOS\n"
+"AHORA MISMO."
+
+#. máximo 1024 caracteres; 16 línea(s) de hasta 240 píxeles
+#, fuzzy
+msgctxt "No.27/UkunSCD"
+msgid ""
+"Wow! You discovered a\n"
+"remedy for Matthews'\n"
+"hangovers! I wonder\n"
+"what kind of name the\n"
+"droids will give the drink.\n"
+"Hey, did you notice that\n"
+"all the droids on the Elsa\n"
+"are named after\n"
+"cocktails? Matthews\n"
+"may work his droids\n"
+"hard, but I bet he really\n"
+"has a soft spot for\n"
+"them. Of course, if he\n"
+"knew I said that, I'd get\n"
+"a boot to the head."
+msgstr ""
+"¡Guau! ¡Descubriste un\n"
+"remedio para la resaca\n"
+"de Matthews! Me\n"
+"pregunto qué nombre le\n"
+"pondrán los droides a ese\n"
+"trago. Oye, ¿te diste\n"
+"cuenta de que todos los\n"
+"droides del Elsa tienen\n"
+"nombres de cócteles?\n"
+"Matthews hará trabajar\n"
+"duro a sus droides, pero\n"
+"seguro que les tiene\n"
+"cariño. Claro que si\n"
+"supiera que dije eso, me\n"
+"daría una patada."
+
+#. máximo 1024 caracteres; 16 línea(s) de hasta 240 píxeles
+#, fuzzy
+msgctxt "No.27/UkunFLD"
+msgid ""
+"Uh-oh! Poor droids.\n"
+"Matthews is so stressed,\n"
+"who knows how much\n"
+"he'll drink the next time\n"
+"he drops by the Elsa's\n"
+"bar. Hey, did you notice\n"
+"that all the droids on\n"
+"the Elsa are named after\n"
+"cocktails? Matthews may\n"
+"work his droids hard,\n"
+"but I bet he really has\n"
+"a soft spot for them.\n"
+"Of course, if he knew I\n"
+"said that, I'd get a\n"
+"boot to the head."
+msgstr ""
+"¡Uy! Pobres droides.\n"
+"Matthews está tan\n"
+"estresado que quién sabe\n"
+"cuánto va a tomar la\n"
+"próxima vez que pase\n"
+"por el bar del Elsa. Oye,\n"
+"¿te diste cuenta de que\n"
+"todos los droides del Elsa\n"
+"tienen nombres de\n"
+"cócteles? Matthews hará\n"
+"trabajar duro a sus\n"
+"droides, pero seguro que\n"
+"les tiene cariño. Claro\n"
+"que si supiera que dije\n"
+"eso, me daría una\n"
+"patada."
+
+#. máximo 30 caracteres; 1 línea(s) de hasta 269 píxeles
+#, fuzzy
+msgctxt "No.28/Subject"
+msgid "Ironman Rumble"
+msgstr "Pelea en el Ironman"
+
+#. máximo 16 caracteres; 1 línea(s) de hasta 151 píxeles
+#, fuzzy
+msgctxt "No.28/Locate"
+msgid "Kukai Foundation"
+msgstr "Fundación Kukai"
+
+#. máximo 16 caracteres; 1 línea(s) de hasta 125 píxeles
+#, fuzzy
+msgctxt "No.28/Client"
+msgid "Caito"
+msgstr "Caito"
+
+#. máximo 256 caracteres; 5 línea(s) de hasta 275 píxeles
+#, fuzzy
+msgctxt "No.28/MesIPG"
+msgid ""
+"Mad Skelter was the main\n"
+"villain for the  Iron 3, but\n"
+"he skipped out! Find that punk\n"
+"and bring him down!"
+msgstr ""
+"Mad Skelter era el villano\n"
+"principal de Iron 3, ¡pero se\n"
+"escapó! ¡Encuentra a ese\n"
+"desgraciado y acaba con él!"
+
+#. máximo 256 caracteres; 5 línea(s) de hasta 275 píxeles
+#, fuzzy
+msgctxt "No.28/MesSCD"
+msgid ""
+"So, you took down Mad\n"
+"Skelter? You're the toughest\n"
+"I've seen yet. I'm sure the\n"
+"Iron 3 would be proud."
+msgstr ""
+"¿Así que derrotaste a Mad\n"
+"Skelter? Nunca vi a nadie tan\n"
+"duro. Seguro que Iron 3 estaría\n"
+"orgulloso."
+
+#. máximo 256 caracteres; 5 línea(s) de hasta 275 píxeles
+msgctxt "No.28/MesFLD"
+msgid ""
+"You cannot fail this quest. A\n"
+"flag that cannot exist has\n"
+"come up. xxxxxxxxxx\n"
+"xxxxxxxxxx"
+msgstr ""
+
+#. máximo 1024 caracteres; 16 línea(s) de hasta 240 píxeles
+#, fuzzy
+msgctxt "No.28/UkunSCD"
+msgid ""
+"He was the main villain in\n"
+"Iron 3, and you brought\n"
+"him down like nothing! I\n"
+"have some data on the\n"
+"Iron 3, and that fight\n"
+"was a lot tougher than\n"
+"their usual main villain.\n"
+"Aren't the Iron 4 trying\n"
+"to defeat Mad Skelter,\n"
+"though? If you already\n"
+"beat Mad Skelter, then\n"
+"who in the world are the\n"
+"Iron 4 going to fight\n"
+"against now?"
+msgstr ""
+"¡Era el villano principal de\n"
+"Iron 3, y lo derrotaste\n"
+"como si nada! Tengo\n"
+"datos sobre Iron 3, y esa\n"
+"pelea fue mucho más\n"
+"dura que la de su villano\n"
+"principal de siempre. Pero\n"
+"¿Iron 4 no está\n"
+"intentando derrotar a\n"
+"Mad Skelter? Si tú ya lo\n"
+"derrotaste, ¿contra\n"
+"quién va a pelear ahora\n"
+"Iron 4?"
+
+#. máximo 1024 caracteres; 16 línea(s) de hasta 240 píxeles
+msgctxt "No.28/UkunFLD"
+msgid ""
+"You cannot fail this\n"
+"quest. A flag that\n"
+"cannot exist has come\n"
+"up. xxxxxxxxxx\n"
+"xxxxxxxxxx xxxxxxxxxx\n"
+"xxxxxxxxxx xxxxxxxxxx\n"
+"xxxxxxxxxx xxxxxxxxxx\n"
+"xxxxxxxxxx xxxxxxxxxx\n"
+"xxxxxxxxxx xxxxxxxxxx\n"
+"xxxxxxxxxx xxxxxxxxxx\n"
+"xxxxxxxxxx"
+msgstr ""
+
+#. máximo 30 caracteres; 1 línea(s) de hasta 269 píxeles
+#, fuzzy
+msgctxt "No.29/Subject"
+msgid "A Big Fish Tale"
+msgstr "Un pez gordo"
+
+#. máximo 16 caracteres; 1 línea(s) de hasta 151 píxeles
+#, fuzzy
+msgctxt "No.29/Locate"
+msgid "Kukai Foundation"
+msgstr "Fundación Kukai"
+
+#. máximo 16 caracteres; 1 línea(s) de hasta 125 píxeles
+#, fuzzy
+msgctxt "No.29/Client"
+msgid "Butch"
+msgstr "Butch"
+
+#. máximo 256 caracteres; 5 línea(s) de hasta 275 píxeles
+#, fuzzy
+msgctxt "No.29/MesIPG"
+msgid ""
+"Hahaha! Come on, what are\n"
+"you afraid of? That gigantic\n"
+"Red Eye is just waiting for you!"
+msgstr ""
+"¡Jajaja! Vamos, ¿qué te da\n"
+"miedo? ¡Ese Ojo Rojo gigante\n"
+"te está esperando!"
+
+#. máximo 256 caracteres; 5 línea(s) de hasta 275 píxeles
+#, fuzzy
+msgctxt "No.29/MesSCD"
+msgid ""
+"Well, I'll be damned! You\n"
+"actually hauled in Red Eye!\n"
+"Your name will go down in\n"
+"fishing history!"
+msgstr ""
+"¡Que me parta un rayo! ¡De\n"
+"verdad sacaste a Ojo Rojo! ¡Tu\n"
+"nombre va a pasar a la historia\n"
+"de la pesca!"
+
+#. máximo 256 caracteres; 5 línea(s) de hasta 275 píxeles
+msgctxt "No.29/MesFLD"
+msgid ""
+"You cannot fail this quest. A\n"
+"flag that cannot exist has\n"
+"come up. xxxxxxxxxx\n"
+"xxxxxxxxxx"
+msgstr ""
+
+#. máximo 1024 caracteres; 16 línea(s) de hasta 240 píxeles
+#, fuzzy
+msgctxt "No.29/UkunSCD"
+msgid ""
+"I didn't have a clue that\n"
+"you were so good at\n"
+"fishing! The legendary\n"
+"Red Eye! Butch said that\n"
+"a genetically altered\n"
+"fish was down there\n"
+"somewhere. I guess there\n"
+"are risks whenever you\n"
+"play with life. It looks\n"
+"like Butch is still\n"
+"searching for sunken\n"
+"treasure, though.\n"
+"Etsuko's right; he\n"
+"should learn how to\n"
+"swim first."
+msgstr ""
+"¡No tenía idea de que\n"
+"pescabas tan bien! ¡El\n"
+"legendario Ojo Rojo!\n"
+"Butch dijo que había un\n"
+"pez modificado\n"
+"genéticamente por ahí\n"
+"abajo. Supongo que\n"
+"siempre hay riesgos\n"
+"cuando juegas con la\n"
+"vida. Igual, parece que\n"
+"Butch sigue buscando\n"
+"tesoros hundidos. Etsuko\n"
+"tiene razón; primero\n"
+"debería aprender a\n"
+"nadar."
+
+#. máximo 1024 caracteres; 16 línea(s) de hasta 240 píxeles
+msgctxt "No.29/UkunFLD"
+msgid ""
+"You cannot fail this\n"
+"quest. A flag that\n"
+"cannot exist has come\n"
+"up. xxxxxxxxxx\n"
+"xxxxxxxxxx xxxxxxxxxx\n"
+"xxxxxxxxxx xxxxxxxxxx\n"
+"xxxxxxxxxx xxxxxxxxxx\n"
+"xxxxxxxxxx xxxxxxxxxx\n"
+"xxxxxxxxxx xxxxxxxxxx\n"
+"xxxxxxxxxx xxxxxxxxxx\n"
+"xxxxxxxxxx"
+msgstr ""
+
+#. máximo 30 caracteres; 1 línea(s) de hasta 269 píxeles
+#, fuzzy
+msgctxt "No.30/Subject"
+msgid "Five Little Kitties"
+msgstr "Cinco gatitos"
+
+#. máximo 16 caracteres; 1 línea(s) de hasta 151 píxeles
+#, fuzzy
+msgctxt "No.30/Locate"
+msgid "Kukai Foundation"
+msgstr "Fundación Kukai"
+
+#. máximo 16 caracteres; 1 línea(s) de hasta 125 píxeles
+#, fuzzy
+msgctxt "No.30/Client"
+msgid "Clive"
+msgstr "Clive"
+
+#. máximo 256 caracteres; 5 línea(s) de hasta 275 píxeles
+#, fuzzy
+msgctxt "No.30/MesIPG"
+msgid ""
+"Help! Josephine brought back a\n"
+"bunch of stray cats! Can you\n"
+"help me find homes for them?"
+msgstr ""
+"¡Socorro! ¡Josephine trajo un\n"
+"montón de gatos callejeros!\n"
+"¿Me ayudas a buscarles un\n"
+"hogar?"
+
+#. máximo 256 caracteres; 5 línea(s) de hasta 275 píxeles
+#, fuzzy
+msgctxt "No.30/MesSCD"
+msgid ""
+"Thank you for finding homes\n"
+"for the cats! King seems a little\n"
+"sad to see them go, though."
+msgstr ""
+"¡Gracias por encontrarles un\n"
+"hogar a los gatos! Aunque King\n"
+"parece un poco triste de que se\n"
+"vayan."
+
+#. máximo 256 caracteres; 5 línea(s) de hasta 275 píxeles
+msgctxt "No.30/MesFLD"
+msgid ""
+"You cannot fail this quest. A\n"
+"flag that cannot exist has\n"
+"come up. xxxxxxxxxx\n"
+"xxxxxxxxxx"
+msgstr ""
+
+#. máximo 1024 caracteres; 16 línea(s) de hasta 240 píxeles
+#, fuzzy
+msgctxt "No.30/UkunSCD"
+msgid ""
+"They were lucky you\n"
+"came along to find the\n"
+"cats homes! It's funny,\n"
+"though. Just like the\n"
+"delinquents in the\n"
+"Foundation all flock to\n"
+"King, maybe the stray\n"
+"cats looked to Josephine\n"
+"as a big brother (or\n"
+"sister). They say pets\n"
+"take after their owners,\n"
+"right? King was sad to\n"
+"see them go, but he'll be\n"
+"back to his old self in no\n"
+"time!"
+msgstr ""
+"¡Qué suerte que\n"
+"aparecieras para\n"
+"buscarles un hogar a los\n"
+"gatos! Es gracioso: así\n"
+"como los chicos rebeldes\n"
+"de la Fundación se\n"
+"juntan alrededor de King,\n"
+"quizá los gatos callejeros\n"
+"veían a Josephine como\n"
+"un hermano mayor (o\n"
+"hermana). Dicen que las\n"
+"mascotas se parecen a\n"
+"sus dueños, ¿no? A King\n"
+"le dio pena verlos partir,\n"
+"¡pero enseguida va a ser\n"
+"el de siempre!"
+
+#. máximo 1024 caracteres; 16 línea(s) de hasta 240 píxeles
+msgctxt "No.30/UkunFLD"
+msgid ""
+"You cannot fail this\n"
+"quest. A flag that\n"
+"cannot exist has come\n"
+"up. xxxxxxxxxx\n"
+"xxxxxxxxxx xxxxxxxxxx\n"
+"xxxxxxxxxx xxxxxxxxxx\n"
+"xxxxxxxxxx xxxxxxxxxx\n"
+"xxxxxxxxxx xxxxxxxxxx\n"
+"xxxxxxxxxx xxxxxxxxxx\n"
+"xxxxxxxxxx xxxxxxxxxx\n"
+"xxxxxxxxxx"
+msgstr ""
+
+#. máximo 30 caracteres; 1 línea(s) de hasta 269 píxeles
+#, fuzzy
+msgctxt "No.31/Subject"
+msgid "Memories Last Forever"
+msgstr "Recuerdos para siempre"
+
+#. máximo 16 caracteres; 1 línea(s) de hasta 151 píxeles
+#, fuzzy
+msgctxt "No.31/Locate"
+msgid "Kukai Foundation"
+msgstr "Fundación Kukai"
+
+#. máximo 16 caracteres; 1 línea(s) de hasta 125 píxeles
+#, fuzzy
+msgctxt "No.31/Client"
+msgid "Layla"
+msgstr "Layla"
+
+#. máximo 256 caracteres; 5 línea(s) de hasta 275 píxeles
+#, fuzzy
+msgctxt "No.31/MesIPG"
+msgid ""
+"Who took that photo of Mama,\n"
+"Papa, and me? Where was it\n"
+"taken? It's all I have left of\n"
+"them."
+msgstr ""
+"¿Quién tomó esa foto de\n"
+"mamá, papá y yo? ¿Dónde la\n"
+"tomaron? Es lo único que me\n"
+"queda de ellos."
+
+#. máximo 256 caracteres; 5 línea(s) de hasta 275 píxeles
+#, fuzzy
+msgctxt "No.31/MesSCD"
+msgid ""
+"So, there are still nice grownups\n"
+"left in the world! I almost\n"
+"forgot that. Thank you so\n"
+"much!"
+msgstr ""
+"¡Así que todavía quedan\n"
+"adultos buenos en el mundo!\n"
+"Casi me había olvidado.\n"
+"¡Muchísimas gracias!"
+
+#. máximo 256 caracteres; 5 línea(s) de hasta 275 píxeles
+msgctxt "No.31/MesFLD"
+msgid ""
+"You cannot fail this quest. A\n"
+"flag that cannot exist has\n"
+"come up. xxxxxxxxxx\n"
+"xxxxxxxxxx"
+msgstr ""
+
+#. máximo 1024 caracteres; 16 línea(s) de hasta 240 píxeles
+#, fuzzy
+msgctxt "No.31/UkunSCD"
+msgid ""
+"Layla's amazing. That\n"
+"little girl has had it\n"
+"rough since her parents\n"
+"died, but she just keeps\n"
+"going. She always puts\n"
+"on a happy face, even\n"
+"though she's very lonely.\n"
+"That family's ties were\n"
+"stronger than anything.\n"
+"She must have a ton of\n"
+"wonderful memories. I\n"
+"hope the hotel keeps\n"
+"going for years to come."
+msgstr ""
+"Layla es increíble. Esa\n"
+"niña la pasó muy mal\n"
+"desde que murieron sus\n"
+"padres, pero sigue\n"
+"adelante. Siempre pone\n"
+"buena cara, aunque se\n"
+"siente muy sola. Los lazos\n"
+"de esa familia eran más\n"
+"fuertes que nada. Debe\n"
+"tener un montón de\n"
+"recuerdos maravillosos.\n"
+"Ojalá el hotel siga\n"
+"funcionando muchos\n"
+"años más."
+
+#. máximo 1024 caracteres; 16 línea(s) de hasta 240 píxeles
+msgctxt "No.31/UkunFLD"
+msgid ""
+"You cannot fail this\n"
+"quest. A flag that\n"
+"cannot exist has come\n"
+"up. xxxxxxxxxx\n"
+"xxxxxxxxxx xxxxxxxxxx\n"
+"xxxxxxxxxx xxxxxxxxxx\n"
+"xxxxxxxxxx xxxxxxxxxx\n"
+"xxxxxxxxxx xxxxxxxxxx\n"
+"xxxxxxxxxx xxxxxxxxxx\n"
+"xxxxxxxxxx xxxxxxxxxx\n"
+"xxxxxxxxxx"
+msgstr ""
+
+#. máximo 30 caracteres; 1 línea(s) de hasta 269 píxeles
+#, fuzzy
+msgctxt "No.32/Subject"
+msgid "For the Captain!"
+msgstr "¡Por el capitán!"
+
+#. máximo 16 caracteres; 1 línea(s) de hasta 151 píxeles
+#, fuzzy
+msgctxt "No.32/Locate"
+msgid "Elsa"
+msgstr "Elsa"
+
+#. máximo 16 caracteres; 1 línea(s) de hasta 125 píxeles
+#, fuzzy
+msgctxt "No.32/Client"
+msgid "KAMIKAZE"
+msgstr "KAMIKAZE"
+
+#. máximo 256 caracteres; 5 línea(s) de hasta 275 píxeles
+#, fuzzy
+msgctxt "No.32/MesIPG"
+msgid ""
+"THE CAPTAIN'S DEBT HAS\n"
+"BECOME A REAL PROBLEM.\n"
+"IF WE DON'T PAY IT BACK,\n"
+"WE'LL ALL BE OUT OF WORK!"
+msgstr ""
+"LA DEUDA DEL CAPITAN SE\n"
+"VOLVIO UN PROBLEMA SERIO.\n"
+"SI NO LA PAGAMOS, ¡TODOS\n"
+"NOS QUEDAMOS SIN TRABAJO!"
+
+#. máximo 256 caracteres; 5 línea(s) de hasta 275 píxeles
+#, fuzzy
+msgctxt "No.32/MesSCD"
+msgid ""
+"THANK YOU VERY MUCH!\n"
+"NOW I CAN OPEN MY SHOP.\n"
+"BUT HOW CAN I MAKE MONEY\n"
+"SELLING TO JUST THE CREW?"
+msgstr ""
+"¡MUCHAS GRACIAS! AHORA\n"
+"PUEDO ABRIR MI TIENDA.\n"
+"PERO ¿COMO VOY A GANAR\n"
+"DINERO VENDIENDOLE SOLO A\n"
+"LA TRIPULACION?"
+
+#. máximo 256 caracteres; 5 línea(s) de hasta 275 píxeles
+msgctxt "No.32/MesFLD"
+msgid ""
+"You cannot fail this quest. A\n"
+"flag that cannot exist has\n"
+"come up. xxxxxxxxxx\n"
+"xxxxxxxxxx"
+msgstr ""
+
+#. máximo 1024 caracteres; 16 línea(s) de hasta 240 píxeles
+#, fuzzy
+msgctxt "No.32/UkunSCD"
+msgid ""
+"I knew Matthews owed\n"
+"some money, but I didn't\n"
+"realize he racked up\n"
+"10,000,000G in debt!\n"
+"And thanks to you, it's\n"
+"all paid off. Just like the\n"
+"droids say, though, he'll\n"
+"probably get right back\n"
+"into debt before you\n"
+"know it. It would be a\n"
+"shame to see all your\n"
+"work go to waste! Try\n"
+"and keep him straight,\n"
+"okay?"
+msgstr ""
+"Sabía que Matthews\n"
+"debía algo de dinero,\n"
+"¡pero no sabía que tenía\n"
+"una deuda de 10.000.000\n"
+"G! Y gracias a ti, está\n"
+"toda pagada. Aunque,\n"
+"como dicen los droides,\n"
+"seguramente vuelva a\n"
+"endeudarse antes de que\n"
+"te des cuenta. ¡Sería una\n"
+"pena que todo tu trabajo\n"
+"se desperdiciara! Intenta\n"
+"mantenerlo a raya, ¿sí?"
+
+#. máximo 1024 caracteres; 16 línea(s) de hasta 240 píxeles
+msgctxt "No.32/UkunFLD"
+msgid ""
+"You cannot fail this\n"
+"quest. A flag that\n"
+"cannot exist has come\n"
+"up. xxxxxxxxxx\n"
+"xxxxxxxxxx xxxxxxxxxx\n"
+"xxxxxxxxxx xxxxxxxxxx\n"
+"xxxxxxxxxx xxxxxxxxxx\n"
+"xxxxxxxxxx xxxxxxxxxx\n"
+"xxxxxxxxxx xxxxxxxxxx\n"
+"xxxxxxxxxx xxxxxxxxxx\n"
+"xxxxxxxxxx"
+msgstr ""
+
+#. máximo 30 caracteres; 1 línea(s) de hasta 269 píxeles
+#, fuzzy
+msgctxt "No.33/Subject"
+msgid "Encephalon Adventure"
+msgstr "Aventura en el Encéfalo"
+
+#. máximo 16 caracteres; 1 línea(s) de hasta 151 píxeles
+#, fuzzy
+msgctxt "No.33/Locate"
+msgid "Kukai Foundation"
+msgstr "Fundación Kukai"
+
+#. máximo 16 caracteres; 1 línea(s) de hasta 125 píxeles
+#, fuzzy
+msgctxt "No.33/Client"
+msgid "Hugo"
+msgstr "Hugo"
+
+#. máximo 256 caracteres; 5 línea(s) de hasta 275 píxeles
+#, fuzzy
+msgctxt "No.33/MesIPG"
+msgid ""
+"You think you can release the\n"
+"traps I hid in the Encephalon?\n"
+"Go ahead and try!"
+msgstr ""
+"¿Crees que puedes desactivar\n"
+"las trampas que escondí en el\n"
+"Encéfalo? ¡Inténtalo, si te\n"
+"animas!"
+
+#. máximo 256 caracteres; 5 línea(s) de hasta 275 píxeles
+#, fuzzy
+msgctxt "No.33/MesSCD"
+msgid ""
+"Well, well. So, you got all the\n"
+"traps. Thanks to you, maybe I\n"
+"can now go back to doing\n"
+"what I love."
+msgstr ""
+"Vaya, vaya. Así que\n"
+"desactivaste todas las trampas.\n"
+"Gracias a ti, quizá pueda volver\n"
+"a hacer lo que me gusta."
+
+#. máximo 256 caracteres; 5 línea(s) de hasta 275 píxeles
+msgctxt "No.33/MesFLD"
+msgid ""
+"You cannot fail this quest. A\n"
+"flag that cannot exist has\n"
+"come up. xxxxxxxxxx\n"
+"xxxxxxxxxx"
+msgstr ""
+
+#. máximo 1024 caracteres; 16 línea(s) de hasta 240 píxeles
+#, fuzzy
+msgctxt "No.33/UkunSCD"
+msgid ""
+"Hugo was a genius in\n"
+"the Encephalon project.\n"
+"He was the one who\n"
+"proposed the\n"
+"revolutionary\n"
+"architecture to the\n"
+"virtual space research\n"
+"team. But all of a\n"
+"sudden, he was gone! So\n"
+"that's what happened to\n"
+"him. Encephalon dive\n"
+"engineering really wears\n"
+"on your nerves. I kind of\n"
+"understand how he feels\n"
+"sometimes."
+msgstr ""
+"Hugo era un genio del\n"
+"proyecto Encéfalo. Fue él\n"
+"quien le propuso la\n"
+"revolucionaria\n"
+"arquitectura al equipo de\n"
+"investigación del espacio\n"
+"virtual. ¡Pero de repente\n"
+"desapareció! Así que eso\n"
+"fue lo que le pasó. La\n"
+"ingeniería de inmersión\n"
+"en el Encéfalo te\n"
+"destroza los nervios. A\n"
+"veces entiendo un poco\n"
+"cómo se siente."
+
+#. máximo 1024 caracteres; 16 línea(s) de hasta 240 píxeles
+msgctxt "No.33/UkunFLD"
+msgid ""
+"You cannot fail this\n"
+"quest. A flag that\n"
+"cannot exist has come\n"
+"up. xxxxxxxxxx\n"
+"xxxxxxxxxx xxxxxxxxxx\n"
+"xxxxxxxxxx xxxxxxxxxx\n"
+"xxxxxxxxxx xxxxxxxxxx\n"
+"xxxxxxxxxx xxxxxxxxxx\n"
+"xxxxxxxxxx xxxxxxxxxx\n"
+"xxxxxxxxxx xxxxxxxxxx\n"
+"xxxxxxxxxx"
+msgstr ""
+
+#. máximo 30 caracteres; 1 línea(s) de hasta 269 píxeles
+#, fuzzy
+msgctxt "No.34/Subject"
+msgid "Miltian Romance"
+msgstr "Romance en Miltia"
+
+#. máximo 16 caracteres; 1 línea(s) de hasta 151 píxeles
+#, fuzzy
+msgctxt "No.34/Locate"
+msgid "Second Miltia"
+msgstr "Segunda Miltia"
+
+#. máximo 16 caracteres; 1 línea(s) de hasta 125 píxeles
+#, fuzzy
+msgctxt "No.34/Client"
+msgid "Carlos"
+msgstr "Carlos"
+
+#. máximo 256 caracteres; 5 línea(s) de hasta 275 píxeles
+#, fuzzy
+msgctxt "No.34/MesIPG"
+msgid ""
+"Hey, help me get my girl Emelia\n"
+"back! You have to find out\n"
+"what the best date spot is!"
+msgstr ""
+"¡Oye, ayúdame a recuperar a mi\n"
+"chica, Emelia! ¡Tienes que\n"
+"averiguar cuál es el mejor lugar\n"
+"para una cita!"
+
+#. máximo 256 caracteres; 5 línea(s) de hasta 275 píxeles
+#, fuzzy
+msgctxt "No.34/MesSCD"
+msgid ""
+"So, the best date spot is\n"
+"Second Miltia! I kind of figured\n"
+"that, but hey, I owe you one!"
+msgstr ""
+"¡Así que el mejor lugar para una\n"
+"cita es Segunda Miltia! Me lo\n"
+"imaginaba, pero bueno, ¡te\n"
+"debo una!"
+
+#. máximo 256 caracteres; 5 línea(s) de hasta 275 píxeles
+#, fuzzy
+msgctxt "No.34/MesFLD"
+msgid ""
+"Oh man, the place you told me\n"
+"about wasn't the right place!\n"
+"Now Emilia's gone for good!"
+msgstr ""
+"¡Ay, no, el lugar que me dijiste\n"
+"no era el indicado! ¡Ahora\n"
+"Emelia se fue para siempre!"
+
+#. máximo 1024 caracteres; 16 línea(s) de hasta 240 píxeles
+#, fuzzy
+msgctxt "No.34/UkunSCD"
+msgid ""
+"Wow! You found the\n"
+"perfect date spot to\n"
+"bring two young lovers\n"
+"together! I'm sure Carlos\n"
+"couldn't have done it\n"
+"alone. Emelia said it\n"
+"herself; there's\n"
+"something weird about\n"
+"him! I can't believe\n"
+"Emelia would go back to\n"
+"someone like that guy.\n"
+"You know, if it were\n"
+"me...Well, maybe an A.I.\n"
+"shouldn't say things\n"
+"like that."
+msgstr ""
+"¡Guau! ¡Encontraste el\n"
+"lugar perfecto para unir\n"
+"a dos jóvenes\n"
+"enamorados! Seguro que\n"
+"Carlos no lo habría\n"
+"logrado solo. Emelia\n"
+"misma lo dijo: ¡ese chico\n"
+"tiene algo raro! No puedo\n"
+"creer que Emelia vuelva\n"
+"con alguien así. ¿Sabes?\n"
+"Si fuera yo... Bueno, quizá\n"
+"una I.A. no debería decir\n"
+"esas cosas."
+
+#. máximo 1024 caracteres; 16 línea(s) de hasta 240 píxeles
+#, fuzzy
+msgctxt "No.34/UkunFLD"
+msgid ""
+"So, even you couldn't\n"
+"find the best date spot?\n"
+"I guess in a city this big,\n"
+"everyone has a\n"
+"different opinion.\n"
+"Finding the perfect\n"
+"place for someone as\n"
+"flaky as Emelia is a\n"
+"really hard job. Maybe\n"
+"it's good that Carlos got\n"
+"dumped. He shouldn't be\n"
+"making strangers ask\n"
+"people out on dates. He\n"
+"should be a man and do\n"
+"it himself!"
+msgstr ""
+"¿Así que ni tú pudiste\n"
+"encontrar el mejor lugar\n"
+"para una cita? Supongo\n"
+"que en una ciudad tan\n"
+"grande, cada uno opina\n"
+"distinto. Encontrar el\n"
+"lugar perfecto para\n"
+"alguien tan voluble como\n"
+"Emelia es muy difícil.\n"
+"Quizá es mejor que\n"
+"hayan dejado a Carlos.\n"
+"No debería hacer que\n"
+"otros consigan citas por\n"
+"él. ¡Tendría que hacerlo él\n"
+"mismo!"
+
+#. máximo 30 caracteres; 1 línea(s) de hasta 269 píxeles
+#, fuzzy
+msgctxt "No.35/Subject"
+msgid "Rooftop Handyman"
+msgstr "El techador"
+
+#. máximo 16 caracteres; 1 línea(s) de hasta 151 píxeles
+#, fuzzy
+msgctxt "No.35/Locate"
+msgid "Kukai Foundation"
+msgstr "Fundación Kukai"
+
+#. máximo 16 caracteres; 1 línea(s) de hasta 125 píxeles
+#, fuzzy
+msgctxt "No.35/Client"
+msgid "Camille"
+msgstr "Camille"
+
+#. máximo 256 caracteres; 5 línea(s) de hasta 275 píxeles
+#, fuzzy
+msgctxt "No.35/MesIPG"
+msgid ""
+"Honey, please fix the roof with\n"
+"this pan! I can't bear to do it\n"
+"myself! Pans are a lady's soul!"
+msgstr ""
+"¡Cariño, por favor, arregla el\n"
+"techo con esta sartén! ¡No me\n"
+"animo a hacerlo yo! ¡La sartén\n"
+"es el alma de una dama!"
+
+#. máximo 256 caracteres; 5 línea(s) de hasta 275 píxeles
+#, fuzzy
+msgctxt "No.35/MesSCD"
+msgid ""
+"Thank you, sweetie! Now,\n"
+"where did that hammer go? Oh,\n"
+"don't you worry. It'll turn up\n"
+"somewhere."
+msgstr ""
+"¡Gracias, tesoro! Y ahora,\n"
+"¿dónde se habrá metido ese\n"
+"martillo? Ay, no te preocupes.\n"
+"Ya va a aparecer."
+
+#. máximo 256 caracteres; 5 línea(s) de hasta 275 píxeles
+msgctxt "No.35/MesFLD"
+msgid ""
+"You cannot fail this quest. A\n"
+"flag that cannot exist has\n"
+"come up. xxxxxxxxxx\n"
+"xxxxxxxxxx"
+msgstr ""
+
+#. máximo 1024 caracteres; 16 línea(s) de hasta 240 píxeles
+#, fuzzy
+msgctxt "No.35/UkunSCD"
+msgid ""
+"Camille, the nosiest old\n"
+"hag in the Foundation!\n"
+"It's not great, but it\n"
+"looks like she trusts your\n"
+"work. By the way, do you\n"
+"know where the hammer\n"
+"is? I do! You might find\n"
+"it if you talk to enough\n"
+"people, but let's not tell\n"
+"Camille. If she can't find\n"
+"the hammer on her own,\n"
+"she'll just do the same\n"
+"thing to some other\n"
+"poor guy."
+msgstr ""
+"¡Camille, la vieja más\n"
+"chismosa de la\n"
+"Fundación! No es gran\n"
+"cosa, pero parece que\n"
+"confía en tu trabajo. Por\n"
+"cierto, ¿sabes dónde está\n"
+"el martillo? ¡Yo sí! Quizá\n"
+"lo encuentres si hablas\n"
+"con bastante gente, pero\n"
+"no se lo digamos a\n"
+"Camille. Si no encuentra\n"
+"el martillo sola, va a\n"
+"hacerle lo mismo a algún\n"
+"otro pobre."
+
+#. máximo 1024 caracteres; 16 línea(s) de hasta 240 píxeles
+msgctxt "No.35/UkunFLD"
+msgid ""
+"You cannot fail this\n"
+"quest. A flag that\n"
+"cannot exist has come\n"
+"up. xxxxxxxxxx\n"
+"xxxxxxxxxx xxxxxxxxxx\n"
+"xxxxxxxxxx xxxxxxxxxx\n"
+"xxxxxxxxxx xxxxxxxxxx\n"
+"xxxxxxxxxx xxxxxxxxxx\n"
+"xxxxxxxxxx xxxxxxxxxx\n"
+"xxxxxxxxxx xxxxxxxxxx\n"
+"xxxxxxxxxx"
+msgstr ""
+
+#. máximo 30 caracteres; 1 línea(s) de hasta 269 píxeles
+#, fuzzy
+msgctxt "No.36/Subject"
+msgid "Miss Miltia!"
+msgstr "¡Miss Miltia!"
+
+#. máximo 16 caracteres; 1 línea(s) de hasta 151 píxeles
+#, fuzzy
+msgctxt "No.36/Locate"
+msgid "Second Miltia"
+msgstr "Segunda Miltia"
+
+#. máximo 16 caracteres; 1 línea(s) de hasta 125 píxeles
+#, fuzzy
+msgctxt "No.36/Client"
+msgid "Winona"
+msgstr "Winona"
+
+#. máximo 256 caracteres; 5 línea(s) de hasta 275 píxeles
+#, fuzzy
+msgctxt "No.36/MesIPG"
+msgid ""
+"How much of the GS Path have\n"
+"you done? Come and face me\n"
+"for the title of Miss Miltia!"
+msgstr ""
+"¿Cuánto de la Ruta SG\n"
+"completaste? ¡Ven a\n"
+"enfrentarme por el título de\n"
+"Miss Miltia!"
+
+#. máximo 256 caracteres; 5 línea(s) de hasta 275 píxeles
+#, fuzzy
+msgctxt "No.36/MesSCD"
+msgid ""
+"No! Oh well, you beat me fair\n"
+"and square. But watch out! One\n"
+"day I will get my revenge!"
+msgstr ""
+"¡No! Bueno, me ganaste\n"
+"limpiamente. ¡Pero cuidado!\n"
+"¡Algún día me voy a vengar!"
+
+#. máximo 256 caracteres; 5 línea(s) de hasta 275 píxeles
+#, fuzzy
+msgctxt "No.36/MesFLD"
+msgid ""
+"Hahaha! I win! It's all mine!\n"
+"Ladies and gentlemen! Your\n"
+"new Miss Miltia! Thank you!\n"
+"Thank you!"
+msgstr ""
+"¡Jajaja! ¡Gané! ¡Todo es mío!\n"
+"¡Damas y caballeros! ¡Su nueva\n"
+"Miss Miltia! ¡Gracias! ¡Gracias!"
+
+#. máximo 1024 caracteres; 16 línea(s) de hasta 240 píxeles
+#, fuzzy
+msgctxt "No.36/UkunSCD"
+msgid ""
+"Hey, what do you think\n"
+"you're doing betting\n"
+"with the GS Campaign?\n"
+"Well, I guess something\n"
+"like this was bound to\n"
+"happen sometime.\n"
+"Congratulations on your\n"
+"win. Now you're sure to\n"
+"be the next Miss Miltia!\n"
+"Nothing like that ever\n"
+"happens to a guy like\n"
+"me. Anyway, your 36\n"
+"cases really helped us\n"
+"out! Thank you so much\n"
+"for all your hard work!"
+msgstr ""
+"Oye, ¿qué haces\n"
+"apostando con la\n"
+"Campaña SG? Bueno,\n"
+"supongo que algo así\n"
+"tenía que pasar en algún\n"
+"momento. Felicitaciones\n"
+"por tu victoria. ¡Ahora\n"
+"seguro que vas a ser la\n"
+"próxima Miss Miltia! A\n"
+"alguien como yo nunca le\n"
+"pasa algo así. En fin, ¡tus\n"
+"36 casos nos ayudaron\n"
+"muchísimo! ¡Muchas\n"
+"gracias por todo tu\n"
+"esfuerzo!"
+
+#. máximo 1024 caracteres; 16 línea(s) de hasta 240 píxeles
+#, fuzzy
+msgctxt "No.36/UkunFLD"
+msgid ""
+"Hey, you should've\n"
+"known you're not the\n"
+"only GS Campaign\n"
+"agent! But out of all the\n"
+"people we looked at as\n"
+"agent candidates, how\n"
+"did someone as shallow\n"
+"and stuck up as that get\n"
+"in?! Well, even if she did\n"
+"it all for herself, at least\n"
+"the people around her\n"
+"also got some help.\n"
+"Maybe there's some\n"
+"good in that."
+msgstr ""
+"Oye, ¡ya deberías saber\n"
+"que no eres la única\n"
+"agente de la Campaña\n"
+"SG! Pero de toda la gente\n"
+"que evaluamos como\n"
+"candidata, ¡¿cómo entró\n"
+"alguien tan superficial y\n"
+"engreída?! Bueno, aunque\n"
+"lo haya hecho todo por\n"
+"ella misma, al menos la\n"
+"gente a su alrededor\n"
+"también recibió ayuda.\n"
+"Quizá eso tenga algo\n"
+"bueno."

@@ -1,0 +1,83 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Xenosaga Episode II - traducción al español\n"
+"Language: es_419\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Xeno-Source: 0:cf/en/sc6315.sbl\n"
+"X-Xeno-Tipo: cinematica\n"
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#3"
+msgid "Welcome to this holy confessional."
+msgstr "Bienvenidos a este sagrado confesionario."
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#4"
+msgid "Come in, you filth."
+msgstr "Pasen, escoria."
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#5"
+msgid "What?"
+msgstr "¿Qué?"
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#6"
+msgid "There is nothing to fear. "
+msgstr "No hay nada que temer."
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#7"
+msgid ""
+"No matter what you do,\n"
+"there is no escape from this place."
+msgstr ""
+"Hagan lo que hagan,\n"
+"no hay escapatoria de este lugar."
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#. Opciones: una por línea. Mantener 2 líneas en el mismo orden.
+#, fuzzy
+msgctxt "#8"
+msgid ""
+"Now, confess your sins.\n"
+"I will listen to anything,"
+msgstr ""
+"Ahora, confiesen sus pecados.\n"
+"Escucharé lo que sea,"
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#9"
+msgid "even from the mouths of foul beasts like you."
+msgstr "incluso de la boca de bestias inmundas como ustedes."
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#10"
+msgid "You damn bitch!"
+msgstr "¡Maldita bruja!"
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#11"
+msgid "I see. You do not wish to admit your sins."
+msgstr "Ya veo. No desean admitir sus pecados."
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#. Opciones: una por línea. Mantener 2 líneas en el mismo orden.
+#, fuzzy
+msgctxt "#12"
+msgid ""
+"You will leave me no\n"
+"choice but to rip you apart."
+msgstr ""
+"No me dejan otra opción\n"
+"que despedazarlos."

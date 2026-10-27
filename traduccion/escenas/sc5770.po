@@ -1,0 +1,194 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Xenosaga Episode II - traducción al español\n"
+"Language: es_419\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Xeno-Source: 0:cf/en/sc5770.sbl\n"
+
+#. habla: Roy's Memory Console
+#, fuzzy
+msgctxt "#2"
+msgid "My memories are stored back here! Don't enter without permission! Me? I'm always waiting on the Foundation!"
+msgstr "¡Mis recuerdos están guardados aquí atrás! ¡No entres sin permiso! ¿Yo? ¡Siempre estoy esperando en la Fundación!"
+
+#, fuzzy
+msgctxt "#3"
+msgid "Please select a mode."
+msgstr "Selecciona un modo."
+
+#. Opciones: una por línea. Mantener 3 líneas en el mismo orden.
+#, fuzzy
+msgctxt "#4"
+msgid ""
+"Challenge Mode\n"
+"Explanation Mode\n"
+"Cancel Mode selection"
+msgstr ""
+"Modo desafío\n"
+"Modo explicación\n"
+"Cancelar selección de modo"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#5"
+msgid "Approach the containers and press <□> to shoot them. Shooting a container supplies or cuts power to a specific number of lights on the central barrier door. When all the lights are activated, the door will open. Please use the following list for information about the containers."
+msgstr "Acércate a los contenedores y presiona <□> para dispararles. Al disparar a un contenedor, se enciende o se apaga una cantidad determinada de luces de la puerta barrera central. Cuando todas las luces estén encendidas, la puerta se abrirá. Consulta la siguiente lista para obtener información sobre los contenedores."
+
+#, fuzzy
+msgctxt "#6"
+msgid ""
+"Light Blue Container\n"
+"Yellow Container\n"
+"Blue Container\n"
+"Red Container\n"
+"Orange Container\n"
+"Gray Container\n"
+"Purple Container\n"
+"Green Container\n"
+"Basics of Container Shooting Part 1\n"
+"Basics of Container Shooting Part 2\n"
+"I don't need any explanations."
+msgstr ""
+"Contenedor celeste\n"
+"Contenedor amarillo\n"
+"Contenedor azul\n"
+"Contenedor rojo\n"
+"Contenedor naranja\n"
+"Contenedor gris\n"
+"Contenedor violeta\n"
+"Contenedor verde\n"
+"Tiro a contenedores: básico 1\n"
+"Tiro a contenedores: básico 2\n"
+"No necesito explicaciones."
+
+#. habla: Light Blue Container
+#, fuzzy
+msgctxt "#7"
+msgid "What place did the Foundation's tomboy, Monique, score in the foot race at the sports meet?"
+msgstr "¿En qué puesto quedó Monique, la niña más traviesa de la Fundación, en la carrera del torneo deportivo?"
+
+#. habla: Yellow Container
+#, fuzzy
+msgctxt "#8"
+msgid "What was the answer to the arithmetic problem given by Roy on the Foundation?"
+msgstr "¿Cuál fue la respuesta al problema de aritmética que planteó Roy en la Fundación?"
+
+#. habla: Blue Container
+#, fuzzy
+msgctxt "#9"
+msgid "At what age did Stella, the ex-prima ballerina of Second Miltia, begin dancing?"
+msgstr "¿A qué edad empezó a bailar Stella, ex primera bailarina de Segunda Miltia?"
+
+#. habla: Red Container
+#, fuzzy
+msgctxt "#10"
+msgid "There is a theme park called Beat Shower on the Foundation. How many attractions does it have?"
+msgstr "En la Fundación hay un parque de diversiones llamado Beat Shower. ¿Cuántas atracciones tiene?"
+
+#. habla: Orange Container
+#, fuzzy
+msgctxt "#11"
+msgid "Sheila, the owner of the Lavare cleaners, is about to have another child. What will this make her total number of children?"
+msgstr "Sheila, la dueña de la tintorería Lavare, está por tener otro hijo. ¿Cuántos hijos tendrá en total?"
+
+#. habla: Grey Container
+#, fuzzy
+msgctxt "#12"
+msgid "How many different kinds of fortune flower seeds are there?"
+msgstr "¿Cuántas clases distintas de semillas de la flor de la fortuna hay?"
+
+#. habla: Purple Container
+#, fuzzy
+msgctxt "#13"
+msgid "How many times did the marine, Magnus, on Second Miltia propose to his fiancée before she accepted?"
+msgstr "¿Cuántas veces le propuso matrimonio Magnus, el infante de marina de Segunda Miltia, a su prometida antes de que aceptara?"
+
+#. habla: Green Container
+#, fuzzy
+msgctxt "#14"
+msgid "Until what age did Butch, on the Foundation, wet his bed?"
+msgstr "¿Hasta qué edad mojó la cama Butch, de la Fundación?"
+
+#, fuzzy
+msgctxt "#15"
+msgid "A container cannot be shot if it will supply power to more lights than available slots or cut power from more lights than are currently lit."
+msgstr "No se puede disparar a un contenedor si encendería más luces que los espacios disponibles o si apagaría más luces de las que están encendidas."
+
+#, fuzzy
+msgctxt "#16"
+msgid "You must use exactly five shots to turn on all the lights. If you use any fewer than five shots, the door will not open even if all the lights are on."
+msgstr "Tienes que usar exactamente cinco disparos para encender todas las luces. Si usas menos de cinco, la puerta no se abrirá aunque todas las luces estén encendidas."
+
+#, fuzzy
+msgctxt "#17"
+msgid "Please choose Challenge Mode to begin."
+msgstr "Elige el Modo desafío para empezar."
+
+#, fuzzy
+msgctxt "#18"
+msgid "Canceling mode selection."
+msgstr "Se canceló la selección de modo."
+
+#, fuzzy
+msgctxt "#19"
+msgid "The lock is already open."
+msgstr "El cerrojo ya está abierto."
+
+#, fuzzy
+msgctxt "#20"
+msgid "Forbidden Device initialization complete. Dive out and return to MOMO's Subconscious Domain?"
+msgstr "Inicialización del Dispositivo Prohibido completa. ¿Salir de la inmersión y volver al dominio subconsciente de MOMO?"
+
+#. Opciones: una por línea. Mantener 2 líneas en el mismo orden.
+#, fuzzy
+msgctxt "#21"
+msgid ""
+"Yes\n"
+"No"
+msgstr ""
+"Sí\n"
+"No"
+
+#, fuzzy
+msgctxt "#22"
+msgid "Canceling dive-out."
+msgstr "Se canceló la salida de la inmersión."
+
+#. habla: Roy
+#, fuzzy
+msgctxt "#24"
+msgid "Ahh...I spent my entire youth here! See those treasure boxes over there? My memories are stored inside one of them!"
+msgstr "¡Aaah... aquí pasé toda mi juventud! ¿Ves esos cofres del tesoro de allá? ¡Mis recuerdos están guardados en uno de ellos!"
+
+#. habla: Roy
+#, fuzzy
+msgctxt "#25"
+msgid "I asked you to bring back my memories, didn't I? Are you sure you want to leave without them?"
+msgstr "Te pedí que recuperaras mis recuerdos, ¿no? ¿Seguro que quieres irte sin ellos?"
+
+#, fuzzy
+msgctxt "#26"
+msgid "Shots remaining = 4"
+msgstr "Disparos restantes = 4"
+
+#, fuzzy
+msgctxt "#27"
+msgid "Shots remaining = 3"
+msgstr "Disparos restantes = 3"
+
+#, fuzzy
+msgctxt "#28"
+msgid "Shots remaining = 2"
+msgstr "Disparos restantes = 2"
+
+#, fuzzy
+msgctxt "#29"
+msgid "Shots remaining = 1"
+msgstr "Disparos restantes = 1"
+
+#, fuzzy
+msgctxt "#31"
+msgid "Lock released!!"
+msgstr "¡¡Cerrojo liberado!!"

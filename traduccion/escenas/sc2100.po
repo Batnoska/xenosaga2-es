@@ -1,0 +1,92 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Xenosaga Episode II - traducción al español\n"
+"Language: es_419\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Xeno-Source: 0:cf/en/sc2100.sbl\n"
+
+#. habla: Ebert
+#, fuzzy
+msgctxt "#0"
+msgid "I feel like someone's watching me. Maybe I'm just tired."
+msgstr "Siento que alguien me observa. Quizá solo estoy cansado."
+
+#. habla: Ebert
+#, fuzzy
+msgctxt "#1"
+msgid "Why did Yuriev use his own DNA to make them? He's so mysterious."
+msgstr "¿Por qué Yuriev usó su propio ADN para crearlos? Es todo un misterio."
+
+#. habla: Ebert
+#, fuzzy
+msgctxt "#2"
+msgid "This is no good. I'm starting to talk to myself."
+msgstr "Esto no está bien. Estoy empezando a hablar solo."
+
+#. habla: Vanya
+#, fuzzy
+msgctxt "#3"
+msgid "Ahh?! Who's there? Stop playing jokes!"
+msgstr "¡¿Ah?! ¿Quién anda ahí? ¡Basta de bromas!"
+
+#. habla: Vanya
+#, fuzzy
+msgctxt "#4"
+msgid "There's something sinister about Dr. Yuriev. He created this entire facility just for the U.R.T.V.s, and he apparently has deep connections to the Parliament as well. "
+msgstr "El doctor Yuriev tiene algo siniestro. Creó toda esta instalación solo para los U.R.T.V., y por lo visto también tiene vínculos profundos con el Parlamento."
+
+#. habla: Vanya
+#, fuzzy
+msgctxt "#5"
+msgid "I heard there's no record of his birth. Where in the world did he come from?"
+msgstr "Escuché que no hay ningún registro de su nacimiento. ¿De dónde demonios salió?"
+
+#. habla: Marche
+#, fuzzy
+msgctxt "#6"
+msgid "Break time is over now, let's...huh? That's strange. I thought I detected a U.R.T.V."
+msgstr "Se terminó el descanso, vamos... ¿eh? Qué raro. Creí que había detectado a un U.R.T.V."
+
+#. habla: Marche
+#, fuzzy
+msgctxt "#7"
+msgid "It's about time to go get the U.R.T.V.s that are on break."
+msgstr "Ya es hora de ir a buscar a los U.R.T.V. que están en descanso."
+
+#. habla: Sergey
+#, fuzzy
+msgctxt "#8"
+msgid "Hmm? Is someone there?"
+msgstr "¿Hmm? ¿Hay alguien ahí?"
+
+#. habla: Sergey
+#, fuzzy
+msgctxt "#9"
+msgid "Dr. Yuriev's been doing some strange things lately. This facility is odd enough, but it seems he's also gathering former head members of Parliament for something."
+msgstr "Últimamente el doctor Yuriev hace cosas raras. Esta instalación ya es bastante extraña, pero parece que además está reuniendo a ex altos miembros del Parlamento para algo."
+
+#. habla: Sergey
+#, fuzzy
+msgctxt "#10"
+msgid "I'd better keep an eye on him."
+msgstr "Mejor lo vigilo."
+
+#. habla: Liliya
+#, fuzzy
+msgctxt "#11"
+msgid "Oh, Citrine?! Huh? I guess it was just my imagination."
+msgstr "¡¿Ah, Citrine?! ¿Eh? Supongo que fue mi imaginación."
+
+#. habla: Liliya
+#, fuzzy
+msgctxt "#12"
+msgid "Where did Citrine go? She never sits still, just like that No. 666. "
+msgstr "¿Adónde se fue Citrine? Nunca se queda quieta, igual que ese N.º 666."
+
+#. habla: Liliya
+#, fuzzy
+msgctxt "#13"
+msgid "Does she understand her position as leader of the female types?"
+msgstr "¿Entenderá su posición como líder de los tipos femeninos?"

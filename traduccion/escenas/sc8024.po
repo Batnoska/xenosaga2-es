@@ -1,0 +1,132 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Xenosaga Episode II - traducción al español\n"
+"Language: es_419\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Xeno-Source: 0:cf/en/sc8024.sbl\n"
+"X-Xeno-Tipo: cinematica\n"
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#4"
+msgid "Sorry to keep you."
+msgstr "Perdón por hacerlos esperar."
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#. Opciones: una por línea. Mantener 2 líneas en el mismo orden.
+#, fuzzy
+msgctxt "#5"
+msgid ""
+"You look like a different person\n"
+"when you're not in uniform."
+msgstr ""
+"Pareces otra persona\n"
+"cuando no llevas el uniforme."
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#6"
+msgid "Oh? Does it look bad on me?"
+msgstr "¿Ah, sí? ¿Me queda mal?"
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#7"
+msgid "Oh, not at all. You look great."
+msgstr "Ah, para nada. Te ves muy bien."
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#8"
+msgid "Thanks."
+msgstr "Gracias."
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#9"
+msgid ""
+"You sure you want to leave without\n"
+"saying goodbye to your brother?"
+msgstr ""
+"¿Seguro que quieres irte sin\n"
+"despedirte de tu hermano?"
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#10"
+msgid ""
+"Yeah, we talked yesterday. Honestly, I\n"
+"don't know what I would say if I saw him."
+msgstr ""
+"Sí, ya hablamos ayer. La verdad,\n"
+"no sé qué le diría si lo viera."
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#. Opciones: una por línea. Mantener 2 líneas en el mismo orden.
+#, fuzzy
+msgctxt "#11"
+msgid ""
+"You know, I'm sorry I can't be\n"
+"there for MOMO's analysis."
+msgstr ""
+"Oye, lamento no poder estar\n"
+"en el análisis de MOMO."
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#12"
+msgid "I've just got a lot going on right now."
+msgstr "Es que ahora tengo muchas cosas encima."
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#13"
+msgid "I can't leave Allen by himself."
+msgstr "No puedo dejar solo a Allen."
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#14"
+msgid "Plus I'm worried about KOS-MOS, too."
+msgstr "Además, también me preocupa KOS-MOS."
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#15"
+msgid ""
+"It's all right. Don't worry about it.\n"
+"The analysis itself isn't all that problematic."
+msgstr ""
+"Está bien. No te preocupes.\n"
+"El análisis en sí no es tan complicado."
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#. Opciones: una por línea. Mantener 2 líneas en el mismo orden.
+#, fuzzy
+msgctxt "#16"
+msgid ""
+"Besides, everyone from\n"
+"the Foundation will be there."
+msgstr ""
+"Además, va a estar toda\n"
+"la gente de la Fundación."
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#17"
+msgid "Okay, wish MOMO luck for me."
+msgstr "Bueno, deséale suerte a MOMO de mi parte."
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#18"
+msgid "Sure thing."
+msgstr "Cuenta con eso."
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#19"
+msgid "See ya."
+msgstr "Nos vemos."

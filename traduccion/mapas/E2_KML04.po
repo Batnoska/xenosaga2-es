@@ -1,0 +1,303 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Xenosaga Episode II - traducción al español\n"
+"Language: es_419\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Xeno-Source: 0:model/map/en/E2_KML04.sbl\n"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#0"
+msgid "$zoom13;5.66mm U-TIC Shell (Pierce)"
+msgstr "$zoom13;Proyectil U-TIC de 5.66 mm (Perforación)"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#1"
+msgid "$zoom13;Hyams M87R (Pierce)"
+msgstr "$zoom13;Hyams M87R (Perforación)"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#2"
+msgid "$zoom13;EAP Shell (Beam)"
+msgstr "$zoom13;Proyectil EAP (Haz)"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#3"
+msgid "$zoom13;Venom Touch (Strike/L Poison)"
+msgstr "$zoom13;Toque venenoso (Golpe/Veneno L)"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#4"
+msgid "$zoom13;Hedro Dust (Strike/L Poison)"
+msgstr "$zoom13;Hedro Dust (Golpe/Veneno L)"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#5"
+msgid "$zoom13;Venom Touch Combo (Strike/L Poison)"
+msgstr "$zoom13;Combo toque venenoso (Golpe/Veneno L)"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#6"
+msgid "$zoom13;Quick"
+msgstr "$zoom13;Rapidez"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#7"
+msgid ""
+"$col808080;I take it that this is your first time in a character-\n"
+"based battle. I will give you a simple explanation.●"
+msgstr ""
+"$col808080;Supongo que es tu primer combate de personajes.\n"
+"Te voy a dar una explicación sencilla.●"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#8"
+msgid ""
+"$col7AF9FB;<Basic Attacks>\n"
+"$col808080;Take a look at the icons on the bottom left of\n"
+"the screen. The basic attacks are the consecutive\n"
+"attacks with &01 and &02, and the single attack\n"
+"with &03.●"
+msgstr ""
+"$col7AF9FB;<Ataques básicos>\n"
+"$col808080;Mira los íconos de abajo a la izquierda de la\n"
+"pantalla. Los ataques básicos son los ataques\n"
+"consecutivos con &01 y &02, y el ataque único\n"
+"con &03.●"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#9"
+msgid ""
+"$col808080;The information next to the attack icon indicates\n"
+"the attack characteristics. Finding the most\n"
+"effective attack characteristics for each enemy\n"
+"is the first step to obtaining an advantage in\n"
+"battle.●"
+msgstr ""
+"$col808080;La información junto al ícono de ataque indica\n"
+"las características del ataque. Encontrar las\n"
+"características más eficaces contra cada enemigo\n"
+"es el primer paso para tomar ventaja en el\n"
+"combate.●"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#10"
+msgid ""
+"$col808080;Attack characteristics can also be viewed in the\n"
+"Tech menu.●"
+msgstr ""
+"$col808080;Las características de los ataques también se\n"
+"pueden ver en el menú Técnicas.●"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#11"
+msgid ""
+"$col808080;Well, experience is the best form of training, so\n"
+"let's give it a try. When attacking, keep your eyes\n"
+"out for the B and C sign on the left of the screen.●"
+msgstr ""
+"$col808080;Bueno, la experiencia es el mejor entrenamiento,\n"
+"así que probemos. Al atacar, fíjate en las señales\n"
+"B y C de la izquierda de la pantalla.●"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#12"
+msgid ""
+"$col808080;The info next to the attack icon indicates the\n"
+"attack characteristics.\n"
+"Attack Type: &16(Physical Attack), &17 (Ether Attack)\n"
+"Target Classification: &18 (Near), &19  (Far)●"
+msgstr ""
+"$col808080;La información junto al ícono indica las\n"
+"características del ataque.\n"
+"Tipo: &16 (ataque físico), &17 (ataque de éter)\n"
+"Alcance: &18 (cerca), &19 (lejos)●"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#13"
+msgid ""
+"$col808080;Physical Damage Attributes:\n"
+"&20  (Strike), &21 (Slash), &22 (Pierce)\n"
+"Ether Damage Attributes:\n"
+"&23 (Fire), &24 (Ice), &25 (Thunder), \n"
+"&26 (Aura), &27 (Beam)●"
+msgstr ""
+"$col808080;Atributos de daño físico:\n"
+"&20 Golpe, &21 Corte, &22 Perforación\n"
+"Atributos de daño de éter:\n"
+"&23 Fuego, &24 Hielo, &25 Rayo,\n"
+"&26 Aura, &27 Haz●"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#14"
+msgid ""
+"$col808080;Status Attributes:\n"
+"&28  (Air) and &29 (Down) *I'll explain about these two icons in the next section.●"
+msgstr ""
+"$col808080;Atributos de estado:\n"
+"&28 (Elevación) y &29 (Derribo) *Estos dos íconos los explico en la siguiente sección.●"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#15"
+msgid ""
+"$col808080;This information can be found within the menu.\n"
+"The attacks are set with each character, so if\n"
+"you've memorized them, you can hide the\n"
+"information by pressing the L1 button.●"
+msgstr ""
+"$col808080;Esta información también está en el menú. Los\n"
+"ataques son fijos para cada personaje: si ya\n"
+"los conoces, puedes ocultar la información\n"
+"con el botón L1.●"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#16"
+msgid ""
+"$col7AF9FB;<Zone>\n"
+"$col808080;Did you notice the B and C displayed on the left of\n"
+"the screen? These are called zones and indicate\n"
+"the location (height) where each attack hit.●"
+msgstr ""
+"$col7AF9FB;<Zona>\n"
+"$col808080;¿Viste la B y la C a la izquierda de la pantalla?\n"
+"Se llaman zonas e indican el lugar (la altura)\n"
+"donde pegó cada ataque.●"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#17"
+msgid ""
+"$col808080;Zones and attack buttons correspond as follows:\n"
+"A Zone (over 3m): &03\n"
+"B Zone (1-3m): &01 and &03\n"
+"C Zone (under 1m): &02 and &03\n"
+"*Some characters are unable to attack the A Zone.●"
+msgstr ""
+"$col808080;Zonas y botones de ataque se corresponden así:\n"
+"Zona A (más de 3 m): &03\n"
+"Zona B (1-3 m): &01 y &03\n"
+"Zona C (menos de 1 m): &02 y &03\n"
+"*Algunos personajes no pueden atacar la Zona A.●"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#18"
+msgid ""
+"$col808080;Most enemies have a zone that is their weak point.\n"
+"When the zone indicator is shown in red during\n"
+"an attack, that is the enemy's weak point.\n"
+"Be careful, some enemies do not have weak zones.●"
+msgstr ""
+"$col808080;La mayoría de los enemigos tienen una zona débil.\n"
+"Si durante un ataque el indicador de zona se ve\n"
+"en rojo, ese es el punto débil del enemigo.\n"
+"Cuidado: algunos enemigos no tienen zona débil.●"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#19"
+msgid ""
+"$col7AF9FB;<Break>\n"
+"$col808080;By continuously attacking the enemy's weak zone,\n"
+"you'll be able to \"Break\" the enemy's guard. For\n"
+"instance, the U-TIC Soldier A in front of me\n"
+"becomes vulnerable with a &01&01 (BB) attack.●"
+msgstr ""
+"$col7AF9FB;<Desequilibrio>\n"
+"$col808080;Si atacas sin parar la zona débil del enemigo,\n"
+"puedes provocarle un \"Desequilibrio\". Por\n"
+"ejemplo, el Soldado U-TIC A que tengo enfrente\n"
+"queda vulnerable con un ataque &01&01 (BB).●"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#20"
+msgid ""
+"$col808080;The enemy will usually recover from Break in one\n"
+"turn, but by using Boost, you'll be able to maintain\n"
+"the Break state for the next character.●"
+msgstr ""
+"$col808080;El enemigo suele recuperarse del Desequilibrio\n"
+"en un turno, pero con Boost puedes mantener ese\n"
+"estado para el siguiente personaje.●"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#21"
+msgid ""
+"$col7AF9FB;<Air and Down>\n"
+"$col808080;Use a &03 attack while the enemy is in the Break\n"
+"state to Air or Down an enemy.\n"
+"*It is possible to maintain these states for the next\n"
+"character by Boosting again.●"
+msgstr ""
+"$col7AF9FB;<Elevación y Derribo>\n"
+"$col808080;Usa un ataque &03 mientras el enemigo está en\n"
+"Desequilibrio para elevarlo o derribarlo.\n"
+"*Haciendo Boost otra vez, puedes mantener estos\n"
+"estados para el siguiente personaje.●"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#22"
+msgid ""
+"$col808080;Attacks that have &28 (Air) and &29 (Down)\n"
+"icons on the bottom left of the screen are able to\n"
+"cause those states.●"
+msgstr ""
+"$col808080;Los ataques que tienen los íconos &28 (Elevación)\n"
+"y &29 (Derribo) abajo a la izquierda de la pantalla\n"
+"pueden provocar esos estados.●"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#23"
+msgid ""
+"$col7AF9FB;<Damage Values>\n"
+"$col808080;Attacking an enemy in these states will increase\n"
+"damage: Break (1.5x), Air (2x), and Down (2x).●"
+msgstr ""
+"$col7AF9FB;<Valores de daño>\n"
+"$col808080;Si atacas a un enemigo en estos estados,\n"
+"el daño aumenta: Desequilibrio x1.5,\n"
+"Elevación x2 y Derribo x2.●"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#24"
+msgid ""
+"$col808080;Learning and taking advantage of an enemy's\n"
+"weak zone to cause Break, Air, and Down is a vital\n"
+"strategy in battle.●"
+msgstr ""
+"$col808080;Aprender la zona débil del enemigo y aprovecharla\n"
+"para provocar Desequilibrio, Elevación y Derribo\n"
+"es una estrategia fundamental en combate.●"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#25"
+msgid ""
+"$col808080;This is the end of my explanation. I will max out\n"
+"the Boost Gauge, so give it a try.●"
+msgstr ""
+"$col808080;Aquí termina mi explicación. Voy a llenar al\n"
+"máximo la barra de Boost, así que pruébalo.●"

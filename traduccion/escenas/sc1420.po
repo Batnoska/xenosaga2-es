@@ -1,0 +1,580 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Xenosaga Episode II - traducción al español\n"
+"Language: es_419\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Xeno-Source: 0:cf/en/sc1420.sbl\n"
+
+#. habla: Allen
+#, fuzzy
+msgctxt "#1"
+msgid "Chief!"
+msgstr "¡Jefa!"
+
+#, fuzzy
+msgctxt "#2"
+msgid "Go down?"
+msgstr "¿Bajar?"
+
+#. Opciones: una por línea. Mantener 2 líneas en el mismo orden.
+#, fuzzy
+msgctxt "#3"
+msgid ""
+"Yes\n"
+"No"
+msgstr ""
+"Sí\n"
+"No"
+
+#. habla: Eric
+#, fuzzy
+msgctxt "#4"
+msgid "Oh, you're the chief from First Division, right? So, you're here about that android."
+msgstr "Ah, usted es la jefa de la Primera División, ¿no? Así que vino por esa androide."
+
+#. habla: Eric
+#, fuzzy
+msgctxt "#5"
+msgid "I heard that you were with those guys from the Kukai Foundation. Are you involved with the Miltian government, too?"
+msgstr "Escuché que estaba con esos tipos de la Fundación Kukai. ¿También tiene que ver con el gobierno de Miltia?"
+
+#. habla: Eric
+#, fuzzy
+msgctxt "#6"
+msgid "Hey, don't you ever wonder why Second Division is on Miltia?"
+msgstr "Oiga, ¿nunca se preguntó por qué la Segunda División está en Miltia?"
+
+#. habla: Eric
+#, fuzzy
+msgctxt "#7"
+msgid "I'm sure there's something funny going on between HQ and the Miltian government. Of course, it's not like they would let any old workers like us in on it, right?"
+msgstr "Seguro que entre el cuartel general y el gobierno de Miltia hay gato encerrado. Claro que no nos lo van a contar a simples empleados como nosotros, ¿no?"
+
+#. habla: Eric
+#, fuzzy
+msgctxt "#8"
+msgid "Hehehe, I heard something happened at the U.M.N. Control Center."
+msgstr "Jejeje, escuché que pasó algo en el Centro de Control de la U.M.N."
+
+#. habla: Eric
+#, fuzzy
+msgctxt "#9"
+msgid "It must be something big if Representative Helmer contacted us personally."
+msgstr "Debe ser algo grande si el representante Helmer se comunicó con nosotros en persona."
+
+#. habla: Eric
+#, fuzzy
+msgctxt "#10"
+msgid "Oh, Chief. I heard there was a huge ruckus onboard the Dämmerung! Seems somebody stole a ship that was still under development!"
+msgstr "Ah, jefa. ¡Escuché que hubo un gran alboroto a bordo del Dämmerung! ¡Parece que alguien robó una nave que todavía estaba en desarrollo!"
+
+#. habla: Eric
+#, fuzzy
+msgctxt "#11"
+msgid "I bet it was an inside job. Hehehe, what do you think?"
+msgstr "Apuesto a que fue alguien de adentro. Jejeje, ¿usted qué cree?"
+
+#. habla: Eric
+#, fuzzy
+msgctxt "#12"
+msgid "So, you're KOS-MOS, huh? I heard you ran off from Second Division before your maintenance was complete. You probably shouldn't be wandering around here too much."
+msgstr "Así que tú eres KOS-MOS, ¿eh? Escuché que te escapaste de la Segunda División antes de que terminaran tu mantenimiento. Mejor no andes dando vueltas por aquí."
+
+#. habla: Eric
+#, fuzzy
+msgctxt "#13"
+msgid "The Y-Data leak at the U.M.N. Control Center, the reappearance of the lost route to Miltia...it seems like the Immigrant Fleet knew everything all along..."
+msgstr "La filtración de los Y-Data en el Centro de Control de la U.M.N., la reaparición de la ruta perdida a Miltia... parece que la Flota de Inmigrantes lo sabía todo desde el principio..."
+
+#. habla: Eric
+#, fuzzy
+msgctxt "#14"
+msgid "There's something fishy about all of this. I don't like it one bit."
+msgstr "Todo esto me huele mal. No me gusta nada."
+
+#. habla: Eric
+#, fuzzy
+msgctxt "#15"
+msgid "Hey Chief, you saw that monster too, right? I wonder who in the world is controlling that behind the scenes."
+msgstr "Oiga, jefa, usted también vio ese monstruo, ¿no? Me pregunto quién demonios lo controla desde las sombras."
+
+#. habla: Eric
+#, fuzzy
+msgctxt "#16"
+msgid "The mastermind usually turns out to be someone real close, you know?"
+msgstr "El cerebro detrás de todo suele ser alguien muy cercano, ¿sabe?"
+
+#. habla: Eric
+#, fuzzy
+msgctxt "#17"
+msgid "Hey! Use your sensors to figure out what that thing really is! What did that thing come out for?"
+msgstr "¡Oye! ¡Usa tus sensores para averiguar qué es esa cosa en realidad! ¿Para qué apareció?"
+
+#. habla: Eric
+#, fuzzy
+msgctxt "#18"
+msgid "Hehehe. I never thought they'd bring out something like that. I guess everything else was just a preview."
+msgstr "Jejeje. Nunca pensé que sacarían algo así. Supongo que todo lo demás era solo un adelanto."
+
+#. habla: Eric
+#, fuzzy
+msgctxt "#19"
+msgid "By the way, just what the hell is that thing?"
+msgstr "Por cierto, ¿qué demonios es esa cosa?"
+
+#. habla: Erst
+#, fuzzy
+msgctxt "#20"
+msgid "Hello, Chief. Are you here for an inspection? If you have any questions about anything that goes on around here, please don't hesitate to ask."
+msgstr "Hola, jefa. ¿Vino a hacer una inspección? Si tiene alguna pregunta sobre lo que se hace aquí, no dude en consultarme."
+
+#. habla: Erst
+#, fuzzy
+msgctxt "#21"
+msgid "We manage the data for every type of weapon in this room. We are currently working, so please try not to interfere with anything."
+msgstr "En esta sala administramos los datos de todos los tipos de armas. Estamos trabajando, así que procure no interferir con nada."
+
+#. habla: Erst
+#, fuzzy
+msgctxt "#22"
+msgid "Third Division? We must periodically head to Third Division for adjustments. Why do you ask?"
+msgstr "¿La Tercera División? Tenemos que ir allí periódicamente para hacer ajustes. ¿Por qué lo pregunta?"
+
+#. habla: Erst
+#, fuzzy
+msgctxt "#23"
+msgid "Second Division is currently under security alert. Even chiefs are limited in where they may go. Thank you for your cooperation."
+msgstr "La Segunda División está en alerta de seguridad. Hasta los jefes tienen restringido adónde pueden ir. Gracias por su cooperación."
+
+#. habla: Erst
+#, fuzzy
+msgctxt "#24"
+msgid "We apologize for any inconvenience, but the use of weapons inside the Division is forbidden. Disobeying this policy may result in the weapon's confiscation or disposal. Please be careful."
+msgstr "Disculpe las molestias, pero está prohibido usar armas dentro de la División. No cumplir esta norma puede llevar a la confiscación o eliminación del arma. Tenga cuidado."
+
+#. habla: Erst
+#, fuzzy
+msgctxt "#25"
+msgid "On orders from headquarters, the Division is currently under security alert. Suspicious behavior may result in disciplinary action. Please be careful."
+msgstr "Por orden del cuartel general, la División está en alerta de seguridad. Cualquier conducta sospechosa puede llevar a medidas disciplinarias. Tenga cuidado."
+
+#. habla: Dritt
+#, fuzzy
+msgctxt "#26"
+msgid "Hello, Chief Uzuki. What do you think? Aren't the facilities here at Second Division impressive?"
+msgstr "Hola, jefa Uzuki. ¿Qué le parece? ¿No son impresionantes las instalaciones de la Segunda División?"
+
+#. habla: Dritt
+#, fuzzy
+msgctxt "#27"
+msgid "I'd like to visit First Division aboard the Dämmerung sometime."
+msgstr "Algún día me gustaría visitar la Primera División a bordo del Dämmerung."
+
+#. habla: Dritt
+#, fuzzy
+msgctxt "#28"
+msgid "Here, we perform weapons testing within the Encephalon. Feel free to watch, but please try not to interfere."
+msgstr "Aquí hacemos pruebas de armas dentro del Encéfalo. Puede mirar, pero procure no interferir."
+
+#. habla: Dritt
+#, fuzzy
+msgctxt "#29"
+msgid "Chief Uzuki, is something wrong? You look a little unsettled. Did something happen?"
+msgstr "Jefa Uzuki, ¿le pasa algo? Se la ve un poco inquieta. ¿Pasó algo?"
+
+#. habla: Dritt
+#, fuzzy
+msgctxt "#30"
+msgid "Is something wrong? You look a little unsettled. Did something happen?"
+msgstr "¿Le pasa algo? Se la ve un poco inquieta. ¿Pasó algo?"
+
+#. habla: Dritt
+#, fuzzy
+msgctxt "#31"
+msgid "Chief Uzuki, I'd heard you returned to the Dämmerung. What are you still doing here?"
+msgstr "Jefa Uzuki, supe que había vuelto al Dämmerung. ¿Qué hace todavía aquí?"
+
+#. habla: Dritt
+#, fuzzy
+msgctxt "#32"
+msgid "KOS-MOS? I thought you were still undergoing maintenance. Is it okay for you to be walking around?"
+msgstr "¿KOS-MOS? Creí que todavía estabas en mantenimiento. ¿Está bien que andes caminando por ahí?"
+
+#. habla: Dritt
+#, fuzzy
+msgctxt "#33"
+msgid "I'm sorry. The Division is currently under security alert. Visitors must leave as soon as possible."
+msgstr "Lo siento. La División está en alerta de seguridad. Los visitantes deben retirarse lo antes posible."
+
+#. habla: Annette
+#, fuzzy
+msgctxt "#34"
+msgid "KOS-MOS' Tertiary Weapons System is being developed in the armory upstairs. You won't be able to see her even if you wait here."
+msgstr "El Sistema de Armas Terciario de KOS-MOS se está desarrollando en la armería de arriba. Aunque espere aquí, no va a poder verla."
+
+#. habla: Annette
+#, fuzzy
+msgctxt "#35"
+msgid "Hmm? Are you a visitor? I'm sure all of this must be fascinating, but don't wander around too much."
+msgstr "¿Hmm? ¿Es usted visitante? Seguro que todo esto le parece fascinante, pero no ande dando muchas vueltas."
+
+#. habla: Annette
+#, fuzzy
+msgctxt "#36"
+msgid "I guess the chief of First Division has a lot of time on her hands. Over here, we're all very busy installing KOS-MOS' new components, so we don't have time to rest."
+msgstr "Parece que la jefa de la Primera División tiene mucho tiempo libre. Aquí estamos todos muy ocupados instalando los componentes nuevos de KOS-MOS, así que no tenemos tiempo para descansar."
+
+#. habla: Annette
+#, fuzzy
+msgctxt "#37"
+msgid "Chief Uzuki, I assume you're aware that KOS-MOS ran off. Chief Uzuki! What in the world is that thing?! Has headquarters managed to analyze it?"
+msgstr "Jefa Uzuki, supongo que sabe que KOS-MOS se escapó. ¡Jefa Uzuki! ¡¿Qué demonios es esa cosa?! ¿El cuartel general logró analizarla?"
+
+#. habla: Annette
+#, fuzzy
+msgctxt "#38"
+msgid "Just so you know, it's still under Second Division jurisdiction. It's not your toy. You can't do just anything with it."
+msgstr "Para que lo sepa, sigue bajo la jurisdicción de la Segunda División. No es su juguete. No puede hacer lo que quiera con ella."
+
+#. habla: Annette
+#, fuzzy
+msgctxt "#39"
+msgid "KOS-MOS! Where have you been?! You're still under Second Division's jurisdiction. Hurry up and get back to the maintenance room!"
+msgstr "¡KOS-MOS! ¡¿Dónde estabas?! Sigues bajo la jurisdicción de la Segunda División. ¡Vuelve ya a la sala de mantenimiento!"
+
+#. habla: Annette
+#, fuzzy
+msgctxt "#40"
+msgid "We're under security alert. We don't need any outsiders wandering around!"
+msgstr "Estamos en alerta de seguridad. ¡No necesitamos extraños dando vueltas por aquí!"
+
+#. habla: Annette
+#, fuzzy
+msgctxt "#41"
+msgid "I heard you're with the Foundation. Don't you have anything else to do besides hanging around here?"
+msgstr "Escuché que está con la Fundación. ¿No tiene nada mejor que hacer que andar por aquí?"
+
+#. habla: Annette
+#, fuzzy
+msgctxt "#42"
+msgid "Chief Uzuki! I believe the Dämmerung needs all of their staff right now."
+msgstr "¡Jefa Uzuki! Creo que el Dämmerung necesita ahora a todo su personal."
+
+#. habla: Annette
+#, fuzzy
+msgctxt "#43"
+msgid "We're under security alert, you know. You should take your duties a little more seriously."
+msgstr "Estamos en alerta de seguridad, ¿sabe? Debería tomarse sus obligaciones un poco más en serio."
+
+#. habla: Annette
+#, fuzzy
+msgctxt "#44"
+msgid "KOS-MOS, you're always so...calm."
+msgstr "KOS-MOS, tú siempre estás tan... tranquila."
+
+#. habla: Annette
+#, fuzzy
+msgctxt "#45"
+msgid "The Dämmerung is helping the victims in Old Miltian space. Why don't you people from the Foundation learn something from them?!"
+msgstr "El Dämmerung está ayudando a las víctimas en el espacio de la Antigua Miltia. ¡¿Por qué ustedes, los de la Fundación, no aprenden de ellos?!"
+
+#. habla: Lavinia
+#, fuzzy
+msgctxt "#46"
+msgid "I'm sorry, but even the chief of First Division is not allowed into the armory without permission from headquarters."
+msgstr "Lo siento, pero ni siquiera la jefa de la Primera División puede entrar a la armería sin permiso del cuartel general."
+
+#. habla: Lavinia
+#, fuzzy
+msgctxt "#47"
+msgid "The development of special weapons is handled on the top floor of this building."
+msgstr "El desarrollo de armas especiales se hace en el piso superior de este edificio."
+
+#. habla: Lavinia
+#, fuzzy
+msgctxt "#48"
+msgid "The work is top secret, so no one may enter without permission from headquarters."
+msgstr "El trabajo es ultrasecreto, así que nadie puede entrar sin permiso del cuartel general."
+
+#. habla: Lavinia
+#, fuzzy
+msgctxt "#49"
+msgid "Do you need something? Just hanging around here won't get you into the armory."
+msgstr "¿Necesita algo? Quedarse aquí no le va a servir para entrar a la armería."
+
+#. habla: Lavinia
+#, fuzzy
+msgctxt "#50"
+msgid "If you want to see KOS-MOS that badly, please get permission from the division director. "
+msgstr "Si tanto quiere ver a KOS-MOS, pida permiso al director de la división."
+
+#. habla: Lavinia
+#, fuzzy
+msgctxt "#51"
+msgid "The director? He's working inside the armory."
+msgstr "¿El director? Está trabajando dentro de la armería."
+
+#. habla: Lavinia
+#, fuzzy
+msgctxt "#52"
+msgid "Chief Uzuki! How can you be so calm?! KOS-MOS is missing! "
+msgstr "¡Jefa Uzuki! ¡¿Cómo puede estar tan tranquila?! ¡KOS-MOS desapareció!"
+
+#. habla: Lavinia
+#, fuzzy
+msgctxt "#53"
+msgid "Chief, you really need to program the A.I. better! We can't have heavily armed androids running away like this!"
+msgstr "¡Jefa, tiene que programar mejor esa I.A.! ¡No podemos tener androides fuertemente armadas escapándose así!"
+
+#. habla: Lavinia
+#, fuzzy
+msgctxt "#54"
+msgid "KOS-MOS?! What are you doing here?! They haven't finished checking your new components! You can't just wander around the place on your own like this!"
+msgstr "¡¿KOS-MOS?! ¡¿Qué haces aquí?! ¡Todavía no terminaron de revisar tus componentes nuevos! ¡No puedes andar dando vueltas por tu cuenta así!"
+
+#. habla: Lavinia
+#, fuzzy
+msgctxt "#55"
+msgid "Have you seen KOS-MOS? She took off all of a sudden, and now she's missing."
+msgstr "¿Vio a KOS-MOS? Se fue de repente y ahora está desaparecida."
+
+#. habla: Lavinia
+#, fuzzy
+msgctxt "#56"
+msgid "Just what kind of A.I. did First Division install in her?"
+msgstr "¿Qué clase de I.A. le instaló la Primera División?"
+
+#. habla: Lavinia
+#, fuzzy
+msgctxt "#57"
+msgid "Chief Uzuki! What in the world is that thing?! Has headquarters managed to analyze it?"
+msgstr "¡Jefa Uzuki! ¡¿Qué demonios es esa cosa?! ¿El cuartel general logró analizarla?"
+
+#. habla: Lavinia
+#, fuzzy
+msgctxt "#58"
+msgid "Why aren't they giving Second Division any information?!"
+msgstr "¡¿Por qué no le dan ninguna información a la Segunda División?!"
+
+#. habla: Lavinia
+#, fuzzy
+msgctxt "#59"
+msgid "KOS-MOS! Do you have any data on that object? Now that you're part of Second Division, I think you should go pick us up a sample."
+msgstr "¡KOS-MOS! ¿Tienes datos sobre ese objeto? Ahora que eres parte de la Segunda División, creo que deberías ir a traernos una muestra."
+
+#. habla: Lavinia
+#, fuzzy
+msgctxt "#60"
+msgid "That thing that came out from Miltia is currently under investigation. Until we receive data from headquarters' observational teams, there's nothing for us to analyze."
+msgstr "Esa cosa que salió de Miltia está siendo investigada. Hasta que recibamos datos de los equipos de observación del cuartel general, no tenemos nada que analizar."
+
+#. habla: Maximilian
+#, fuzzy
+msgctxt "#61"
+msgid "Hey, it's Chief Uzuki of First Division! What's up? When did you come to Second Division? Oh, that's right, they're upgrading KOS-MOS' components."
+msgstr "¡Pero si es la jefa Uzuki de la Primera División! ¿Qué tal? ¿Cuándo llegó a la Segunda División? Ah, claro, están mejorando los componentes de KOS-MOS."
+
+#. habla: Maximilian
+#, fuzzy
+msgctxt "#62"
+msgid "Don't worry. When it comes to hardware, just leave it to us in Second Division!"
+msgstr "No se preocupe. ¡Cuando se trata de hardware, déjenoslo a los de la Segunda División!"
+
+#. habla: Maximilian
+#, fuzzy
+msgctxt "#63"
+msgid "Second Division focuses on Vector's weapons development, like the A.M.W.S. The A.G.W.S. and the Rhine Maiden were developed here, too."
+msgstr "La Segunda División se dedica al desarrollo de armas de Vector, como los A.M.W.S. Los A.G.W.S. y el Rhine Maiden también se desarrollaron aquí."
+
+#. habla: Maximilian
+#, fuzzy
+msgctxt "#64"
+msgid "Hey, Chief Uzuki. What's wrong? You don't look too good."
+msgstr "Oiga, jefa Uzuki. ¿Qué le pasa? No se la ve muy bien."
+
+#. habla: Maximilian
+#, fuzzy
+msgctxt "#65"
+msgid "Aww, don't worry. KOS-MOS is doing fine. "
+msgstr "Vamos, no se preocupe. KOS-MOS está bien."
+
+#. habla: Maximilian
+#, fuzzy
+msgctxt "#66"
+msgid "I don't care if there's a security alert, but headquarters isn't doing squat about it."
+msgstr "Que haya una alerta de seguridad me da igual, pero el cuartel general no está haciendo nada al respecto."
+
+#. habla: Maximilian
+#, fuzzy
+msgctxt "#67"
+msgid "Normally they'd be yelling at us right and left to get any new systems out there and perform real-world battle tests."
+msgstr "Normalmente nos estarían gritando por todos lados que saquemos los sistemas nuevos y hagamos pruebas de combate reales."
+
+#. habla: Maximilian
+#, fuzzy
+msgctxt "#68"
+msgid "What the hell are the guys upstairs thinking?"
+msgstr "¿En qué demonios están pensando los de arriba?"
+
+#. habla: Maximilian
+#, fuzzy
+msgctxt "#69"
+msgid "Oh, KOS-MOS! I heard you started up on your own again. If you don't stop doing that soon, they're gonna scrap you!"
+msgstr "¡Ah, KOS-MOS! Escuché que otra vez te activaste por tu cuenta. ¡Si no dejas de hacer eso pronto, te van a desguazar!"
+
+#. habla: Maximilian
+#, fuzzy
+msgctxt "#70"
+msgid "Sorry, but CEO Wilhelm ordered the whole company on security alert."
+msgstr "Lo siento, pero el presidente Wilhelm puso a toda la empresa en alerta de seguridad."
+
+#. habla: Maximilian
+#, fuzzy
+msgctxt "#71"
+msgid "If you don't have any business here, you'd better get your butts out of here while you still can."
+msgstr "Si no tienen nada que hacer aquí, mejor váyanse mientras puedan."
+
+#. habla: Maximilian
+#, fuzzy
+msgctxt "#72"
+msgid "Hey, the chief of First Division can't be hanging around here at a time like this."
+msgstr "Oiga, la jefa de la Primera División no puede andar dando vueltas por aquí en un momento así."
+
+#. habla: Maximilian
+#, fuzzy
+msgctxt "#73"
+msgid "Or maybe someone with your rank ain't surprised that Miltia went bye-bye."
+msgstr "O quizá a alguien de su rango no le sorprende que Miltia se haya esfumado."
+
+#. habla: Maximilian
+#, fuzzy
+msgctxt "#74"
+msgid "KOS-MOS! What are you doing here?! What do you think that new body of yours is for?! "
+msgstr "¡KOS-MOS! ¡¿Qué haces aquí?! ¡¿Para qué crees que es ese cuerpo nuevo?!"
+
+#. habla: Maximilian
+#, fuzzy
+msgctxt "#75"
+msgid "You've got an important duty to show the world just what Second Division can do! Now, get out there and fight!"
+msgstr "¡Tienes la importante misión de mostrarle al mundo de qué es capaz la Segunda División! ¡Ahora sal ahí y pelea!"
+
+#. habla: Maximilian
+#, fuzzy
+msgctxt "#76"
+msgid "Can you believe it?! Miltia just crumbles, and that weird thing pops out from inside!"
+msgstr "¡¿Pueden creerlo?! ¡Miltia se desmorona y esa cosa rara sale de adentro!"
+
+#. habla: Maximilian
+#, fuzzy
+msgctxt "#77"
+msgid "This ain't the time for us to be worrying about work!"
+msgstr "¡No es momento de preocuparnos por el trabajo!"
+
+#. habla: Henry
+#, fuzzy
+msgctxt "#78"
+msgid "I asked Dad to let me watch him work, but it's so boring!"
+msgstr "Le pedí a papá que me dejara verlo trabajar, ¡pero es muy aburrido!"
+
+#. habla: Henry
+#, fuzzy
+msgctxt "#79"
+msgid "I actually wanted him to take me to a toy store. "
+msgstr "En realidad, quería que me llevara a una juguetería."
+
+#. habla: Woody
+#, fuzzy
+msgctxt "#80"
+msgid "Oh, me? I'm here to pick up materials for a new anti-Gnosis weapon, but man, how long do they plan on making me wait?"
+msgstr "¿Ah, yo? Vine a buscar materiales para una nueva arma anti-Gnosis, pero, caramba, ¿cuánto piensan hacerme esperar?"
+
+#. habla: Woody
+#, fuzzy
+msgctxt "#81"
+msgid "Dammit! A weird droid appeared and ruined all my materials! Oh yeah, it left this behind."
+msgstr "¡Maldición! ¡Apareció un droide raro y me arruinó todos los materiales! Ah, sí, dejó esto."
+
+#, fuzzy
+msgctxt "#82"
+msgid "You obtained ZAZA's Clue 1!"
+msgstr "¡Obtuviste la Pista de ZAZA 1!"
+
+#. habla: Woody
+#, fuzzy
+msgctxt "#83"
+msgid "That was your droid? Don't let a piece of junk like that roam around loose!"
+msgstr "¿Ese droide era suyo? ¡No dejen que un cacharro así ande suelto!"
+
+#. habla: Woody
+#, fuzzy
+msgctxt "#84"
+msgid "What? The droid? I think it said it was going to the Foundation."
+msgstr "¿Qué? ¿El droide? Creo que dijo que iba a la Fundación."
+
+#. habla: Woody
+#, fuzzy
+msgctxt "#85"
+msgid "Don't let a piece of junk like that roam around loose!"
+msgstr "¡No dejen que un cacharro así ande suelto!"
+
+#. habla: Woody
+#, fuzzy
+msgctxt "#86"
+msgid "Hey! Did you find that pile of junk?"
+msgstr "¡Oigan! ¿Encontraron ese montón de chatarra?"
+
+#. habla: Woody
+#, fuzzy
+msgctxt "#87"
+msgid "That oversized garbage can ruined my materials! They have to make them over again. Now it's going to take even more time!"
+msgstr "¡Ese montón de chatarra con patas me arruinó los materiales! Los tienen que hacer de nuevo. ¡Ahora va a tardar todavía más!"
+
+#. habla: Allen
+#, fuzzy
+msgctxt "#88"
+msgid "Chief, wait up!"
+msgstr "¡Jefa, espera!"
+
+#. habla: Shion
+#, fuzzy
+msgctxt "#89"
+msgid "Allen?"
+msgstr "¿Allen?"
+
+#. habla: Allen
+#, fuzzy
+msgctxt "#90"
+msgid "I went ahead and ordered the equipment from Third Division. They asked what we intended to do with it, so I explained it to them."
+msgstr "Me adelanté y pedí el equipo a la Tercera División. Me preguntaron para qué lo queríamos, así que se los expliqué."
+
+#. habla: Shion
+#, fuzzy
+msgctxt "#91"
+msgid "Hey! Didn't I tell you I'd go myself?"
+msgstr "¡Oye! ¿No te dije que iba a ir yo misma?"
+
+#. habla: Allen
+#, fuzzy
+msgctxt "#92"
+msgid "It's all right. By the time Third Division arrives, our work should be complete."
+msgstr "No hay problema. Para cuando llegue la Tercera División, ya deberíamos haber terminado."
+
+#. habla: Shion
+#, fuzzy
+msgctxt "#93"
+msgid "Allen..."
+msgstr "Allen..."
+
+#. habla: Allen
+#, fuzzy
+msgctxt "#94"
+msgid "Please don't say you'll go by yourself. I'll go with you. "
+msgstr "Por favor, no digas que vas a ir sola. Voy contigo."
+
+#. habla: Shion
+#, fuzzy
+msgctxt "#95"
+msgid "All right. Let's hurry!"
+msgstr "Está bien. ¡Démonos prisa!"

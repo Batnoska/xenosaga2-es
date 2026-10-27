@@ -1,0 +1,689 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Xenosaga Episode II - traducción al español\n"
+"Language: es_419\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Xeno-Source: raiz:ejecutable\n"
+
+#. máximo 23 bytes
+#, fuzzy
+msgctxt "0x19e0f0/23"
+msgid "Checking disc..."
+msgstr "Leyendo el disco..."
+
+#. máximo 5 bytes
+#, fuzzy
+msgctxt "0x1988c5/5"
+msgid "Pause"
+msgstr "Pausa"
+
+#. máximo 29 bytes
+#, fuzzy
+msgctxt "0x198962/29"
+msgid " button: Skip and proceed"
+msgstr ": Saltar y continuar"
+
+#. máximo 26 bytes
+#, fuzzy
+msgctxt "0x198985/26"
+msgid "START button: Cancel Pause"
+msgstr "START: Quitar la pausa"
+
+#. máximo 135 bytes
+#, fuzzy
+msgctxt "0x2cd9a8/135"
+msgid ""
+"Path No. 01 achievement level. ♪\n"
+"Gray = In Progress   Blue = Success   Red = Failed\n"
+"Press &03 for details. Press &04 to go back."
+msgstr ""
+"Ruta n.º 01: nivel de logro. ♪\n"
+"Gris = Pendiente   Azul = Lograda   Rojo = Fallida\n"
+"&03: detalles. &04: volver."
+
+#. máximo 15 bytes
+#, fuzzy
+msgctxt "0x56ba10/15"
+msgid "Total Exp"
+msgstr "EXP total"
+
+#. máximo 15 bytes
+#, fuzzy
+msgctxt "0x56ba20/15"
+msgid "  Category"
+msgstr "  Tipo"
+
+#. máximo 15 bytes
+#, fuzzy
+msgctxt "0x56ba30/15"
+msgid "  Normal Attack"
+msgstr "  Ataque normal"
+
+#. máximo 15 bytes
+#, fuzzy
+msgctxt "0x56ba40/15"
+msgid "  Single"
+msgstr "  Individual"
+
+#. máximo 15 bytes
+#, fuzzy
+msgctxt "0x56ba50/15"
+msgid "  Command"
+msgstr "  Comando"
+
+#. máximo 23 bytes
+#, fuzzy
+msgctxt "0x56ba70/23"
+msgid "  Special Attack"
+msgstr "  Ataque especial"
+
+#. máximo 15 bytes
+#, fuzzy
+msgctxt "0x56ba88/15"
+msgid "  Double"
+msgstr "  Doble"
+
+#. máximo 15 bytes
+#, fuzzy
+msgctxt "0x56ba98/15"
+msgid "  Charge"
+msgstr "  Carga"
+
+#. máximo 15 bytes
+#, fuzzy
+msgctxt "0x56baa8/15"
+msgid "  Partner"
+msgstr "  Aliado"
+
+#. máximo 15 bytes
+#, fuzzy
+msgctxt "0x56bab8/15"
+msgid "  Details"
+msgstr "  Detalles"
+
+#. máximo 15 bytes
+#, fuzzy
+msgctxt "0x56bad8/15"
+msgid "Attribute"
+msgstr "Atributo"
+
+#. máximo 15 bytes
+#, fuzzy
+msgctxt "0x56bae8/15"
+msgid "Condition"
+msgstr "Estado"
+
+#. máximo 15 bytes
+#, fuzzy
+msgctxt "0x56baf8/15"
+msgid "Class Lv"
+msgstr "Nv. clase"
+
+#. máximo 15 bytes
+#, fuzzy
+msgctxt "0x56bb08/15"
+msgid "Learned S :"
+msgstr "Hab. apr. :"
+
+#. máximo 15 bytes
+#, fuzzy
+msgctxt "0x56bb18/15"
+msgid "  License"
+msgstr "  Licencia"
+
+#. máximo 15 bytes
+#, fuzzy
+msgctxt "0x56bb28/15"
+msgid "  Configuration"
+msgstr "  Opciones"
+
+#. máximo 15 bytes
+#, fuzzy
+msgctxt "0x56bb38/15"
+msgid "  Instruction"
+msgstr "  Instrucciones"
+
+#. máximo 24 bytes
+#, fuzzy
+msgctxt "0x56bb48/24"
+msgid "  Controller"
+msgstr "  Control"
+
+#. máximo 87 bytes
+#, fuzzy
+msgctxt "0x56bf80/87"
+msgid ""
+"Look at your achievements. ♪\n"
+"Press &03 to view achievements.\n"
+"Press &04 to go back."
+msgstr ""
+"Mira tus logros. ♪\n"
+"Presiona &03 para ver los logros.\n"
+"Presiona &04 para volver."
+
+#. máximo 15 bytes
+#, fuzzy
+msgctxt "0x56c038/15"
+msgid "Location"
+msgstr "Lugar"
+
+#. máximo 15 bytes
+#, fuzzy
+msgctxt "0x56c0d0/15"
+msgid "NO  DATA"
+msgstr "LIBRE"
+
+#. máximo 79 bytes
+#, fuzzy
+msgctxt "0x56c128/79"
+msgid ""
+"Find out who you've met. ♪\n"
+"Press &03 to view profiles.\n"
+"Press &04 to go back."
+msgstr ""
+"Mira a quién conociste. ♪\n"
+"&03: ver perfiles.\n"
+"&04: volver."
+
+#. máximo 74 bytes
+#, fuzzy
+msgctxt "0x56c178/74"
+msgid ""
+"Use the L1 and R1 buttons to switch pages.\n"
+"Press &04 to go back."
+msgstr ""
+"Cambia de página con los botones L1 y R1.\n"
+"Presiona &04 para volver."
+
+#. máximo 111 bytes
+#, fuzzy
+msgctxt "0x56c258/111"
+msgid ""
+"Scroll with the directional buttons or the left analog stick.\n"
+"Press &03 for details. Press &04 to go back."
+msgstr ""
+"Muévete con los botones de dirección o el stick izquierdo.\n"
+"&03: ver detalles. &04: volver."
+
+#. máximo 15 bytes
+#, fuzzy
+msgctxt "0x56c3a0/15"
+msgid "NO  DATA"
+msgstr "LIBRE"
+
+#. máximo 15 bytes
+#, fuzzy
+msgctxt "0x56c3b0/15"
+msgid "Location"
+msgstr "Lugar"
+
+#. máximo 15 bytes
+#, fuzzy
+msgctxt "0x56c3c0/15"
+msgid "Treasure"
+msgstr "Tesoro"
+
+#. máximo 15 bytes
+#, fuzzy
+msgctxt "0x56c3d0/15"
+msgid "Explanation"
+msgstr "Detalles"
+
+#. máximo 71 bytes
+#, fuzzy
+msgctxt "0x56c448/71"
+msgid ""
+"Use the L1 and R1 buttons to switch pages.\n"
+"Press &04 to go back."
+msgstr ""
+"Cambia de página con los botones L1 y R1.\n"
+"Presiona &04 para volver."
+
+#. máximo 15 bytes
+#, fuzzy
+msgctxt "0x56c4e0/15"
+msgid "ClearTime"
+msgstr "Tiempo"
+
+#. máximo 15 bytes
+#, fuzzy
+msgctxt "0x56c500/15"
+msgid "EXPLANATION"
+msgstr "DETALLES"
+
+#. máximo 15 bytes
+#, fuzzy
+msgctxt "0x56c678/15"
+msgid "Saving..."
+msgstr "Guardando..."
+
+#. máximo 15 bytes
+#, fuzzy
+msgctxt "0x56c688/15"
+msgid "  Select"
+msgstr "  Elegir"
+
+#. máximo 15 bytes
+#, fuzzy
+msgctxt "0x56c800/15"
+msgid "  Configuration"
+msgstr "  Opciones"
+
+#. máximo 23 bytes
+#, fuzzy
+msgctxt "0x56e3d8/23"
+msgid "Remaining Debt: "
+msgstr "Deuda restante:"
+
+#. máximo 23 bytes
+#, fuzzy
+msgctxt "0x56e430/23"
+msgid "No items to sell."
+msgstr "Nada para vender."
+
+#. máximo 16 bytes
+msgctxt "0x56e49f/16"
+msgid "@$xx0,20;"
+msgstr ""
+
+#. máximo 15 bytes
+#, fuzzy
+msgctxt "0x56e4c0/15"
+msgid "Acquired "
+msgstr "Obtenido:"
+
+#. máximo 7 bytes
+#, fuzzy
+msgctxt "0x57e530/7"
+msgid "  Map"
+msgstr "  Mapa"
+
+#. máximo 7 bytes
+msgctxt "0x57e548/7"
+msgid "  Extra"
+msgstr ""
+
+#. máximo 7 bytes
+#, fuzzy
+msgctxt "0x57e610/7"
+msgid "Level"
+msgstr "Nivel"
+
+#. máximo 7 bytes
+#, fuzzy
+msgctxt "0x57e618/7"
+msgid "Class"
+msgstr "Clase"
+
+#. máximo 7 bytes
+#, fuzzy
+msgctxt "0x57e620/7"
+msgid "  List"
+msgstr "  Lista"
+
+#. máximo 7 bytes
+#, fuzzy
+msgctxt "0x57e628/7"
+msgid "  Num"
+msgstr "  Cant."
+
+#. máximo 7 bytes
+msgctxt "0x57e630/7"
+msgid "  EP"
+msgstr ""
+
+#. máximo 7 bytes
+msgctxt "0x57e638/7"
+msgid "Pow"
+msgstr ""
+
+#. máximo 7 bytes
+msgctxt "0x57e640/7"
+msgid "Str"
+msgstr ""
+
+#. máximo 7 bytes
+msgctxt "0x57e648/7"
+msgid "Arm"
+msgstr ""
+
+#. máximo 7 bytes
+msgctxt "0x57e650/7"
+msgid "Vit"
+msgstr ""
+
+#. máximo 7 bytes
+msgctxt "0x57e658/7"
+msgid "Dex"
+msgstr ""
+
+#. máximo 7 bytes
+msgctxt "0x57e660/7"
+msgid "Eva"
+msgstr ""
+
+#. máximo 7 bytes
+msgctxt "0x57e668/7"
+msgid "Agl"
+msgstr ""
+
+#. máximo 7 bytes
+msgctxt "0x57e670/7"
+msgid "Eatk"
+msgstr ""
+
+#. máximo 7 bytes
+msgctxt "0x57e678/7"
+msgid "Edef"
+msgstr ""
+
+#. máximo 7 bytes
+#, fuzzy
+msgctxt "0x57e688/7"
+msgid "Next Lv"
+msgstr "Sig. Nv"
+
+#. máximo 7 bytes
+#, fuzzy
+msgctxt "0x57e690/7"
+msgid "  Equip"
+msgstr "Equipar"
+
+#. máximo 7 bytes
+#, fuzzy
+msgctxt "0x57e698/7"
+msgid " Sort"
+msgstr " Orden"
+
+#. máximo 7 bytes
+#, fuzzy
+msgctxt "0x57e6a0/7"
+msgid "  Name"
+msgstr "Nombre"
+
+#. máximo 7 bytes
+#, fuzzy
+msgctxt "0x57e6b0/7"
+msgid "Command"
+msgstr "Comando"
+
+#. máximo 7 bytes
+#, fuzzy
+msgctxt "0x57e6b8/7"
+msgid "Target"
+msgstr "Blanco"
+
+#. máximo 7 bytes
+#, fuzzy
+msgctxt "0x57e6c0/7"
+msgid "Zone"
+msgstr "Zona"
+
+#. máximo 7 bytes
+#, fuzzy
+msgctxt "0x57e6c8/7"
+msgid "Type"
+msgstr "Tipo"
+
+#. máximo 7 bytes
+#, fuzzy
+msgctxt "0x57e6d0/7"
+msgid "Range"
+msgstr "Rango"
+
+#. máximo 7 bytes
+#, fuzzy
+msgctxt "0x57e6d8/7"
+msgid "Effect"
+msgstr "Efecto"
+
+#. máximo 7 bytes
+#, fuzzy
+msgctxt "0x57e6f0/7"
+msgid "Partner"
+msgstr "Aliado"
+
+#. máximo 7 bytes
+#, fuzzy
+msgctxt "0x57e6f8/7"
+msgid "Copilot"
+msgstr "Copil."
+
+#. máximo 7 bytes
+#, fuzzy
+msgctxt "0x57e700/7"
+msgid "None"
+msgstr "Nada"
+
+#. máximo 7 bytes
+#, fuzzy
+msgctxt "0x57e708/7"
+msgid "Charge"
+msgstr "Carga"
+
+#. máximo 7 bytes
+#, fuzzy
+msgctxt "0x57e710/7"
+msgid "C.Pt :"
+msgstr "PC :"
+
+#. máximo 7 bytes
+#, fuzzy
+msgctxt "0x57e718/7"
+msgid "S.Pt :"
+msgstr "PH :"
+
+#. máximo 7 bytes
+#, fuzzy
+msgctxt "0x57e720/7"
+msgid "  C.Pt"
+msgstr "  PC"
+
+#. máximo 7 bytes
+#, fuzzy
+msgctxt "0x57e728/7"
+msgid "  S.Pt"
+msgstr "  PH"
+
+#. máximo 7 bytes
+#, fuzzy
+msgctxt "0x57e730/7"
+msgid "  Route"
+msgstr "  Ruta"
+
+#. máximo 7 bytes
+msgctxt "0x57e738/7"
+msgid "PASS"
+msgstr ""
+
+#. máximo 7 bytes
+#, fuzzy
+msgctxt "0x57e740/7"
+msgid "  Time"
+msgstr "Tiempo"
+
+#. máximo 7 bytes
+#, fuzzy
+msgctxt "0x57e748/7"
+msgid "Canaan"
+msgstr "Canaan"
+
+#. máximo 7 bytes
+#, fuzzy
+msgctxt "0x57e838/7"
+msgid "Subject"
+msgstr "Asunto"
+
+#. máximo 7 bytes
+#, fuzzy
+msgctxt "0x57e840/7"
+msgid "Message"
+msgstr "Mensaje"
+
+#. máximo 7 bytes
+#, fuzzy
+msgctxt "0x57e848/7"
+msgid "Client"
+msgstr "Cliente"
+
+#. máximo 7 bytes
+#, fuzzy
+msgctxt "0x57e850/7"
+msgid "Data"
+msgstr "Datos"
+
+#. máximo 7 bytes
+#, fuzzy
+msgctxt "0x57e858/7"
+msgid "Profile"
+msgstr "Perfil"
+
+#. máximo 7 bytes
+#, fuzzy
+msgctxt "0x57e860/7"
+msgid "Name:"
+msgstr "Nom.:"
+
+#. máximo 7 bytes
+#, fuzzy
+msgctxt "0x57e868/7"
+msgid "Sex:"
+msgstr "Sexo:"
+
+#. máximo 7 bytes
+#, fuzzy
+msgctxt "0x57e870/7"
+msgid "Age:"
+msgstr "Edad:"
+
+#. máximo 7 bytes
+#, fuzzy
+msgctxt "0x57e878/7"
+msgid "Hobby:"
+msgstr "Hobby:"
+
+#. máximo 7 bytes
+#, fuzzy
+msgctxt "0x57e8c8/7"
+msgid "NO DATA"
+msgstr "LIBRE"
+
+#. máximo 7 bytes
+#, fuzzy
+msgctxt "0x57e8d0/7"
+msgid "Address"
+msgstr "Direcc."
+
+#. máximo 7 bytes
+#, fuzzy
+msgctxt "0x57e8d8/7"
+msgid "Decoder"
+msgstr "Decod."
+
+#. máximo 7 bytes
+#, fuzzy
+msgctxt "0x57e938/7"
+msgid "RESULT"
+msgstr "RESUMEN"
+
+#. máximo 15 bytes
+#, fuzzy
+msgctxt "0x57e940/15"
+msgid "STATUS"
+msgstr "ESTADO"
+
+#. máximo 7 bytes
+#, fuzzy
+msgctxt "0x57e950/7"
+msgid "W ETHER"
+msgstr "ETER x2"
+
+#. máximo 7 bytes
+#, fuzzy
+msgctxt "0x57e958/7"
+msgid "SPECIAL"
+msgstr "TECNICA"
+
+#. máximo 7 bytes
+#, fuzzy
+msgctxt "0x57e960/7"
+msgid "DOUBLE"
+msgstr "DOBLE"
+
+#. máximo 7 bytes
+#, fuzzy
+msgctxt "0x57e968/7"
+msgid "ITEM"
+msgstr "OBJETO"
+
+#. máximo 7 bytes
+#, fuzzy
+msgctxt "0x57e970/7"
+msgid "ETHER"
+msgstr "ETER"
+
+#. máximo 7 bytes
+#, fuzzy
+msgctxt "0x57e9a8/7"
+msgid "ANALYZE"
+msgstr "ANALIZA"
+
+#. máximo 7 bytes
+msgctxt "0x57e9b0/7"
+msgid "HP"
+msgstr ""
+
+#. máximo 7 bytes
+#, fuzzy
+msgctxt "0x57e9b8/7"
+msgid "W.ATK."
+msgstr "DEB.ATQ"
+
+#. máximo 7 bytes
+#, fuzzy
+msgctxt "0x57e9c0/7"
+msgid "W.ATR."
+msgstr "DEB.ATR"
+
+#. máximo 7 bytes
+msgctxt "0x57e9c8/7"
+msgid "EXP"
+msgstr ""
+
+#. máximo 7 bytes
+#, fuzzy
+msgctxt "0x57e9d0/7"
+msgid "S.Pt"
+msgstr "PH"
+
+#. máximo 7 bytes
+#, fuzzy
+msgctxt "0x57e9d8/7"
+msgid "C.Pt"
+msgstr "PC"
+
+#. máximo 7 bytes
+#, fuzzy
+msgctxt "0x57e9e0/7"
+msgid "RARE"
+msgstr "RARO"
+
+#. máximo 7 bytes
+#, fuzzy
+msgctxt "0x57ea58/7"
+msgid "/ Lv "
+msgstr "/ Nv "
+
+#. máximo 7 bytes
+#, fuzzy
+msgctxt "0x57ea60/7"
+msgid "Time  /"
+msgstr "Tiempo/"
+
+#. máximo 15 bytes
+#, fuzzy
+msgctxt "0x57ea70/15"
+msgid "NO DATA"
+msgstr "LIBRE"

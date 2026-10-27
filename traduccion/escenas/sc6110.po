@@ -1,0 +1,138 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Xenosaga Episode II - traducción al español\n"
+"Language: es_419\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Xeno-Source: 0:cf/en/sc6110.sbl\n"
+
+#. habla: Professor
+#, fuzzy
+msgctxt "#7"
+msgid "I finally have you cornered, Dark Professor!"
+msgstr "¡Por fin te tengo acorralado, Profesor Oscuro!"
+
+#. habla: Dark Professor
+#, fuzzy
+msgctxt "#8"
+msgid "You're late! What took you so long? I've been waiting for you!"
+msgstr "¡Llegas tarde! ¿Por qué tardaste tanto? ¡Te estuve esperando!"
+
+#. habla: Professor
+#, fuzzy
+msgctxt "#9"
+msgid "I heard you've completed the ultimate evil giant robot. "
+msgstr "Oí que terminaste el robot gigante más malvado de todos."
+
+#. habla: Dark Professor
+#, fuzzy
+msgctxt "#10"
+msgid "Indeed, I have! Together with this Dark Erde Kaiser, I shall conquer the Encephalon! Once I have conquered the Encephalon, all humans who come in contact with the U.M.N. will be under my command! Hahaha!"
+msgstr "¡Así es! ¡Con este Dark Erde Kaiser conquistaré el Encéfalo! ¡Y cuando haya conquistado el Encéfalo, todos los humanos que entren en contacto con la U.M.N. estarán bajo mis órdenes! ¡Jajaja!"
+
+#. habla: Professor
+#, fuzzy
+msgctxt "#11"
+msgid "I won't let you get away with this! I have assembled a group of comrades who will destroy your evil ambitions! How dare you even think of using virtual space to control people!...Please, return to your old, nice self."
+msgstr "¡No dejaré que te salgas con la tuya! ¡Reuní a un grupo de camaradas que destruirán tus malvadas ambiciones! ¡¿Cómo te atreves siquiera a pensar en usar el espacio virtual para controlar a la gente?!... Por favor, vuelve a ser el buen amigo de antes."
+
+#. habla: Dark Professor
+#, fuzzy
+msgctxt "#12"
+msgid "No! Never! The time has come to see which of us is the smartest! The strongest! The snappiest dresser!"
+msgstr "¡No! ¡Jamás! ¡Llegó la hora de ver quién de los dos es el más listo! ¡El más fuerte! ¡El que mejor se viste!"
+
+#. habla: Professor
+#, fuzzy
+msgctxt "#13"
+msgid "So, the Dark I once knew is dead. Well then! Feel the iron hammer of justice!"
+msgstr "Entonces, el Dark que conocí está muerto. ¡Pues bien! ¡Siente el martillo de hierro de la justicia!"
+
+#. habla: Dark Professor
+#, fuzzy
+msgctxt "#14"
+msgid "Ohhhh! I shouldn't have expected any less from you, Haksheen!"
+msgstr "¡Ohhhh! ¡No esperaba menos de ti, Haksheen!"
+
+#. habla: Professor
+#, fuzzy
+msgctxt "#15"
+msgid "!!"
+msgstr "¡¡!!"
+
+#. habla: Dark Professor
+#, fuzzy
+msgctxt "#16"
+msgid "Yes, it's always been like this. You are always one step ahead of me. I thought that if I sacrificed myself to reveal the danger of the Forbidden Devices, you would see that you should leave them alone. After all, I am a scientist, as well. If your curiosity had continued and gotten the best of you, sooner or later, you might have followed the same path I did."
+msgstr "Sí, siempre fue así. Siempre estás un paso delante de mí. Pensé que si me sacrificaba para revelar el peligro de los Dispositivos Prohibidos, entenderías que debías dejarlos en paz. Después de todo, yo también soy científico. Si tu curiosidad hubiera seguido creciendo hasta dominarte, tarde o temprano podrías haber seguido el mismo camino que yo."
+
+#. habla: Professor
+#, fuzzy
+msgctxt "#17"
+msgid "Don't tell me you did this for me?!"
+msgstr "¡¿No me digas que hiciste esto por mí?!"
+
+#. habla: Dark Professor
+#, fuzzy
+msgctxt "#18"
+msgid "Just kidding!"
+msgstr "¡Era broma!"
+
+#. habla: Dark Professor
+#, fuzzy
+msgctxt "#19"
+msgid ""
+"Do you really think that's why I challenged you?! Everything I did was done with one singular purpose in mind―to destroy you!\n"
+"...\n"
+"...\n"
+"I'll admit my defeat, but don't think it's over! Know that there is an enemy much stronger than my Dark Erde Kaiser!"
+msgstr ""
+"¡¿De verdad crees que por eso te desafié?! ¡Todo lo que hice lo hice con un único propósito―destruirte!\n"
+"...\n"
+"...\n"
+"Admito mi derrota, ¡pero no creas que esto termina aquí! ¡Que sepas que hay un enemigo mucho más fuerte que mi Dark Erde Kaiser!"
+
+#. habla: Professor
+#, fuzzy
+msgctxt "#20"
+msgid "An enemy?! What are you talking about?"
+msgstr "¡¿Un enemigo?! ¿De qué hablas?"
+
+#. habla: Dark Professor
+#, fuzzy
+msgctxt "#21"
+msgid "I know from my research that enemies much stronger than my Dark Erde Kaiser are hiding in the Desert and Old Miltia! Will you be able to defeat them? Ha ha ha ha ha!"
+msgstr "¡Sé por mis investigaciones que en el Desierto y en la Antigua Miltia se esconden enemigos mucho más fuertes que mi Dark Erde Kaiser! ¿Podrás derrotarlos? ¡Ja, ja, ja, ja, ja!"
+
+#. habla: Professor
+#, fuzzy
+msgctxt "#22"
+msgid "What?! Wait! What do you mean by that? What is in the Desert and Old Miltia?!"
+msgstr "¡¿Qué?! ¡Espera! ¿Qué quieres decir? ¡¿Qué hay en el Desierto y en la Antigua Miltia?!"
+
+#. habla: Dark Professor
+#, fuzzy
+msgctxt "#23"
+msgid "Find out for yourself! Now, farewell!"
+msgstr "¡Averígualo tú mismo! ¡Ahora, adiós!"
+
+#, fuzzy
+msgctxt "#24"
+msgid "Forbidden Device initialization complete. Dive out and return to the desert?"
+msgstr "Inicialización del Dispositivo Prohibido completa. ¿Salir de la inmersión y volver al desierto?"
+
+#. Opciones: una por línea. Mantener 2 líneas en el mismo orden.
+#, fuzzy
+msgctxt "#25"
+msgid ""
+"Yes\n"
+"No"
+msgstr ""
+"Sí\n"
+"No"
+
+#, fuzzy
+msgctxt "#26"
+msgid "Canceling dive-out."
+msgstr "Se canceló la salida de la inmersión."

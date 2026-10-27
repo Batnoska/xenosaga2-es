@@ -1,0 +1,112 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Xenosaga Episode II - traducción al español\n"
+"Language: es_419\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Xeno-Source: 0:cf/en/sc8053.sbl\n"
+"X-Xeno-Tipo: cinematica\n"
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#10"
+msgid "Helmer. I'm sorry. We let them get ahead of us."
+msgstr ""
+"Helmer. Lo siento. Dejamos que\n"
+"nos tomaran la delantera."
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#11"
+msgid ""
+"It's all right. It's more important that you're safe.\n"
+"I'm glad you made it back."
+msgstr ""
+"Está bien. Lo importante es que estén\n"
+"a salvo. Me alegra que hayan vuelto."
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#12"
+msgid "So, what's the situation now?"
+msgstr "¿Y cuál es la situación ahora?"
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#13"
+msgid ""
+"I'm afraid the news is grim. It seems\n"
+"the Parliament's been thrown\n"
+"into complete disarray."
+msgstr ""
+"Me temo que las noticias son malas.\n"
+"Parece que el Parlamento quedó\n"
+"sumido en un caos total."
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#14"
+msgid ""
+"What's going on with the Federation\n"
+"fleet? Don't tell me they're just\n"
+"standing around watching?"
+msgstr ""
+"¿Y la flota de la Federación? No me digas\n"
+"que se quedan de brazos cruzados."
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#15"
+msgid ""
+"No, they've already been deployed\n"
+"on a descent mission, but it's too late."
+msgstr ""
+"No, ya la desplegaron en una misión\n"
+"de descenso, pero es demasiado tarde."
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#16"
+msgid ""
+"As long as the possibility exists that the enemy\n"
+"already has the Zohar, the Federation can't\n"
+"make any large-scale overtures."
+msgstr ""
+"Mientras sea posible que el enemigo ya\n"
+"tenga el Zohar, la Federación no puede\n"
+"hacer movimientos a gran escala."
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#17"
+msgid "So I guess it's up to us now."
+msgstr "Así que supongo que ahora depende de nosotros."
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#18"
+msgid "I'm acutely aware of the danger,"
+msgstr "Soy muy consciente del peligro,"
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#19"
+msgid ""
+"but there's no one else we can turn\n"
+"to right now. Please lend us your aid."
+msgstr ""
+"pero ahora no hay nadie más a quien\n"
+"recurrir. Por favor, préstennos su ayuda."
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#20"
+msgid "All right."
+msgstr "De acuerdo."
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#21"
+msgid "We'll get the Zohar. You can count on it."
+msgstr "Conseguiremos el Zohar. Cuenta con eso."

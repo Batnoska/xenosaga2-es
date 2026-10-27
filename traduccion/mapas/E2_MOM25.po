@@ -1,0 +1,122 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Xenosaga Episode II - traducción al español\n"
+"Language: es_419\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Xeno-Source: 0:model/map/en/E2_MOM25.sbl\n"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#0"
+msgid "$zoom13;Leap Attack (Slash/L Poison)"
+msgstr "$zoom13;Ataque en salto (Corte/Veneno L)"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#1"
+msgid "$zoom13;Charge (Strike)"
+msgstr "$zoom13;Embestida (Golpe)"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#2"
+msgid "$col7AF9FB;$zoom15;I loathe your beauty."
+msgstr "$col7AF9FB;$zoom15;Aborrezco tu belleza."
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#3"
+msgid "$col7AF9FB;$zoom15;I loathe your strength."
+msgstr "$col7AF9FB;$zoom15;Aborrezco tu fuerza."
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#4"
+msgid "$col7AF9FB;$zoom15;I loathe your charm."
+msgstr "$col7AF9FB;$zoom15;Aborrezco tu encanto."
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#5"
+msgid "$zoom13;Piercing Gaze (Thunder)"
+msgstr "$zoom13;Mirada penetrante (Rayo)"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#6"
+msgid "$zoom13;Salem's Tear (L Weak)"
+msgstr "$zoom13;Lágrima de Salem (Debilidad L)"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#7"
+msgid "$zoom13;Salem's Tear (L Slow)"
+msgstr "$zoom13;Lágrima de Salem (Lentitud L)"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#8"
+msgid "$col7AF9FB;$zoom15;Overload (strength down)."
+msgstr "$col7AF9FB;$zoom15;Sobrecarga (fuerza reducida)."
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#9"
+msgid "$zoom13;Enforcement (Slash)"
+msgstr "$zoom13;Ejecución (Corte)"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#10"
+msgid "$zoom13;Jack Ketch is a Killer (Slash)"
+msgstr "$zoom13;Jack Ketch es un asesino (Corte)"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#11"
+msgid "$zoom13;Power Enhancement"
+msgstr "$zoom13;Mejora de poder"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#12"
+msgid "$zoom13;First Horn (Strike)"
+msgstr "$zoom13;Primer cuerno (Golpe)"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#13"
+msgid "$col7AF9FB;$zoom15;Increased attack power of all allies!"
+msgstr "$col7AF9FB;$zoom15;¡Aumentó el poder de ataque de todos los aliados!"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#14"
+msgid "$zoom13;Second Horn"
+msgstr "$zoom13;Segundo cuerno"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#15"
+msgid "$zoom13;Third Horn (L Poison)"
+msgstr "$zoom13;Tercer cuerno (Veneno L)"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#16"
+msgid "$zoom13;Full Throttle (Fire)"
+msgstr "$zoom13;A toda máquina (Fuego)"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#17"
+msgid "$zoom13;Proof of Friendship (Fire)"
+msgstr "$zoom13;Prueba de amistad (Fuego)"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#18"
+msgid "$zoom13;Boost Present"
+msgstr "$zoom13;Regalo de Boost"

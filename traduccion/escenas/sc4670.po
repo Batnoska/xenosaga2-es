@@ -1,0 +1,32 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Xenosaga Episode II - traducción al español\n"
+"Language: es_419\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Xeno-Source: 0:cf/en/sc4670.sbl\n"
+
+#, fuzzy
+msgctxt "#3"
+msgid ""
+"Knock the stacks of blocks over to form a bridge.\n"
+"WARNING: Once a stack of blocks has been knocked over, the blocks cannot be moved again."
+msgstr ""
+"Derriba las pilas de bloques para formar un puente.\n"
+"ADVERTENCIA: una vez derribada una pila de bloques, los bloques no se pueden volver a mover."
+
+#, fuzzy
+msgctxt "#4"
+msgid "Reset the blocks?"
+msgstr "¿Reiniciar los bloques?"
+
+#. Opciones: una por línea. Mantener 2 líneas en el mismo orden.
+#, fuzzy
+msgctxt "#5"
+msgid ""
+"Yes\n"
+"No"
+msgstr ""
+"Sí\n"
+"No"

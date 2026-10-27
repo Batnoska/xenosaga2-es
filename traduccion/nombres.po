@@ -1,0 +1,1953 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Xenosaga Episode II - traducción al español\n"
+"Language: es_419\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Xeno-Source: nombres\n"
+
+#. aparece 6 veces
+msgctxt "ABDOUGH"
+msgid "ABDOUGH"
+msgstr ""
+
+#. aparece 38 veces
+msgctxt "ADONIS"
+msgid "ADONIS"
+msgstr ""
+
+#. aparece 13 veces
+msgctxt "AWAMORI"
+msgid "AWAMORI"
+msgstr ""
+
+#. aparece 8 veces
+msgctxt "Adel"
+msgid "Adel"
+msgstr ""
+
+#. aparece 13 veces
+msgctxt "Adelaide"
+msgid "Adelaide"
+msgstr ""
+
+#. aparece 26 veces
+#, fuzzy
+msgctxt "Agent Bunnie"
+msgid "Agent Bunnie"
+msgstr "Agente Bunnie"
+
+#. aparece 5 veces
+msgctxt "Agnese"
+msgid "Agnese"
+msgstr ""
+
+#. aparece 8 veces
+msgctxt "Alexey"
+msgid "Alexey"
+msgstr ""
+
+#. aparece 37 veces
+msgctxt "Allen"
+msgid "Allen"
+msgstr ""
+
+#. aparece 3 veces
+msgctxt "Alois"
+msgid "Alois"
+msgstr ""
+
+#. aparece 7 veces
+msgctxt "Althea"
+msgid "Althea"
+msgstr ""
+
+#. aparece 8 veces
+msgctxt "Amarante"
+msgid "Amarante"
+msgstr ""
+
+#. aparece 17 veces
+msgctxt "Amber"
+msgid "Amber"
+msgstr ""
+
+#. aparece 15 veces
+msgctxt "Amy"
+msgid "Amy"
+msgstr ""
+
+#. aparece 18 veces
+msgctxt "Anatoly"
+msgid "Anatoly"
+msgstr ""
+
+#. aparece 16 veces
+msgctxt "Angelina"
+msgid "Angelina"
+msgstr ""
+
+#. aparece 14 veces
+msgctxt "Anila"
+msgid "Anila"
+msgstr ""
+
+#. aparece 12 veces
+msgctxt "Annette"
+msgid "Annette"
+msgstr ""
+
+#. aparece 1 veces
+#, fuzzy
+msgctxt "Announcement from Johnny!"
+msgid "Announcement from Johnny!"
+msgstr "¡Anuncio de Johnny!"
+
+#. aparece 3 veces
+msgctxt "Arabella"
+msgid "Arabella"
+msgstr ""
+
+#. aparece 26 veces
+#, fuzzy
+msgctxt "Assistant Scott"
+msgid "Assistant Scott"
+msgstr "Asistente Scott"
+
+#. aparece 17 veces
+msgctxt "Atash"
+msgid "Atash"
+msgstr ""
+
+#. aparece 9 veces
+msgctxt "Augusta"
+msgid "Augusta"
+msgstr ""
+
+#. aparece 8 veces
+msgctxt "Axel"
+msgid "Axel"
+msgstr ""
+
+#. aparece 8 veces
+msgctxt "Beatrix"
+msgid "Beatrix"
+msgstr ""
+
+#. aparece 13 veces
+msgctxt "Benoit"
+msgid "Benoit"
+msgstr ""
+
+#. aparece 2 veces
+msgctxt "Bernard"
+msgid "Bernard"
+msgstr ""
+
+#. aparece 2 veces
+msgctxt "Bertha"
+msgid "Bertha"
+msgstr ""
+
+#. aparece 19 veces
+msgctxt "Bertram"
+msgid "Bertram"
+msgstr ""
+
+#. aparece 17 veces
+msgctxt "Blazena"
+msgid "Blazena"
+msgstr ""
+
+#. aparece 1 veces
+#, fuzzy
+msgctxt "Blue Container"
+msgid "Blue Container"
+msgstr "Contenedor azul"
+
+#. aparece 9 veces
+msgctxt "Bonanza"
+msgid "Bonanza"
+msgstr ""
+
+#. aparece 24 veces
+msgctxt "Bonny"
+msgid "Bonny"
+msgstr ""
+
+#. aparece 8 veces
+#, fuzzy
+msgctxt "Boss"
+msgid "Boss"
+msgstr "Jefe"
+
+#. aparece 34 veces
+msgctxt "Butch"
+msgid "Butch"
+msgstr ""
+
+#. aparece 1 veces
+#, fuzzy
+msgctxt "Butch's Voice"
+msgid "Butch's Voice"
+msgstr "Voz de Butch"
+
+#. aparece 23 veces
+msgctxt "Buzz"
+msgid "Buzz"
+msgstr ""
+
+#. aparece 7 veces
+msgctxt "CABRILLO"
+msgid "CABRILLO"
+msgstr ""
+
+#. aparece 5 veces
+msgctxt "CAMPARI"
+msgid "CAMPARI"
+msgstr ""
+
+#. aparece 1 veces
+#, fuzzy
+msgctxt "CAUTION"
+msgid "CAUTION"
+msgstr "PRECAUCIÓN"
+
+#. aparece 1 veces
+msgctxt "CINZANO"
+msgid "CINZANO"
+msgstr ""
+
+#. aparece 7 veces
+msgctxt "CORONATION"
+msgid "CORONATION"
+msgstr ""
+
+#. aparece 26 veces
+msgctxt "Caito"
+msgid "Caito"
+msgstr ""
+
+#. aparece 24 veces
+msgctxt "Camille"
+msgid "Camille"
+msgstr ""
+
+#. aparece 36 veces
+msgctxt "Canaan"
+msgid "Canaan"
+msgstr ""
+
+#. aparece 1 veces
+msgctxt "Carl"
+msgid "Carl"
+msgstr ""
+
+#. aparece 25 veces
+msgctxt "Carlos"
+msgid "Carlos"
+msgstr ""
+
+#. aparece 14 veces
+msgctxt "Caroline"
+msgid "Caroline"
+msgstr ""
+
+#. aparece 4 veces
+msgctxt "Chad"
+msgid "Chad"
+msgstr ""
+
+#. aparece 23 veces
+msgctxt "Chop"
+msgid "Chop"
+msgstr ""
+
+#. aparece 22 veces
+msgctxt "Chris"
+msgid "Chris"
+msgstr ""
+
+#. aparece 18 veces
+msgctxt "Ciaran"
+msgid "Ciaran"
+msgstr ""
+
+#. aparece 2 veces
+msgctxt "Clair"
+msgid "Clair"
+msgstr ""
+
+#. aparece 23 veces
+msgctxt "Claudia"
+msgid "Claudia"
+msgstr ""
+
+#. aparece 22 veces
+msgctxt "Clive"
+msgid "Clive"
+msgstr ""
+
+#. aparece 8 veces
+msgctxt "Cody"
+msgid "Cody"
+msgstr ""
+
+#. aparece 3 veces
+msgctxt "Cornelia"
+msgid "Cornelia"
+msgstr ""
+
+#. aparece 16 veces
+msgctxt "Corrine"
+msgid "Corrine"
+msgstr ""
+
+#. aparece 2 veces
+msgctxt "DAIQUIRI"
+msgid "DAIQUIRI"
+msgstr ""
+
+#. aparece 20 veces
+msgctxt "DUBONNET"
+msgid "DUBONNET"
+msgstr ""
+
+#. aparece 2 veces
+msgctxt "Da-Mi"
+msgid "Da-Mi"
+msgstr ""
+
+#. aparece 13 veces
+msgctxt "Danny"
+msgid "Danny"
+msgstr ""
+
+#. aparece 9 veces
+#, fuzzy
+msgctxt "Dark Professor"
+msgid "Dark Professor"
+msgstr "Profesor Oscuro"
+
+#. aparece 2 veces
+msgctxt "Darrel"
+msgid "Darrel"
+msgstr ""
+
+#. aparece 18 veces
+msgctxt "Darren"
+msgid "Darren"
+msgstr ""
+
+#. aparece 7 veces
+msgctxt "Destroy Runner: Revenge"
+msgid "Destroy Runner: Revenge"
+msgstr ""
+
+#. aparece 8 veces
+msgctxt "Diego"
+msgid "Diego"
+msgstr ""
+
+#. aparece 3 veces
+msgctxt "Dominic"
+msgid "Dominic"
+msgstr ""
+
+#. aparece 7 veces
+msgctxt "Donny"
+msgid "Donny"
+msgstr ""
+
+#. aparece 2 veces
+#, fuzzy
+msgctxt "Drama Series Ep. I"
+msgid "Drama Series Ep. I"
+msgstr "Serie dramática Ep. I"
+
+#. aparece 1 veces
+#, fuzzy
+msgctxt "Drama Series Ep. I - Chapter 1"
+msgid "Drama Series Ep. I - Chapter 1"
+msgstr "Serie dramática Ep. I - Capítulo 1"
+
+#. aparece 1 veces
+#, fuzzy
+msgctxt "Drama Series Ep. I - Chapter 2"
+msgid "Drama Series Ep. I - Chapter 2"
+msgstr "Serie dramática Ep. I - Capítulo 2"
+
+#. aparece 1 veces
+#, fuzzy
+msgctxt "Drama Series Ep. I - Chapter 3"
+msgid "Drama Series Ep. I - Chapter 3"
+msgstr "Serie dramática Ep. I - Capítulo 3"
+
+#. aparece 1 veces
+#, fuzzy
+msgctxt "Drama Series Ep. I - Chapter 4"
+msgid "Drama Series Ep. I - Chapter 4"
+msgstr "Serie dramática Ep. I - Capítulo 4"
+
+#. aparece 1 veces
+#, fuzzy
+msgctxt "Drama Series Ep. I - Chapter 5"
+msgid "Drama Series Ep. I - Chapter 5"
+msgstr "Serie dramática Ep. I - Capítulo 5"
+
+#. aparece 1 veces
+#, fuzzy
+msgctxt "Drama Series Ep. I - Chapter 6"
+msgid "Drama Series Ep. I - Chapter 6"
+msgstr "Serie dramática Ep. I - Capítulo 6"
+
+#. aparece 1 veces
+#, fuzzy
+msgctxt "Drama Series Ep. I - Chapter 7"
+msgid "Drama Series Ep. I - Chapter 7"
+msgstr "Serie dramática Ep. I - Capítulo 7"
+
+#. aparece 8 veces
+msgctxt "Dritt"
+msgid "Dritt"
+msgstr ""
+
+#. aparece 3 veces
+msgctxt "Ebert"
+msgid "Ebert"
+msgstr ""
+
+#. aparece 4 veces
+msgctxt "Eckbert"
+msgid "Eckbert"
+msgstr ""
+
+#. aparece 22 veces
+msgctxt "Ed"
+msgid "Ed"
+msgstr ""
+
+#. aparece 19 veces
+msgctxt "Eileen"
+msgid "Eileen"
+msgstr ""
+
+#. aparece 9 veces
+msgctxt "Eina"
+msgid "Eina"
+msgstr ""
+
+#. aparece 3 veces
+msgctxt "Elena"
+msgid "Elena"
+msgstr ""
+
+#. aparece 3 veces
+msgctxt "Elze"
+msgid "Elze"
+msgstr ""
+
+#. aparece 12 veces
+msgctxt "Emelia"
+msgid "Emelia"
+msgstr ""
+
+#. aparece 9 veces
+msgctxt "Emily"
+msgid "Emily"
+msgstr ""
+
+#. aparece 19 veces
+msgctxt "Enid"
+msgid "Enid"
+msgstr ""
+
+#. aparece 16 veces
+msgctxt "Enola"
+msgid "Enola"
+msgstr ""
+
+#. aparece 7 veces
+msgctxt "Enrico"
+msgid "Enrico"
+msgstr ""
+
+#. aparece 16 veces
+msgctxt "Eric"
+msgid "Eric"
+msgstr ""
+
+#. aparece 14 veces
+msgctxt "Ermanno"
+msgid "Ermanno"
+msgstr ""
+
+#. aparece 6 veces
+msgctxt "Erst"
+msgid "Erst"
+msgstr ""
+
+#. aparece 3 veces
+msgctxt "Etsuko"
+msgid "Etsuko"
+msgstr ""
+
+#. aparece 8 veces
+msgctxt "Eugene"
+msgid "Eugene"
+msgstr ""
+
+#. aparece 3 veces
+msgctxt "Farouk"
+msgid "Farouk"
+msgstr ""
+
+#. aparece 14 veces
+msgctxt "Fokker"
+msgid "Fokker"
+msgstr ""
+
+#. aparece 9 veces
+msgctxt "Franklin"
+msgid "Franklin"
+msgstr ""
+
+#. aparece 1 veces
+msgctxt "Freddy"
+msgid "Freddy"
+msgstr ""
+
+#. aparece 13 veces
+msgctxt "GIMLET"
+msgid "GIMLET"
+msgstr ""
+
+#. aparece 6 veces
+msgctxt "GRASSHOPPER"
+msgid "GRASSHOPPER"
+msgstr ""
+
+#. aparece 2 veces
+msgctxt "Gaignun"
+msgid "Gaignun"
+msgstr ""
+
+#. aparece 9 veces
+msgctxt "Gauri"
+msgid "Gauri"
+msgstr ""
+
+#. aparece 3 veces
+msgctxt "Gene"
+msgid "Gene"
+msgstr ""
+
+#. aparece 21 veces
+msgctxt "Ginevra"
+msgid "Ginevra"
+msgstr ""
+
+#. aparece 9 veces
+msgctxt "Gizem"
+msgid "Gizem"
+msgstr ""
+
+#. aparece 23 veces
+msgctxt "Glenn"
+msgid "Glenn"
+msgstr ""
+
+#. aparece 13 veces
+msgctxt "Godfrey"
+msgid "Godfrey"
+msgstr ""
+
+#. aparece 1 veces
+#, fuzzy
+msgctxt "Good News from Lavare!"
+msgid "Good News from Lavare!"
+msgstr "¡Buenas noticias de Lavare!"
+
+#. aparece 1 veces
+#, fuzzy
+msgctxt "Green Container"
+msgid "Green Container"
+msgstr "Contenedor verde"
+
+#. aparece 1 veces
+#, fuzzy
+msgctxt "Grey Container"
+msgid "Grey Container"
+msgstr "Contenedor gris"
+
+#. aparece 4 veces
+msgctxt "Grisham"
+msgid "Grisham"
+msgstr ""
+
+#. aparece 7 veces
+msgctxt "Guttorm"
+msgid "Guttorm"
+msgstr ""
+
+#. aparece 21 veces
+msgctxt "Hammer"
+msgid "Hammer"
+msgstr ""
+
+#. aparece 8 veces
+msgctxt "Hammond"
+msgid "Hammond"
+msgstr ""
+
+#. aparece 24 veces
+msgctxt "Harold"
+msgid "Harold"
+msgstr ""
+
+#. aparece 26 veces
+msgctxt "Harvel"
+msgid "Harvel"
+msgstr ""
+
+#. aparece 1 veces
+msgctxt "Harvey"
+msgid "Harvey"
+msgstr ""
+
+#. aparece 1 veces
+msgctxt "Hayashi"
+msgid "Hayashi"
+msgstr ""
+
+#. aparece 9 veces
+msgctxt "Helmer"
+msgid "Helmer"
+msgstr ""
+
+#. aparece 7 veces
+msgctxt "Henry"
+msgid "Henry"
+msgstr ""
+
+#. aparece 17 veces
+msgctxt "Hirad"
+msgid "Hirad"
+msgstr ""
+
+#. aparece 1 veces
+msgctxt "Hoshino"
+msgid "Hoshino"
+msgstr ""
+
+#. aparece 19 veces
+msgctxt "Hugo"
+msgid "Hugo"
+msgstr ""
+
+#. aparece 19 veces
+#, fuzzy
+msgctxt "Hugo's Memo"
+msgid "Hugo's Memo"
+msgstr "Nota de Hugo"
+
+#. aparece 23 veces
+msgctxt "Ignacy"
+msgid "Ignacy"
+msgstr ""
+
+#. aparece 1 veces
+#, fuzzy
+msgctxt "Important Announcement from Johnny!"
+msgid "Important Announcement from Johnny!"
+msgstr "¡Anuncio importante de Johnny!"
+
+#. aparece 8 veces
+#, fuzzy
+msgctxt "Information"
+msgid "Information"
+msgstr "Información"
+
+#. aparece 16 veces
+msgctxt "Irwin"
+msgid "Irwin"
+msgstr ""
+
+#. aparece 18 veces
+msgctxt "Jacqueline"
+msgid "Jacqueline"
+msgstr ""
+
+#. aparece 22 veces
+msgctxt "Jaimie"
+msgid "Jaimie"
+msgstr ""
+
+#. aparece 16 veces
+msgctxt "Janet"
+msgid "Janet"
+msgstr ""
+
+#. aparece 18 veces
+msgctxt "Jarmil"
+msgid "Jarmil"
+msgstr ""
+
+#. aparece 17 veces
+msgctxt "Jeri"
+msgid "Jeri"
+msgstr ""
+
+#. aparece 22 veces
+msgctxt "Jessica"
+msgid "Jessica"
+msgstr ""
+
+#. aparece 23 veces
+msgctxt "Jin"
+msgid "Jin"
+msgstr ""
+
+#. aparece 3 veces
+msgctxt "Jochen"
+msgid "Jochen"
+msgstr ""
+
+#. aparece 34 veces
+msgctxt "Johnny"
+msgid "Johnny"
+msgstr ""
+
+#. aparece 4 veces
+msgctxt "Josephine"
+msgid "Josephine"
+msgstr ""
+
+#. aparece 9 veces
+msgctxt "Jost"
+msgid "Jost"
+msgstr ""
+
+#. aparece 37 veces
+msgctxt "Jr."
+msgid "Jr."
+msgstr ""
+
+#. aparece 8 veces
+msgctxt "Juli"
+msgid "Juli"
+msgstr ""
+
+#. aparece 24 veces
+msgctxt "Jun"
+msgid "Jun"
+msgstr ""
+
+#. aparece 7 veces
+msgctxt "K-2"
+msgid "K-2"
+msgstr ""
+
+#. aparece 13 veces
+msgctxt "KAMIKAZE"
+msgid "KAMIKAZE"
+msgstr ""
+
+#. aparece 7 veces
+msgctxt "KINGSTON"
+msgid "KINGSTON"
+msgstr ""
+
+#. aparece 7 veces
+msgctxt "KIR"
+msgid "KIR"
+msgstr ""
+
+#. aparece 8 veces
+msgctxt "KOS-MOS"
+msgid "KOS-MOS"
+msgstr ""
+
+#. aparece 5 veces
+msgctxt "Kagari"
+msgid "Kagari"
+msgstr ""
+
+#. aparece 2 veces
+msgctxt "Kali"
+msgid "Kali"
+msgstr ""
+
+#. aparece 18 veces
+msgctxt "Katarzyna"
+msgid "Katarzyna"
+msgstr ""
+
+#. aparece 13 veces
+msgctxt "Kate"
+msgid "Kate"
+msgstr ""
+
+#. aparece 7 veces
+msgctxt "Kenna"
+msgid "Kenna"
+msgstr ""
+
+#. aparece 6 veces
+msgctxt "Kiku"
+msgid "Kiku"
+msgstr ""
+
+#. aparece 15 veces
+msgctxt "King"
+msgid "King"
+msgstr ""
+
+#. aparece 16 veces
+msgctxt "Kino"
+msgid "Kino"
+msgstr ""
+
+#. aparece 23 veces
+msgctxt "Kornei"
+msgid "Kornei"
+msgstr ""
+
+#. aparece 30 veces
+msgctxt "Kramer"
+msgid "Kramer"
+msgstr ""
+
+#. aparece 2 veces
+#, fuzzy
+msgctxt "Kramer's Voice"
+msgid "Kramer's Voice"
+msgstr "Voz de Kramer"
+
+#. aparece 2 veces
+msgctxt "Krzysztof"
+msgid "Krzysztof"
+msgstr ""
+
+#. aparece 9 veces
+msgctxt "Kurt"
+msgid "Kurt"
+msgstr ""
+
+#. aparece 5 veces
+msgctxt "Lamothe"
+msgid "Lamothe"
+msgstr ""
+
+#. aparece 4 veces
+#, fuzzy
+msgctxt "Launch"
+msgid "Launch"
+msgstr "Lanzadera"
+
+#. aparece 15 veces
+msgctxt "Lavinia"
+msgid "Lavinia"
+msgstr ""
+
+#. aparece 18 veces
+msgctxt "Layla"
+msgid "Layla"
+msgstr ""
+
+#. aparece 20 veces
+msgctxt "Lee"
+msgid "Lee"
+msgstr ""
+
+#. aparece 10 veces
+msgctxt "Leo"
+msgid "Leo"
+msgstr ""
+
+#. aparece 1 veces
+#, fuzzy
+msgctxt "Light Blue Container"
+msgid "Light Blue Container"
+msgstr "Contenedor celeste"
+
+#. aparece 3 veces
+msgctxt "Liliya"
+msgid "Liliya"
+msgstr ""
+
+#. aparece 11 veces
+msgctxt "Lilly"
+msgid "Lilly"
+msgstr ""
+
+#. aparece 10 veces
+msgctxt "Linus"
+msgid "Linus"
+msgstr ""
+
+#. aparece 13 veces
+msgctxt "Lizzy"
+msgid "Lizzy"
+msgstr ""
+
+#. aparece 8 veces
+msgctxt "Lodewyck"
+msgid "Lodewyck"
+msgstr ""
+
+#. aparece 2 veces
+msgctxt "Loop"
+msgid "Loop"
+msgstr ""
+
+#. aparece 9 veces
+msgctxt "Lorraine"
+msgid "Lorraine"
+msgstr ""
+
+#. aparece 2 veces
+msgctxt "Luciano"
+msgid "Luciano"
+msgstr ""
+
+#. aparece 8 veces
+msgctxt "Ludwig"
+msgid "Ludwig"
+msgstr ""
+
+#. aparece 20 veces
+msgctxt "Luther"
+msgid "Luther"
+msgstr ""
+
+#. aparece 19 veces
+msgctxt "Luty"
+msgid "Luty"
+msgstr ""
+
+#. aparece 20 veces
+msgctxt "Lydia"
+msgid "Lydia"
+msgstr ""
+
+#. aparece 9 veces
+#, fuzzy
+msgctxt "MATTHEWS ROBOT"
+msgid "MATTHEWS ROBOT"
+msgstr "ROBOT MATTHEWS"
+
+#. aparece 7 veces
+msgctxt "MOCKINGBIRD"
+msgid "MOCKINGBIRD"
+msgstr ""
+
+#. aparece 20 veces
+msgctxt "MOMO"
+msgid "MOMO"
+msgstr ""
+
+#. aparece 10 veces
+msgctxt "MOSCOW MULE"
+msgid "MOSCOW MULE"
+msgstr ""
+
+#. aparece 18 veces
+msgctxt "Magnus"
+msgid "Magnus"
+msgstr ""
+
+#. aparece 28 veces
+msgctxt "Mallory"
+msgid "Mallory"
+msgstr ""
+
+#. aparece 11 veces
+msgctxt "Maple"
+msgid "Maple"
+msgstr ""
+
+#. aparece 5 veces
+msgctxt "Marcela"
+msgid "Marcela"
+msgstr ""
+
+#. aparece 2 veces
+msgctxt "Marche"
+msgid "Marche"
+msgstr ""
+
+#. aparece 1 veces
+msgctxt "Marco"
+msgid "Marco"
+msgstr ""
+
+#. aparece 3 veces
+msgctxt "Mare"
+msgid "Mare"
+msgstr ""
+
+#. aparece 2 veces
+msgctxt "Margery"
+msgid "Margery"
+msgstr ""
+
+#. aparece 18 veces
+msgctxt "Margoyles"
+msgid "Margoyles"
+msgstr ""
+
+#. aparece 2 veces
+msgctxt "Marguerite"
+msgid "Marguerite"
+msgstr ""
+
+#. aparece 9 veces
+msgctxt "Marina"
+msgid "Marina"
+msgstr ""
+
+#. aparece 17 veces
+msgctxt "Markov"
+msgid "Markov"
+msgstr ""
+
+#. aparece 5 veces
+msgctxt "Marnie"
+msgid "Marnie"
+msgstr ""
+
+#. aparece 1 veces
+#, fuzzy
+msgctxt "Martial Arts Web Magazine"
+msgid "Martial Arts Web Magazine"
+msgstr "Revista web de artes marciales"
+
+#. aparece 7 veces
+msgctxt "Martin"
+msgid "Martin"
+msgstr ""
+
+#. aparece 8 veces
+msgctxt "Mary"
+msgid "Mary"
+msgstr ""
+
+#. aparece 152 veces
+#, fuzzy
+msgctxt "Mass-Produced 100-Series Observational Unit"
+msgid "Mass-Produced 100-Series Observational Unit"
+msgstr "Unidad de Observación Serie 100 producida en masa"
+
+#. aparece 47 veces
+msgctxt "Matthews"
+msgid "Matthews"
+msgstr ""
+
+#. aparece 4 veces
+msgctxt "Mauro"
+msgid "Mauro"
+msgstr ""
+
+#. aparece 16 veces
+msgctxt "Maxim"
+msgid "Maxim"
+msgstr ""
+
+#. aparece 17 veces
+msgctxt "Maximilian"
+msgid "Maximilian"
+msgstr ""
+
+#. aparece 5 veces
+msgctxt "Mickey"
+msgid "Mickey"
+msgstr ""
+
+#. aparece 16 veces
+msgctxt "Mien"
+msgid "Mien"
+msgstr ""
+
+#. aparece 34 veces
+msgctxt "Miguel"
+msgid "Miguel"
+msgstr ""
+
+#. aparece 9 veces
+msgctxt "Mika"
+msgid "Mika"
+msgstr ""
+
+#. aparece 2 veces
+msgctxt "Miluse"
+msgid "Miluse"
+msgstr ""
+
+#. aparece 8 veces
+msgctxt "Mina"
+msgid "Mina"
+msgstr ""
+
+#. aparece 2 veces
+msgctxt "Miyuki"
+msgid "Miyuki"
+msgstr ""
+
+#. aparece 1 veces
+msgctxt "Monica"
+msgid "Monica"
+msgstr ""
+
+#. aparece 7 veces
+msgctxt "Monique"
+msgid "Monique"
+msgstr ""
+
+#. aparece 1 veces
+msgctxt "Moritz"
+msgid "Moritz"
+msgstr ""
+
+#. aparece 11 veces
+msgctxt "Morris"
+msgid "Morris"
+msgstr ""
+
+#. aparece 1 veces
+msgctxt "Muramatsu"
+msgid "Muramatsu"
+msgstr ""
+
+#. aparece 8 veces
+#, fuzzy
+msgctxt "Naive Mass-Produced 100-Series"
+msgid "Naive Mass-Produced 100-Series"
+msgstr "Serie 100 ingenua producida en masa"
+
+#. aparece 3 veces
+msgctxt "Nancy"
+msgid "Nancy"
+msgstr ""
+
+#. aparece 20 veces
+msgctxt "Narcissus"
+msgid "Narcissus"
+msgstr ""
+
+#. aparece 4 veces
+#, fuzzy
+msgctxt "Narration"
+msgid "Narration"
+msgstr "Narración"
+
+#. aparece 7 veces
+msgctxt "Nastya"
+msgid "Nastya"
+msgstr ""
+
+#. aparece 7 veces
+msgctxt "Natalie"
+msgid "Natalie"
+msgstr ""
+
+#. aparece 2 veces
+msgctxt "Newt"
+msgid "Newt"
+msgstr ""
+
+#. aparece 10 veces
+msgctxt "Nikita"
+msgid "Nikita"
+msgstr ""
+
+#. aparece 14 veces
+msgctxt "Nikolai"
+msgid "Nikolai"
+msgstr ""
+
+#. aparece 1 veces
+msgctxt "Nina"
+msgid "Nina"
+msgstr ""
+
+#. aparece 13 veces
+msgctxt "Ninette"
+msgid "Ninette"
+msgstr ""
+
+#. aparece 2 veces
+#, fuzzy
+msgctxt "No. 297"
+msgid "No. 297"
+msgstr "N.º 297"
+
+#. aparece 2 veces
+#, fuzzy
+msgctxt "No. 352"
+msgid "No. 352"
+msgstr "N.º 352"
+
+#. aparece 3 veces
+#, fuzzy
+msgctxt "No. 360"
+msgid "No. 360"
+msgstr "N.º 360"
+
+#. aparece 2 veces
+#, fuzzy
+msgctxt "No. 451"
+msgid "No. 451"
+msgstr "N.º 451"
+
+#. aparece 2 veces
+#, fuzzy
+msgctxt "No. 466"
+msgid "No. 466"
+msgstr "N.º 466"
+
+#. aparece 3 veces
+#, fuzzy
+msgctxt "No. 498"
+msgid "No. 498"
+msgstr "N.º 498"
+
+#. aparece 3 veces
+#, fuzzy
+msgctxt "No. 552"
+msgid "No. 552"
+msgstr "N.º 552"
+
+#. aparece 3 veces
+#, fuzzy
+msgctxt "No. 573"
+msgid "No. 573"
+msgstr "N.º 573"
+
+#. aparece 2 veces
+msgctxt "Ollie"
+msgid "Ollie"
+msgstr ""
+
+#. aparece 1 veces
+#, fuzzy
+msgctxt "Orange Container"
+msgid "Orange Container"
+msgstr "Contenedor naranja"
+
+#. aparece 2 veces
+msgctxt "Ornella"
+msgid "Ornella"
+msgstr ""
+
+#. aparece 2 veces
+msgctxt "Oswald"
+msgid "Oswald"
+msgstr ""
+
+#. aparece 21 veces
+#, fuzzy
+msgctxt "Other Professor"
+msgid "Other Professor"
+msgstr "El Otro Profesor"
+
+#. aparece 25 veces
+msgctxt "Ozias"
+msgid "Ozias"
+msgstr ""
+
+#. aparece 9 veces
+msgctxt "Ozzy"
+msgid "Ozzy"
+msgstr ""
+
+#. aparece 28 veces
+msgctxt "PANACHE"
+msgid "PANACHE"
+msgstr ""
+
+#. aparece 7 veces
+msgctxt "Padma"
+msgid "Padma"
+msgstr ""
+
+#. aparece 22 veces
+msgctxt "Pamela"
+msgid "Pamela"
+msgstr ""
+
+#. aparece 40 veces
+msgctxt "Patricia"
+msgid "Patricia"
+msgstr ""
+
+#. aparece 3 veces
+msgctxt "Petr"
+msgid "Petr"
+msgstr ""
+
+#. aparece 15 veces
+msgctxt "Phyllis"
+msgid "Phyllis"
+msgstr ""
+
+#. aparece 9 veces
+msgctxt "Pickett"
+msgid "Pickett"
+msgstr ""
+
+#. aparece 25 veces
+msgctxt "Pitt"
+msgid "Pitt"
+msgstr ""
+
+#. aparece 19 veces
+#, fuzzy
+msgctxt "Plant Growth Enhancement Planter"
+msgid "Plant Growth Enhancement Planter"
+msgstr "Maceta de crecimiento acelerado"
+
+#. aparece 70 veces
+#, fuzzy
+msgctxt "Professor"
+msgid "Professor"
+msgstr "Profesor"
+
+#. aparece 5 veces
+msgctxt "Punch"
+msgid "Punch"
+msgstr ""
+
+#. aparece 1 veces
+#, fuzzy
+msgctxt "Purple Container"
+msgid "Purple Container"
+msgstr "Contenedor violeta"
+
+#. aparece 3 veces
+#, fuzzy
+msgctxt "Question 1"
+msgid "Question 1"
+msgstr "Pregunta 1"
+
+#. aparece 3 veces
+#, fuzzy
+msgctxt "Question 10"
+msgid "Question 10"
+msgstr "Pregunta 10"
+
+#. aparece 3 veces
+#, fuzzy
+msgctxt "Question 11"
+msgid "Question 11"
+msgstr "Pregunta 11"
+
+#. aparece 3 veces
+#, fuzzy
+msgctxt "Question 12"
+msgid "Question 12"
+msgstr "Pregunta 12"
+
+#. aparece 3 veces
+#, fuzzy
+msgctxt "Question 13"
+msgid "Question 13"
+msgstr "Pregunta 13"
+
+#. aparece 3 veces
+#, fuzzy
+msgctxt "Question 14"
+msgid "Question 14"
+msgstr "Pregunta 14"
+
+#. aparece 3 veces
+#, fuzzy
+msgctxt "Question 15"
+msgid "Question 15"
+msgstr "Pregunta 15"
+
+#. aparece 3 veces
+#, fuzzy
+msgctxt "Question 16"
+msgid "Question 16"
+msgstr "Pregunta 16"
+
+#. aparece 3 veces
+#, fuzzy
+msgctxt "Question 17"
+msgid "Question 17"
+msgstr "Pregunta 17"
+
+#. aparece 3 veces
+#, fuzzy
+msgctxt "Question 18"
+msgid "Question 18"
+msgstr "Pregunta 18"
+
+#. aparece 3 veces
+#, fuzzy
+msgctxt "Question 19"
+msgid "Question 19"
+msgstr "Pregunta 19"
+
+#. aparece 3 veces
+#, fuzzy
+msgctxt "Question 2"
+msgid "Question 2"
+msgstr "Pregunta 2"
+
+#. aparece 3 veces
+#, fuzzy
+msgctxt "Question 20"
+msgid "Question 20"
+msgstr "Pregunta 20"
+
+#. aparece 3 veces
+#, fuzzy
+msgctxt "Question 3"
+msgid "Question 3"
+msgstr "Pregunta 3"
+
+#. aparece 3 veces
+#, fuzzy
+msgctxt "Question 4"
+msgid "Question 4"
+msgstr "Pregunta 4"
+
+#. aparece 3 veces
+#, fuzzy
+msgctxt "Question 5"
+msgid "Question 5"
+msgstr "Pregunta 5"
+
+#. aparece 3 veces
+#, fuzzy
+msgctxt "Question 6"
+msgid "Question 6"
+msgstr "Pregunta 6"
+
+#. aparece 3 veces
+#, fuzzy
+msgctxt "Question 7"
+msgid "Question 7"
+msgstr "Pregunta 7"
+
+#. aparece 3 veces
+#, fuzzy
+msgctxt "Question 8"
+msgid "Question 8"
+msgstr "Pregunta 8"
+
+#. aparece 3 veces
+#, fuzzy
+msgctxt "Question 9"
+msgid "Question 9"
+msgstr "Pregunta 9"
+
+#. aparece 16 veces
+msgctxt "Rachel"
+msgid "Rachel"
+msgstr ""
+
+#. aparece 22 veces
+msgctxt "Ralph"
+msgid "Ralph"
+msgstr ""
+
+#. aparece 9 veces
+msgctxt "Randal"
+msgid "Randal"
+msgstr ""
+
+#. aparece 20 veces
+msgctxt "Ray"
+msgid "Ray"
+msgstr ""
+
+#. aparece 2 veces
+msgctxt "Rebour"
+msgid "Rebour"
+msgstr ""
+
+#. aparece 4 veces
+#, fuzzy
+msgctxt "Red Cloaked Man"
+msgid "Red Cloaked Man"
+msgstr "Hombre de la capa roja"
+
+#. aparece 1 veces
+#, fuzzy
+msgctxt "Red Container"
+msgid "Red Container"
+msgstr "Contenedor rojo"
+
+#. aparece 6 veces
+msgctxt "Regnal"
+msgid "Regnal"
+msgstr ""
+
+#. aparece 22 veces
+msgctxt "Reina"
+msgid "Reina"
+msgstr ""
+
+#. aparece 10 veces
+msgctxt "Riggs"
+msgid "Riggs"
+msgstr ""
+
+#. aparece 13 veces
+msgctxt "Robert"
+msgid "Robert"
+msgstr ""
+
+#. aparece 3 veces
+msgctxt "Rockwell"
+msgid "Rockwell"
+msgstr ""
+
+#. aparece 1 veces
+msgctxt "Rodrigo"
+msgid "Rodrigo"
+msgstr ""
+
+#. aparece 7 veces
+msgctxt "Rosa"
+msgid "Rosa"
+msgstr ""
+
+#. aparece 24 veces
+msgctxt "Roty"
+msgid "Roty"
+msgstr ""
+
+#. aparece 30 veces
+msgctxt "Roy"
+msgid "Roy"
+msgstr ""
+
+#. aparece 1 veces
+#, fuzzy
+msgctxt "Roy's Memory Console"
+msgid "Roy's Memory Console"
+msgstr "Consola de memoria de Roy"
+
+#. aparece 2 veces
+msgctxt "Rubedo"
+msgid "Rubedo"
+msgstr ""
+
+#. aparece 4 veces
+msgctxt "Russel"
+msgid "Russel"
+msgstr ""
+
+#. aparece 27 veces
+msgctxt "SPUMONI"
+msgid "SPUMONI"
+msgstr ""
+
+#. aparece 1 veces
+msgctxt "Samuel"
+msgid "Samuel"
+msgstr ""
+
+#. aparece 2 veces
+msgctxt "Schutze"
+msgid "Schutze"
+msgstr ""
+
+#. aparece 10 veces
+msgctxt "Sean"
+msgid "Sean"
+msgstr ""
+
+#. aparece 1 veces
+#, fuzzy
+msgctxt "Second Miltia Defense System #6"
+msgid "Second Miltia Defense System #6"
+msgstr "Sistema de Defensa N.º 6 de Segunda Miltia"
+
+#. aparece 1 veces
+#, fuzzy
+msgctxt "Second Miltia Transportation Bureau"
+msgid "Second Miltia Transportation Bureau"
+msgstr "Oficina de Transporte de Segunda Miltia"
+
+#. aparece 4 veces
+#, fuzzy
+msgctxt "Second Miltia Water Works"
+msgid "Second Miltia Water Works"
+msgstr "Servicio de Aguas de Segunda Miltia"
+
+#. aparece 3 veces
+msgctxt "Sergey"
+msgid "Sergey"
+msgstr ""
+
+#. aparece 23 veces
+msgctxt "Shawna"
+msgid "Shawna"
+msgstr ""
+
+#. aparece 10 veces
+msgctxt "Sheila"
+msgid "Sheila"
+msgstr ""
+
+#. aparece 8 veces
+msgctxt "Shelley"
+msgid "Shelley"
+msgstr ""
+
+#. aparece 54 veces
+msgctxt "Shion"
+msgid "Shion"
+msgstr ""
+
+#. aparece 4 veces
+msgctxt "Sidney"
+msgid "Sidney"
+msgstr ""
+
+#. aparece 22 veces
+msgctxt "Sikes"
+msgid "Sikes"
+msgstr ""
+
+#. aparece 9 veces
+msgctxt "Simmons"
+msgid "Simmons"
+msgstr ""
+
+#. aparece 17 veces
+msgctxt "Simon"
+msgid "Simon"
+msgstr ""
+
+#. aparece 1 veces
+#, fuzzy
+msgctxt "Special Feature: Tactics for Beginners 1"
+msgid "Special Feature: Tactics for Beginners 1"
+msgstr "Especial: Tácticas para principiantes 1"
+
+#. aparece 1 veces
+#, fuzzy
+msgctxt "Special Feature: Tactics for Beginners 2"
+msgid "Special Feature: Tactics for Beginners 2"
+msgstr "Especial: Tácticas para principiantes 2"
+
+#. aparece 1 veces
+#, fuzzy
+msgctxt "Special Feature: Tactics for Beginners 3"
+msgid "Special Feature: Tactics for Beginners 3"
+msgstr "Especial: Tácticas para principiantes 3"
+
+#. aparece 1 veces
+#, fuzzy
+msgctxt "Special Feature: Tactics for Beginners 4"
+msgid "Special Feature: Tactics for Beginners 4"
+msgstr "Especial: Tácticas para principiantes 4"
+
+#. aparece 1 veces
+#, fuzzy
+msgctxt "Special Feature: Tactics for Beginners 5"
+msgid "Special Feature: Tactics for Beginners 5"
+msgstr "Especial: Tácticas para principiantes 5"
+
+#. aparece 1 veces
+msgctxt "Steinbock"
+msgid "Steinbock"
+msgstr ""
+
+#. aparece 26 veces
+msgctxt "Stella"
+msgid "Stella"
+msgstr ""
+
+#. aparece 5 veces
+msgctxt "Stepanida"
+msgid "Stepanida"
+msgstr ""
+
+#. aparece 9 veces
+msgctxt "Stephanie"
+msgid "Stephanie"
+msgstr ""
+
+#. aparece 1 veces
+msgctxt "Stiea"
+msgid "Stiea"
+msgstr ""
+
+#. aparece 8 veces
+msgctxt "Sylvia"
+msgid "Sylvia"
+msgstr ""
+
+#. aparece 3 veces
+msgctxt "Taggart"
+msgid "Taggart"
+msgstr ""
+
+#. aparece 13 veces
+msgctxt "Tess"
+msgid "Tess"
+msgstr ""
+
+#. aparece 1 veces
+#, fuzzy
+msgctxt "Thank You from Johnny"
+msgid "Thank You from Johnny"
+msgstr "Agradecimiento de Johnny"
+
+#. aparece 13 veces
+msgctxt "Thelma"
+msgid "Thelma"
+msgstr ""
+
+#. aparece 7 veces
+msgctxt "Theodore"
+msgid "Theodore"
+msgstr ""
+
+#. aparece 19 veces
+msgctxt "Tina"
+msgid "Tina"
+msgstr ""
+
+#. aparece 18 veces
+msgctxt "Tony"
+msgid "Tony"
+msgstr ""
+
+#. aparece 1 veces
+msgctxt "Toshie"
+msgid "Toshie"
+msgstr ""
+
+#. aparece 1 veces
+msgctxt "Toto"
+msgid "Toto"
+msgstr ""
+
+#. aparece 3 veces
+msgctxt "Trine"
+msgid "Trine"
+msgstr ""
+
+#. aparece 3 veces
+#, fuzzy
+msgctxt "U.M.N. Special Content"
+msgid "U.M.N. Special Content"
+msgstr "Contenido especial de la U.M.N."
+
+#. aparece 2 veces
+msgctxt "Ugo"
+msgid "Ugo"
+msgstr ""
+
+#. aparece 7 veces
+msgctxt "Ulrica"
+msgid "Ulrica"
+msgstr ""
+
+#. aparece 6 veces
+msgctxt "Valentino"
+msgid "Valentino"
+msgstr ""
+
+#. aparece 3 veces
+msgctxt "Vanya"
+msgid "Vanya"
+msgstr ""
+
+#. aparece 15 veces
+msgctxt "Varela"
+msgid "Varela"
+msgstr ""
+
+#. aparece 2 veces
+msgctxt "Vera"
+msgid "Vera"
+msgstr ""
+
+#. aparece 23 veces
+msgctxt "Viano"
+msgid "Viano"
+msgstr ""
+
+#. aparece 15 veces
+msgctxt "Vieira"
+msgid "Vieira"
+msgstr ""
+
+#. aparece 8 veces
+msgctxt "Vilmos"
+msgid "Vilmos"
+msgstr ""
+
+#. aparece 10 veces
+msgctxt "Vimala"
+msgid "Vimala"
+msgstr ""
+
+#. aparece 1 veces
+msgctxt "Waage"
+msgid "Waage"
+msgstr ""
+
+#. aparece 2 veces
+msgctxt "Walker"
+msgid "Walker"
+msgstr ""
+
+#. aparece 6 veces
+msgctxt "Wally"
+msgid "Wally"
+msgstr ""
+
+#. aparece 1 veces
+msgctxt "Wanda"
+msgid "Wanda"
+msgstr ""
+
+#. aparece 27 veces
+#, fuzzy
+msgctxt "Wandering Mass-Produced 100-Series"
+msgid "Wandering Mass-Produced 100-Series"
+msgstr "Serie 100 errante producida en masa"
+
+#. aparece 1 veces
+#, fuzzy
+msgctxt "Warning"
+msgid "Warning"
+msgstr "Advertencia"
+
+#. aparece 5 veces
+msgctxt "Widder"
+msgid "Widder"
+msgstr ""
+
+#. aparece 2 veces
+msgctxt "Wilfred"
+msgid "Wilfred"
+msgstr ""
+
+#. aparece 12 veces
+msgctxt "Wilhelm"
+msgid "Wilhelm"
+msgstr ""
+
+#. aparece 29 veces
+msgctxt "Winona"
+msgid "Winona"
+msgstr ""
+
+#. aparece 7 veces
+msgctxt "Woody"
+msgid "Woody"
+msgstr ""
+
+#. aparece 9 veces
+msgctxt "Yang"
+msgid "Yang"
+msgstr ""
+
+#. aparece 1 veces
+#, fuzzy
+msgctxt "Yellow Container"
+msgid "Yellow Container"
+msgstr "Contenedor amarillo"
+
+#. aparece 12 veces
+msgctxt "Yolanda"
+msgid "Yolanda"
+msgstr ""
+
+#. aparece 1 veces
+msgctxt "Yujiro"
+msgid "Yujiro"
+msgstr ""
+
+#. aparece 15 veces
+msgctxt "ZAZA"
+msgid "ZAZA"
+msgstr ""
+
+#. aparece 23 veces
+msgctxt "Ziggy"
+msgid "Ziggy"
+msgstr ""
+
+#. aparece 33 veces
+msgctxt "chaos"
+msgid "chaos"
+msgstr ""
+
+#. aparece 2 veces
+#, fuzzy
+msgctxt "【A.M.W.S. Elevator Lock Release Switch】"
+msgid "【A.M.W.S. Elevator Lock Release Switch】"
+msgstr "【Desbloqueo del ascensor A.M.W.S.】"
+
+#. aparece 2 veces
+#, fuzzy
+msgctxt "【A.M.W.S. Elevator Operation Switch】"
+msgid "【A.M.W.S. Elevator Operation Switch】"
+msgstr "【Control del ascensor A.M.W.S.】"
+
+#. aparece 2 veces
+#, fuzzy
+msgctxt "【A.M.W.S. Elevator Power Switch】"
+msgid "【A.M.W.S. Elevator Power Switch】"
+msgstr "【Encendido del ascensor A.M.W.S.】"
+
+#. aparece 2 veces
+#, fuzzy
+msgctxt "【Isolation Area Elevator】"
+msgid "【Isolation Area Elevator】"
+msgstr "【Ascensor del área de aislamiento】"
+
+#. aparece 3 veces
+#, fuzzy
+msgctxt "【Kukai Foundation】"
+msgid "【Kukai Foundation】"
+msgstr "【Fundación Kukai】"
+
+#. aparece 2 veces
+#, fuzzy
+msgctxt "【Labyrinthos Linear Train】"
+msgid "【Labyrinthos Linear Train】"
+msgstr "【Tren lineal de Labyrinthos】"
+
+#. aparece 1 veces
+#, fuzzy
+msgctxt "【Restricted Area - Facility Guide】"
+msgid "【Restricted Area - Facility Guide】"
+msgstr "【Zona restringida - Guía de instalaciones】"
+
+#. aparece 7 veces
+#, fuzzy
+msgctxt "【Second Miltia】"
+msgid "【Second Miltia】"
+msgstr "【Segunda Miltia】"
+
+#. aparece 1 veces
+#, fuzzy
+msgctxt "【Storage Area】"
+msgid "【Storage Area】"
+msgstr "【Depósito】"
+
+#. aparece 1 veces
+#, fuzzy
+msgctxt "【Water Level Adjustment Room】"
+msgid "【Water Level Adjustment Room】"
+msgstr "【Sala de control del nivel de agua】"
+
+#. aparece 1 veces
+#, fuzzy
+msgctxt "【Water Tank】"
+msgid "【Water Tank】"
+msgstr "【Tanque de agua】"

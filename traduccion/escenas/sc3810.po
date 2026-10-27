@@ -1,0 +1,851 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Xenosaga Episode II - traducción al español\n"
+"Language: es_419\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Xeno-Source: 0:cf/en/sc3810.sbl\n"
+
+#. habla: Mass-Produced 100-Series Observational Unit
+#, fuzzy
+msgctxt "#1"
+msgid "What is it, Little Master? Master Gaignun and the others have already gone to Second Miltia for the analysis of the 100-Series Prototype."
+msgstr "¿Qué sucede, joven amo? El amo Gaignun y los demás ya fueron a Segunda Miltia para el análisis del prototipo de la Serie 100."
+
+#. habla: Mass-Produced 100-Series Observational Unit
+#, fuzzy
+msgctxt "#2"
+msgid "chaos, are the preparations for MOMO's analysis proceeding smoothly? Mary and Shelley both went down to Second Miltia for the preparation a little while ago."
+msgstr "chaos, ¿los preparativos para el análisis de MOMO avanzan bien? Mary y Shelley bajaron a Segunda Miltia hace un rato para los preparativos."
+
+#. habla: Mass-Produced 100-Series Observational Unit
+#, fuzzy
+msgctxt "#3"
+msgid "The Durandal is currently on standby in Miltian space under Master Gaignun's orders."
+msgstr "Por orden del amo Gaignun, el Durandal está en espera en el espacio de Miltia."
+
+#. habla: Mass-Produced 100-Series Observational Unit
+#, fuzzy
+msgctxt "#4"
+msgid "How is MOMO's condition? Please save her!"
+msgstr "¿Cómo está MOMO? ¡Por favor, sálvenla!"
+
+#. habla: Mass-Produced 100-Series Observational Unit
+#, fuzzy
+msgctxt "#5"
+msgid "It is good to see you safe, chaos. Master Gaignun asked that you please take care of Little Master."
+msgstr "Me alegra verte a salvo, chaos. El amo Gaignun pidió que, por favor, cuides del joven amo."
+
+#. habla: Mass-Produced 100-Series Observational Unit
+#, fuzzy
+msgctxt "#6"
+msgid "Welcome back, Little Master. I am glad you made it back."
+msgstr "Bienvenido de vuelta, joven amo. Me alegra que haya regresado."
+
+#. habla: Mass-Produced 100-Series Observational Unit
+#, fuzzy
+msgctxt "#7"
+msgid "Master Gaignun is amazing. He predicted your behavior perfectly. Even we 100-Series were stunned."
+msgstr "El amo Gaignun es increíble. Previó su comportamiento a la perfección. Hasta las Serie 100 nos quedamos asombradas."
+
+#. habla: Mass-Produced 100-Series Observational Unit
+#, fuzzy
+msgctxt "#8"
+msgid "MOMO, you're all right! Congratulations!"
+msgstr "¡MOMO, estás bien! ¡Felicitaciones!"
+
+#. habla: Mass-Produced 100-Series Observational Unit
+#, fuzzy
+msgctxt "#9"
+msgid "I'm sure it will be a difficult mission. Good luck."
+msgstr "Seguro que será una misión difícil. Buena suerte."
+
+#. habla: Mass-Produced 100-Series Observational Unit
+#, fuzzy
+msgctxt "#10"
+msgid "Currently, the Federation fleet is pursuing the Immigrant Fleet, but most of the ships have already descended on Labyrinthos."
+msgstr "En este momento, la flota de la Federación persigue a la Flota de Inmigrantes, pero la mayoría de las naves ya descendieron sobre Labyrinthos."
+
+#. habla: Mass-Produced 100-Series Observational Unit
+#, fuzzy
+msgctxt "#11"
+msgid "I am glad to see you are safe, chaos."
+msgstr "Me alegra verte a salvo, chaos."
+
+#. habla: Mass-Produced 100-Series Observational Unit
+#, fuzzy
+msgctxt "#12"
+msgid "Little Master, we are unable to analyze the enemy's combat capabilities. No data exists on the object known as Proto Omega."
+msgstr "Joven amo, no podemos analizar la capacidad de combate del enemigo. No existen datos sobre el objeto llamado Proto Omega."
+
+#. habla: Mass-Produced 100-Series Observational Unit
+#, fuzzy
+msgctxt "#13"
+msgid "MOMO, there is no data on that object. Do you have any information in your database?"
+msgstr "MOMO, no hay datos sobre ese objeto. ¿Tienes alguna información en tu base de datos?"
+
+#. habla: Mass-Produced 100-Series Observational Unit
+#, fuzzy
+msgctxt "#14"
+msgid "93%% of the Federation fleet was destroyed by the attack from Proto Omega. Most of the ships in the Immigrant Fleet were annihilated as well."
+msgstr "El 93%% de la flota de la Federación fue destruido por el ataque de Proto Omega. La mayoría de las naves de la Flota de Inmigrantes también fueron aniquiladas."
+
+#. habla: Mass-Produced 100-Series Observational Unit
+#, fuzzy
+msgctxt "#15"
+msgid "What is it, Little Master? There is still some time remaining before the operation begins."
+msgstr "¿Qué sucede, joven amo? Todavía falta un poco para que empiece la operación."
+
+#. habla: Mass-Produced 100-Series Observational Unit
+#, fuzzy
+msgctxt "#16"
+msgid "Little Master, don't cause any problems just because Mary and Shelley aren't here."
+msgstr "Joven amo, no cause problemas solo porque Mary y Shelley no están."
+
+#. habla: Mass-Produced 100-Series Observational Unit
+#, fuzzy
+msgctxt "#17"
+msgid "We're the ones that will get scolded later, so don't fool around."
+msgstr "Las que después se llevan el regaño somos nosotras, así que no haga travesuras."
+
+#. habla: Mass-Produced 100-Series Observational Unit
+#, fuzzy
+msgctxt "#18"
+msgid "chaos, please take care of Little Master. Please keep an eye on him and make sure that he doesn't interfere with the analysis."
+msgstr "chaos, por favor, cuida del joven amo. Vigílalo y asegúrate de que no interfiera con el análisis."
+
+#. habla: Mass-Produced 100-Series Observational Unit
+#, fuzzy
+msgctxt "#19"
+msgid "Oh, is something wrong? I thought the preparations for MOMO's analysis had already started. Is it all right to leave her alone?"
+msgstr "Oh, ¿pasa algo? Creí que ya habían empezado los preparativos para el análisis de MOMO. ¿Está bien dejarla sola?"
+
+#. habla: Mass-Produced 100-Series Observational Unit
+#, fuzzy
+msgctxt "#20"
+msgid "Many of our sisters have also headed to the U.M.N. Control Center to help."
+msgstr "Muchas de nuestras hermanas también fueron al Centro de Control de la U.M.N. a ayudar."
+
+#. habla: Mass-Produced 100-Series Observational Unit
+#, fuzzy
+msgctxt "#21"
+msgid "Master Gaignun still hasn't returned from Second Miltia, where he is looking after MOMO."
+msgstr "El amo Gaignun todavía no volvió de Segunda Miltia, donde está cuidando a MOMO."
+
+#. habla: Mass-Produced 100-Series Observational Unit
+#, fuzzy
+msgctxt "#22"
+msgid "I hope MOMO gets well soon."
+msgstr "Ojalá MOMO se recupere pronto."
+
+#. habla: Mass-Produced 100-Series Observational Unit
+#, fuzzy
+msgctxt "#23"
+msgid "The Elsa? The Elsa is currently undergoing emergency repairs in the dock area. It can still fly, though, so speak with Captain Matthews if you want to go somewhere."
+msgstr "¿El Elsa? El Elsa está en reparaciones de emergencia en la zona de muelles. Igual puede volar, así que hablen con el capitán Matthews si quieren ir a algún lado."
+
+#. habla: Mass-Produced 100-Series Observational Unit
+#, fuzzy
+msgctxt "#24"
+msgid "Little Master, the route to Miltia is now clear due to the disappearance of the Abyss."
+msgstr "Joven amo, con la desaparición del Abismo, la ruta a Miltia quedó libre."
+
+#. habla: Mass-Produced 100-Series Observational Unit
+#, fuzzy
+msgctxt "#25"
+msgid "But why did the Abyss suddenly disappear?"
+msgstr "Pero ¿por qué desapareció de repente el Abismo?"
+
+#. habla: Mass-Produced 100-Series Observational Unit
+#, fuzzy
+msgctxt "#26"
+msgid "MOMO! How are you feeling? "
+msgstr "¡MOMO! ¿Cómo te sientes?"
+
+#. habla: Mass-Produced 100-Series Observational Unit
+#, fuzzy
+msgctxt "#27"
+msgid "If there's anything wrong, we'll make adjustments, so please don't hesitate to tell us."
+msgstr "Si algo anda mal, haremos ajustes, así que no dudes en decírnoslo."
+
+#. habla: Mass-Produced 100-Series Observational Unit
+#, fuzzy
+msgctxt "#28"
+msgid "We have confirmed the disappearance of the Abyss after the battle with the mobile fortress."
+msgstr "Confirmamos la desaparición del Abismo después de la batalla con la fortaleza móvil."
+
+#. habla: Mass-Produced 100-Series Observational Unit
+#, fuzzy
+msgctxt "#29"
+msgid "The Immigrant Fleet's ships in that region of space appear to have been caught in the collapse of the Abyss as well. They no longer appear on our sensors."
+msgstr "Parece que las naves de la Flota de Inmigrantes que estaban en esa región del espacio también quedaron atrapadas en el colapso del Abismo. Ya no aparecen en nuestros sensores."
+
+#. habla: Mass-Produced 100-Series Observational Unit
+#, fuzzy
+msgctxt "#30"
+msgid "Welcome back, chaos."
+msgstr "Bienvenido de vuelta, chaos."
+
+#. habla: Mass-Produced 100-Series Observational Unit
+#, fuzzy
+msgctxt "#31"
+msgid "Little Master, how did they build a giant weapon like that inside Miltia?"
+msgstr "Joven amo, ¿cómo construyeron un arma gigante así dentro de Miltia?"
+
+#. habla: Mass-Produced 100-Series Observational Unit
+#, fuzzy
+msgctxt "#32"
+msgid "There is no need for concern, MOMO. The Durandal has not been damaged."
+msgstr "No hay de qué preocuparse, MOMO. El Durandal no sufrió daños."
+
+#. habla: Mass-Produced 100-Series Observational Unit
+#, fuzzy
+msgctxt "#33"
+msgid "We are not detecting any signs of Gnosis from the object called Proto Omega."
+msgstr "No detectamos ningún rastro de Gnosis en el objeto llamado Proto Omega."
+
+#. habla: Mass-Produced 100-Series Observational Unit
+#, fuzzy
+msgctxt "#34"
+msgid "It is without a doubt some sort of man-made weapon."
+msgstr "Sin duda, es algún tipo de arma artificial."
+
+#. habla: Mass-Produced 100-Series Observational Unit
+#, fuzzy
+msgctxt "#35"
+msgid "There is no change in the size of the space-time anomaly."
+msgstr "El tamaño de la anomalía espaciotemporal no cambió."
+
+#. habla: Mass-Produced 100-Series Observational Unit
+#, fuzzy
+msgctxt "#36"
+msgid "Hey, Little Master! The bridge ain't a place to fool around! If you wanna play, do it somewhere else!"
+msgstr "¡Oiga, joven amo! ¡El puente no es lugar para andar de jarana! ¡Si quiere jugar, vaya a otro lado!"
+
+#. habla: Mass-Produced 100-Series Observational Unit
+#, fuzzy
+msgctxt "#37"
+msgid "You're such a troublemaker, Little Master."
+msgstr "Usted siempre anda metiéndose en líos, joven amo."
+
+#. habla: Mass-Produced 100-Series Observational Unit
+#, fuzzy
+msgctxt "#38"
+msgid "Oh, hi chaos. Take care of Little Master, will ya? There's no telling what he'll do if someone doesn't keep an eye on him."
+msgstr "Ah, hola, chaos. Cuida al joven amo, ¿sí? Si nadie lo vigila, quién sabe lo que va a hacer."
+
+#. habla: Mass-Produced 100-Series Observational Unit
+#, fuzzy
+msgctxt "#39"
+msgid "Mary and Shelley are off on Second Miltia."
+msgstr "Mary y Shelley se fueron a Segunda Miltia."
+
+#. habla: Mass-Produced 100-Series Observational Unit
+#, fuzzy
+msgctxt "#40"
+msgid "I gotta handle things here 'til they get back!"
+msgstr "¡Me toca encargarme de esto hasta que vuelvan!"
+
+#. habla: Mass-Produced 100-Series Observational Unit
+#, fuzzy
+msgctxt "#41"
+msgid "What in blazes are y'all doing?! I can't believe y'all let the analysis mess up that easy."
+msgstr "¡¿Qué demonios andan haciendo ustedes?! No puedo creer que hayan dejado que el análisis saliera mal así de fácil."
+
+#. habla: Mass-Produced 100-Series Observational Unit
+#, fuzzy
+msgctxt "#42"
+msgid "Once MOMO is back, we're gonna give y'all a good talkin'-to!"
+msgstr "¡Cuando vuelva MOMO, les vamos a dar una buena reprimenda!"
+
+#. habla: Mass-Produced 100-Series Observational Unit
+#, fuzzy
+msgctxt "#43"
+msgid "chaos, I guess even you can't keep Little Master outta trouble."
+msgstr "chaos, parece que ni siquiera tú puedes mantener al joven amo lejos de los problemas."
+
+#. habla: Mass-Produced 100-Series Observational Unit
+#, fuzzy
+msgctxt "#44"
+msgid "I reckon it might be better to ask KOS-MOS."
+msgstr "Me parece que sería mejor pedírselo a KOS-MOS."
+
+#. habla: Mass-Produced 100-Series Observational Unit
+#, fuzzy
+msgctxt "#45"
+msgid "Little Master, did you get yourself in hot water again? If you don't cut that out, one of these days, you're gonna end up in a world of hurt."
+msgstr "Joven amo, ¿otra vez se metió en problemas? Si no para con eso, un día de estos va a terminar muy mal parado."
+
+#. habla: Mass-Produced 100-Series Observational Unit
+#, fuzzy
+msgctxt "#46"
+msgid "I do believe I'm starting to talk like Mary."
+msgstr "Me parece que estoy empezando a hablar como Mary."
+
+#. habla: Mass-Produced 100-Series Observational Unit
+#, fuzzy
+msgctxt "#47"
+msgid "I'm so happy you got better. You got such a darlin' smile!"
+msgstr "Qué alegría que te hayas recuperado. ¡Tienes una sonrisa preciosa!"
+
+#. habla: Mass-Produced 100-Series Observational Unit
+#, fuzzy
+msgctxt "#48"
+msgid "I'm glad y'all are okay. Don't listen to what Mary just said. Not five minutes ago, she was screaming, \"Hurry up and save the Elsa!\""
+msgstr "Qué bueno que todos estén bien. No le hagan caso a lo que acaba de decir Mary. Hace menos de cinco minutos estaba gritando: \"¡Rápido, salven al Elsa!\"."
+
+#. habla: Mass-Produced 100-Series Observational Unit
+#, fuzzy
+msgctxt "#49"
+msgid "chaos, please make sure everyone's okay."
+msgstr "chaos, por favor, asegúrate de que todos estén bien."
+
+#. habla: Mass-Produced 100-Series Observational Unit
+#, fuzzy
+msgctxt "#50"
+msgid "Don't worry. Maybe the Elsa and the E.S.s ain't in top shape, but they're good enough."
+msgstr "No te preocupes. Quizá el Elsa y los E.S. no estén en su mejor forma, pero alcanzan."
+
+#. habla: Mass-Produced 100-Series Observational Unit
+#, fuzzy
+msgctxt "#51"
+msgid "Go get 'em, Little Master!"
+msgstr "¡Vaya por ellos, joven amo!"
+
+#. habla: Mass-Produced 100-Series Observational Unit
+#, fuzzy
+msgctxt "#52"
+msgid "MOMO! You made it back!"
+msgstr "¡MOMO! ¡Volviste!"
+
+#. habla: Mass-Produced 100-Series Observational Unit
+#, fuzzy
+msgctxt "#53"
+msgid "I wish I could take your place, but I don't think that'll happen. Now don't do anything foolish, y'hear?"
+msgstr "Ojalá pudiera ocupar tu lugar, pero no creo que pase. Y no hagas ninguna tontería, ¿me oyes?"
+
+#. habla: Mass-Produced 100-Series Observational Unit
+#, fuzzy
+msgctxt "#54"
+msgid "I give up! How can something like that just pop outta Miltia?!"
+msgstr "¡Me rindo! ¡¿Cómo puede salir algo así de Miltia, así sin más?!"
+
+#. habla: Mass-Produced 100-Series Observational Unit
+#, fuzzy
+msgctxt "#55"
+msgid "It's unbelievable! It's more than our processing power can handle!"
+msgstr "¡Es increíble! ¡Supera nuestra capacidad de procesamiento!"
+
+#. habla: Mass-Produced 100-Series Observational Unit
+#, fuzzy
+msgctxt "#56"
+msgid "I can't believe this. What's gonna happen to this region of space?"
+msgstr "No puedo creerlo. ¿Qué va a pasar con esta región del espacio?"
+
+#. habla: Mass-Produced 100-Series Observational Unit
+#, fuzzy
+msgctxt "#57"
+msgid "Little Master, you got the wherewithal to do something about this, right? "
+msgstr "Joven amo, usted tiene con qué hacer algo al respecto, ¿no?"
+
+#. habla: Mass-Produced 100-Series Observational Unit
+#, fuzzy
+msgctxt "#58"
+msgid "Little Master, we detected a craft with the same waveform as the E.S. Asher among the enemy's A.M.W.S. units."
+msgstr "Joven amo, detectamos entre las unidades A.M.W.S. enemigas una nave con la misma forma de onda que el E.S. Asher."
+
+#. habla: Mass-Produced 100-Series Observational Unit
+#, fuzzy
+msgctxt "#59"
+msgid "The resonance phenomenon between the two crafts was likely caused by that waveform."
+msgstr "Es probable que el fenómeno de resonancia entre las dos naves lo haya causado esa forma de onda."
+
+#. habla: Mass-Produced 100-Series Observational Unit
+#, fuzzy
+msgctxt "#60"
+msgid "chaos, there are so many things we don't know about the E.S. Asher's power system."
+msgstr "chaos, hay muchas cosas que no sabemos del sistema de energía del E.S. Asher."
+
+#. habla: Mass-Produced 100-Series Observational Unit
+#, fuzzy
+msgctxt "#61"
+msgid "You've piloted it before, so is there anything you can tell us?"
+msgstr "Tú ya lo piloteaste, así que, ¿hay algo que puedas decirnos?"
+
+#. habla: Mass-Produced 100-Series Observational Unit
+#, fuzzy
+msgctxt "#62"
+msgid "We've completed the analysis of the enemy crafts that attacked you on the Miltian highway."
+msgstr "Terminamos el análisis de las naves enemigas que los atacaron en la autopista de Miltia."
+
+#. habla: Mass-Produced 100-Series Observational Unit
+#, fuzzy
+msgctxt "#63"
+msgid "They are thought to be affiliated with the U-TIC Organization, but we have no data regarding the mobile weapons that we believe were A.M.W.S."
+msgstr "Se cree que están vinculadas a la Organización U-TIC, pero no tenemos datos de las armas móviles, que suponemos que eran A.M.W.S."
+
+#. habla: Mass-Produced 100-Series Observational Unit
+#, fuzzy
+msgctxt "#64"
+msgid "We are currently tracking Albedo, but we have yet to identify his location."
+msgstr "Estamos rastreando a Albedo, pero todavía no identificamos su ubicación."
+
+#. habla: Mass-Produced 100-Series Observational Unit
+#, fuzzy
+msgctxt "#65"
+msgid "The Y-Data was protected thanks to MOMO, but will Albedo give up that easily?"
+msgstr "Los Y-Data quedaron protegidos gracias a MOMO, pero ¿Albedo se rendirá tan fácilmente?"
+
+#. habla: Mass-Produced 100-Series Observational Unit
+#, fuzzy
+msgctxt "#66"
+msgid "The mobile weapon which docked with KOS-MOS seems to be an E.S. series as well."
+msgstr "El arma móvil que se acopló con KOS-MOS parece ser también de la serie E.S."
+
+#. habla: Mass-Produced 100-Series Observational Unit
+#, fuzzy
+msgctxt "#67"
+msgid "Though I never expected a transport craft to transform."
+msgstr "Aunque nunca esperé que una nave de transporte se transformara."
+
+#. habla: Mass-Produced 100-Series Observational Unit
+#, fuzzy
+msgctxt "#68"
+msgid "Little Master, how is the E.S.? It was originally customized for Canaan, so please tell us if anything seems wrong."
+msgstr "Joven amo, ¿qué tal el E.S.? Originalmente lo personalizaron para Canaan, así que, por favor, avísenos si algo no anda bien."
+
+#. habla: Mass-Produced 100-Series Observational Unit
+#, fuzzy
+msgctxt "#69"
+msgid "Albedo managed to get the Y-Data in the end. I feel sorry for you, MOMO. "
+msgstr "Al final, Albedo logró quedarse con los Y-Data. Lo siento mucho por ti, MOMO."
+
+#. habla: Mass-Produced 100-Series Observational Unit
+#, fuzzy
+msgctxt "#70"
+msgid "But there's no need to worry. I'm sure Little Master and the others will do something about it!"
+msgstr "Pero no hay de qué preocuparse. ¡Seguro que el joven amo y los demás van a hacer algo al respecto!"
+
+#. habla: Mass-Produced 100-Series Observational Unit
+#, fuzzy
+msgctxt "#71"
+msgid "How is the E.S. series?"
+msgstr "¿Qué tal la serie E.S.?"
+
+#. habla: Mass-Produced 100-Series Observational Unit
+#, fuzzy
+msgctxt "#72"
+msgid "The resonance phenomenon with the enemy's mobile weapons has not recurred. We're investigating the cause of the resonance as well, but there are so many unknowns about the power source, the Vessel of Anima, that it is proving difficult."
+msgstr "El fenómeno de resonancia con las armas móviles enemigas no se repitió. También estamos investigando la causa de la resonancia, pero hay tantas incógnitas sobre la fuente de energía, la Vasija de Anima, que está resultando difícil."
+
+#. habla: Mass-Produced 100-Series Observational Unit
+#, fuzzy
+msgctxt "#73"
+msgid "chaos, how is the E.S. Asher? Little Master didn't break it with his crazy piloting, did he?"
+msgstr "chaos, ¿cómo está el E.S. Asher? El joven amo no lo rompió con su forma de pilotear tan alocada, ¿no?"
+
+#. habla: Mass-Produced 100-Series Observational Unit
+#, fuzzy
+msgctxt "#74"
+msgid "Welcome back, Little Master."
+msgstr "Bienvenido de vuelta, joven amo."
+
+#. habla: Mass-Produced 100-Series Observational Unit
+#, fuzzy
+msgctxt "#75"
+msgid "We are currently unable to analyze the object known as Proto Omega. Please accept my apologies for not having more information."
+msgstr "Por ahora no podemos analizar el objeto llamado Proto Omega. Le pido disculpas por no tener más información."
+
+#. habla: Mass-Produced 100-Series Observational Unit
+#, fuzzy
+msgctxt "#76"
+msgid "MOMO, we will do everything we can to support you from here. So please, come back to us safely."
+msgstr "MOMO, desde aquí haremos todo lo posible para apoyarte. Así que, por favor, vuelve a salvo con nosotras."
+
+#. habla: Mass-Produced 100-Series Observational Unit
+#, fuzzy
+msgctxt "#77"
+msgid "We have finished scanning the object known as Proto Omega. We have detected the original Zohar within its central coordinates."
+msgstr "Terminamos de escanear el objeto llamado Proto Omega. Detectamos el Zohar original en sus coordenadas centrales."
+
+#. habla: Mass-Produced 100-Series Observational Unit
+#, fuzzy
+msgctxt "#78"
+msgid "We believe the Patriarch is there as well."
+msgstr "Creemos que el Patriarca también está allí."
+
+#. habla: Mass-Produced 100-Series Observational Unit
+#, fuzzy
+msgctxt "#79"
+msgid "We have confirmed powerful U-DO waves emanating from the central coordinates of the space-time anomaly. Albedo is most likely there."
+msgstr "Confirmamos potentes ondas de U-DO que emanan de las coordenadas centrales de la anomalía espaciotemporal. Lo más probable es que Albedo esté allí."
+
+#. habla: Mass-Produced 100-Series Observational Unit
+#, fuzzy
+msgctxt "#80"
+msgid "Little Master, how is MOMO?"
+msgstr "Joven amo, ¿cómo está MOMO?"
+
+#. habla: Mass-Produced 100-Series Observational Unit
+#, fuzzy
+msgctxt "#81"
+msgid "I wanted to, like, help with the analysis, too, but I always screw up. That's why I was, like, left to watch things here."
+msgstr "Yo también quería, tipo, ayudar con el análisis, pero siempre la arruino. Por eso me dejaron, o sea, cuidando las cosas aquí."
+
+#. habla: Mass-Produced 100-Series Observational Unit
+#, fuzzy
+msgctxt "#82"
+msgid "chaos, I heard you were, like, attacked on the streets. What a serious bummer."
+msgstr "chaos, me dijeron que te atacaron en, tipo, la calle. Qué bajón total."
+
+#. habla: Mass-Produced 100-Series Observational Unit
+#, fuzzy
+msgctxt "#83"
+msgid "I bet they were, like, trying to interfere with MOMO's analysis. I feel so sorry for her. I wish I could, you know, take her place. Or something."
+msgstr "Seguro que, o sea, querían interferir con el análisis de MOMO. Me da superpena. Ojalá pudiera, no sé, ocupar su lugar. O algo así."
+
+#. habla: Mass-Produced 100-Series Observational Unit
+#, fuzzy
+msgctxt "#84"
+msgid "It's, like, almost time for the analysis to begin, right?"
+msgstr "Ya casi es, tipo, la hora de que empiece el análisis, ¿no?"
+
+#. habla: Mass-Produced 100-Series Observational Unit
+#, fuzzy
+msgctxt "#85"
+msgid "MOMO is, like, thrilled that she's going to learn about her father. Oh, if he's MOMO's father, then that makes him like our father, too, or something, right?"
+msgstr "MOMO está, o sea, superemocionada porque va a saber de su papá. Ay, si es el papá de MOMO, entonces es como nuestro papá también, o algo así, ¿no?"
+
+#. habla: Mass-Produced 100-Series Observational Unit
+#, fuzzy
+msgctxt "#86"
+msgid "Aaaah! MOMO! Everybody! "
+msgstr "¡Aaaah! ¡MOMO! ¡Todos!"
+
+#. habla: Mass-Produced 100-Series Observational Unit
+#, fuzzy
+msgctxt "#87"
+msgid "I knew I should have, like, taken her place. Like, if I had, then I don't think Albedo would have come, you know?"
+msgstr "Sabía que tendría que haber, tipo, ocupado su lugar. O sea, si lo hubiera hecho, creo que Albedo no habría venido, ¿sabes?"
+
+#. habla: Mass-Produced 100-Series Observational Unit
+#, fuzzy
+msgctxt "#88"
+msgid "chaos, are you, like, going right back out again?"
+msgstr "chaos, ¿ya te vas, tipo, otra vez?"
+
+#. habla: Mass-Produced 100-Series Observational Unit
+#, fuzzy
+msgctxt "#89"
+msgid "Take your time and marinate for a while, okay?"
+msgstr "Tómate tu tiempo y relájate un rato, ¿sí?"
+
+#. habla: Mass-Produced 100-Series Observational Unit
+#, fuzzy
+msgctxt "#90"
+msgid "Little Master, you owe me big! I worked, like, way hard to find you!"
+msgstr "¡Joven amo, me debe una enorme! ¡Trabajé, tipo, un montón para encontrarlo!"
+
+#. habla: Mass-Produced 100-Series Observational Unit
+#, fuzzy
+msgctxt "#91"
+msgid "I'm the one that, like, sherlocked the Elsa's location!"
+msgstr "¡Yo fui la que, o sea, investigó dónde estaba el Elsa!"
+
+#. habla: Mass-Produced 100-Series Observational Unit
+#, fuzzy
+msgctxt "#92"
+msgid "MOMO! MOMO! Omigawd, I'm so totally way thrilled!"
+msgstr "¡MOMO! ¡MOMO! ¡Ay, Dios mío, estoy superfeliz!"
+
+#. habla: Mass-Produced 100-Series Observational Unit
+#, fuzzy
+msgctxt "#93"
+msgid "Next time, just tell me and I'll totally take your place. Or something."
+msgstr "La próxima vez, solo avísame y ocupo tu lugar, en serio. O algo así."
+
+#. habla: Mass-Produced 100-Series Observational Unit
+#, fuzzy
+msgctxt "#94"
+msgid "Welcome back, everyone. I'm so like, ten shades of happiness to see you're all right and everything!"
+msgstr "Bienvenidos de vuelta, todos. ¡Estoy, o sea, felicísima de ver que están todos bien y todo!"
+
+#. habla: Mass-Produced 100-Series Observational Unit
+#, fuzzy
+msgctxt "#95"
+msgid "I worked way hard to sherlock the Elsa's location to save you. I'm, like, so stoked we made it."
+msgstr "Trabajé un montón para averiguar dónde estaba el Elsa y salvarlos. Estoy, tipo, superfeliz de que lo logramos."
+
+#. habla: Mass-Produced 100-Series Observational Unit
+#, fuzzy
+msgctxt "#96"
+msgid "chaos, everyone on the Elsa is safe! I'm, like, so happy!"
+msgstr "chaos, ¡todos los del Elsa están a salvo! ¡Estoy, tipo, tan feliz!"
+
+#. habla: Mass-Produced 100-Series Observational Unit
+#, fuzzy
+msgctxt "#97"
+msgid "Little Master, you aren't, like, going out there again, are you?"
+msgstr "Joven amo, no va a, tipo, salir otra vez, ¿no?"
+
+#. habla: Mass-Produced 100-Series Observational Unit
+#, fuzzy
+msgctxt "#98"
+msgid "Can you really win? No, I mean, like, please win! Promise!"
+msgstr "¿De verdad pueden ganar? No, o sea, ¡por favor, ganen! ¡Prométanlo!"
+
+#. habla: Mass-Produced 100-Series Observational Unit
+#, fuzzy
+msgctxt "#99"
+msgid "MOMO, aren't you, like, trippin' out?"
+msgstr "MOMO, ¿no estás, tipo, alucinando?"
+
+#. habla: Mass-Produced 100-Series Observational Unit
+#, fuzzy
+msgctxt "#100"
+msgid "Shut up! You're totally amazing. I'm like, \"I should totally learn from MOMO!\""
+msgstr "¡No puede ser! Eres superincreíble. Estoy, tipo: \"¡Tengo que aprender de MOMO!\"."
+
+#. habla: Mass-Produced 100-Series Observational Unit
+#, fuzzy
+msgctxt "#101"
+msgid "But I'm scared. Or something."
+msgstr "Pero tengo miedo. O algo así."
+
+#. habla: Mass-Produced 100-Series Observational Unit
+#, fuzzy
+msgctxt "#102"
+msgid "What is that thing? Is that, like, a Gnosis?"
+msgstr "¿Qué es esa cosa? ¿Es, tipo, un Gnosis?"
+
+#. habla: Mass-Produced 100-Series Observational Unit
+#, fuzzy
+msgctxt "#103"
+msgid "I'm totally trippin'! What do I do if that thing, like, stays in my memory?"
+msgstr "¡Estoy alucinando total! ¿Qué hago si esa cosa, tipo, se me queda en la memoria?"
+
+#. habla: Mass-Produced 100-Series Observational Unit
+#, fuzzy
+msgctxt "#104"
+msgid "Little Master! Everything's gonna be, like, okay, right?"
+msgstr "¡Joven amo! Todo va a estar, tipo, bien, ¿no?"
+
+#. habla: Mass-Produced 100-Series Observational Unit
+#, fuzzy
+msgctxt "#105"
+msgid "You're going to, like, stop that space-time anomaly, right? I totally know you can do it!"
+msgstr "Van a, tipo, detener esa anomalía espaciotemporal, ¿no? ¡Sé totalmente que pueden!"
+
+#. habla: Mass-Produced 100-Series Observational Unit
+#, fuzzy
+msgctxt "#106"
+msgid "Hi, Little Master. I heard you had a tough time on the highway."
+msgstr "Hola, joven amo. Supe que la pasó mal en la autopista."
+
+#. habla: Mass-Produced 100-Series Observational Unit
+#, fuzzy
+msgctxt "#107"
+msgid "We're still investigating the identity of the enemy."
+msgstr "Todavía estamos investigando la identidad del enemigo."
+
+#. habla: Mass-Produced 100-Series Observational Unit
+#, fuzzy
+msgctxt "#108"
+msgid "chaos, please take care of MOMO."
+msgstr "chaos, por favor, cuida de MOMO."
+
+#. habla: Mass-Produced 100-Series Observational Unit
+#, fuzzy
+msgctxt "#109"
+msgid "We don't know who that enemy was, but I don't think they're going to give up that easily."
+msgstr "No sabemos quién era ese enemigo, pero no creo que se rinda tan fácilmente."
+
+#. habla: Mass-Produced 100-Series Observational Unit
+#, fuzzy
+msgctxt "#110"
+msgid "Welcome to the Durandal! Because of the specialized nature of its missions, this ship makes use of a number of state-of-the-art technologies."
+msgstr "¡Bienvenidos al Durandal! Por la naturaleza especial de sus misiones, esta nave usa varias tecnologías de última generación."
+
+#. habla: Mass-Produced 100-Series Observational Unit
+#, fuzzy
+msgctxt "#111"
+msgid "Our sisters are also stationed throughout the ship."
+msgstr "Nuestras hermanas también están destinadas por toda la nave."
+
+#. habla: Mass-Produced 100-Series Observational Unit
+#, fuzzy
+msgctxt "#112"
+msgid "The 100-Series that were damaged are currently undergoing recalibration on the Durandal."
+msgstr "Las Serie 100 que resultaron dañadas se están recalibrando en el Durandal."
+
+#. habla: Mass-Produced 100-Series Observational Unit
+#, fuzzy
+msgctxt "#113"
+msgid "The damage was light, so they'll be fully operational soon, but MOMO..."
+msgstr "Los daños fueron leves, así que pronto estarán totalmente operativas, pero MOMO..."
+
+#. habla: Mass-Produced 100-Series Observational Unit
+#, fuzzy
+msgctxt "#114"
+msgid "chaos, do you know about the Vessel of Anima? You know a lot of details about the Miltian conflict, right?"
+msgstr "chaos, ¿sabes algo de la Vasija de Anima? Tú sabes muchos detalles del Conflicto de Miltia, ¿no?"
+
+#. habla: Mass-Produced 100-Series Observational Unit
+#, fuzzy
+msgctxt "#115"
+msgid "The Vessel of Anima originally belonged to the U-TIC Organization. If this information is correct, then we should assume that the enemy has a Vessel of Anima as well."
+msgstr "La Vasija de Anima pertenecía originalmente a la Organización U-TIC. Si esta información es correcta, deberíamos suponer que el enemigo también tiene una Vasija de Anima."
+
+#. habla: Mass-Produced 100-Series Observational Unit
+#, fuzzy
+msgctxt "#116"
+msgid "The U-TIC Organization, Professor Joachim Mizrahi, and the Vessel of Anima. Are all of these connected to the Zohar and the Gnosis as well?"
+msgstr "La Organización U-TIC, el profesor Joachim Mizrahi y la Vasija de Anima. ¿Todo esto también estará conectado con el Zohar y los Gnosis?"
+
+#. habla: Mass-Produced 100-Series Observational Unit
+#, fuzzy
+msgctxt "#117"
+msgid "MOMO! Don't worry. The other 100-Series are already back at their posts."
+msgstr "¡MOMO! No te preocupes. Las otras Serie 100 ya volvieron a sus puestos."
+
+#. habla: Mass-Produced 100-Series Observational Unit
+#, fuzzy
+msgctxt "#118"
+msgid "Please take care, MOMO."
+msgstr "Cuídate mucho, MOMO."
+
+#. habla: Mass-Produced 100-Series Observational Unit
+#, fuzzy
+msgctxt "#119"
+msgid "Craft equipped with a Vessel of Anima are given a codename known as E.S. within Vector. According to the data from Vector, they originally belonged to the U-TIC Organization."
+msgstr "Dentro de Vector, a las naves equipadas con una Vasija de Anima se les da un nombre en clave: E.S. Según los datos de Vector, pertenecían originalmente a la Organización U-TIC."
+
+#. habla: Mass-Produced 100-Series Observational Unit
+#, fuzzy
+msgctxt "#120"
+msgid "chaos, there are too many survivors for the Durandal to handle. Could you ask Captain Matthews if the Elsa can assist as well?"
+msgstr "chaos, hay demasiados sobrevivientes para que el Durandal pueda con todos. ¿Podrías preguntarle al capitán Matthews si el Elsa también puede ayudar?"
+
+#. habla: Mass-Produced 100-Series Observational Unit
+#, fuzzy
+msgctxt "#121"
+msgid "Little Master, we've sent out all the rescue ships from the Durandal to help the survivors, but the distress signals just keep pouring in!"
+msgstr "Joven amo, enviamos todas las naves de rescate del Durandal a ayudar a los sobrevivientes, ¡pero las señales de auxilio no paran de llegar!"
+
+#. habla: Mass-Produced 100-Series Observational Unit
+#, fuzzy
+msgctxt "#122"
+msgid "MOMO, everything's fine here, so please look after Little Master. Please protect him for us!"
+msgstr "MOMO, aquí está todo bien, así que, por favor, cuida al joven amo. ¡Protégelo por nosotras!"
+
+#. habla: Mass-Produced 100-Series Observational Unit
+#, fuzzy
+msgctxt "#123"
+msgid "We've detected a large number of distress calls from Proto Omega's point of origin."
+msgstr "Detectamos una gran cantidad de llamadas de auxilio desde el punto de origen de Proto Omega."
+
+#. habla: Mass-Produced 100-Series Observational Unit
+#, fuzzy
+msgctxt "#124"
+msgid "We have launched all rescue ships."
+msgstr "Lanzamos todas las naves de rescate."
+
+#. habla: Mass-Produced 100-Series Observational Unit
+#, fuzzy
+msgctxt "#125"
+msgid "We failed to track down the people known as Testament."
+msgstr "No logramos rastrear a las personas conocidas como Testament."
+
+#. habla: Mass-Produced 100-Series Observational Unit
+#, fuzzy
+msgctxt "#126"
+msgid "All sensors have been quiet since the disappearance of Proto Omega."
+msgstr "Todos los sensores están en silencio desde la desaparición de Proto Omega."
+
+#. habla: Mary
+#, fuzzy
+msgctxt "#127"
+msgid "Now, listen up here. Once you get on Old Miltia, we can't go riding to your rescue in the Durandal. Now go get 'em and come back alive!"
+msgstr "Bueno, escúchenme bien. Una vez que estén en la Antigua Miltia, no podemos ir a rescatarlos con el Durandal. ¡Así que vayan por ellos y vuelvan con vida!"
+
+#. habla: Mary
+#, fuzzy
+msgctxt "#128"
+msgid "Don't you fret none. The Elsa is good and ready. Though Captain Matthews was whining a bit."
+msgstr "No se preocupen para nada. El Elsa está listo y en forma. Aunque el capitán Matthews se quejó un poco."
+
+#. habla: Mary
+#, fuzzy
+msgctxt "#129"
+msgid "We ain't got the first clue as to what's going on inside there. Y'all come back safe now, y'hear?"
+msgstr "No tenemos la menor idea de lo que pasa ahí adentro. Vuelvan sanos y salvos, ¿me oyen?"
+
+#. habla: Mary
+#, fuzzy
+msgctxt "#130"
+msgid "Now calm down, Little Master. You ain't gonna stop that space-time anomaly if you ain't got your head on straight."
+msgstr "Cálmese, joven amo. No va a detener esa anomalía espaciotemporal si no tiene la cabeza en su lugar."
+
+#. habla: Shelley
+#, fuzzy
+msgctxt "#131"
+msgid "The emergency repairs to the Elsa are complete. Captain Matthews is standing by on the bridge and is ready to launch at any time."
+msgstr "Las reparaciones de emergencia del Elsa están terminadas. El capitán Matthews espera en el puente, listo para despegar en cualquier momento."
+
+#. habla: Shelley
+#, fuzzy
+msgctxt "#132"
+msgid "The Durandal will remain in this region and assist the Federation fleet."
+msgstr "El Durandal se quedará en esta región para ayudar a la flota de la Federación."
+
+#. habla: Shelley
+#, fuzzy
+msgctxt "#133"
+msgid "In order to stop Proto Omega, you must disconnect the Zohar at its center."
+msgstr "Para detener a Proto Omega, deben desconectar el Zohar que está en su centro."
+
+#. habla: Shelley
+#, fuzzy
+msgctxt "#134"
+msgid "It certainly seems like the only way to stop that thing is to infiltrate it."
+msgstr "Sin duda, parece que la única forma de detener esa cosa es infiltrarse en ella."
+
+#. habla: Shelley
+#, fuzzy
+msgctxt "#135"
+msgid "It will take a little time to stock the Elsa, but please don't worry. We'll make sure it's ready in time."
+msgstr "Llevará un poco de tiempo abastecer el Elsa, pero no se preocupen. Nos aseguraremos de que esté listo a tiempo."
+
+#. habla: Shion
+#, fuzzy
+msgctxt "#136"
+msgid "Jr..."
+msgstr "Jr..."
+
+#. habla: KOS-MOS
+#, fuzzy
+msgctxt "#137"
+msgid "Unfortunately, there is an abnormality in my phase transfer unit due to the earlier battle. I am currently unable to access my Tertiary Weapons System."
+msgstr "Lamentablemente, por la batalla anterior hay una anomalía en mi unidad de transferencia de fase. Por el momento no puedo acceder a mi Sistema de Armas Terciario."
+
+#. habla: Jin
+#, fuzzy
+msgctxt "#138"
+msgid "Can we really stop that space-time anomaly by ourselves?"
+msgstr "¿De verdad podemos detener esa anomalía espaciotemporal nosotros solos?"
+
+#, fuzzy
+msgctxt "#139"
+msgid "Go down?"
+msgstr "¿Bajar?"
+
+#. Opciones: una por línea. Mantener 2 líneas en el mismo orden.
+#, fuzzy
+msgctxt "#140"
+msgid ""
+"Yes\n"
+"No"
+msgstr ""
+"Sí\n"
+"No"

@@ -1,0 +1,142 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Xenosaga Episode II - traducción al español\n"
+"Language: es_419\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Xeno-Source: 0:cf/en/sc1570.sbl\n"
+
+#. habla: Shion
+#, fuzzy
+msgctxt "#0"
+msgid ""
+"...Oh, all right. I'm really not in the mood for it, but I'll go home for a visit anyway. It's a little ways from the city, but not that far.\n"
+"...\n"
+"...\n"
+"*Sigh*"
+msgstr ""
+"...Bueno, está bien. La verdad es que no tengo ganas, pero igual voy a ir a casa de visita. Está un poco lejos de la ciudad, pero no tanto.\n"
+"...\n"
+"...\n"
+"*Suspiro*"
+
+#, fuzzy
+msgctxt "#1"
+msgid "This looks like a good open space. Would you like to put up a poster?"
+msgstr "Parece un buen espacio libre. ¿Quieres poner un póster?"
+
+#. Opciones: una por línea. Mantener 2 líneas en el mismo orden.
+#, fuzzy
+msgctxt "#2"
+msgid ""
+"Yes\n"
+"No"
+msgstr ""
+"Sí\n"
+"No"
+
+#, fuzzy
+msgctxt "#3"
+msgid "Transporting and projecting a poster."
+msgstr "Transportando y proyectando el póster."
+
+#, fuzzy
+msgctxt "#4"
+msgid "Canceling poster."
+msgstr "Se canceló el póster."
+
+#. habla: Boss
+#, fuzzy
+msgctxt "#5"
+msgid "Shion, don't worry your brother so much! You are all the family he has!"
+msgstr "¡Shion, no preocupes tanto a tu hermano! ¡Eres toda la familia que tiene!"
+
+#. habla: Boss
+#, fuzzy
+msgctxt "#6"
+msgid "I should go back to my home sometime, too."
+msgstr "Yo también debería volver a mi casa alguna vez."
+
+#. habla: Boss
+#, fuzzy
+msgctxt "#7"
+msgid "Oh, by the way, you probably didn't know, but I hired a new cook named Chop. He's kind of a strange guy, though. Would you mind going to the kitchen and talking to him?"
+msgstr "Ah, por cierto, seguro que no lo sabías, pero contraté a un cocinero nuevo que se llama Chop. Aunque es un tipo bastante raro. ¿Te molestaría ir a la cocina a hablar con él?"
+
+#. habla: Boss
+#, fuzzy
+msgctxt "#8"
+msgid "I feel for you. Shion's at a difficult age. You have to approach her carefully."
+msgstr "Te entiendo. Shion está en una edad difícil. Tienes que tratarla con cuidado."
+
+#. habla: Boss
+#, fuzzy
+msgctxt "#9"
+msgid "Oh, by the way, you know that new cook, Chop? Something seems to be bugging him. Would you mind going to the kitchen and talking to him?"
+msgstr "Ah, por cierto, ¿conoces al cocinero nuevo, Chop? Parece que algo le preocupa. ¿Te molestaría ir a la cocina a hablar con él?"
+
+#. habla: Boss
+#, fuzzy
+msgctxt "#10"
+msgid "What do you think of my curry? Pretty good, huh? My dream is to spread this recipe throughout the universe!"
+msgstr "¿Qué te parece mi curry? Bastante bueno, ¿eh? ¡Mi sueño es difundir esta receta por todo el universo!"
+
+#. habla: Boss
+#, fuzzy
+msgctxt "#11"
+msgid "What? Shion is making this dish, too? Hahaha! If I were twenty years younger, I would've asked her to marry me."
+msgstr "¿Qué? ¿Shion también prepara este plato? ¡Jajaja! Si tuviera veinte años menos, le habría pedido que se casara conmigo."
+
+#. habla: Boss
+#, fuzzy
+msgctxt "#12"
+msgid "By the way, I have a special favor to ask you. I got this new cook named Chop, but there seems to be something bugging him. Would you mind going to the kitchen and talking to him?"
+msgstr "Por cierto, tengo un favor especial que pedirte. Contraté a un cocinero nuevo que se llama Chop, pero parece que algo le preocupa. ¿Te molestaría ir a la cocina a hablar con él?"
+
+#. habla: Valentino
+#, fuzzy
+msgctxt "#13"
+msgid "I'm looking for a cool partner who's perfect for someone as cool as me! I wonder where I can find someone like that."
+msgstr "¡Busco un compañero con estilo, perfecto para alguien con tanto estilo como yo! Me pregunto dónde puedo encontrar a alguien así."
+
+#. habla: Valentino
+#, fuzzy
+msgctxt "#14"
+msgid "I've been thinking, as long as the dude gets the groove, my partner doesn't have to be human."
+msgstr "Estuve pensando que, mientras el tipo capte el ritmo, mi compañero no tiene que ser humano."
+
+#. habla: Valentino
+#, fuzzy
+msgctxt "#15"
+msgid "I'm looking for a cool partner who's perfect for someone as cool as me! I wonder where I can find someone like that."
+msgstr "¡Busco un compañero con estilo, perfecto para alguien con tanto estilo como yo! Me pregunto dónde puedo encontrar a alguien así."
+
+#. habla: Valentino
+#, fuzzy
+msgctxt "#16"
+msgid "What?! My new partner? A cat? And he gets my groove? Okay then, he's my partner!"
+msgstr "¡¿Qué?! ¿Mi nuevo compañero? ¿Un gato? ¿Y capta mi ritmo? ¡Muy bien, entonces es mi compañero!"
+
+#, fuzzy
+msgctxt "#17"
+msgid "You found an owner for Loop!"
+msgstr "¡Encontraste dueño para Loop!"
+
+#. habla: Valentino
+#, fuzzy
+msgctxt "#18"
+msgid "Yeah, this guy is great! He's one of the few cats who gets what it means to be hip!"
+msgstr "¡Sí, este tipo es genial! ¡Es uno de los pocos gatos que entienden lo que es estar a la moda!"
+
+#. habla: Valentino
+#, fuzzy
+msgctxt "#19"
+msgid "Thanks for finding me such a great partner!"
+msgstr "¡Gracias por encontrarme un compañero tan genial!"
+
+#. habla: Loop
+#, fuzzy
+msgctxt "#20"
+msgid "Meow meow meow. ♪"
+msgstr "Miau miau miau. ♪"

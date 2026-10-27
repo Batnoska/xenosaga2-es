@@ -1,0 +1,80 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Xenosaga Episode II - traducción al español\n"
+"Language: es_419\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Xeno-Source: 0:model/map/en/E2_OMG05.sbl\n"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#0"
+msgid "$zoom13;Wash Away Sins (Strike/Aura/L Stun)"
+msgstr "$zoom13;Lavar los pecados (Golpe/Aura/Aturdimiento L)"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#1"
+msgid "$zoom13;Bewilderment (Slash)"
+msgstr "$zoom13;Desconcierto (Corte)"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#2"
+msgid "$zoom13;Offense: Hypocrisy (Strike)"
+msgstr "$zoom13;Pecado: Hipocresía (Golpe)"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#3"
+msgid "$zoom13;The Lord's Sword"
+msgstr "$zoom13;La espada del Señor"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#4"
+msgid "$zoom13;Giudecca's Breath"
+msgstr "$zoom13;Aliento de Judeca"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#5"
+msgid "$zoom13;Gaia's Tremor (Pierce)"
+msgstr "$zoom13;Temblor de Gaia (Perforación)"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#6"
+msgid "$zoom13;Fury (Pierce)"
+msgstr "$zoom13;Furia (Perforación)"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#7"
+msgid "$zoom13;Malacoda's Betrayal"
+msgstr "$zoom13;Traición de Malacoda"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#8"
+msgid "$zoom13;Point Blank Rapid-Fire (Strike/Pierce)"
+msgstr "$zoom13;Ráfaga a quemarropa (Golpe/Perforación)"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#9"
+msgid "$zoom15;$col7AF9FB;Increased laser output."
+msgstr "$zoom15;$col7AF9FB;Aumentó la potencia del láser."
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#10"
+msgid "$zoom13;Penetrating Laser (Beam)"
+msgstr "$zoom13;Láser penetrante (Haz)"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#11"
+msgid "$zoom13;Head Hunt (Strike/Beam)"
+msgstr "$zoom13;Head Hunt (Golpe/Haz)"

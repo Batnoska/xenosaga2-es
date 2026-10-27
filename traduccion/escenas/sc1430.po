@@ -1,0 +1,453 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Xenosaga Episode II - traducción al español\n"
+"Language: es_419\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Xeno-Source: 0:cf/en/sc1430.sbl\n"
+
+#. habla: Muramatsu
+#, fuzzy
+msgctxt "#1"
+msgid "KOS-MOS can transport and use specialized weapons during combat. The weapon transport command can be used by selecting SPECIAL from the Command menu."
+msgstr "KOS-MOS puede transportar y usar armas especiales durante el combate. El comando de transporte de armas se usa eligiendo TÉCNICA en el menú de comandos."
+
+#. habla: Martin
+#, fuzzy
+msgctxt "#2"
+msgid "I'm an inspector dispatched from the Federation government. A large portion of the Federation's equipment is manufactured by Vector, so it is necessary to learn their manufacturing process."
+msgstr "Soy un inspector enviado por el gobierno de la Federación. Gran parte del equipamiento de la Federación lo fabrica Vector, así que es necesario conocer su proceso de fabricación."
+
+#. habla: Martin
+#, fuzzy
+msgctxt "#3"
+msgid "Vector has helped us quite a bit. However, it would be nice if they lowered their prices a little."
+msgstr "Vector nos ayudó bastante. Sin embargo, estaría bien que bajaran un poco sus precios."
+
+#. habla: Martin
+#, fuzzy
+msgctxt "#4"
+msgid "I received word that there was an accident at the U.M.N. Control Center. I'm very worried about what happened since the U.M.N. is under Federation jurisdiction."
+msgstr "Recibí aviso de que hubo un accidente en el Centro de Control de la U.M.N. Me preocupa mucho lo que pasó, ya que la U.M.N. está bajo jurisdicción de la Federación."
+
+#. habla: Martin
+#, fuzzy
+msgctxt "#5"
+msgid "The Federation fleet's main force is headed for Old Miltian space. What's going on?"
+msgstr "La fuerza principal de la flota de la Federación se dirige al espacio de la Antigua Miltia. ¿Qué está pasando?"
+
+#. habla: Martin
+#, fuzzy
+msgctxt "#6"
+msgid "Well, there's no one that can defeat the Federation Fleet!"
+msgstr "Bueno, ¡no hay nadie que pueda derrotar a la flota de la Federación!"
+
+#. habla: Martin
+#, fuzzy
+msgctxt "#7"
+msgid "I can't believe it! I received a report that the Federation fleet was annihilated. Who could they have been fighting?!"
+msgstr "¡No puedo creerlo! Recibí un informe de que la flota de la Federación fue aniquilada. ¡¿Contra quién estaban peleando?!"
+
+#. habla: Martin
+#, fuzzy
+msgctxt "#8"
+msgid "What in the world happened in Old Miltian space? I just pray that as many soldiers are rescued as possible."
+msgstr "¿Qué demonios pasó en el espacio de la Antigua Miltia? Solo rezo para que rescaten a la mayor cantidad posible de soldados."
+
+#. habla: Patricia
+#, fuzzy
+msgctxt "#9"
+msgid "I wonder where on the Dämmerung the CEO's office is. That place is so huge, I don't have the slightest idea."
+msgstr "Me pregunto en qué parte del Dämmerung estará la oficina del presidente. Ese lugar es tan enorme que no tengo la menor idea."
+
+#. habla: Patricia
+#, fuzzy
+msgctxt "#10"
+msgid "So, what do you think? Vector's Second Division is pretty big, isn't it?"
+msgstr "Y bien, ¿qué le parece? La Segunda División de Vector es bastante grande, ¿no?"
+
+#. habla: Patricia
+#, fuzzy
+msgctxt "#11"
+msgid "But Vector's main facility, the Dämmerung, is hundreds of times bigger. You'd be amazed if you saw it."
+msgstr "Pero la instalación principal de Vector, el Dämmerung, es cientos de veces más grande. Si la viera, se asombraría."
+
+#. habla: Patricia
+#, fuzzy
+msgctxt "#12"
+msgid "It seems the Realian analysis failed, so now they're requesting help from us. Wait, why are you going, Chief Uzuki? You're the chief of First Division."
+msgstr "Parece que el análisis de la Realian falló, así que ahora nos piden ayuda. Un momento, ¿por qué va usted, jefa Uzuki? Usted es la jefa de la Primera División."
+
+#. habla: Patricia
+#, fuzzy
+msgctxt "#13"
+msgid "Realians are under Third Division's jurisdiction. You know the rules!"
+msgstr "Los Realians están bajo la jurisdicción de la Tercera División. ¡Usted conoce las reglas!"
+
+#. habla: Patricia
+#, fuzzy
+msgctxt "#14"
+msgid "This is pretty serious, Chief Uzuki. They've declared a high security alert, so there may be an emergency assembly of all chief-ranked staff in every division."
+msgstr "Esto es bastante grave, jefa Uzuki. Declararon una alerta de seguridad alta, así que quizá haya una reunión de emergencia de todos los jefes de cada división."
+
+#. habla: Patricia
+#, fuzzy
+msgctxt "#15"
+msgid "Vector is really paying attention to how KOS-MOS is used in this emergency."
+msgstr "Vector está muy pendiente de cómo se usa a KOS-MOS en esta emergencia."
+
+#. habla: Patricia
+#, fuzzy
+msgctxt "#16"
+msgid "Oh, KOS-MOS! How long has it been since I saw you? I think this is the first time I've actually seen you moving, though."
+msgstr "¡Ah, KOS-MOS! ¿Cuánto hace que no te veía? Aunque creo que es la primera vez que te veo moverte."
+
+#. habla: Patricia
+#, fuzzy
+msgctxt "#17"
+msgid "It's nice to finally meet you, KOS-MOS!"
+msgstr "¡Por fin te conozco, KOS-MOS!"
+
+#. habla: Patricia
+#, fuzzy
+msgctxt "#18"
+msgid "You want to hear about the Dämmerung? Sure, I'd be happy to tell you."
+msgstr "¿Quieres saber sobre el Dämmerung? Claro, te cuento con gusto."
+
+#. habla: Patricia
+#, fuzzy
+msgctxt "#19"
+msgid "The Dämmerung is a gigantic colony that is more than 1,000 kilometers long. It houses everything from Vector Group's core functions and employee residences to recreational facilities such as swimming pools and theaters."
+msgstr "El Dämmerung es una colonia gigantesca de más de 1.000 kilómetros de largo. Alberga de todo, desde las funciones centrales del Grupo Vector y las viviendas de los empleados hasta instalaciones recreativas como piscinas y teatros."
+
+#. habla: Patricia
+#, fuzzy
+msgctxt "#20"
+msgid "Chief Uzuki, have you received any instructions from headquarters? They don't plan to throw KOS-MOS at that thing, do they?"
+msgstr "Jefa Uzuki, ¿recibió instrucciones del cuartel general? No pensarán lanzar a KOS-MOS contra esa cosa, ¿no?"
+
+#. habla: Patricia
+#, fuzzy
+msgctxt "#21"
+msgid "It's not like Miyuki's in charge, so they wouldn't do something like that, right?"
+msgstr "No es que Miyuki esté a cargo, así que no harían algo así, ¿verdad?"
+
+#. habla: Patricia
+#, fuzzy
+msgctxt "#22"
+msgid "KOS-MOS, your help is needed the most during times like this. Your actions may decide the fate of the star cluster."
+msgstr "KOS-MOS, en momentos como este es cuando más se necesita tu ayuda. Tus acciones podrían decidir el destino del cúmulo estelar."
+
+#. habla: Patricia
+#, fuzzy
+msgctxt "#23"
+msgid "We're all counting on you."
+msgstr "Todos contamos contigo."
+
+#. habla: Patricia
+#, fuzzy
+msgctxt "#24"
+msgid "You want to know about the Dämmerung at a time like this?! Oh, fine. I'll tell you."
+msgstr "¡¿Quieres saber del Dämmerung en un momento así?! Ay, está bien. Te cuento."
+
+#. habla: Patricia
+#, fuzzy
+msgctxt "#25"
+msgid "Dämmerung means \"the sunshine at daybreak.\" Although right now, the future of the star cluster looks pitch black thanks to that thing."
+msgstr "Dämmerung significa \"la luz del amanecer\". Aunque ahora mismo, el futuro del cúmulo estelar se ve negrísimo por culpa de esa cosa."
+
+#. habla: Thelma
+#, fuzzy
+msgctxt "#26"
+msgid "Oh, Chief Uzuki. What? The Y-Data? I'm afraid I don't know much about it."
+msgstr "Ah, jefa Uzuki. ¿Qué? ¿Los Y-Data? Me temo que no sé mucho de eso."
+
+#. habla: Thelma
+#, fuzzy
+msgctxt "#27"
+msgid "I'd think the U.M.N. staff would know more about the Y-Data."
+msgstr "Creo que el personal de la U.M.N. sabrá más sobre los Y-Data."
+
+#. habla: Thelma
+#, fuzzy
+msgctxt "#28"
+msgid "What do you think of our CEO? He oversees all of Vector Group by himself. I could definitely fall for him, but I've never seen him for real. We only hear his voice. I mean, I've heard that even executives and government officials don't get to see him personally. And no one knows how old he is."
+msgstr "¿Qué opina de nuestro presidente? Dirige él solo todo el Grupo Vector. Podría enamorarme de él, pero nunca lo vi en persona. Solo escuchamos su voz. O sea, dicen que ni los directivos ni los funcionarios del gobierno llegan a verlo en persona. Y nadie sabe qué edad tiene."
+
+#. habla: Thelma
+#, fuzzy
+msgctxt "#29"
+msgid "When you stop and think about it, it's really strange. I joined the company twelve years ago and he was already here, so how old is he now?"
+msgstr "Si uno se pone a pensarlo, es muy raro. Entré a la empresa hace doce años y él ya estaba aquí, así que, ¿qué edad tendrá ahora?"
+
+#. habla: Thelma
+#, fuzzy
+msgctxt "#30"
+msgid "Do you know how old the CEO is, Chief Uzuki? I discussed the CEO's age with some visitors a little while back, but no one had any idea. From his voice, he sounds like he's in his twenties, but..."
+msgstr "¿Sabe qué edad tiene el presidente, jefa Uzuki? Hace un tiempo lo hablé con unos visitantes, pero nadie tenía idea. Por su voz, parece que tiene veintitantos, pero..."
+
+#. habla: Thelma
+#, fuzzy
+msgctxt "#31"
+msgid "Do you think he's using really advanced life-prolonging nanomachines? "
+msgstr "¿Cree que usa nanomáquinas de prolongación de la vida muy avanzadas?"
+
+#. habla: Thelma
+#, fuzzy
+msgctxt "#32"
+msgid "I wonder how many people who were actually there at the Miltian Conflict fourteen years ago are still alive today."
+msgstr "Me pregunto cuántas de las personas que estuvieron en el Conflicto de Miltia, hace catorce años, siguen vivas hoy."
+
+#. habla: Thelma
+#, fuzzy
+msgctxt "#33"
+msgid "None of my military friends who were deployed there returned."
+msgstr "Ninguno de mis amigos militares que mandaron allí volvió."
+
+#. habla: Thelma
+#, fuzzy
+msgctxt "#34"
+msgid "I wonder if a lot more people could have been saved if you were deployed during the Miltian Conflict fourteen years ago."
+msgstr "Me pregunto si se podría haber salvado a mucha más gente si a usted la hubieran desplegado en el Conflicto de Miltia hace catorce años."
+
+#. habla: Thelma
+#, fuzzy
+msgctxt "#35"
+msgid "The Immigrant Fleet? I haven't heard much, but based on their weaponry, it seems they have quite advanced technology. I wonder if they're being backed by some corporation?"
+msgstr "¿La Flota de Inmigrantes? No sé mucho, pero por su armamento parece que tienen tecnología bastante avanzada. ¿Los respaldará alguna corporación?"
+
+#. habla: Thelma
+#, fuzzy
+msgctxt "#36"
+msgid "Shion, do you think this is it? Is this the end for all of us?"
+msgstr "Shion, ¿crees que esto es todo? ¿Es el fin para todos nosotros?"
+
+#. habla: Thelma
+#, fuzzy
+msgctxt "#37"
+msgid "Maybe there's a connection between that weird thing and the conflict fourteen years ago...Not that you'd know anything about it."
+msgstr "Quizá haya alguna relación entre esa cosa rara y el conflicto de hace catorce años... Aunque no creo que sepas nada de eso."
+
+#. habla: Thelma
+#, fuzzy
+msgctxt "#38"
+msgid "This battle is way beyond mobile weapons and soldiers! Even the Federation fleet was wiped out in an instant."
+msgstr "¡Esta batalla supera por mucho a las armas móviles y a los soldados! Hasta la flota de la Federación quedó aniquilada en un instante."
+
+#. habla: Narcissus
+#, fuzzy
+msgctxt "#39"
+msgid "What you're about to see is the legendary Vector Power Battery! Are you interested?"
+msgstr "¡Lo que estás por ver es la legendaria Batería de Energía Vector! ¿Te interesa?"
+
+#. Opciones: una por línea. Mantener 2 líneas en el mismo orden.
+#, fuzzy
+msgctxt "#40"
+msgid ""
+"Yeah, I'm interested.\n"
+"Sorry, I'm in a hurry."
+msgstr ""
+"Sí, me interesa.\n"
+"Perdón, tengo prisa."
+
+#. habla: Narcissus
+#, fuzzy
+msgctxt "#41"
+msgid "Good answer! This baby is a special rechargeable battery that I finally managed to get my hands on! The only problem is, I have absolutely no use for it! The only things that use batteries like this these days are droid maintenance monitors. I saw it at an auction and just had to get it because they're so rare. Now I just want someone to take it off my hands."
+msgstr "¡Buena respuesta! ¡Esta preciosura es una batería recargable especial que por fin conseguí! ¡El único problema es que no tengo absolutamente ningún uso para ella! Hoy en día, lo único que usa baterías así son los monitores de mantenimiento de droides. La vi en una subasta y tuve que comprarla porque son muy raras. Ahora solo quiero que alguien se la quede."
+
+#. habla: Narcissus
+#, fuzzy
+msgctxt "#42"
+msgid "*Sigh* So, I can't get your attention even with something like this, huh?"
+msgstr "*Suspiro* Así que ni con algo así consigo llamar tu atención, ¿eh?"
+
+#. habla: Narcissus
+#, fuzzy
+msgctxt "#43"
+msgid "Hey! It's KOS-MOS! What are you doing here? Wait, I know! You're after my precious treasure!"
+msgstr "¡Oye! ¡Es KOS-MOS! ¿Qué haces aquí? ¡Ah, ya sé! ¡Vienes por mi preciado tesoro!"
+
+#. habla: Narcissus
+#, fuzzy
+msgctxt "#44"
+msgid "What? What's my treasure? I can't tell you. I might tell Chief Uzuki, though."
+msgstr "¿Qué? ¿Cuál es mi tesoro? No te lo puedo decir. Aunque quizá se lo cuente a la jefa Uzuki."
+
+#. habla: Narcissus
+#, fuzzy
+msgctxt "#45"
+msgid "Do you know about the Vector Power Battery that was all the rage among robot enthusiasts a long time ago?"
+msgstr "¿Conoces la Batería de Energía Vector, que hace tiempo causaba furor entre los fanáticos de los robots?"
+
+#. Opciones: una por línea. Mantener 2 líneas en el mismo orden.
+#, fuzzy
+msgctxt "#46"
+msgid ""
+"Yes\n"
+"No"
+msgstr ""
+"Sí\n"
+"No"
+
+#. habla: Narcissus
+#, fuzzy
+msgctxt "#47"
+msgid "So! You must be pretty into robots yourself!"
+msgstr "¡Vaya! ¡Así que a ti también te encantan los robots!"
+
+#. habla: Narcissus
+#, fuzzy
+msgctxt "#48"
+msgid "Oh? It's a small rechargeable battery. I finally got a hold of one recently!"
+msgstr "¿Ah, no? Es una pequeña batería recargable. ¡Hace poco por fin conseguí una!"
+
+#. habla: Narcissus
+#, fuzzy
+msgctxt "#49"
+msgid "You don't need the battery anymore? Well, anyway, I'm glad I could help!"
+msgstr "¿Ya no necesitas la batería? Bueno, de todos modos, ¡me alegra haber ayudado!"
+
+#. habla: Narcissus
+#, fuzzy
+msgctxt "#50"
+msgid "What? You want my Power Battery? Well, I don't have any use for it, so, okay. Here you go!"
+msgstr "¿Qué? ¿Quieres mi Batería de Energía? Bueno, no la uso para nada, así que está bien. ¡Aquí tienes!"
+
+#, fuzzy
+msgctxt "#51"
+msgid "You obtained the Power Battery."
+msgstr "Obtuviste la Batería de Energía."
+
+#. habla: Narcissus
+#, fuzzy
+msgctxt "#52"
+msgid "The Power Battery is rechargeable, but there's a limit to its capacity. If it stops working, bring it to me and I'll charge it for you! "
+msgstr "La Batería de Energía es recargable, pero su capacidad tiene un límite. Si deja de funcionar, ¡tráemela y te la cargo!"
+
+#. habla: Narcissus
+#, fuzzy
+msgctxt "#53"
+msgid "The Power Battery is at full capacity! It should work fine now! By the way, what are you using this for?"
+msgstr "¡La Batería de Energía está al máximo! ¡Ya debería funcionar bien! Por cierto, ¿para qué la usas?"
+
+#. habla: Narcissus
+#, fuzzy
+msgctxt "#54"
+msgid "Oh, the Power Battery's charge is low. Wait just a second! I'll fill it right up."
+msgstr "Ah, a la Batería de Energía le queda poca carga. ¡Espera un segundo! Te la lleno enseguida."
+
+#. habla: Narcissus
+#, fuzzy
+msgctxt "#55"
+msgid "Here you go. Now you can use it for a while again!"
+msgstr "Aquí tienes. ¡Ya puedes usarla un tiempo más!"
+
+#. habla: Narcissus
+#, fuzzy
+msgctxt "#56"
+msgid "How was my battery? Was it useful? "
+msgstr "¿Qué tal mi batería? ¿Te sirvió?"
+
+#. habla: Narcissus
+#, fuzzy
+msgctxt "#57"
+msgid "I'd do anything to help you, Chief Uzuki!"
+msgstr "¡Haría cualquier cosa por ayudarla, jefa Uzuki!"
+
+#. habla: Narcissus
+#, fuzzy
+msgctxt "#58"
+msgid "Hi, KOS-MOS. You be sure and listen to what Chief Uzuki tells you."
+msgstr "Hola, KOS-MOS. Asegúrate de hacerle caso a la jefa Uzuki."
+
+#. habla: Narcissus
+#, fuzzy
+msgctxt "#59"
+msgid "If anything happens to Chief Uzuki, you'll have to answer to me! Well, not that I could really do anything to you..."
+msgstr "¡Si a la jefa Uzuki le pasa algo, vas a tener que vértelas conmigo! Bueno, no es que yo pudiera hacerte algo..."
+
+#. habla: Narcissus
+#, fuzzy
+msgctxt "#60"
+msgid "What in the world did you use that Power Battery for?"
+msgstr "¿Para qué demonios usaste esa Batería de Energía?"
+
+#. habla: Narcissus
+#, fuzzy
+msgctxt "#61"
+msgid "I never dreamt there'd be somebody who would want something like that. What? Do Realians dream? Hey, it was just a figure of speech!"
+msgstr "Nunca soñé que alguien fuera a querer algo así. ¿Qué? ¿Los Realians sueñan? ¡Oye, era solo una forma de hablar!"
+
+#. habla: Shion
+#, fuzzy
+msgctxt "#62"
+msgid "What's up? Isn't it about time for MOMO's analysis to begin?"
+msgstr "¿Qué pasa? ¿No está por empezar el análisis de MOMO?"
+
+#. habla: Shion
+#, fuzzy
+msgctxt "#63"
+msgid "You should hurry over there. I'm sure she's feeling lonely."
+msgstr "Deberías ir para allá. Seguro que se siente sola."
+
+#. habla: Allen
+#, fuzzy
+msgctxt "#64"
+msgid "Chief. Please don't do anything reckless."
+msgstr "Jefa. Por favor, no hagas ninguna locura."
+
+#. habla: Allen
+#, fuzzy
+msgctxt "#65"
+msgid "This is terrible!"
+msgstr "¡Esto es terrible!"
+
+#. habla: Allen
+#, fuzzy
+msgctxt "#66"
+msgid "I think it's going to take a while to get help from Third Division. I hope MOMO will be all right until then."
+msgstr "Creo que la ayuda de la Tercera División va a tardar un poco. Espero que MOMO esté bien hasta entonces."
+
+#. habla: Shion
+#, fuzzy
+msgctxt "#67"
+msgid "Allen, could I get you to arrange the equipment transfer from Third Division?"
+msgstr "Allen, ¿podrías encargarte del traslado del equipo de la Tercera División?"
+
+#. habla: Allen
+#, fuzzy
+msgctxt "#68"
+msgid "Huh? Sure, no problem, but...Are you planning on..."
+msgstr "¿Eh? Claro, no hay problema, pero... ¿Estás pensando en...?"
+
+#. habla: Shion
+#, fuzzy
+msgctxt "#69"
+msgid "Yeah, I'm going to go. I can't just sit here and wait."
+msgstr "Sí, voy a ir. No puedo quedarme aquí esperando."
+
+#. habla: Allen
+#, fuzzy
+msgctxt "#70"
+msgid "I knew it."
+msgstr "Lo sabía."
+
+#. habla: Allen
+#, fuzzy
+msgctxt "#71"
+msgid "Just so you know, you'll be exceeding your authority. I don't think that's a good idea."
+msgstr "Para que lo sepas, vas a estar excediendo tu autoridad. No creo que sea buena idea."
+
+#. habla: Shion
+#, fuzzy
+msgctxt "#72"
+msgid "Don't worry, I'll take the blame. Nothing will happen to you. Thanks for your help, then."
+msgstr "No te preocupes, yo me hago responsable. A ti no te va a pasar nada. Gracias por tu ayuda, entonces."
+
+#. habla: Allen
+#, fuzzy
+msgctxt "#73"
+msgid "Hey, wait, Chief!"
+msgstr "¡Oye, espera, jefa!"

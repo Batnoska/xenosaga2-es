@@ -1,0 +1,187 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Xenosaga Episode II - traducción al español\n"
+"Language: es_419\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Xeno-Source: 1:movie/en/s010700.txt\n"
+
+#. tiempo 01:24:23
+#. Subtítulo: un tramo de la frase, sincronizado con la voz. Máximo 2 líneas.
+#, fuzzy
+msgctxt "L24"
+msgid "You're a sad sight, Uzuki,"
+msgstr "Das lástima, Uzuki,"
+
+#. tiempo 01:27:00
+#. Subtítulo: un tramo de la frase, sincronizado con la voz. Máximo 2 líneas.
+#. viene de: You're a sad sight, Uzuki,
+#, fuzzy
+msgctxt "L26"
+msgid "even with your so-called reinforcements."
+msgstr "incluso con tus supuestos refuerzos."
+
+#. tiempo 01:30:10
+#. Subtítulo: un tramo de la frase, sincronizado con la voz. Máximo 2 líneas.
+#, fuzzy
+msgctxt "L27"
+msgid "Pathetic."
+msgstr "Patético."
+
+#. tiempo 01:31:20
+#. Subtítulo: un tramo de la frase, sincronizado con la voz. Máximo 2 líneas.
+#, fuzzy
+msgctxt "L28"
+msgid "You're out of your league."
+msgstr "No estás a mi altura."
+
+#. tiempo 01:33:15
+#. Subtítulo: un tramo de la frase, sincronizado con la voz. Máximo 2 líneas.
+#, fuzzy
+msgctxt "L29"
+msgid ""
+"Why, it's clear now that you\n"
+"never even had a chance."
+msgstr ""
+"Es evidente que nunca\n"
+"tuviste la menor oportunidad."
+
+#. tiempo 01:38:09
+#. Subtítulo: un tramo de la frase, sincronizado con la voz. Máximo 2 líneas.
+#, fuzzy
+msgctxt "L32"
+msgid "Captain, you're hurt!"
+msgstr "¡Capitán, está herido!"
+
+#. tiempo 01:45:20
+#. Subtítulo: un tramo de la frase, sincronizado con la voz. Máximo 2 líneas.
+#, fuzzy
+msgctxt "L35"
+msgid "It's...it's from earlier."
+msgstr "Es... es de antes."
+
+#. tiempo 01:49:20
+#. Subtítulo: un tramo de la frase, sincronizado con la voz. Máximo 2 líneas.
+#, fuzzy
+msgctxt "L37"
+msgid "It's nothing to worry about."
+msgstr "No hay de qué preocuparse."
+
+#. tiempo 01:52:09
+#. Subtítulo: un tramo de la frase, sincronizado con la voz. Máximo 2 líneas.
+#, fuzzy
+msgctxt "L38"
+msgid "If you'll pardon the cliché, it's just a scratch."
+msgstr "Perdonen el cliché, pero es solo un rasguño."
+
+#. tiempo 02:04:11
+#. Subtítulo: un tramo de la frase, sincronizado con la voz. Máximo 2 líneas.
+#, fuzzy
+msgctxt "L42"
+msgid "So it's begun."
+msgstr "Así que ya empezó."
+
+#. tiempo 02:09:19
+#. Subtítulo: un tramo de la frase, sincronizado con la voz. Máximo 2 líneas.
+#, fuzzy
+msgctxt "L45"
+msgid "This planet is finished."
+msgstr "Este planeta está acabado."
+
+#. tiempo 02:12:19
+#. Subtítulo: un tramo de la frase, sincronizado con la voz. Máximo 2 líneas.
+#, fuzzy
+msgctxt "L46"
+msgid "There's no point in staying any longer."
+msgstr "No tiene sentido quedarse más."
+
+#. tiempo 02:16:15
+#. Subtítulo: un tramo de la frase, sincronizado con la voz. Máximo 2 líneas.
+#, fuzzy
+msgctxt "L48"
+msgid "I think it's time we ended this..."
+msgstr "Creo que es hora de terminar con esto..."
+
+#. tiempo 02:22:29
+#. Subtítulo: un tramo de la frase, sincronizado con la voz. Máximo 2 líneas.
+#, fuzzy
+msgctxt "L50"
+msgid "once and for all!"
+msgstr "¡de una vez por todas!"
+
+#. tiempo 02:38:26
+#. Subtítulo: un tramo de la frase, sincronizado con la voz. Máximo 2 líneas.
+#, fuzzy
+msgctxt "L53"
+msgid "You dare to face me, maimed as you are?"
+msgstr "¿Te atreves a enfrentarme, herido como estás?"
+
+#. tiempo 02:45:15
+#. Subtítulo: un tramo de la frase, sincronizado con la voz. Máximo 2 líneas.
+#, fuzzy
+msgctxt "L55"
+msgid ""
+"The only thing you've mastered\n"
+"is the art of futility."
+msgstr ""
+"Lo único que dominas\n"
+"es el arte de lo inútil."
+
+#. tiempo 02:49:05
+#. Subtítulo: un tramo de la frase, sincronizado con la voz. Máximo 2 líneas.
+#, fuzzy
+msgctxt "L59"
+msgid "You never know"
+msgstr "Nunca se sabe"
+
+#. tiempo 02:51:15
+#. Subtítulo: un tramo de la frase, sincronizado con la voz. Máximo 2 líneas.
+#. viene de: You never know
+#, fuzzy
+msgctxt "L60"
+msgid "until you try, Colonel."
+msgstr "hasta intentarlo, coronel."
+
+#. tiempo 02:54:14
+#. Subtítulo: un tramo de la frase, sincronizado con la voz. Máximo 2 líneas.
+#, fuzzy
+msgctxt "L63"
+msgid "That's enough!"
+msgstr "¡Basta!"
+
+#. tiempo 03:32:25
+#. Subtítulo: un tramo de la frase, sincronizado con la voz. Máximo 2 líneas.
+#, fuzzy
+msgctxt "L66"
+msgid "Now you see your death."
+msgstr "Contempla tu muerte."
+
+#. tiempo 03:36:05
+#. Subtítulo: un tramo de la frase, sincronizado con la voz. Máximo 2 líneas.
+#, fuzzy
+msgctxt "L67"
+msgid "I have always been your better,"
+msgstr "Siempre fui superior a ti,"
+
+#. tiempo 03:38:03
+#. Subtítulo: un tramo de la frase, sincronizado con la voz. Máximo 2 líneas.
+#. viene de: I have always been your better,
+#, fuzzy
+msgctxt "L68"
+msgid "in every way, Uzuki."
+msgstr "en todo sentido, Uzuki."
+
+#. tiempo 03:40:29
+#. Subtítulo: un tramo de la frase, sincronizado con la voz. Máximo 2 líneas.
+#, fuzzy
+msgctxt "L70"
+msgid "It's something that old fool couldn't―"
+msgstr "Algo que ese viejo necio nunca pudo―"
+
+#. tiempo 03:46:20
+#. Subtítulo: un tramo de la frase, sincronizado con la voz. Máximo 2 líneas.
+#, fuzzy
+msgctxt "L73"
+msgid "What the―"
+msgstr "¿Qué―?"

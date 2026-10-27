@@ -1,0 +1,58 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Xenosaga Episode II - traducción al español\n"
+"Language: es_419\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Xeno-Source: 2:movie/en/s080830.txt\n"
+
+#. tiempo 00:04:18
+#. Subtítulo: un tramo de la frase, sincronizado con la voz. Máximo 2 líneas.
+#, fuzzy
+msgctxt "L24"
+msgid "You're as dangerous as ever."
+msgstr "Sigues siendo tan peligroso como siempre."
+
+#. tiempo 00:07:20
+#. Subtítulo: un tramo de la frase, sincronizado con la voz. Máximo 2 líneas.
+#, fuzzy
+msgctxt "L26"
+msgid ""
+"But no matter how hard you struggle,\n"
+"there's nothing you can do now."
+msgstr ""
+"Pero por más que te esfuerces,\n"
+"ya no puedes hacer nada."
+
+#. tiempo 00:13:22
+#. Subtítulo: un tramo de la frase, sincronizado con la voz. Máximo 2 líneas.
+#, fuzzy
+msgctxt "L27"
+msgid "I hope you savor your abject despair."
+msgstr "Saborea bien tu desesperación."
+
+#. tiempo 00:17:20
+#. Subtítulo: un tramo de la frase, sincronizado con la voz. Máximo 2 líneas.
+#, fuzzy
+msgctxt "L28"
+msgid "You're powerless."
+msgstr "Estás indefenso."
+
+#. tiempo 00:27:10
+#. Subtítulo: un tramo de la frase, sincronizado con la voz. Máximo 2 líneas.
+#, fuzzy
+msgctxt "L31"
+msgid "Uzuki."
+msgstr "Uzuki."
+
+#. tiempo 00:29:15
+#. Subtítulo: un tramo de la frase, sincronizado con la voz. Máximo 2 líneas.
+#, fuzzy
+msgctxt "L33"
+msgid ""
+"If you want to settle this,\n"
+"you'll have to survive first!"
+msgstr ""
+"¡Si quieres ajustar cuentas,\n"
+"primero tendrás que sobrevivir!"

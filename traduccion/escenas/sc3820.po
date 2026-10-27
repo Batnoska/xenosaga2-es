@@ -1,0 +1,418 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Xenosaga Episode II - traducción al español\n"
+"Language: es_419\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Xeno-Source: 0:cf/en/sc3820.sbl\n"
+
+#. habla: Mass-Produced 100-Series Observational Unit
+#, fuzzy
+msgctxt "#0"
+msgid "Little Master, we've prepared a damage report of the main highway. Please be sure to take a look at it."
+msgstr "Joven amo, preparamos un informe de daños de la autopista principal. No deje de revisarlo."
+
+#. habla: Mass-Produced 100-Series Observational Unit
+#, fuzzy
+msgctxt "#1"
+msgid "chaos, you're human, but your healing powers are far greater than any average person."
+msgstr "chaos, eres humano, pero tu capacidad de curación es muy superior a la de una persona común."
+
+#. habla: Mass-Produced 100-Series Observational Unit
+#, fuzzy
+msgctxt "#2"
+msgid "Are you using some type of special nanomachines?"
+msgstr "¿Usas algún tipo de nanomáquinas especiales?"
+
+#. habla: Mass-Produced 100-Series Observational Unit
+#, fuzzy
+msgctxt "#3"
+msgid "All 100-Series Observational Units are designed to be the same, but varying operating environments give rise to some individuality in emotional responses."
+msgstr "Todas las Unidades de Observación Serie 100 están diseñadas para ser iguales, pero los distintos entornos de funcionamiento generan cierta individualidad en las respuestas emocionales."
+
+#. habla: Mass-Produced 100-Series Observational Unit
+#, fuzzy
+msgctxt "#4"
+msgid "But how can I observe the individuality that has manifested within me?"
+msgstr "Pero ¿cómo puedo observar la individualidad que se manifestó en mí?"
+
+#. habla: Mass-Produced 100-Series Observational Unit
+#, fuzzy
+msgctxt "#5"
+msgid "System shutdowns in a number of 100-Series Observational Units have occurred in the wake of the analysis failure at the U.M.N. Control Center."
+msgstr "Tras el fracaso del análisis en el Centro de Control de la U.M.N., hubo apagados del sistema en varias Unidades de Observación Serie 100."
+
+#. habla: Mass-Produced 100-Series Observational Unit
+#, fuzzy
+msgctxt "#6"
+msgid "Fortunately, none of them were rendered inoperable and they will most likely be able to return to duty soon."
+msgstr "Por suerte, ninguna quedó inutilizada, y lo más probable es que pronto puedan volver al servicio."
+
+#. habla: Mass-Produced 100-Series Observational Unit
+#, fuzzy
+msgctxt "#7"
+msgid "Sometimes I am unable to detect you, chaos. Perhaps there is a bug in my system."
+msgstr "A veces no logro detectarte, chaos. Quizá haya un error en mi sistema."
+
+#. habla: Mass-Produced 100-Series Observational Unit
+#, fuzzy
+msgctxt "#8"
+msgid "Little Master. The enemy now possesses the Y-Data."
+msgstr "Joven amo. El enemigo ahora tiene los Y-Data."
+
+#. habla: Mass-Produced 100-Series Observational Unit
+#, fuzzy
+msgctxt "#9"
+msgid "But at least MOMO is safe. I'm sure you can easily recover the Y-Data!"
+msgstr "Pero al menos MOMO está a salvo. ¡Seguro que usted puede recuperar los Y-Data sin problemas!"
+
+#. habla: Mass-Produced 100-Series Observational Unit
+#, fuzzy
+msgctxt "#10"
+msgid "It is said that the 100-Series were designed to resemble the creator's daughter. Why would he do that? Is our appearance an important factor?"
+msgstr "Dicen que a las Serie 100 las diseñaron a imagen de la hija de su creador. ¿Por qué haría eso? ¿Nuestro aspecto es un factor importante?"
+
+#. habla: Mass-Produced 100-Series Observational Unit
+#, fuzzy
+msgctxt "#11"
+msgid "Both the Immigrant Fleet and Federation fleet are currently en route to Miltia. Both consist primarily of warships, so an armed conflict will likely erupt."
+msgstr "Tanto la Flota de Inmigrantes como la flota de la Federación se dirigen a Miltia. Ambas están compuestas principalmente por naves de guerra, así que es probable que estalle un conflicto armado."
+
+#. habla: Mass-Produced 100-Series Observational Unit
+#, fuzzy
+msgctxt "#12"
+msgid "Due to insufficient data, we are unable to analyze the large mass that appeared from Old Miltia."
+msgstr "Por falta de datos, no podemos analizar la gran masa que apareció en la Antigua Miltia."
+
+#. habla: Mass-Produced 100-Series Observational Unit
+#, fuzzy
+msgctxt "#13"
+msgid "Analysis of you, chaos, also results in insufficient data. Perhaps there is a bug in my system."
+msgstr "Al analizarte a ti, chaos, también faltan datos. Quizá haya un error en mi sistema."
+
+#. habla: Mass-Produced 100-Series Observational Unit
+#, fuzzy
+msgctxt "#14"
+msgid "Little Master, we have detected a large number of injured in Old Miltian space. The damage estimates are incomplete, but both sides seem to have been almost completely destroyed."
+msgstr "Joven amo, detectamos una gran cantidad de heridos en el espacio de la Antigua Miltia. Las estimaciones de daños están incompletas, pero parece que ambos bandos fueron destruidos casi por completo."
+
+#. habla: Mass-Produced 100-Series Observational Unit
+#, fuzzy
+msgctxt "#15"
+msgid "Mary has already dispatched rescue ships."
+msgstr "Mary ya envió naves de rescate."
+
+#. habla: Mass-Produced 100-Series Observational Unit
+#, fuzzy
+msgctxt "#16"
+msgid "MOMO, was there a change in your emotional state due to the destruction of Miltia?"
+msgstr "MOMO, ¿la destrucción de Miltia cambió tu estado emocional?"
+
+#. habla: Mass-Produced 100-Series Observational Unit
+#, fuzzy
+msgctxt "#17"
+msgid "I feel no emotion regarding it. My only thoughts are on the task of analyzing that object. Is there something wrong with me?"
+msgstr "No siento ninguna emoción al respecto. Solo pienso en la tarea de analizar ese objeto. ¿Me pasa algo?"
+
+#. habla: Mass-Produced 100-Series Observational Unit
+#, fuzzy
+msgctxt "#18"
+msgid "Old Miltian space is currently in complete disarray from the destruction of the Federation and Immigrant Fleets."
+msgstr "El espacio de la Antigua Miltia es un caos total tras la destrucción de la flota de la Federación y de la Flota de Inmigrantes."
+
+#. habla: Mass-Produced 100-Series Observational Unit
+#, fuzzy
+msgctxt "#19"
+msgid "We are unable to acquire an accurate breakdown of the situation due to the immense scale of the damage."
+msgstr "Por la enorme magnitud de los daños, no podemos obtener un panorama preciso de la situación."
+
+#. habla: Mass-Produced 100-Series Observational Unit
+#, fuzzy
+msgctxt "#20"
+msgid "If that space-time anomaly becomes active again, it will swallow Second Miltia and this region of space in a matter of hours."
+msgstr "Si esa anomalía espaciotemporal se reactiva, se tragará a Segunda Miltia y a esta región del espacio en cuestión de horas."
+
+#. habla: Mass-Produced 100-Series Observational Unit
+#, fuzzy
+msgctxt "#21"
+msgid "We may have nowhere left to run."
+msgstr "Quizá ya no tengamos adónde huir."
+
+#. habla: Godfrey
+#, fuzzy
+msgctxt "#22"
+msgid "No revolutionary new technology has emerged as of late. I feel a bit troubled about our current state of research."
+msgstr "Últimamente no surgió ninguna tecnología nueva revolucionaria. El estado actual de la investigación me preocupa un poco."
+
+#. habla: Godfrey
+#, fuzzy
+msgctxt "#23"
+msgid "Of course, as long as we have my brain, I think mankind will continue to advance."
+msgstr "Claro que, mientras tengamos mi cerebro, creo que la humanidad seguirá avanzando."
+
+#. habla: Godfrey
+#, fuzzy
+msgctxt "#24"
+msgid "I think the Foundation needs to conduct more independent technology research."
+msgstr "Creo que la Fundación necesita hacer más investigación tecnológica propia."
+
+#. habla: Godfrey
+#, fuzzy
+msgctxt "#25"
+msgid "If we were to separate ourselves from the outside world, we would undoubtedly encounter situations for which our current technology is inadequate."
+msgstr "Si nos separáramos del mundo exterior, sin duda nos encontraríamos con situaciones para las que nuestra tecnología actual no alcanza."
+
+#. habla: Godfrey
+#, fuzzy
+msgctxt "#26"
+msgid "It's not too late. Invest in my research! It will save our world!"
+msgstr "No es demasiado tarde. ¡Invierta en mi investigación! ¡Salvará a nuestro mundo!"
+
+#. habla: Godfrey
+#, fuzzy
+msgctxt "#27"
+msgid "Professor Joachim Mizrahi is known as a madman in the history books, yet his achievements are all worthy of admiration!"
+msgstr "En los libros de historia, al profesor Joachim Mizrahi se lo conoce como un loco, ¡pero todos sus logros son dignos de admiración!"
+
+#. habla: Godfrey
+#, fuzzy
+msgctxt "#28"
+msgid "Regardless of whether he was a madman or not, as a scientist, Professor Joachim Mizrahi was a great figure and deserves respect!"
+msgstr "¡Haya sido un loco o no, como científico, el profesor Joachim Mizrahi fue una gran figura y merece respeto!"
+
+#. habla: Godfrey
+#, fuzzy
+msgctxt "#29"
+msgid "And surely someday I, too, shall be as famous as he is!"
+msgstr "¡Y seguro que algún día yo también seré tan famoso como él!"
+
+#. habla: Godfrey
+#, fuzzy
+msgctxt "#30"
+msgid "The \"madman\" Joachim Mizrahi can now be admired as a genius! Marvelous! Truly marvelous!"
+msgstr "¡Al \"loco\" Joachim Mizrahi ahora se lo puede admirar como un genio! ¡Maravilloso! ¡Realmente maravilloso!"
+
+#. habla: Godfrey
+#, fuzzy
+msgctxt "#31"
+msgid "Just watch. Someday, I shall surpass Joachim Mizrahi!"
+msgstr "Ya van a ver. ¡Algún día superaré a Joachim Mizrahi!"
+
+#. habla: Godfrey
+#, fuzzy
+msgctxt "#32"
+msgid "Heheheh, you can count on it!"
+msgstr "Jejeje, ¡pueden contar con ello!"
+
+#. habla: Godfrey
+#, fuzzy
+msgctxt "#33"
+msgid "This is unthinkable! The way things are going, the universe is going to come to an end before I become famous!"
+msgstr "¡Esto es impensable! ¡Tal como van las cosas, el universo se va a acabar antes de que yo me haga famoso!"
+
+#. habla: Godfrey
+#, fuzzy
+msgctxt "#34"
+msgid "Oh, Little Master! Please do something!"
+msgstr "¡Oh, joven amo! ¡Por favor, haga algo!"
+
+#. habla: Kornei
+#, fuzzy
+msgctxt "#35"
+msgid "Little Master, people in the Foundation seem tense lately. Is something going to happen?"
+msgstr "Joven amo, la gente de la Fundación anda tensa últimamente. ¿Va a pasar algo?"
+
+#. habla: Kornei
+#, fuzzy
+msgctxt "#36"
+msgid "Something strange is going on, but no one believes me. I have a feeling that you'd understand me, but why did I think that in the first place?"
+msgstr "Está pasando algo raro, pero nadie me cree. Tengo la sensación de que tú me entenderías, pero ¿por qué pensé eso en primer lugar?"
+
+#. habla: Kornei
+#, fuzzy
+msgctxt "#37"
+msgid "Lately, things feel frantic around here. It's like there's electricity in the air. Can you feel it?"
+msgstr "Últimamente todo está muy agitado por aquí. Es como si hubiera electricidad en el aire. ¿Lo sientes?"
+
+#. habla: Kornei
+#, fuzzy
+msgctxt "#38"
+msgid "Maybe I have ESP!...Nah."
+msgstr "¡Quizá tengo percepción extrasensorial!... Nah."
+
+#. habla: Kornei
+#, fuzzy
+msgctxt "#39"
+msgid "Maybe I'm in love!...Nah."
+msgstr "¡Quizá estoy enamorado!... Nah."
+
+#. habla: Kornei
+#, fuzzy
+msgctxt "#40"
+msgid "The world is huddled in fear, and you manage to stay calm. I envy you."
+msgstr "El mundo entero está muerto de miedo y tú logras mantener la calma. Te envidio."
+
+#. habla: Kornei
+#, fuzzy
+msgctxt "#41"
+msgid "It may not be something the general public should know about, but I just can't contain my curiosity. I need to know what's going on."
+msgstr "Quizá no sea algo que el público en general deba saber, pero no puedo con la curiosidad. Necesito saber qué está pasando."
+
+#. habla: Kornei
+#, fuzzy
+msgctxt "#42"
+msgid "There're rumors that the Galaxy Federation is in trouble, but what's really going on? I bet you know something, Little Master!"
+msgstr "Hay rumores de que la Federación Galáctica está en problemas, pero ¿qué está pasando en realidad? ¡Seguro que usted sabe algo, joven amo!"
+
+#. habla: Kornei
+#, fuzzy
+msgctxt "#43"
+msgid "I wouldn't have this problem if I could use an interlink like Shelley and Mary."
+msgstr "No tendría este problema si pudiera usar un enlace como Shelley y Mary."
+
+#. habla: Kornei
+#, fuzzy
+msgctxt "#44"
+msgid "I can't stand it! I need to know! What is the Immigrant Fleet? The news is so unreliable when it comes to current affairs."
+msgstr "¡No lo soporto! ¡Necesito saber! ¿Qué es la Flota de Inmigrantes? Las noticias no son nada confiables con la actualidad."
+
+#. habla: Kornei
+#, fuzzy
+msgctxt "#45"
+msgid "Use your observational system to check on the actual state of the galaxy!"
+msgstr "¡Usa tu sistema de observación para comprobar el verdadero estado de la galaxia!"
+
+#. habla: Kornei
+#, fuzzy
+msgctxt "#46"
+msgid "I don't usually believe in rumors, but I heard that the Galaxy Federation is in trouble. I don't know what kind of trouble it's in, though."
+msgstr "No suelo creer en rumores, pero escuché que la Federación Galáctica está en problemas. Aunque no sé en qué tipo de problemas."
+
+#. habla: Kornei
+#, fuzzy
+msgctxt "#47"
+msgid "Everyone's talking about the discord within the Galaxy Federation and that the Miltian government is planning to revolt...you know, stuff like that. Of course, they're all just rumors."
+msgstr "Todos hablan de las discordias dentro de la Federación Galáctica y de que el gobierno de Miltia planea rebelarse... ya sabes, cosas así. Claro que son todos rumores."
+
+#. habla: Kornei
+#, fuzzy
+msgctxt "#48"
+msgid "The Durandal's been going in and out lately. So, I guess there are really big things happening out there, right?"
+msgstr "Últimamente el Durandal entra y sale mucho. Así que supongo que allá afuera están pasando cosas grandes de verdad, ¿no?"
+
+#. habla: Kornei
+#, fuzzy
+msgctxt "#49"
+msgid "Of course, looking at that monster, I can pretty much guess."
+msgstr "Claro que, viendo a ese monstruo, ya me lo imagino."
+
+#. habla: Kornei
+#, fuzzy
+msgctxt "#50"
+msgid "Little Master, you're not going to use the Durandal to attack that monster, right?"
+msgstr "Joven amo, no va a usar el Durandal para atacar a ese monstruo, ¿no?"
+
+#. habla: Kornei
+#, fuzzy
+msgctxt "#51"
+msgid "Please don't do anything crazy. But if you have to, at least do a little more research on the enemy."
+msgstr "Por favor, no haga ninguna locura. Pero si tiene que hacerlo, al menos investigue un poco más al enemigo."
+
+#. habla: Kornei
+#, fuzzy
+msgctxt "#52"
+msgid "MOMO, I have a feeling it's best to leave that monster alone."
+msgstr "MOMO, tengo la sensación de que es mejor dejar en paz a ese monstruo."
+
+#. habla: Kornei
+#, fuzzy
+msgctxt "#53"
+msgid "But I need to know! I just can't contain my curiosity about that monster!"
+msgstr "¡Pero necesito saber! ¡No puedo con la curiosidad que me da ese monstruo!"
+
+#. habla: Kornei
+#, fuzzy
+msgctxt "#54"
+msgid "When this many bad things happen in a row, you start to expect even more of them."
+msgstr "Cuando pasan tantas cosas malas seguidas, uno empieza a esperar todavía más."
+
+#. habla: Kornei
+#, fuzzy
+msgctxt "#55"
+msgid "Despite all that, I do hope for a long, peaceful life."
+msgstr "Aun así, deseo una vida larga y tranquila."
+
+#. habla: Kornei
+#, fuzzy
+msgctxt "#56"
+msgid "But in order to accomplish that, you need information, you know? I want to know about that monster!"
+msgstr "Pero para lograrlo hace falta información, ¿no? ¡Quiero saber de ese monstruo!"
+
+#. habla: Kornei
+#, fuzzy
+msgctxt "#57"
+msgid "Little Master, something big is about to happen again, right? When you get back, please tell me about the fight."
+msgstr "Joven amo, va a pasar algo grande otra vez, ¿no? Cuando vuelva, por favor, cuénteme de la pelea."
+
+#. habla: Moritz
+#, fuzzy
+msgctxt "#58"
+msgid "The accessories on an E.S. usually determine the skills it can use, but there are some that are determined by the skills of the pilot."
+msgstr "Normalmente, los accesorios de un E.S. determinan las habilidades que puede usar, pero hay algunas que dependen de las habilidades del piloto."
+
+#. habla: Jin
+#, fuzzy
+msgctxt "#59"
+msgid "Can we really stop that space-time anomaly by ourselves?"
+msgstr "¿De verdad podemos detener esa anomalía espaciotemporal nosotros solos?"
+
+#. habla: Canaan
+#, fuzzy
+msgctxt "#60"
+msgid "Rubedo, can you really defeat Albedo?"
+msgstr "Rubedo, ¿de verdad puedes derrotar a Albedo?"
+
+#. habla: Canaan
+#, fuzzy
+msgctxt "#61"
+msgid "You know, if you don't, this entire region of space will be wiped out."
+msgstr "¿Sabes? Si no lo haces, toda esta región del espacio quedará arrasada."
+
+#, fuzzy
+msgctxt "#62"
+msgid "Go up to the bridge?"
+msgstr "¿Subir al puente?"
+
+#. Opciones: una por línea. Mantener 2 líneas en el mismo orden.
+#, fuzzy
+msgctxt "#63"
+msgid ""
+"Yes\n"
+"No"
+msgstr ""
+"Sí\n"
+"No"
+
+#, fuzzy
+msgctxt "#64"
+msgid "Where would you like to go?"
+msgstr "¿Adónde quieres ir?"
+
+#. Opciones: una por línea. Mantener 3 líneas en el mismo orden.
+#, fuzzy
+msgctxt "#65"
+msgid ""
+"Dock Area\n"
+"Park Area\n"
+"Cancel"
+msgstr ""
+"Zona de muelles\n"
+"Zona del parque\n"
+"Cancelar"
+
+#. habla: Jr.
+#, fuzzy
+msgctxt "#67"
+msgid "I think I wanna go somewhere quiet and think."
+msgstr "Creo que quiero ir a algún lugar tranquilo a pensar."

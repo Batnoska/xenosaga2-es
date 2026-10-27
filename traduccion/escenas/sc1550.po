@@ -1,0 +1,719 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Xenosaga Episode II - traducción al español\n"
+"Language: es_419\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Xeno-Source: 0:cf/en/sc1550.sbl\n"
+
+#. habla: Sikes
+#, fuzzy
+msgctxt "#0"
+msgid "Why am I seeing a doctor? I just can't trust modern science. I broke a bone, but I refuse nanotreatment! I mean, just think about it. Sure, they tell you that they're just treating you, but what they're really doing is putting weird machines inside your body! It's so creepy!"
+msgstr "¿Que por qué vine al médico? Es que no confío en la ciencia moderna. Me rompí un hueso, ¡pero me niego al nanotratamiento! O sea, piénsalo. Claro, te dicen que solo te están curando, ¡pero en realidad te meten máquinas raras en el cuerpo! ¡Qué escalofríos!"
+
+#. habla: Sikes
+#, fuzzy
+msgctxt "#1"
+msgid "Anyway, I'm a messenger for Sincere Deliveries! You might think that no one sends letters anymore with the development of the U.M.N., but no matter how far transport technology develops, you can never transmit true sincerity with it!"
+msgstr "En fin, ¡soy mensajero de Sincere Deliveries! Quizá pienses que con el desarrollo de la U.M.N. ya nadie manda cartas, pero por más que avance la tecnología de transporte, ¡nunca podrá transmitir la verdadera sinceridad!"
+
+#. habla: Sikes
+#, fuzzy
+msgctxt "#2"
+msgid "With me stuck here, I bet a lot of people out there are waiting for their letters to arrive."
+msgstr "Como estoy aquí atrapado, seguro que mucha gente está esperando que le lleguen sus cartas."
+
+#. habla: Sikes
+#, fuzzy
+msgctxt "#3"
+msgid "What's wrong? It looks like you haven't delivered those four letters yet. Do you want to know where they need to be delivered?"
+msgstr "¿Qué pasa? Parece que todavía no entregaste esas cuatro cartas. ¿Quieres saber adónde hay que llevarlas?"
+
+#. Opciones: una por línea. Mantener 2 líneas en el mismo orden.
+#, fuzzy
+msgctxt "#4"
+msgid ""
+"Yes, please.\n"
+"I already know!"
+msgstr ""
+"Sí, por favor.\n"
+"¡Ya lo sé!"
+
+#. habla: Sikes
+#, fuzzy
+msgctxt "#5"
+msgid "Which one do you want to know about?"
+msgstr "¿Por cuál quieres preguntar?"
+
+#. Opciones: una por línea. Mantener 5 líneas en el mismo orden.
+#, fuzzy
+msgctxt "#6"
+msgid ""
+"Spade Letter\n"
+"Heart Letter\n"
+"Club Letter\n"
+"Diamond Letter\n"
+"I don't need to ask about them."
+msgstr ""
+"Carta de pica\n"
+"Carta de corazón\n"
+"Carta de trébol\n"
+"Carta de diamante\n"
+"No necesito preguntar."
+
+#. habla: Sikes
+#, fuzzy
+msgctxt "#7"
+msgid "I suspect Second Miltia."
+msgstr "Sospecho que a Segunda Miltia."
+
+#. habla: Sikes
+#, fuzzy
+msgctxt "#8"
+msgid "Looks like it's bound for the Durandal."
+msgstr "Parece que va para el Durandal."
+
+#. habla: Sikes
+#, fuzzy
+msgctxt "#9"
+msgid "Maybe the space port?"
+msgstr "¿Quizá al puerto espacial?"
+
+#. habla: Sikes
+#, fuzzy
+msgctxt "#10"
+msgid "It's going to the Foundation!"
+msgstr "¡Va para la Fundación!"
+
+#. habla: Sikes
+#, fuzzy
+msgctxt "#11"
+msgid "Oh. Okay then, thanks!"
+msgstr "Ah. ¡Bueno, gracias!"
+
+#. habla: Sikes
+#, fuzzy
+msgctxt "#12"
+msgid "I owe you one! Be sure to let everyone know that the world needs people who deliver letters!"
+msgstr "¡Te debo una! ¡No dejes de contarles a todos que el mundo necesita gente que entregue cartas!"
+
+#. habla: Sikes
+#, fuzzy
+msgctxt "#13"
+msgid "Sending everything instantly via the U.M.N. is boring!"
+msgstr "¡Mandar todo al instante por la U.M.N. es aburrido!"
+
+#. habla: Sikes
+#, fuzzy
+msgctxt "#14"
+msgid "You're concerned about your mistake? Don't worry about it! Everybody makes little mistakes like that!"
+msgstr "¿Te preocupa tu error? ¡No te preocupes! ¡Todo el mundo comete errorcitos así!"
+
+#. habla: Sikes
+#, fuzzy
+msgctxt "#15"
+msgid "When I'm healed up, I'll take care of any problems!"
+msgstr "¡Cuando me cure, me encargo de cualquier problema!"
+
+#. habla: Luty
+#, fuzzy
+msgctxt "#16"
+msgid "Shion! I'm helping to grow flowers here!"
+msgstr "¡Shion! ¡Estoy ayudando a cultivar flores aquí!"
+
+#. habla: Luty
+#, fuzzy
+msgctxt "#17"
+msgid "I'm working hard so that lots of other people can get well just like me!"
+msgstr "¡Me esfuerzo mucho para que mucha más gente pueda curarse igual que yo!"
+
+#. habla: Luty
+#, fuzzy
+msgctxt "#18"
+msgid ""
+"Flowers. ♪ Flowers. ♪\n"
+"Oh, Dr. Uzuki! I've decided to grow flowers! ♪"
+msgstr ""
+"Flores. ♪ Flores. ♪\n"
+"¡Ah, doctor Uzuki! ¡Decidí cultivar flores! ♪"
+
+#. habla: Luty
+#, fuzzy
+msgctxt "#19"
+msgid "But I don't have the equipment to grow pretty flowers yet. I'm having Dr. Hirad get it set up for me! ♪"
+msgstr "Pero todavía no tengo el equipo para cultivar flores lindas. ¡Le estoy pidiendo al doctor Hirad que me lo prepare! ♪"
+
+#. habla: Luty
+#. Opciones: una por línea. Mantener 2 líneas en el mismo orden.
+#, fuzzy
+msgctxt "#20"
+msgid ""
+"Flowers. ♪ Flowers. ♪\n"
+"I'm Luty! I love flowers! ♪"
+msgstr ""
+"Flores. ♪ Flores. ♪\n"
+"¡Soy Luty! ¡Me encantan las flores! ♪"
+
+#. habla: Luty
+#, fuzzy
+msgctxt "#21"
+msgid "I love flowers, but I also love singing!"
+msgstr "Me encantan las flores, ¡pero también me encanta cantar!"
+
+#. habla: Luty
+#, fuzzy
+msgctxt "#22"
+msgid "Hehehe, I wonder what kind of flower will bloom? I can't wait!"
+msgstr "Jejeje, me pregunto qué flor saldrá. ¡No aguanto la espera!"
+
+#. habla: Luty
+#, fuzzy
+msgctxt "#23"
+msgid "Once you've planted the seed in the pot in the middle of the room, make sure you take care of it! ♪"
+msgstr "Cuando plantes la semilla en la maceta del medio de la sala, ¡no te olvides de cuidarla! ♪"
+
+#. habla: Luty
+#, fuzzy
+msgctxt "#24"
+msgid "I love this flower! ♪ Its real name is the Ariadne Flower!"
+msgstr "¡Me encanta esta flor! ♪ ¡Su verdadero nombre es Flor de Ariadne!"
+
+#. habla: Luty
+#, fuzzy
+msgctxt "#25"
+msgid "Thanks to this flower, I'm the way I am now! I hope the magic of flowers brings happiness to lots more people!"
+msgstr "¡Gracias a esta flor soy como soy ahora! ¡Ojalá la magia de las flores le dé felicidad a mucha más gente!"
+
+#. habla: Luty
+#, fuzzy
+msgctxt "#26"
+msgid "Hmm. This is a little different than the flower I imagined!"
+msgstr "Hmm. ¡Es un poco distinta de la flor que me imaginaba!"
+
+#. habla: Luty
+#, fuzzy
+msgctxt "#27"
+msgid "But flowers are flowers! ♪ I hope the magic of flowers brings happiness to lots more people!"
+msgstr "¡Pero las flores son flores! ♪ ¡Ojalá la magia de las flores le dé felicidad a mucha más gente!"
+
+#. habla: Hirad
+#, fuzzy
+msgctxt "#28"
+msgid "Well, if it isn't Ms. Uzuki! I heard your brother quit his medical practice."
+msgstr "¡Pero si es la señorita Uzuki! Supe que su hermano dejó la medicina."
+
+#. habla: Hirad
+#, fuzzy
+msgctxt "#29"
+msgid "Hmm? What's he doing now? Ha ha, why don't you ask him yourself?"
+msgstr "¿Hmm? ¿Qué hace ahora? Ja, ja, ¿por qué no se lo pregunta usted misma?"
+
+#. habla: Hirad
+#, fuzzy
+msgctxt "#30"
+msgid "Oh, Dr. Uzuki! I just saw your sister a little while ago! She's grown up to be quite a beauty!"
+msgstr "¡Ah, doctor Uzuki! ¡Hace un rato vi a su hermana! ¡Se convirtió en toda una belleza!"
+
+#. habla: Hirad
+#, fuzzy
+msgctxt "#31"
+msgid "It's hard to imagine that you two are siblings..."
+msgstr "Cuesta creer que ustedes dos sean hermanos..."
+
+#. habla: Hirad
+#, fuzzy
+msgctxt "#32"
+msgid "Hmm? Treat an illness? Sure, I'll cure any disease if someone asks!"
+msgstr "¿Hmm? ¿Curar una enfermedad? ¡Claro, curo cualquier enfermedad si me lo piden!"
+
+#. habla: Hirad
+#, fuzzy
+msgctxt "#33"
+msgid "But I'm not very good with sick pets!"
+msgstr "¡Pero con las mascotas enfermas no me llevo muy bien!"
+
+#. habla: Hirad
+#, fuzzy
+msgctxt "#34"
+msgid "What? A house call to the Foundation! Who is the patient? Uh-huh...what?! A cat?! Ah, hmm. You may not know this, but I'm allergic to cats! Do I have to go?"
+msgstr "¿Qué? ¡Una visita a domicilio en la Fundación! ¿Quién es el paciente? Ajá... ¡¿qué?! ¡¿Un gato?! Ah, hmm. Quizá no lo sepas, ¡pero soy alérgico a los gatos! ¿Tengo que ir?"
+
+#. Opciones: una por línea. Mantener 2 líneas en el mismo orden.
+#, fuzzy
+msgctxt "#35"
+msgid ""
+"Force him to go.\n"
+"Be polite and give up."
+msgstr ""
+"Obligarlo a ir.\n"
+"Ser amable y desistir."
+
+#. habla: Hirad
+#, fuzzy
+msgctxt "#36"
+msgid "All right! Let's go! So, where's the patient?"
+msgstr "¡Muy bien! ¡Vamos! ¿Y dónde está el paciente?"
+
+#, fuzzy
+msgctxt "#37"
+msgid ""
+"King's Hideout on the Foundation!\n"
+"Uh-oh, I forgot!"
+msgstr ""
+"¡En la Guarida de King, en la Fundación!\n"
+"Uy, ¡me olvidé!"
+
+#. habla: Hirad
+#, fuzzy
+msgctxt "#38"
+msgid ""
+"King...you mean from that infamous gang?!\n"
+"...\n"
+"...\n"
+"...\n"
+"Okay! Let's go!\n"
+"...I need to get some things ready, so head back to the patient without me."
+msgstr ""
+"King... ¡¿te refieres a esa pandilla de mala fama?!\n"
+"...\n"
+"...\n"
+"...\n"
+"¡Bueno! ¡Vamos!\n"
+"...Tengo que preparar algunas cosas, así que vuelvan con el paciente sin mí."
+
+#. habla: Hirad
+#, fuzzy
+msgctxt "#39"
+msgid "Ha ha! If you don't know where the patient is, how am I supposed to see it?"
+msgstr "¡Ja, ja! Si no sabes dónde está el paciente, ¿cómo voy a atenderlo?"
+
+#. habla: Hirad
+#, fuzzy
+msgctxt "#40"
+msgid "Hmm. If the patient wasn't a cat, I'd have been happy to go."
+msgstr "Hmm. Si el paciente no fuera un gato, habría ido con gusto."
+
+#. habla: Hirad
+#, fuzzy
+msgctxt "#41"
+msgid "I need to get some things ready, so head back to the patient without me."
+msgstr "Tengo que preparar algunas cosas, así que vuelvan con el paciente sin mí."
+
+#. habla: Hirad
+#, fuzzy
+msgctxt "#42"
+msgid ""
+"(I can't believe I'm taking care of King's cat.)\n"
+"What? Ah, n...nothing! Nothing at all! I'm just talking to myself!"
+msgstr ""
+"(No puedo creer que vaya a atender al gato de King.)\n"
+"¿Qué? ¡Ah, n... nada! ¡Nada de nada! ¡Solo hablaba solo!"
+
+#. habla: Padma
+#, fuzzy
+msgctxt "#43"
+msgid "I'm here to sell a plant growth enhancer called Hyper Fertilizer!"
+msgstr "¡Vine a vender un potenciador de crecimiento para plantas llamado Hiperfertilizante!"
+
+#. habla: Padma
+#, fuzzy
+msgctxt "#44"
+msgid "I heard they were doing plant research here, so I came all the way from the Foundation to give them some samples! If you need any growth enhancers, just let me know! Right now, I'm giving away free samples!"
+msgstr "Escuché que aquí investigaban plantas, ¡así que vine desde la Fundación a traerles unas muestras! Si necesitas potenciadores de crecimiento, ¡avísame! ¡Ahora mismo estoy regalando muestras gratis!"
+
+#. habla: Padma
+#, fuzzy
+msgctxt "#45"
+msgid "Do you want some Hyper Fertilizer? Well, okay, then. Here you go!"
+msgstr "¿Quieres un poco de Hiperfertilizante? Bueno, entonces. ¡Aquí tienes!"
+
+#, fuzzy
+msgctxt "#46"
+msgid "You obtained some Hyper Fertilizer!"
+msgstr "¡Obtuviste un poco de Hiperfertilizante!"
+
+#. habla: Padma
+#, fuzzy
+msgctxt "#47"
+msgid "Make good use of it!"
+msgstr "¡Aprovéchalo bien!"
+
+#. habla: Padma
+#, fuzzy
+msgctxt "#48"
+msgid "I'm sorry, I'm all out of samples!"
+msgstr "Lo siento, ¡ya no me quedan muestras!"
+
+#. habla: Padma
+#, fuzzy
+msgctxt "#49"
+msgid "Hyper Fertilizer? I'm afraid I'm done giving out free samples!"
+msgstr "¿Hiperfertilizante? ¡Me temo que ya terminé de regalar muestras!"
+
+#. habla: Padma
+#, fuzzy
+msgctxt "#50"
+msgid "I already gave you some Hyper Fertilizer, so you don't need any more, right? What? You didn't get any? That's strange. Am I thinking of someone else?"
+msgstr "Ya te di Hiperfertilizante, así que no necesitas más, ¿no? ¿Qué? ¿No recibiste nada? Qué raro. ¿Te estaré confundiendo con otra persona?"
+
+#. habla: Marnie
+#, fuzzy
+msgctxt "#51"
+msgid "Hey! Do you know about \"Ether Combo\" skills? "
+msgstr "¡Oye! ¿Conoces las habilidades \"Combo de éter\"?"
+
+#. Opciones: una por línea. Mantener 2 líneas en el mismo orden.
+#, fuzzy
+msgctxt "#52"
+msgid ""
+"What's that? I'm interested.\n"
+"Of course I do!"
+msgstr ""
+"¿Qué es eso? Me interesa.\n"
+"¡Claro que sí!"
+
+#. habla: Marnie
+#, fuzzy
+msgctxt "#53"
+msgid "When two people use the same Ether skill at the same time, it becomes a stronger Ether skill! But there're special requirements to make it work! Do you want to know about them? "
+msgstr "¡Cuando dos personas usan la misma habilidad de éter al mismo tiempo, se convierte en una habilidad de éter más fuerte! Pero tiene requisitos especiales para que funcione. ¿Quieres conocerlos?"
+
+#, fuzzy
+msgctxt "#54"
+msgid ""
+"Yes, please!\n"
+"Hmm, it sounds hard, so never mind."
+msgstr ""
+"¡Sí, por favor!\n"
+"Hmm, suena difícil, mejor no."
+
+#. habla: Marnie
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#55"
+msgid "Ahem! Then here goes the explanation! First, the character using the Ether skill and the character Boosting at that point must have the same Ether skill! If they both have the same skill, then when you press <△>, you should be able to select an Ether Combo! There are some Ether Combos that you can do with different Ether skills, so you want to keep an eye out for them, too. Anyway, if you want to find new Ether Combos, the best way to do it is to try out lots of different skills!"
+msgstr "¡Ejem! ¡Entonces ahí va la explicación! Primero, el personaje que usa la habilidad de éter y el personaje que está haciendo Boost en ese momento tienen que tener la misma habilidad de éter. Si los dos la tienen, al presionar <△> deberías poder elegir un Combo de éter. Hay algunos Combos de éter que se pueden hacer con habilidades de éter distintas, así que también conviene estar atento a esos. En fin, si quieres encontrar Combos de éter nuevos, ¡lo mejor es probar muchas habilidades distintas!"
+
+#. habla: Marnie
+#, fuzzy
+msgctxt "#56"
+msgid ""
+"...\n"
+"It's a little weird for a kid like me to say this, but you should never stop learning! There's some really useful stuff you could learn if you study just a little."
+msgstr ""
+"...\n"
+"Es un poco raro que lo diga un chico como yo, ¡pero nunca hay que dejar de aprender! Hay cosas muy útiles que podrías aprender si estudias un poquito."
+
+#. habla: Marnie
+#, fuzzy
+msgctxt "#57"
+msgid "Oh. I thought I was the only one who knew about them. This sucks."
+msgstr "Oh. Creí que yo era el único que las conocía. Qué fastidio."
+
+#. habla: Hirad
+#, fuzzy
+msgctxt "#58"
+msgid "I can't believe that King! There's no way a cat, especially a male cat, could have a false pregnancy!"
+msgstr "¡No puedo creer a ese King! ¡Es imposible que un gato, y menos un gato macho, tenga un embarazo psicológico!"
+
+#. habla: Hirad
+#, fuzzy
+msgctxt "#59"
+msgid "Well, anyway, Josephine did seem to be a little unwell, so I prescribed some medication. Just a mild nanostimulant, though."
+msgstr "Bueno, de todos modos, Josephine parecía un poco indispuesto, así que le receté un medicamento. Solo un nanoestimulante suave, nada más."
+
+#. habla: Luty
+#, fuzzy
+msgctxt "#60"
+msgid "Oh, hello! You know what? I've discovered that flowers have incredible power! Flowers can cheer you up and cure sicknesses that no medicine can fix! ♪ Actually, I got better because of flowers, so that's why I want to fill Second Miltia with flowers and make as many people smile as I can! When I told this to Dr. Hirad, he lent me some space to grow flowers, but I can't find any flower seeds. Could you please find seeds and fertilizer to help me grow some flowers?"
+msgstr "¡Ah, hola! ¿Sabes qué? ¡Descubrí que las flores tienen un poder increíble! ¡Las flores te levantan el ánimo y curan enfermedades que ningún medicamento puede curar! ♪ En realidad, yo me curé gracias a las flores, ¡por eso quiero llenar Segunda Miltia de flores y hacer sonreír a toda la gente que pueda! Cuando se lo conté al doctor Hirad, me prestó un espacio para cultivar flores, pero no encuentro semillas. ¿Podrías encontrar semillas y fertilizante para ayudarme a cultivar flores?"
+
+#. Opciones: una por línea. Mantener 2 líneas en el mismo orden.
+#, fuzzy
+msgctxt "#61"
+msgid ""
+"Leave it to me!\n"
+"No, I'm afraid not."
+msgstr ""
+"¡Déjamelo a mí!\n"
+"No, me temo que no."
+
+#. habla: Luty
+#, fuzzy
+msgctxt "#62"
+msgid "Yay! All right! ♪"
+msgstr "¡Bieeen! ¡Genial! ♪"
+
+#. habla: Luty
+#, fuzzy
+msgctxt "#64"
+msgid "Please find seeds that will grow into pretty flowers! ♪"
+msgstr "¡Por favor, encuentra semillas que den flores lindas! ♪"
+
+#. habla: Luty
+#, fuzzy
+msgctxt "#65"
+msgid "You're mean!"
+msgstr "¡Qué cruel!"
+
+#. habla: Luty
+#, fuzzy
+msgctxt "#66"
+msgid "Yay! A pretty flower bloomed! It was worth the effort, wasn't it? ♪"
+msgstr "¡Bieeen! ¡Salió una flor muy linda! Valió la pena el esfuerzo, ¿no? ♪"
+
+#. habla: Luty
+#, fuzzy
+msgctxt "#68"
+msgid "Here's my thanks for helping me grow the flower! ♪"
+msgstr "¡Esto es para agradecerte por ayudarme a cultivar la flor! ♪"
+
+#, fuzzy
+msgctxt "#69"
+msgid "You obtained Secret Key 15! This key opens the Level 3 Class C skill \"Last Revenge.\""
+msgstr "¡Obtuviste la Llave Secreta 15! Esta llave desbloquea la habilidad de Clase C de nivel 3 \"Venganza final\"."
+
+#. habla: Luty
+#, fuzzy
+msgctxt "#70"
+msgid "Oh, that isn't quite the flower I imagined. But, I guess it's okay..."
+msgstr "Oh, no es exactamente la flor que me imaginaba. Pero bueno, supongo que está bien..."
+
+#. habla: Sikes
+#, fuzzy
+msgctxt "#72"
+msgid "Oh, it's you! I heard the story from Jacqueline! I guess you're quite the expert at delivering letters, like me! Actually, I have a favor to ask of you. Deliver some letters for me, since I can't move right now, would you?"
+msgstr "¡Ah, eres tú! ¡Jacqueline me contó la historia! ¡Parece que sabes mucho de entregar cartas, como yo! La verdad es que quiero pedirte un favor. Como ahora no me puedo mover, ¿podrías entregar unas cartas por mí?"
+
+#. Opciones: una por línea. Mantener 2 líneas en el mismo orden.
+#, fuzzy
+msgctxt "#73"
+msgid ""
+"Yes\n"
+"No"
+msgstr ""
+"Sí\n"
+"No"
+
+#. habla: Sikes
+#, fuzzy
+msgctxt "#74"
+msgid "I knew a letter delivery pro like you wouldn't let me down!"
+msgstr "¡Sabía que alguien que sabe tanto de entregar cartas no me iba a fallar!"
+
+#. habla: Sikes
+#, fuzzy
+msgctxt "#75"
+msgid "Here are four letters. I don't know who they're supposed to go to, but I do know where they're going. Please deliver them for me! Thanks!"
+msgstr "Aquí tienes cuatro cartas. No sé a quién van dirigidas, pero sí sé adónde van. ¡Por favor, entrégalas por mí! ¡Gracias!"
+
+#, fuzzy
+msgctxt "#76"
+msgid "You obtained a Spade Letter!"
+msgstr "¡Obtuviste una Carta de pica!"
+
+#, fuzzy
+msgctxt "#77"
+msgid "You obtained a Heart Letter!"
+msgstr "¡Obtuviste una Carta de corazón!"
+
+#, fuzzy
+msgctxt "#78"
+msgid "You obtained a Club Letter!"
+msgstr "¡Obtuviste una Carta de trébol!"
+
+#, fuzzy
+msgctxt "#79"
+msgid "You obtained a Diamond Letter!"
+msgstr "¡Obtuviste una Carta de diamante!"
+
+#. habla: Sikes
+#, fuzzy
+msgctxt "#80"
+msgid "Oh okay."
+msgstr "Ah, bueno."
+
+#. habla: Sikes
+#, fuzzy
+msgctxt "#81"
+msgid "So, you've delivered all the letters! Fantastic!"
+msgstr "¡Así que entregaste todas las cartas! ¡Fantástico!"
+
+#. habla: Sikes
+#, fuzzy
+msgctxt "#82"
+msgid "Thank you so much! I want to do something to thank you, but I'm afraid this is all I can manage right now. Close your eyes a sec!"
+msgstr "¡Muchísimas gracias! Quiero agradecerte de algún modo, pero me temo que por ahora es lo único que puedo hacer. ¡Cierra los ojos un segundo!"
+
+#, fuzzy
+msgctxt "#83"
+msgid "You obtained Secret Key 2! This key opens the Level 1 Class H skill \"Break B10.\""
+msgstr "¡Obtuviste la Llave Secreta 2! Esta llave desbloquea la habilidad de Clase H de nivel 1 \"Desequilibrio B10\"."
+
+#. habla: Sikes
+#, fuzzy
+msgctxt "#84"
+msgid "I've received a report that you've completed the deliveries! You did deliver a few to the wrong people, though!"
+msgstr "¡Me informaron que terminaste las entregas! ¡Aunque entregaste algunas a las personas equivocadas!"
+
+#. habla: Sikes
+#, fuzzy
+msgctxt "#85"
+msgid "Oh well, don't get depressed! Everyone makes mistakes, and I asked you to do something in my place! I want to do something to thank you, but I'm afraid this is all I can manage right now. Close your eyes a sec!"
+msgstr "Bueno, ¡no te deprimas! Todo el mundo se equivoca, y te pedí que hicieras algo en mi lugar. Quiero agradecerte de algún modo, pero me temo que por ahora es lo único que puedo hacer. ¡Cierra los ojos un segundo!"
+
+#, fuzzy
+msgctxt "#86"
+msgid "This looks like a good open space. Would you like to put up a poster?"
+msgstr "Parece un buen espacio libre. ¿Quieres poner un póster?"
+
+#, fuzzy
+msgctxt "#87"
+msgid "Transporting and projecting a poster."
+msgstr "Transportando y proyectando el póster."
+
+#, fuzzy
+msgctxt "#88"
+msgid "Canceling poster."
+msgstr "Se canceló el póster."
+
+#. habla: Plant Growth Enhancement Planter
+#, fuzzy
+msgctxt "#89"
+msgid "This is Luty's. Please don't use it without my permission. ♪ - Luty"
+msgstr "Esto es de Luty. Por favor, no lo uses sin mi permiso. ♪ - Luty"
+
+#. habla: Plant Growth Enhancement Planter
+#. Opciones: una por línea. Mantener 2 líneas en el mismo orden.
+#, fuzzy
+msgctxt "#90"
+msgid ""
+"Please plant a seed.\n"
+"Which seed will you plant?"
+msgstr ""
+"Por favor, planta una semilla.\n"
+"¿Qué semilla vas a plantar?"
+
+#. Opciones: una por línea. Mantener 5 líneas en el mismo orden.
+#, fuzzy
+msgctxt "#91"
+msgid ""
+"Spring Seed\n"
+"Summer Seed\n"
+"Autumn Seed\n"
+"Winter Seed\n"
+"Don't plant any"
+msgstr ""
+"Semilla de Primavera\n"
+"Semilla de Verano\n"
+"Semilla de Otoño\n"
+"Semilla de Invierno\n"
+"No plantar nada"
+
+#. habla: Plant Growth Enhancement Planter
+#, fuzzy
+msgctxt "#92"
+msgid "You currently don't have a Spring Seed."
+msgstr "Ahora no tienes ninguna Semilla de Primavera."
+
+#. habla: Plant Growth Enhancement Planter
+#, fuzzy
+msgctxt "#93"
+msgid ""
+"Once you plant a seed, you will not be able to plant any others.\n"
+"Are you sure?"
+msgstr ""
+"Una vez que plantes una semilla, no podrás plantar otras.\n"
+"¿Continuar?"
+
+#. habla: Plant Growth Enhancement Planter
+#, fuzzy
+msgctxt "#94"
+msgid "Planting a Spring Seed. Let's see what kind of flower blooms!"
+msgstr "Plantando una Semilla de Primavera. ¡Veamos qué flor sale!"
+
+#. habla: Plant Growth Enhancement Planter
+#, fuzzy
+msgctxt "#95"
+msgid "Canceling planting."
+msgstr "Se canceló la plantación."
+
+#. habla: Plant Growth Enhancement Planter
+#, fuzzy
+msgctxt "#96"
+msgid "You currently don't have a Summer Seed."
+msgstr "Ahora no tienes ninguna Semilla de Verano."
+
+#. habla: Plant Growth Enhancement Planter
+#, fuzzy
+msgctxt "#97"
+msgid "Planting a Summer Seed. Let's see what kind of flower blooms!"
+msgstr "Plantando una Semilla de Verano. ¡Veamos qué flor sale!"
+
+#. habla: Plant Growth Enhancement Planter
+#, fuzzy
+msgctxt "#98"
+msgid "You currently don't have an Autumn Seed."
+msgstr "Ahora no tienes ninguna Semilla de Otoño."
+
+#. habla: Plant Growth Enhancement Planter
+#, fuzzy
+msgctxt "#99"
+msgid "Planting an Autumn Seed. Let's see what kind of flower blooms!"
+msgstr "Plantando una Semilla de Otoño. ¡Veamos qué flor sale!"
+
+#. habla: Plant Growth Enhancement Planter
+#, fuzzy
+msgctxt "#100"
+msgid "You currently don't have a Winter Seed."
+msgstr "Ahora no tienes ninguna Semilla de Invierno."
+
+#. habla: Plant Growth Enhancement Planter
+#, fuzzy
+msgctxt "#101"
+msgid "Planting a Winter Seed. Let's see what kind of flower blooms!"
+msgstr "Plantando una Semilla de Invierno. ¡Veamos qué flor sale!"
+
+#. habla: Plant Growth Enhancement Planter
+#, fuzzy
+msgctxt "#102"
+msgid "You can't increase its growth any further."
+msgstr "No puedes acelerar más su crecimiento."
+
+#. habla: Plant Growth Enhancement Planter
+#, fuzzy
+msgctxt "#103"
+msgid "Would you like to use Hyper Fertilizer?"
+msgstr "¿Quieres usar Hiperfertilizante?"
+
+#. habla: Plant Growth Enhancement Planter
+#, fuzzy
+msgctxt "#104"
+msgid "You don't have any Hyper Fertilizer."
+msgstr "No tienes Hiperfertilizante."
+
+#. habla: Plant Growth Enhancement Planter
+#, fuzzy
+msgctxt "#105"
+msgid "Using Hyper Fertilizer."
+msgstr "Usando Hiperfertilizante."
+
+#. habla: Plant Growth Enhancement Planter
+#, fuzzy
+msgctxt "#106"
+msgid "You used Hyper Fertilizer...nothing happened. Let's observe it for a little while. ♪"
+msgstr "Usaste Hiperfertilizante... no pasó nada. Observémosla un rato. ♪"
+
+#. habla: Plant Growth Enhancement Planter
+#, fuzzy
+msgctxt "#107"
+msgid "You used Hyper Fertilizer."
+msgstr "Usaste Hiperfertilizante."
+
+#. habla: Plant Growth Enhancement Planter
+#, fuzzy
+msgctxt "#108"
+msgid "Canceling usage."
+msgstr "Se canceló el uso."

@@ -1,0 +1,88 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Xenosaga Episode II - traducción al español\n"
+"Language: es_419\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Xeno-Source: 0:model/map/en/E2_SUI10.sbl\n"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#0"
+msgid ""
+"$zoom15;$colc0c0c0;Read the target's vitality.\n"
+"$col7AF9FB;Physical attack power increased."
+msgstr ""
+"$zoom15;$colc0c0c0;Lee la vitalidad del objetivo.\n"
+"$col7AF9FB;Aumenta el poder de ataque físico."
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#1"
+msgid ""
+"$zoom15;$colc0c0c0;Read the target's mind.\n"
+"$col7AF9FB;Ether attack power increased."
+msgstr ""
+"$zoom15;$colc0c0c0;Lee la mente del objetivo.\n"
+"$col7AF9FB;Aumenta el poder de ataque de éter."
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#2"
+msgid "$zoom15;$colc0c0c0;Power of telepathy weakened."
+msgstr "$zoom15;$colc0c0c0;El poder de la telepatía se debilitó."
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#3"
+msgid "$zoom13;Grips Claw (Slash)"
+msgstr "$zoom13;Garra aferradora (Corte)"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#4"
+msgid "$zoom13;Thunder Breath (Thunder)"
+msgstr "$zoom13;Aliento de rayo (Rayo)"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#5"
+msgid "$zoom13;Evil Glare (H Stop)"
+msgstr "$zoom13;Mirada maligna (Inmovilidad H)"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#6"
+msgid "$zoom13;Evil Eye (L Stun)"
+msgstr "$zoom13;Mal de ojo (Aturdimiento L)"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#7"
+msgid "$zoom13;Refresh L"
+msgstr "$zoom13;Refresh L"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#8"
+msgid "$zoom13;Refresh H"
+msgstr "$zoom13;Refresh H"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#9"
+msgid "$zoom13;Telepathy (HP Drain)"
+msgstr "$zoom13;Telepatía (Drenar HP)"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#10"
+msgid "$zoom13;Telepathy (EP Drain)"
+msgstr "$zoom13;Telepatía (Drenar EP)"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#11"
+msgid "$zoom13;Thunder Blast"
+msgstr "$zoom13;Ráfaga de rayo"

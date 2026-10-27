@@ -1,0 +1,191 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Xenosaga Episode II - traducción al español\n"
+"Language: es_419\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Xeno-Source: 0:cf/en/sc8001.sbl\n"
+"X-Xeno-Tipo: cinematica\n"
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#6"
+msgid "Looks like we're pretty far out from our objective."
+msgstr "Parece que estamos muy lejos del objetivo."
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#7"
+msgid ""
+"Plus, I'd say the defensive network \n"
+"we saw on the way down takes out\n"
+"the idea of an airborne approach."
+msgstr ""
+"Además, la red defensiva que vimos\n"
+"al descender descarta la idea\n"
+"de acercarnos por aire."
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#8"
+msgid "We'll go by ground then."
+msgstr "Entonces iremos por tierra."
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#9"
+msgid ""
+"Fortunately, the rubble from the burned\n"
+"out buildings should provide us enough cover"
+msgstr ""
+"Por suerte, los escombros de los edificios\n"
+"incendiados deberían darnos cobertura"
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#10"
+msgid "to cross the city unnoticed. "
+msgstr "para cruzar la ciudad sin que nos vean."
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#11"
+msgid "Agreed. We'd better get moving."
+msgstr "De acuerdo. Será mejor ponernos en marcha."
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#12"
+msgid "We don't have much time."
+msgstr "No tenemos mucho tiempo."
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#13"
+msgid "Not much time?"
+msgstr "¿No tenemos mucho tiempo?"
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#14"
+msgid "Does this have something to do with the U.R.T.V.s?"
+msgstr "¿Tiene algo que ver con los U.R.T.V.?"
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#15"
+msgid "Those designer children?"
+msgstr "¿Esos niños de diseño?"
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#16"
+msgid "Yes. That's right."
+msgstr "Sí. Así es."
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#17"
+msgid ""
+"We need to protect them from the\n"
+"coming crisis, if and when it occurs."
+msgstr ""
+"Tenemos que protegerlos de la crisis\n"
+"que se avecina, si es que llega a ocurrir."
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#18"
+msgid ""
+"You do realize that's a different story\n"
+"from what I heard in my official briefing."
+msgstr ""
+"Eso no coincide con lo que me dijeron\n"
+"en la sesión informativa oficial, ¿sabe?"
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#19"
+msgid "No doubt."
+msgstr "No lo dudo."
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#20"
+msgid ""
+"As the Federation government's special forces,\n"
+"the U.R.T.V.s were sent in ahead of the invasion."
+msgstr ""
+"Como fuerzas especiales del gobierno federal,\n"
+"los U.R.T.V. se adelantaron a la invasión."
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#21"
+msgid ""
+"I'm sure you understand what they represent in\n"
+"the conflict against the U-TIC Organization."
+msgstr ""
+"Seguro que entiende lo que representan\n"
+"en el conflicto contra la Organización U-TIC."
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#22"
+msgid "Right."
+msgstr "Claro."
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#23"
+msgid "I understand that they're bioweapons sent in"
+msgstr "Sé que son armas biológicas enviadas"
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#. Opciones: una por línea. Mantener 2 líneas en el mismo orden.
+#, fuzzy
+msgctxt "#24"
+msgid ""
+"to sever the link between the\n"
+"U-TIC's mobile weapons fleet"
+msgstr ""
+"para cortar el vínculo entre la flota\n"
+"de armas móviles de la U-TIC"
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#25"
+msgid "and their source of power, the Zohar."
+msgstr "y su fuente de energía, el Zohar."
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#26"
+msgid ""
+"The higher-ups have complete confidence in\n"
+"the U.R.T.V.s―they are the military's trump card."
+msgstr ""
+"Los altos mandos confían plenamente en los\n"
+"U.R.T.V.―son el as bajo la manga del ejército."
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#27"
+msgid ""
+"Unfortunately, the brass are also blind\n"
+"to the potential dangers of the U.R.T.V.s."
+msgstr ""
+"Por desgracia, eso mismo les impide ver\n"
+"lo peligrosos que pueden ser los U.R.T.V."
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#. Opciones: una por línea. Mantener 2 líneas en el mismo orden.
+#, fuzzy
+msgctxt "#28"
+msgid ""
+"Fascinating. I hadn't realized\n"
+"the situation was so desperate."
+msgstr ""
+"Fascinante. No sabía que la\n"
+"situación fuera tan desesperada."

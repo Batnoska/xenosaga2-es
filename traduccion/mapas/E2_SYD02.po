@@ -1,0 +1,66 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Xenosaga Episode II - traducción al español\n"
+"Language: es_419\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Xeno-Source: 0:model/map/en/E2_SYD02.sbl\n"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#0"
+msgid ""
+"$col7AF9FB;$zoom15;Warning!\n"
+"Further destruction will be met with deadly force!"
+msgstr ""
+"$col7AF9FB;$zoom15;¡Advertencia!\n"
+"¡Si sigue destruyendo, usaremos fuerza letal!"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#1"
+msgid "$col7AF9FB;$zoom15;Disengage your weapon and surrender."
+msgstr "$col7AF9FB;$zoom15;Suelte el arma y ríndase."
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#2"
+msgid "$col7AF9FB;$zoom15;This area is off-limits to unauthorized personnel."
+msgstr "$col7AF9FB;$zoom15;Zona prohibida para personal no autorizado."
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#3"
+msgid "$zoom13;Reinforcements"
+msgstr "$zoom13;Refuerzos"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#4"
+msgid "$zoom13;Warning Shot (Beam)"
+msgstr "$zoom13;Disparo de advertencia (Haz)"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#5"
+msgid "$zoom13;Open Fire (Beam)"
+msgstr "$zoom13;Abrir fuego (Haz)"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#6"
+msgid "$zoom13;Sticky Beam (L Slow)"
+msgstr "$zoom13;Haz pegajoso (Lentitud L)"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#7"
+msgid "$zoom13;Heavy Axe (Strike)"
+msgstr "$zoom13;Hacha pesada (Golpe)"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#8"
+msgid "$zoom13;33-Series Vulcan Cannon (Pierce)"
+msgstr "$zoom13;Cañón Vulcan Serie 33 (Perforación)"

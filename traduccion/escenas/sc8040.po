@@ -1,0 +1,139 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Xenosaga Episode II - traducción al español\n"
+"Language: es_419\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Xeno-Source: 0:cf/en/sc8040.sbl\n"
+"X-Xeno-Tipo: cinematica\n"
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#9"
+msgid "I can't stand them."
+msgstr "No los soporto."
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#10"
+msgid "Just look at them."
+msgstr "Míralos."
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#11"
+msgid ""
+"They don't even have wills of their own.\n"
+"All of them together just form\n"
+"one collective consciousness."
+msgstr ""
+"Ni siquiera tienen voluntad propia.\n"
+"Todos juntos forman una sola\n"
+"conciencia colectiva."
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#12"
+msgid "Why is everyone up to 665 like that?"
+msgstr "¿Por qué todos hasta el 665 son así?"
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#. Opciones: una por línea. Mantener 3 líneas en el mismo orden.
+#, fuzzy
+msgctxt "#13"
+msgid ""
+"The standard types have weak\n"
+"anti-waveforms. It's not their\n"
+"fault they were born that way."
+msgstr ""
+"Los tipos estándar tienen antiondas\n"
+"débiles. No es su culpa\n"
+"haber nacido así."
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#14"
+msgid "Eww, yuck."
+msgstr "Puaj, qué asco."
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#15"
+msgid "This is not a drill."
+msgstr "Esto no es un simulacro."
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#16"
+msgid ""
+"You will initiate a U.M.N. dive into the\n"
+"subconscious domain of the sleeping patient\n"
+"and repair her sensory impairment."
+msgstr ""
+"Iniciarán una inmersión en la U.M.N. hacia\n"
+"el dominio subconsciente de la paciente\n"
+"dormida y repararán su trastorno sensorial."
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#17"
+msgid ""
+"This mission will also serve as valuable\n"
+"anti-U-DO training for you."
+msgstr ""
+"Esta misión también les servirá\n"
+"como valioso entrenamiento anti-U-DO."
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#18"
+msgid "Your descent target is a white beach."
+msgstr "Su objetivo de descenso es una playa blanca."
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#. Opciones: una por línea. Mantener 3 líneas en el mismo orden.
+#, fuzzy
+msgctxt "#19"
+msgid ""
+"This beach is a subjective image\n"
+"created by the patient that\n"
+"exists below her consciousness."
+msgstr ""
+"Esta playa es una imagen subjetiva\n"
+"creada por la paciente que existe\n"
+"por debajo de su conciencia."
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#20"
+msgid ""
+"Within it lies whatever is obstructing\n"
+"her neural connection."
+msgstr ""
+"Dentro de ella está lo que obstruye\n"
+"su conexión neuronal."
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#21"
+msgid "We want you to identify and eliminate it."
+msgstr "Queremos que lo identifiquen y lo eliminen."
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#22"
+msgid "The beach?!"
+msgstr "¡¿La playa?!"
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#23"
+msgid "I've never been to the beach!"
+msgstr "¡Nunca fui a la playa!"
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#24"
+msgid "We'll definitely have to go sometime!"
+msgstr "¡Tenemos que ir algún día, sin falta!"

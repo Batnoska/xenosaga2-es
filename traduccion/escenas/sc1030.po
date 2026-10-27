@@ -1,0 +1,44 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Xenosaga Episode II - traducción al español\n"
+"Language: es_419\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Xeno-Source: 0:cf/en/sc1030.sbl\n"
+
+#. habla: Canaan
+#, fuzzy
+msgctxt "#3"
+msgid "After a battle is over, enemies will be unable to detect us for a little while."
+msgstr "Después de un combate, los enemigos no pueden detectarnos durante un rato."
+
+#. habla: chaos
+#, fuzzy
+msgctxt "#4"
+msgid "So, during that time, we won't get into another battle even if we come in contact with an enemy."
+msgstr "O sea que, mientras tanto, no entraremos en otro combate aunque toquemos a un enemigo."
+
+#. habla: chaos
+#, fuzzy
+msgctxt "#5"
+msgid "Enemy A.M.W.S.!"
+msgstr "¡A.M.W.S. enemigos!"
+
+#. habla: Canaan
+#, fuzzy
+msgctxt "#6"
+msgid "Come in contact with an enemy to initiate combat. Let's go!"
+msgstr "Toca a un enemigo para iniciar el combate. ¡Vamos!"
+
+#. habla: Canaan
+#, fuzzy
+msgctxt "#7"
+msgid "That's a trap. It has various effects on enemies within its range. Destroy it to set it off."
+msgstr "Eso es una trampa. Tiene distintos efectos sobre los enemigos que están dentro de su alcance. Destrúyela para activarla."
+
+#. habla: Canaan
+#, fuzzy
+msgctxt "#8"
+msgid "The color of the trap indicates the effect. Traps with different colors have different effects."
+msgstr "El color de la trampa indica su efecto. Las trampas de distintos colores tienen efectos distintos."

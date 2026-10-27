@@ -1,0 +1,148 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Xenosaga Episode II - traducción al español\n"
+"Language: es_419\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Xeno-Source: 0:cf/en/sc8054.sbl\n"
+"X-Xeno-Tipo: cinematica\n"
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#5"
+msgid "It's good to see you awake again, Dr. Yuriev."
+msgstr "Me alegra verlo despierto otra vez, doctor Yuriev."
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#6"
+msgid "Sorry I'm late."
+msgstr "Perdón por la demora."
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#7"
+msgid ""
+"I didn't think it would take this\n"
+"long for me to recover."
+msgstr ""
+"No creí que fuera a tardar\n"
+"tanto en recuperarme."
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#8"
+msgid "How's the situation?"
+msgstr "¿Cómo está la situación?"
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#9"
+msgid "Extremely chaotic, sir."
+msgstr "Sumamente caótica, señor."
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#10"
+msgid ""
+"The Federation's grown tired over the\n"
+"past fourteen years and many\n"
+"unstable factions have arisen."
+msgstr ""
+"La Federación se desgastó en los\n"
+"últimos catorce años y surgieron\n"
+"muchas facciones inestables."
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#11"
+msgid "And U-DO?"
+msgstr "¿Y U-DO?"
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#12"
+msgid ""
+"Fourteen years ago, one of the U.R.T.V.s\n"
+"made partial contact with it,"
+msgstr ""
+"Hace catorce años, uno de los U.R.T.V.\n"
+"entró en contacto parcial con él,"
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#. Opciones: una por línea. Mantener 2 líneas en el mismo orden.
+#, fuzzy
+msgctxt "#13"
+msgid ""
+"causing a medium-scale\n"
+"space-time anomaly alteration."
+msgstr ""
+"lo que provocó una alteración anómala\n"
+"del espacio-tiempo de escala media."
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#14"
+msgid ""
+"Since then, it's been obstructed by\n"
+"two black holes. Even now we cannot\n"
+"confirm the state of its existence."
+msgstr ""
+"Desde entonces, lo obstruyen dos\n"
+"agujeros negros. Aún hoy no podemos\n"
+"confirmar el estado de su existencia."
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#15"
+msgid "All right."
+msgstr "De acuerdo."
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#16"
+msgid "Ready my forces. I'll contact you again shortly."
+msgstr ""
+"Prepara a mis tropas. Volveré\n"
+"a comunicarme en breve."
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#17"
+msgid "Yes, sir."
+msgstr "Sí, señor."
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#18"
+msgid ""
+"By the way, how are you feeling?\n"
+"I heard your old body was disposed of."
+msgstr ""
+"Por cierto, ¿cómo se siente?\n"
+"Oí que desecharon su antiguo cuerpo."
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#19"
+msgid "I feel great."
+msgstr "Me siento de maravilla."
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#20"
+msgid ""
+"There's only so much lifespan-extension\n"
+"one can achieve. But now I'm fine.\n"
+"Thanks to my son."
+msgstr ""
+"La prolongación de la vida tiene sus límites.\n"
+"Pero ahora estoy bien.\n"
+"Gracias a mi hijo."
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#21"
+msgid "That is...the son who killed me."
+msgstr "Es decir... al hijo que me mató."

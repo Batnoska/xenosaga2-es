@@ -1,0 +1,96 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Xenosaga Episode II - traducción al español\n"
+"Language: es_419\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Xeno-Source: 0:cf/en/sc8057.sbl\n"
+"X-Xeno-Tipo: cinematica\n"
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#3"
+msgid "That's odd."
+msgstr "Qué raro."
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#4"
+msgid ""
+"This place somehow feels different\n"
+"than the others."
+msgstr ""
+"Este lugar se siente distinto\n"
+"de los demás."
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#5"
+msgid ""
+"You're right. It almost looks like there\n"
+"were people still working here recently."
+msgstr ""
+"Tienes razón. Casi parece que hasta\n"
+"hace poco había gente trabajando aquí."
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#6"
+msgid "Nanomachines gone out-of-control..."
+msgstr "Nanomáquinas fuera de control..."
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#7"
+msgid ""
+"I have heard of nanomachines making rooms\n"
+"and passageways on their own."
+msgstr ""
+"Oí que hay nanomáquinas que crean\n"
+"salas y pasillos por su cuenta."
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#8"
+msgid ""
+"No. No, it doesn't feel like that.\n"
+"This is more like..."
+msgstr ""
+"No. No, no se siente así.\n"
+"Esto es más bien..."
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#9"
+msgid "like some sort of consciousness is at work here."
+msgstr "como si aquí actuara algún tipo de conciencia."
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#10"
+msgid "It's U-DO."
+msgstr "Es U-DO."
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#11"
+msgid "Its presence has spread this far out."
+msgstr "Su presencia se extendió hasta aquí."
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#. Opciones: una por línea. Mantener 2 líneas en el mismo orden.
+#, fuzzy
+msgctxt "#12"
+msgid ""
+"It would appear our destination\n"
+"is right in front of us."
+msgstr ""
+"Parece que nuestro destino\n"
+"está justo frente a nosotros."
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#13"
+msgid "Yeah. There's no more time to lose."
+msgstr "Sí. No hay más tiempo que perder."

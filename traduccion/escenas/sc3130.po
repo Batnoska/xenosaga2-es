@@ -1,0 +1,128 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Xenosaga Episode II - traducción al español\n"
+"Language: es_419\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Xeno-Source: 0:cf/en/sc3130.sbl\n"
+
+#. habla: Widder
+#, fuzzy
+msgctxt "#1"
+msgid "Beyond this point is the Restricted Area, where research materials, data, and weapons of security level A or higher are stored. Currently, all of the Dämmerung is under security alert, so no one may enter without permission from the Security Division."
+msgstr "Más allá de este punto está la Zona restringida, donde se guardan materiales de investigación, datos y armas de nivel de seguridad A o superior. En este momento, todo el Dämmerung está en alerta de seguridad, así que nadie puede entrar sin permiso de la División de Seguridad."
+
+#. habla: Widder
+#, fuzzy
+msgctxt "#2"
+msgid "Please be especially careful at night, since security is tightened with robot sentries."
+msgstr "Tenga especial cuidado de noche, ya que se refuerza la seguridad con robots centinela."
+
+#. habla: Chad
+#, fuzzy
+msgctxt "#3"
+msgid "Sorry. I gotta take a look at this elevator, so it'll be out of service for a bit. Please wait patiently until I'm done working on it."
+msgstr "Perdón. Tengo que revisar este ascensor, así que va a estar fuera de servicio un rato. Por favor, espere con paciencia hasta que termine."
+
+#. habla: Chad
+#, fuzzy
+msgctxt "#4"
+msgid "I know it's terrible timing, but things just break down. I think I'll have it fixed soon, so hang on just a little longer."
+msgstr "Sé que es el peor momento, pero las cosas se rompen. Creo que pronto lo voy a tener arreglado, así que aguarde un poquito más."
+
+#. habla: Wilfred
+#, fuzzy
+msgctxt "#5"
+msgid "Unlike the previous Gnosis attack, it looks like CEO Wilhelm has decided to just sit back and watch this time."
+msgstr "A diferencia del ataque anterior de los Gnosis, parece que esta vez el presidente Wilhelm decidió quedarse a mirar."
+
+#. habla: Wilfred
+#, fuzzy
+msgctxt "#6"
+msgid "Well, I expect Vector will cooperate with the Federation, but I guess we don't need to stick our noses in there until we know what the Immigrant Fleet really wants."
+msgstr "Bueno, supongo que Vector va a cooperar con la Federación, pero no hace falta que nos metamos hasta saber qué quiere en realidad la Flota de Inmigrantes."
+
+#. habla: Stiea
+#, fuzzy
+msgctxt "#7"
+msgid "I'm sorry. You may not use the elevators at this time. Movement within the ship is currently restricted due to the security alert. We appreciate your cooperation."
+msgstr "Lo siento. En este momento no puede usar los ascensores. El desplazamiento dentro de la nave está restringido por la alerta de seguridad. Agradecemos su cooperación."
+
+#. habla: Yolanda
+#, fuzzy
+msgctxt "#8"
+msgid "They say that the Immigrant Fleet invaded Old Miltia. And now, we're under security alert, so I can't even leave the Dämmerung."
+msgstr "Dicen que la Flota de Inmigrantes invadió la Antigua Miltia. Y ahora estamos en alerta de seguridad, así que ni siquiera puedo salir del Dämmerung."
+
+#. habla: Yolanda
+#, fuzzy
+msgctxt "#9"
+msgid "What am I supposed to do now? I was planning to go on a shopping spree in Second Miltia."
+msgstr "¿Y ahora qué hago? Pensaba ir de compras a lo grande a Segunda Miltia."
+
+#. habla: Bertha
+#, fuzzy
+msgctxt "#10"
+msgid "Oh, this makes me so mad!"
+msgstr "¡Ay, esto me da tanta rabia!"
+
+#. habla: Bertha
+#, fuzzy
+msgctxt "#11"
+msgid "You've got it easy! Get this! They told me I had to organize the observational data of the Abyss and then canceled my vacation!"
+msgstr "¡Usted la tiene fácil! ¡Escuche esto! ¡Me dijeron que tenía que ordenar los datos de observación del Abismo y me cancelaron las vacaciones!"
+
+#. habla: Schutze
+#, fuzzy
+msgctxt "#12"
+msgid "Good day, Chief Uzuki. The entire ship is currently under high-security alert."
+msgstr "Buenos días, jefa Uzuki. Toda la nave está en alerta de seguridad alta."
+
+#. habla: Schutze
+#, fuzzy
+msgctxt "#13"
+msgid "Please be aware that even chief-level employees are limited in where they may go. "
+msgstr "Tenga en cuenta que incluso los empleados con rango de jefe tienen restringido adónde pueden ir."
+
+#. habla: Waage
+#, fuzzy
+msgctxt "#14"
+msgid "Hello. This room is currently used by the observation team."
+msgstr "Hola. En este momento, esta sala la usa el equipo de observación."
+
+#. habla: Margery
+#, fuzzy
+msgctxt "#15"
+msgid "I heard from a friend in Second Division that the CEO himself ordered a custom-equipped A.M.W.S. to be sent to Second Miltia. It seems they're going to use this opportunity for a real-world combat test of the new model."
+msgstr "Una amiga de la Segunda División me contó que el propio presidente ordenó enviar a Segunda Miltia un A.M.W.S. con equipamiento especial. Parece que van a aprovechar la oportunidad para hacer una prueba de combate real del nuevo modelo."
+
+#. habla: Margery
+#, fuzzy
+msgctxt "#16"
+msgid "That's our CEO for you. Always on top of everything."
+msgstr "Así es nuestro presidente. Siempre está en todo."
+
+#. habla: Russel
+#, fuzzy
+msgctxt "#17"
+msgid "Just take a look at this view. It's enough to make you forget about what's going on."
+msgstr "Mire nada más esta vista. Es suficiente para olvidarse de lo que está pasando."
+
+#. habla: Russel
+#, fuzzy
+msgctxt "#18"
+msgid "Isn't it marvelous? The Dämmerung not only houses corporate facilities, but also everything from residential areas to entertainment districts."
+msgstr "¿No es maravilloso? El Dämmerung no solo alberga instalaciones de la empresa, sino de todo, desde zonas residenciales hasta barrios de entretenimiento."
+
+#. habla: Russel
+#, fuzzy
+msgctxt "#19"
+msgid "It's like an entire country."
+msgstr "Es como un país entero."
+
+#. habla: Russel
+#, fuzzy
+msgctxt "#20"
+msgid "The view at night is magnificent as well."
+msgstr "La vista de noche también es magnífica."

@@ -1,0 +1,104 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Xenosaga Episode II - traducción al español\n"
+"Language: es_419\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Xeno-Source: 0:model/map/en/E2_EXC09.sbl\n"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#0"
+msgid ""
+"$zoom15;$col7AF9FB;25 killed!\n"
+"$colc0c0c0;The party is just getting started!$colc0c0c0;"
+msgstr ""
+"$zoom15;$col7AF9FB;¡25 eliminados!\n"
+"$colc0c0c0;¡La fiesta apenas comienza!$colc0c0c0;"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#1"
+msgid ""
+"$zoom15;$col7AF9FB;50 killed!\n"
+"$colc0c0c0;The 100 party is still going strong!$colc0c0c0;"
+msgstr ""
+"$zoom15;$col7AF9FB;¡50 eliminados!\n"
+"$colc0c0c0;¡La fiesta de los 100 sigue con todo!$colc0c0c0;"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#2"
+msgid ""
+"$zoom15;$col7AF9FB;75 killed!\n"
+"$colc0c0c0;The party is at its high!$colc0c0c0;"
+msgstr ""
+"$zoom15;$col7AF9FB;¡75 eliminados!\n"
+"$colc0c0c0;¡La fiesta está en su apogeo!$colc0c0c0;"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#3"
+msgid ""
+"$zoom15;$col7AF9FB;90 killed!\n"
+"$colc0c0c0;Good job! Hmm? Gettin' tired?\n"
+"Here, take this reward from me!$colc0c0c0;"
+msgstr ""
+"$zoom15;$col7AF9FB;¡90 eliminados!\n"
+"$colc0c0c0;¡Bien hecho! ¿Eh? ¿Se cansaron?\n"
+"¡Tomen esta recompensa de mi parte!$colc0c0c0;"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#4"
+msgid "$zoom13;Handshake (Aura/Strike)"
+msgstr "$zoom13;Apretón de manos (Aura/Golpe)"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#5"
+msgid "$zoom13;Proof of Subordination (Strike)"
+msgstr "$zoom13;Prueba de sumisión (Golpe)"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#6"
+msgid "$zoom13;Sweet Whispers (Ice)"
+msgstr "$zoom13;Dulces susurros (Hielo)"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#7"
+msgid "$zoom13;Trembling Voice (Ice)"
+msgstr "$zoom13;Voz temblorosa (Hielo)"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#8"
+msgid "$zoom13;March of Meros (Quick)"
+msgstr "$zoom13;Marcha de Meros (Rapidez)"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#9"
+msgid "$zoom13;Full Moon Serenade (EP Drain)"
+msgstr "$zoom13;Serenata de luna llena (Drenar EP)"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#10"
+msgid "$zoom13;Medica"
+msgstr "$zoom13;Medica"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#11"
+msgid "$zoom13;Healing Water"
+msgstr "$zoom13;Agua sanadora"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#12"
+msgid "$zoom13;Invitation to a Dance"
+msgstr "$zoom13;Invitación a bailar"

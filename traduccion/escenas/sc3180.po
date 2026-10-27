@@ -1,0 +1,35 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Xenosaga Episode II - traducción al español\n"
+"Language: es_419\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Xeno-Source: 0:cf/en/sc3180.sbl\n"
+
+#, fuzzy
+msgctxt "#2"
+msgid "Rest?"
+msgstr "¿Descansar?"
+
+#. Opciones: una por línea. Mantener 2 líneas en el mismo orden.
+#, fuzzy
+msgctxt "#3"
+msgid ""
+"Yes\n"
+"No"
+msgstr ""
+"Sí\n"
+"No"
+
+#. habla: Shion
+#, fuzzy
+msgctxt "#4"
+msgid "I'm feeling restless. Allen had some sedatives on him...I should find him so I can get a little sleep."
+msgstr "Estoy inquieta. Allen tenía unos sedantes encima... Debería buscarlo para poder dormir un poco."
+
+#. habla: Shion
+#, fuzzy
+msgctxt "#5"
+msgid "Allen's sedative is starting to work. I think I'll lie down for a little while."
+msgstr "El sedante de Allen está empezando a hacer efecto. Creo que me voy a acostar un rato."

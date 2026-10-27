@@ -1,0 +1,395 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Xenosaga Episode II - traducción al español\n"
+"Language: es_419\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Xeno-Source: 0:cf/en/sc4110.sbl\n"
+
+#. habla: Butch
+#, fuzzy
+msgctxt "#0"
+msgid "Is that you, Dr. Uzuki? Why are you here on the Foundation?"
+msgstr "¿Es usted, doctor Uzuki? ¿Qué hace aquí en la Fundación?"
+
+#, fuzzy
+msgctxt "#1"
+msgid ""
+"How do you know me?\n"
+"I have a few things to take care of."
+msgstr ""
+"¿Cómo es que me conoce?\n"
+"Tengo algunas cosas que hacer."
+
+#. habla: Butch
+#, fuzzy
+msgctxt "#2"
+msgid "Oh, come now! You cured my son when he had a fever! My family has never liked relying on nanotreatment. You were the only doctor not using nanotreatment that we could find, so we went all the way to Second Miltia!"
+msgstr "¡Ay, vamos! ¡Usted curó a mi hijo cuando tenía fiebre! A mi familia nunca le gustó depender del nanotratamiento. Usted era el único médico que no lo usaba, ¡así que fuimos hasta Segunda Miltia!"
+
+#. habla: Butch
+#, fuzzy
+msgctxt "#3"
+msgid "Are you making a house call or something? What's that? You're not a doctor anymore?"
+msgstr "¿Está haciendo una visita a domicilio o algo así? ¿Qué dice? ¿Ya no es médico?"
+
+#. habla: Butch
+#, fuzzy
+msgctxt "#4"
+msgid "Oh? Are you a cyborg? You look like a model from the Ziggurat company, right? I may not look it, but I'm good with machines!"
+msgstr "¿Oh? ¿Es usted un cíborg? Parece un modelo de la empresa Ziggurat, ¿no? Quizá no lo parezca, ¡pero las máquinas se me dan bien!"
+
+#. Opciones: una por línea. Mantener 2 líneas en el mismo orden.
+#, fuzzy
+msgctxt "#5"
+msgid ""
+"I'd rather not talk about it.\n"
+"So it would seem."
+msgstr ""
+"Prefiero no hablar de eso.\n"
+"Eso parece."
+
+#. habla: Butch
+#, fuzzy
+msgctxt "#6"
+msgid "Ah, sorry, sorry! Didn't mean to pry! Anyway, let's change the subject. You know, I've got a big dream I'm trying to reel in here! If you're interested, come see me. You might enjoy a little fishing!"
+msgstr "¡Ah, perdón, perdón! ¡No quise meterme! En fin, cambiemos de tema. ¿Sabe? ¡Aquí estoy intentando pescar un gran sueño! Si le interesa, venga a verme. ¡Quizá disfrute un poco de la pesca!"
+
+#. habla: Butch
+#, fuzzy
+msgctxt "#7"
+msgid "I knew it. Well, just because you're a cyborg, doesn't mean you've thrown away your manly soul, right? I've got a big dream I'm trying to reel in here! If you're interested, come talk to me."
+msgstr "Lo sabía. Bueno, que sea un cíborg no significa que haya abandonado su alma de hombre, ¿no? ¡Aquí estoy intentando pescar un gran sueño! Si le interesa, venga a hablar conmigo."
+
+#. habla: Butch
+#, fuzzy
+msgctxt "#8"
+msgid "Yo, Little Master! What brings you here?"
+msgstr "¡Ey, joven amo! ¿Qué lo trae por aquí?"
+
+#, fuzzy
+msgctxt "#9"
+msgid ""
+"I came to check up on you!\n"
+"How's it going? Did you reel in your dream?"
+msgstr ""
+"¡Vine a ver cómo estabas!\n"
+"¿Cómo va? ¿Ya pescaste tu sueño?"
+
+#. habla: Butch
+#, fuzzy
+msgctxt "#10"
+msgid "Ah-hah! Are you after the treasure in this lake, too? I'm not gonna lose it, even to you, Little Master! I swear I'm going to haul in the treasure here myself!"
+msgstr "¡Ajá! ¿Usted también va tras el tesoro de este lago? ¡No se lo voy a dejar ni a usted, joven amo! ¡Juro que voy a sacar el tesoro de aquí yo mismo!"
+
+#. habla: Butch
+#, fuzzy
+msgctxt "#11"
+msgid "Haha, are you just here to chat? Go on, make fun of me! Once I've pulled up my prize, you'll see with your own eyes that it wasn't just a dream!"
+msgstr "Jaja, ¿solo vino a charlar? ¡Vamos, búrlese de mí! ¡Cuando saque mi premio, va a ver con sus propios ojos que no era solo un sueño!"
+
+#. habla: Butch
+#, fuzzy
+msgctxt "#12"
+msgid "The Dream-Fishing festival will begin real soon!"
+msgstr "¡El festival de Pesca de Sueños empieza muy pronto!"
+
+#. habla: Butch
+#, fuzzy
+msgctxt "#13"
+msgid "Come watch, if you like! You won't regret it!"
+msgstr "¡Venga a mirar, si quiere! ¡No se va a arrepentir!"
+
+#. habla: Butch
+#, fuzzy
+msgctxt "#14"
+msgid "The seeeeeeea ♪ iiis caaaaaalling ♪ meeeeeeeee! ♪"
+msgstr "¡El maaaaar ♪ meeee ♪ llaaaaamaaaa! ♪"
+
+#. habla: Butch
+#, fuzzy
+msgctxt "#15"
+msgid "What do you think of my singing? Sweet music to the ears, huh?"
+msgstr "¿Qué te parece cómo canto? Música para los oídos, ¿eh?"
+
+#. habla: Butch
+#, fuzzy
+msgctxt "#16"
+msgid "Right now, I'm running a special campaign to reel in a legendary giant fish. But I'm sorry, I'm afraid only men are allowed to participate! If you know anyone who thinks he's got what it takes, please let him know about it!"
+msgstr "Ahora mismo estoy con una campaña especial para pescar un pez gigante legendario. Pero lo siento, ¡me temo que solo pueden participar hombres! Si conoces a alguien que crea tener lo que hace falta, ¡avísale!"
+
+#. habla: Butch
+#, fuzzy
+msgctxt "#17"
+msgid "I'm sorry. It's not that I'm being sexist, but I just can't lend a girl a fishing rod! The prize I want people to haul in is enormous! It'd be cruel to make a girl lift something that big! I'm a gentleman, you see!"
+msgstr "Lo siento. No es que sea machista, ¡pero no puedo prestarle una caña de pescar a una chica! ¡El premio que quiero que saquen es enorme! ¡Sería cruel hacer que una chica levante algo tan grande! ¡Es que soy un caballero!"
+
+#. habla: Butch
+#, fuzzy
+msgctxt "#18"
+msgid "Yo! Want to try fishing up a big dream?"
+msgstr "¡Ey! ¿Quieres intentar pescar un gran sueño?"
+
+#. Opciones: una por línea. Mantener 2 líneas en el mismo orden.
+#, fuzzy
+msgctxt "#19"
+msgid ""
+"Yes\n"
+"No"
+msgstr ""
+"Sí\n"
+"No"
+
+#. habla: Butch
+#, fuzzy
+msgctxt "#20"
+msgid "Okay, let's get started!"
+msgstr "¡Muy bien, empecemos!"
+
+#. habla: Butch
+#, fuzzy
+msgctxt "#21"
+msgid "Hahaha, scared, huh? Oh, well. If you change your mind, just talk to me again!"
+msgstr "Jajaja, te dio miedo, ¿eh? Bueno. Si cambias de idea, ¡vuelve a hablarme!"
+
+#. habla: Butch
+#, fuzzy
+msgctxt "#22"
+msgid "If you want to fish up a great story, you gotta bring me something! Hmm, let's see. One piece of scrap iron should do it!"
+msgstr "Si quieres pescar una gran historia, ¡tienes que traerme algo! Hmm, a ver. ¡Con una chatarra de hierro alcanza!"
+
+#. habla: Butch
+#, fuzzy
+msgctxt "#23"
+msgid "Oh?! You've brought some scrap iron? You can fish one time for each piece of scrap iron. Well? Want to give it a try?"
+msgstr "¿Oh? ¡¿Trajiste chatarra de hierro?! Puedes pescar una vez por cada chatarra de hierro. ¿Y? ¿Quieres intentarlo?"
+
+#. habla: Butch
+#, fuzzy
+msgctxt "#24"
+msgid "Whoa, whoa! What are you going to do with all that scrap iron? Go sell it off somewhere!"
+msgstr "¡Epa, epa! ¿Qué vas a hacer con toda esa chatarra de hierro? ¡Ve a venderla a algún lado!"
+
+#. habla: Butch
+#, fuzzy
+msgctxt "#25"
+msgid "There are still some unbelievable monsters lurking in this sea!"
+msgstr "¡En este mar todavía acechan monstruos increíbles!"
+
+#. habla: Butch
+#, fuzzy
+msgctxt "#26"
+msgid "I'm going to keep fighting the monsters of the sea!"
+msgstr "¡Voy a seguir peleando contra los monstruos del mar!"
+
+#. habla: Hoshino
+#, fuzzy
+msgctxt "#27"
+msgid "Bow-wow!"
+msgstr "¡Guau, guau!"
+
+#. habla: Mika
+#, fuzzy
+msgctxt "#28"
+msgid "I come here to play a lot!"
+msgstr "¡Vengo mucho a jugar aquí!"
+
+#. habla: Mika
+#, fuzzy
+msgctxt "#29"
+msgid "Mommy and Daddy said I shouldn't come alone, but Butch and Etsuko are here, so it should be okay, right?"
+msgstr "Mamá y papá dicen que no debería venir sola, pero Butch y Etsuko están aquí, así que no pasa nada, ¿no?"
+
+#. habla: Mika
+#, fuzzy
+msgctxt "#30"
+msgid "Guess what! It was so cool! A weird droid picked up my handkerchief that I dropped in the ocean! He got all wet and I asked him if he was okay, but he just ran off somewhere in a big hurry! The droid left this behind in the water. Etsuko fished it up with a net!"
+msgstr "¡Adivina qué! ¡Fue genial! ¡Un droide raro recogió el pañuelo que se me cayó al mar! Quedó todo mojado y le pregunté si estaba bien, ¡pero salió corriendo a toda prisa a algún lado! El droide dejó esto en el agua. ¡Etsuko lo sacó con una red!"
+
+#, fuzzy
+msgctxt "#31"
+msgid "You obtained ZAZA's Clue 2!"
+msgstr "¡Obtuviste la Pista de ZAZA 2!"
+
+#. habla: Mika
+#, fuzzy
+msgctxt "#32"
+msgid "That nice droid said he was going to Second Miltia. If you see him, please thank him for me! If I'd lost my handkerchief, Mommy would've been mad at me again!"
+msgstr "Ese droide tan bueno dijo que iba a Segunda Miltia. Si lo ves, ¡dale las gracias de mi parte! ¡Si hubiera perdido el pañuelo, mamá se habría enojado conmigo otra vez!"
+
+#. habla: Mika
+#, fuzzy
+msgctxt "#33"
+msgid "That nice droid said he was going to Second Miltia!"
+msgstr "¡Ese droide tan bueno dijo que iba a Segunda Miltia!"
+
+#. habla: Mika
+#, fuzzy
+msgctxt "#34"
+msgid "I wish I had a droid like that."
+msgstr "Ojalá yo tuviera un droide así."
+
+#. habla: Mika
+#, fuzzy
+msgctxt "#35"
+msgid "What? A weird droid? It hasn't come here!"
+msgstr "¿Qué? ¿Un droide raro? ¡No vino por aquí!"
+
+#. habla: Mika
+#, fuzzy
+msgctxt "#36"
+msgid "You were looking for a droid, right?"
+msgstr "Estaban buscando un droide, ¿no?"
+
+#. habla: Mika
+#, fuzzy
+msgctxt "#37"
+msgid "Did you thank him for getting my handkerchief?"
+msgstr "¿Le dieron las gracias por recuperar mi pañuelo?"
+
+#. habla: Butch's Voice
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#38"
+msgid "The time limit is one minute. Find a spot you like and press <○>! Here we go!"
+msgstr "El tiempo límite es de un minuto. ¡Busca un lugar que te guste y presiona <○>! ¡Allá vamos!"
+
+#. habla: Butch
+#, fuzzy
+msgctxt "#39"
+msgid "Yeah, that's pretty normal."
+msgstr "Sí, eso es bastante normal."
+
+#. habla: Butch
+#, fuzzy
+msgctxt "#40"
+msgid "You weren't able to catch Red Eye? Well, that's typical."
+msgstr "¿No pudiste atrapar a Ojo Rojo? Bueno, es lo normal."
+
+#. habla: Etsuko
+#, fuzzy
+msgctxt "#42"
+msgid "Not that I care, but my silly husband can't swim."
+msgstr "No es que me importe, pero mi tonto esposo no sabe nadar."
+
+#. habla: Etsuko
+#, fuzzy
+msgctxt "#43"
+msgid "Hey, Butch! Are you practicing your swimming?"
+msgstr "¡Oye, Butch! ¿Estás practicando natación?"
+
+#. habla: Etsuko
+#, fuzzy
+msgctxt "#44"
+msgid "How can there be treasure in a man-made lake, huh? Oh, men are so stupid."
+msgstr "¿Cómo va a haber un tesoro en un lago artificial, eh? Ay, los hombres son tan tontos."
+
+#. habla: Butch
+#, fuzzy
+msgctxt "#45"
+msgid "The time has finally come for someone to reel in my big dream! Somewhere lurking in this artificial lake is a four-meter long giant fish named Red Eye! There're a number of theories as to how a fish like that can exist, but the most plausible one is that prior to the strengthening of the Species Preservation Act, someone released a genetically modified black bass which grew to an enormous size! That thing is causing all sorts of trouble in the lake now. So, how about it? Want to try hauling him in?"
+msgstr "¡Por fin llegó el momento de que alguien pesque mi gran sueño! En algún lugar de este lago artificial acecha un pez gigante de cuatro metros llamado Ojo Rojo. Hay varias teorías sobre cómo puede existir un pez así, pero la más creíble es que, antes de que se endureciera la Ley de Preservación de Especies, alguien soltó una lobina negra modificada genéticamente que creció hasta un tamaño enorme. ¡Esa cosa está causando todo tipo de problemas en el lago! Y bien, ¿qué dices? ¿Quieres intentar sacarlo?"
+
+#. habla: Butch
+#, fuzzy
+msgctxt "#46"
+msgid "Then just let me know when you're ready!"
+msgstr "¡Entonces avísame cuando estés listo!"
+
+#. habla: Butch
+#, fuzzy
+msgctxt "#48"
+msgid "I wouldn't want anything to happen when I wasn't looking!"
+msgstr "¡No quisiera que pasara algo mientras no estoy mirando!"
+
+#. habla: Butch
+#, fuzzy
+msgctxt "#49"
+msgid "Good luck!"
+msgstr "¡Buena suerte!"
+
+#. habla: Butch
+#, fuzzy
+msgctxt "#50"
+msgid "Whoa! You did it! You actually caught Red Eye!"
+msgstr "¡Epa! ¡Lo lograste! ¡De verdad atrapaste a Ojo Rojo!"
+
+#. habla: Butch
+#, fuzzy
+msgctxt "#52"
+msgid "With this, we've restored peace to the beaches of the Foundation. Please take this in honor of your bravery!"
+msgstr "Con esto devolvimos la paz a las playas de la Fundación. ¡Por favor, acepta esto en honor a tu valentía!"
+
+#, fuzzy
+msgctxt "#53"
+msgid "You obtained Decoder 16!"
+msgstr "¡Obtuviste el Decodificador 16!"
+
+#. habla: Butch
+#, fuzzy
+msgctxt "#54"
+msgid "And here's a bonus souvenir!"
+msgstr "¡Y aquí tienes un recuerdo extra!"
+
+#, fuzzy
+msgctxt "#55"
+msgid "You obtained a Red Eye Fish Print!"
+msgstr "¡Obtuviste un Grabado de Ojo Rojo!"
+
+#. habla: Butch
+#, fuzzy
+msgctxt "#56"
+msgid "I'm sure there are still countless monsters lurking around this beach! And I'm going to haul every last one of them in!"
+msgstr "¡Seguro que todavía hay incontables monstruos acechando en esta playa! ¡Y voy a sacarlos a todos, hasta el último!"
+
+#, fuzzy
+msgctxt "#57"
+msgid "Rotate the right analog stick clockwise to reel in the line!"
+msgstr "¡Gira el stick analógico derecho en el sentido de las agujas del reloj para recoger el sedal!"
+
+#, fuzzy
+msgctxt "#58"
+msgid "You obtained scrap iron!"
+msgstr "¡Obtuviste chatarra de hierro!"
+
+#, fuzzy
+msgctxt "#59"
+msgid "You didn't catch anything!"
+msgstr "¡No pescaste nada!"
+
+#, fuzzy
+msgctxt "#60"
+msgid "It was just a little fish! You felt sorry for it and let it go!"
+msgstr "¡Era solo un pececito! ¡Te dio lástima y lo soltaste!"
+
+#, fuzzy
+msgctxt "#61"
+msgid "You caught a naughty magazine! We don't need that, so we'll throw it away!"
+msgstr "¡Pescaste una revista picante! No la necesitamos, ¡así que la tiramos!"
+
+#, fuzzy
+msgctxt "#62"
+msgid "You caught an empty can! We don't need that, so we'll throw it away!"
+msgstr "¡Pescaste una lata vacía! No la necesitamos, ¡así que la tiramos!"
+
+#, fuzzy
+msgctxt "#63"
+msgid "It got your bait!"
+msgstr "¡Se llevó la carnada!"
+
+#, fuzzy
+msgctxt "#64"
+msgid "You caught someone's boots! We don't need those, so we'll throw them away!"
+msgstr "¡Pescaste las botas de alguien! No las necesitamos, ¡así que las tiramos!"
+
+#, fuzzy
+msgctxt "#65"
+msgid "You caught Red Eye!"
+msgstr "¡Atrapaste a Ojo Rojo!"
+
+#. habla: Butch
+#, fuzzy
+msgctxt "#66"
+msgid "That's it!"
+msgstr "¡Eso es!"

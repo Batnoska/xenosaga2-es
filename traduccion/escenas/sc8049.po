@@ -1,0 +1,63 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Xenosaga Episode II - traducción al español\n"
+"Language: es_419\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Xeno-Source: 0:cf/en/sc8049.sbl\n"
+"X-Xeno-Tipo: cinematica\n"
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#5"
+msgid "I'm terribly sorry but I can't allow you to escape."
+msgstr ""
+"Lo siento muchísimo, pero\n"
+"no puedo permitir que escapen."
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#6"
+msgid ""
+"This fortress has already begun to disintegrate.\n"
+"It's only a matter of time before it's\n"
+"swallowed by the Abyss."
+msgstr ""
+"Esta fortaleza ya empezó a desintegrarse.\n"
+"Es solo cuestión de tiempo antes de\n"
+"que se la trague el Abismo."
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#7"
+msgid "It'll be a fitting memorial to you."
+msgstr "Será un monumento digno de ustedes."
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#8"
+msgid ""
+"I suggest you spend your final moments\n"
+"praying for a peaceful slumber."
+msgstr ""
+"Les sugiero que pasen sus últimos\n"
+"momentos rezando por un sueño apacible."
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#9"
+msgid "Shion, I recommend a swift retreat."
+msgstr "Shion, recomiendo una retirada inmediata."
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#10"
+msgid "This structure will not hold much longer."
+msgstr "Esta estructura no resistirá mucho más."
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#11"
+msgid "I know. Let's hurry on back to the Elsa."
+msgstr "Lo sé. Volvamos rápido al Elsa."

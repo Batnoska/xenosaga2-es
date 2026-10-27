@@ -1,0 +1,212 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Xenosaga Episode II - traducción al español\n"
+"Language: es_419\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Xeno-Source: 0:model/map/en/E2_EXC10.sbl\n"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#0"
+msgid ""
+"$zoom15;$colc0c0c0;You guys aren't bad!\n"
+"I'm impressed!●"
+msgstr ""
+"$zoom15;$colc0c0c0;¡No están nada mal!\n"
+"¡Me impresionaron!●"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#1"
+msgid ""
+"$zoom15;$colc0c0c0;How about it? Wanna play a game\n"
+"that tests each other's courage?●"
+msgstr ""
+"$zoom15;$colc0c0c0;¿Qué les parece? ¿Jugamos a algo\n"
+"que ponga a prueba su valor?●"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#2"
+msgid ""
+"$zoom15;$col7AF9FB;I'll just sit here while one of you\n"
+"attacks me! If you can't beat me\n"
+"in one blow, then it'll be your\n"
+"turn to stand defenseless.●"
+msgstr ""
+"$zoom15;$col7AF9FB;Me quedo quieto mientras uno de\n"
+"ustedes me ataca. Si no me vencen\n"
+"de un golpe, les tocará a ustedes\n"
+"quedarse indefensos.●"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#3"
+msgid ""
+"$zoom15;$col7AF9FB;Now, start whenever you're ready!\n"
+"Let's have some fun!●"
+msgstr ""
+"$zoom15;$col7AF9FB;¡Empiecen cuando estén listos!\n"
+"¡Vamos a divertirnos!●"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#5"
+msgid "$zoom13;Reload >> Magna"
+msgstr "$zoom13;Recargar >> Magna"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#6"
+msgid "$zoom13;Reload >> Hemorrhage"
+msgstr "$zoom13;Recargar >> Hemorragia"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#7"
+msgid "$zoom13;Reload >> Kreuz"
+msgstr "$zoom13;Recargar >> Kreuz"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#8"
+msgid "$zoom15;$col7AF9FB;The block is gone!$colc0c0c0;"
+msgstr "$zoom15;$col7AF9FB;¡Desapareció el bloqueo!$colc0c0c0;"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#9"
+msgid "$zoom15;$col7AF9FB;The door to ruin opens!"
+msgstr "$zoom15;$col7AF9FB;¡Se abre la puerta a la ruina!"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#10"
+msgid "$zoom13;Memory of Time"
+msgstr "$zoom13;Recuerdo del tiempo"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#11"
+msgid "$zoom13;Magna Shot (Pierce)"
+msgstr "$zoom13;Disparo Magna (Perforación)"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#12"
+msgid "$zoom13;Hemorrhage Shot (Pierce/L Poison EP)"
+msgstr "$zoom13;Disparo Hemorragia (Perforación/Veneno EP L)"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#13"
+msgid "$zoom13;Kreuz Shot (Pierce/H Bind)"
+msgstr "$zoom13;Disparo Kreuz (Perforación/Atadura H)"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#14"
+msgid "$zoom13;Ragnarok (Fire)"
+msgstr "$zoom13;Ragnarok (Fuego)"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#15"
+msgid "$zoom15;$colc0c0c0;Fate is unavoidable."
+msgstr "$zoom15;$colc0c0c0;El destino es ineludible."
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#16"
+msgid "$zoom13;Embrace (Strike)"
+msgstr "$zoom13;Abrazo (Golpe)"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#17"
+msgid "$zoom13;Quick"
+msgstr "$zoom13;Rapidez"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#18"
+msgid "$zoom13;Safety Level"
+msgstr "$zoom13;Nivel seguro"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#19"
+msgid "$zoom15;$col7AF9FB;Impenetrable against frontal attacks!$colc0c0c0;"
+msgstr "$zoom15;$col7AF9FB;¡Impenetrable ante ataques frontales!$colc0c0c0;"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#20"
+msgid "$zoom13;Unbreakable Block"
+msgstr "$zoom13;Bloqueo irrompible"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#21"
+msgid "$zoom13;Boost 1"
+msgstr "$zoom13;Boost 1"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#22"
+msgid ""
+"$zoom15;$col7AF9FB;Mimicked the parameters of the\n"
+"highest level target!$colc0c0c0;"
+msgstr ""
+"$zoom15;$col7AF9FB;¡Imitó los parámetros del objetivo\n"
+"de mayor nivel!$colc0c0c0;"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#23"
+msgid "$zoom13;Stigma (Pierce)"
+msgstr "$zoom13;Estigma (Perforación)"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#24"
+msgid "$zoom13;Inescapable Arrow - Shot 1 (Pierce/L Resistance D)"
+msgstr "$zoom13;Flecha ineludible - Disparo 1 (Perforación/Resistencia D L)"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#25"
+msgid "$zoom13;Inescapable Arrow - Shot 2 (Pierce/L Weak)"
+msgstr "$zoom13;Flecha ineludible - Disparo 2 (Perforación/Debilidad L)"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#26"
+msgid "$zoom13;Inescapable Arrow - Shot 3 (Pierce/L Slow)"
+msgstr "$zoom13;Flecha ineludible - Disparo 3 (Perforación/Lentitud L)"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#27"
+msgid "$zoom13;Inescapable Arrow - Final (Pierce)"
+msgstr "$zoom13;Flecha ineludible - Final (Perforación)"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#28"
+msgid "$zoom13;Pandora's Gate"
+msgstr "$zoom13;Puerta de Pandora"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#29"
+msgid "$zoom13;The Curse of Zero (L Poison)"
+msgstr "$zoom13;La maldición del cero (Veneno L)"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#30"
+msgid "$zoom13;Conditions for Invincibility "
+msgstr "$zoom13;Condiciones de invencibilidad"

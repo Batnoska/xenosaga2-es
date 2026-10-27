@@ -1,0 +1,735 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Xenosaga Episode II - traducción al español\n"
+"Language: es_419\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Xeno-Source: 0:cf/en/sc3850.sbl\n"
+
+#. habla: Sean
+#, fuzzy
+msgctxt "#0"
+msgid "Man, I'm in a good mood! I've got the droids doing all the work, so today I can just relax."
+msgstr "¡Vaya, qué buen humor tengo! Puse a los droides a hacer todo el trabajo, así que hoy puedo relajarme."
+
+#. habla: Sean
+#, fuzzy
+msgctxt "#1"
+msgid "Man, they're so convenient! Since we got these droids, my job has gotten super-easy!"
+msgstr "¡Vaya, qué prácticos son! ¡Desde que tenemos estos droides, mi trabajo es superfácil!"
+
+#. habla: Sean
+#, fuzzy
+msgctxt "#2"
+msgid "What the?...What's going on? A droid suddenly hit me from behind! But the idiot dropped this when it ran away! Say, if you're looking for that droid, this might turn out to be a clue! Take it!"
+msgstr "¿Qué...? ¿Qué está pasando? ¡De repente un droide me golpeó por la espalda! ¡Pero al muy tonto se le cayó esto cuando se escapó! Oye, si buscas ese droide, ¡esto podría servirte de pista! ¡Tómalo!"
+
+#, fuzzy
+msgctxt "#3"
+msgid "You obtained ZAZA's Clue 4!"
+msgstr "¡Obtuviste la Pista de ZAZA 4!"
+
+#. habla: Sean
+#, fuzzy
+msgctxt "#4"
+msgid "It was headed for Second Miltia! If you hurry, you might be able to catch it!"
+msgstr "¡Iba hacia Segunda Miltia! ¡Si te apuras, quizá lo alcances!"
+
+#. habla: Sean
+#, fuzzy
+msgctxt "#5"
+msgid "It looked like it had a problem in its neural circuitry. You shouldn't let it wander around like that!"
+msgstr "Parecía tener un problema en los circuitos neuronales. ¡No deberían dejarlo andar suelto así!"
+
+#. habla: Sean
+#, fuzzy
+msgctxt "#6"
+msgid "But why did it hit me? Was it jealous because I was making the droids do my work?!"
+msgstr "Pero ¿por qué me golpeó? ¡¿Tenía celos porque hacía que los droides trabajaran por mí?!"
+
+#. habla: Sean
+#, fuzzy
+msgctxt "#7"
+msgid "It was headed for Second Miltia! If you hurry, you might be able to catch it!"
+msgstr "¡Iba hacia Segunda Miltia! ¡Si te apuras, quizá lo alcances!"
+
+#. habla: Sean
+#, fuzzy
+msgctxt "#8"
+msgid "What? A weird droid? It hasn't come here!"
+msgstr "¿Qué? ¿Un droide raro? ¡No vino por aquí!"
+
+#. habla: Sean
+#, fuzzy
+msgctxt "#9"
+msgid "Oh, it's you. Hi! Did you find that droid?"
+msgstr "Ah, eres tú. ¡Hola! ¿Encontraste ese droide?"
+
+#. habla: Sean
+#, fuzzy
+msgctxt "#10"
+msgid "Droids require periodic maintenance, just like we Realians."
+msgstr "Los droides necesitan mantenimiento periódico, igual que los Realians como nosotros."
+
+#. habla: Eugene
+#, fuzzy
+msgctxt "#11"
+msgid "Hmm, they sure are slow. Just what are our people doing?!"
+msgstr "Hmm, sí que son lentos. ¿Qué están haciendo los nuestros?"
+
+#. habla: Eugene
+#, fuzzy
+msgctxt "#12"
+msgid "Hmm? I'm here to distribute a new type of Environmental Bug that our company just developed. I was hoping to perform on-site testing in the Durandal, but I forgot the documents for the meeting! I contacted company headquarters and requested that they send them, but they still haven't arrived."
+msgstr "¿Hmm? Vine a distribuir un nuevo tipo de Bicho Ambiental que acaba de desarrollar nuestra empresa. Quería hacer pruebas en el lugar, en el Durandal, ¡pero me olvidé los documentos para la reunión! Me comuniqué con la sede central de la empresa y pedí que me los mandaran, pero todavía no llegaron."
+
+#. habla: Eugene
+#, fuzzy
+msgctxt "#13"
+msgid "I requested the documents be sent in a heart-shaped envelope!"
+msgstr "¡Pedí que mandaran los documentos en un sobre con forma de corazón!"
+
+#. habla: Eugene
+#, fuzzy
+msgctxt "#14"
+msgid "Oh! That heart-shaped envelope you have! Are you the one bringing the documents? Would you hand them over?"
+msgstr "¡Oh! ¡Ese sobre con forma de corazón que tienes! ¿Eres quien trae los documentos? ¿Me los das?"
+
+#. Opciones: una por línea. Mantener 2 líneas en el mismo orden.
+#, fuzzy
+msgctxt "#15"
+msgid ""
+"Hand them over.\n"
+"Don't hand them over."
+msgstr ""
+"Dárselos.\n"
+"No dárselos."
+
+#. habla: Eugene
+#, fuzzy
+msgctxt "#16"
+msgid "Thank you so much!"
+msgstr "¡Muchísimas gracias!"
+
+#. habla: Eugene
+#, fuzzy
+msgctxt "#17"
+msgid "What?! Are you saying that that isn't the envelope I requested?!"
+msgstr "¡¿Qué?! ¡¿Me estás diciendo que ese no es el sobre que pedí?!"
+
+#. habla: Eugene
+#, fuzzy
+msgctxt "#18"
+msgid "Thanks to you, I'll get to keep my job. I'm in your debt."
+msgstr "Gracias a ti, no voy a perder mi trabajo. Te debo una."
+
+#. habla: Eugene
+#, fuzzy
+msgctxt "#19"
+msgid "What? Oh, the documents? One of our company employees transported them over. He's an excellent employee!"
+msgstr "¿Qué? Ah, ¿los documentos? Un empleado de nuestra empresa los trajo por transporte. ¡Es un empleado excelente!"
+
+#. habla: Ralph
+#, fuzzy
+msgctxt "#20"
+msgid "Little Master, I got some mail from my friend Allen the other day, and there was a picture of the two of you in there. Do you know him? "
+msgstr "Joven amo, el otro día recibí un correo de mi amigo Allen, y venía una foto de ustedes dos. ¿Lo conoce?"
+
+#. habla: Ralph
+#, fuzzy
+msgctxt "#21"
+msgid "Wow! I guess when you make it into Vector, you can even get close to Little Master! I really look up to Allen!"
+msgstr "¡Guau! ¡Supongo que cuando uno entra a Vector, hasta puede acercarse al joven amo! ¡Admiro mucho a Allen!"
+
+#. habla: Ralph
+#, fuzzy
+msgctxt "#22"
+msgid "Do you know Allen? I thought so. So, you were on the Elsa together."
+msgstr "¿Conoces a Allen? Me lo imaginaba. Así que estaban juntos en el Elsa."
+
+#. habla: Ralph
+#, fuzzy
+msgctxt "#23"
+msgid "Wait, the Elsa?! That's the ship that transports all sorts of not-so-legal stuff, right? Wow, he must have changed a lot."
+msgstr "Un momento, ¡¿el Elsa?! Es esa nave que transporta todo tipo de cosas no muy legales, ¿no? Vaya, sí que debe haber cambiado."
+
+#. habla: Ralph
+#, fuzzy
+msgctxt "#24"
+msgid "I have a friend who's really clumsy and has a hard time fitting in. I think he said he's working for Vector now."
+msgstr "Tengo un amigo que es muy torpe y al que le cuesta encajar. Creo que dijo que ahora trabaja en Vector."
+
+#. habla: Ralph
+#, fuzzy
+msgctxt "#25"
+msgid "Hmm? His name? His name's Allen. What, do you know him? Oh, really? What a coincidence. "
+msgstr "¿Hmm? ¿Su nombre? Se llama Allen. ¿Qué, lo conoces? ¿Ah, sí? Qué coincidencia."
+
+#. habla: Ralph
+#, fuzzy
+msgctxt "#26"
+msgid "Please don't drag Allen into some shady underworld. He just can't say no when people ask him to do things."
+msgstr "Por favor, no arrastren a Allen a ningún bajo mundo turbio. No sabe decir que no cuando la gente le pide cosas."
+
+#. habla: Ralph
+#, fuzzy
+msgctxt "#27"
+msgid "Say, Little Master, Allen's not causing you any trouble, is he?"
+msgstr "Oiga, joven amo, Allen no le está causando problemas, ¿no?"
+
+#. habla: Ralph
+#, fuzzy
+msgctxt "#28"
+msgid "He's weak and a little inconsiderate. I'm really worried he might get on your nerves."
+msgstr "Es débil y un poco desconsiderado. Me preocupa mucho que lo saque de quicio."
+
+#. habla: Ralph
+#, fuzzy
+msgctxt "#29"
+msgid "You're MOMO, the 100-Series, right? What?! Allen helped with your analysis?"
+msgstr "Tú eres MOMO, la Serie 100, ¿no? ¡¿Qué?! ¿Allen ayudó con tu análisis?"
+
+#. habla: Ralph
+#, fuzzy
+msgctxt "#30"
+msgid "Wow, I've got to ask him what he thought of it sometime."
+msgstr "Vaya, algún día tengo que preguntarle qué le pareció."
+
+#. habla: Ralph
+#, fuzzy
+msgctxt "#31"
+msgid "Hi! Do you want to hear some old stories about Allen?"
+msgstr "¡Hola! ¿Quieres escuchar algunas historias viejas de Allen?"
+
+#. habla: Ralph
+#, fuzzy
+msgctxt "#32"
+msgid "Allen's a superb engineer, but he's pretty much a wimp. He showed up late to the Vector company entrance exam because of stomach pains."
+msgstr "Allen es un ingeniero excelente, pero es bastante cobarde. Llegó tarde al examen de ingreso de Vector por un dolor de panza."
+
+#. habla: Ralph
+#, fuzzy
+msgctxt "#33"
+msgid "Say, the other day Allen sent me mail bragging that he infiltrated a restricted area of company headquarters. Is that true?"
+msgstr "Oye, el otro día Allen me mandó un correo presumiendo que se había infiltrado en un área restringida de la sede central de la empresa. ¿Es verdad?"
+
+#. habla: Ralph
+#, fuzzy
+msgctxt "#34"
+msgid "Please keep an eye on him!"
+msgstr "¡Por favor, vigílenlo!"
+
+#. habla: Ralph
+#, fuzzy
+msgctxt "#35"
+msgid "How's Allen doing? What?! He's slowly turning into a real man?!"
+msgstr "¿Cómo está Allen? ¡¿Qué?! ¿Poco a poco se está convirtiendo en todo un hombre?"
+
+#. habla: Ralph
+#, fuzzy
+msgctxt "#36"
+msgid "Hmm, that doesn't sound like Allen. I hope his personality doesn't change too much. "
+msgstr "Hmm, eso no suena a Allen. Espero que su personalidad no cambie demasiado."
+
+#. habla: Ralph
+#, fuzzy
+msgctxt "#37"
+msgid "When I asked Allen about your neural structure, he wouldn't tell me anything. And he used to tell me everything."
+msgstr "Cuando le pregunté a Allen por tu estructura neuronal, no me dijo nada. Y antes me contaba todo."
+
+#. habla: Ralph
+#, fuzzy
+msgctxt "#38"
+msgid "I guess people do change, little by little."
+msgstr "Supongo que la gente cambia, poco a poco."
+
+#. habla: Ralph
+#, fuzzy
+msgctxt "#39"
+msgid "He's always been timid around the girl he likes and could never express his feelings. No...how should I put it? He tries to express them, but he never manages to get it right."
+msgstr "Siempre fue tímido con la chica que le gusta y nunca pudo expresar lo que siente. No... ¿cómo decirlo? Intenta expresarlo, pero nunca le sale bien."
+
+#. habla: Ralph
+#, fuzzy
+msgctxt "#40"
+msgid "Well, everybody agrees that he's kind of annoying."
+msgstr "Bueno, todos coinciden en que es un poco pesado."
+
+#. habla: Ralph
+#, fuzzy
+msgctxt "#41"
+msgid "I wonder how Allen's doing."
+msgstr "Me pregunto cómo estará Allen."
+
+#. habla: Luther
+#, fuzzy
+msgctxt "#42"
+msgid "Oh, Little Master!"
+msgstr "¡Oh, joven amo!"
+
+#. habla: Luther
+#, fuzzy
+msgctxt "#43"
+msgid "Um, I have a little favor to ask. I want to get Master Gaignun's autograph! Could you get it somehow?"
+msgstr "Eh, tengo un pequeño favor que pedirle. ¡Quiero conseguir el autógrafo del amo Gaignun! ¿Podría conseguírmelo de algún modo?"
+
+#. habla: Luther
+#, fuzzy
+msgctxt "#44"
+msgid "Can you get Master Gaignun's autograph somehow?"
+msgstr "¿Podría conseguirme de algún modo el autógrafo del amo Gaignun?"
+
+#. habla: Luther
+#, fuzzy
+msgctxt "#45"
+msgid "Are you by any chance in the Gaignun Fan Club?"
+msgstr "¿Por casualidad perteneces al Club de Fans de Gaignun?"
+
+#. habla: Luther
+#, fuzzy
+msgctxt "#46"
+msgid "There's no need to hide it. When you get to my level, you smell one a mile away. What's your member number? Mine's a single digit!"
+msgstr "No hace falta que lo escondas. Cuando llegas a mi nivel, reconoces a uno de lejos. ¿Cuál es tu número de socio? ¡El mío es de un solo dígito!"
+
+#. habla: Luther
+#, fuzzy
+msgctxt "#47"
+msgid "I really admire Master Gaignun. I wish I had his power and courage. Then I'd be able to protect what's important to me."
+msgstr "Admiro mucho al amo Gaignun. Ojalá tuviera su poder y su valor. Así podría proteger lo que es importante para mí."
+
+#. habla: Luther
+#, fuzzy
+msgctxt "#48"
+msgid "Hmm? You want to know what's troubling me? I'm faced with a terrible decision. Just hearing Mary's accent...ahhh! But, there's also Shelley's piercing gaze...ahhh! But, Master Gaignun's sweet voice...ahhhhhh!"
+msgstr "¿Hmm? ¿Quieres saber qué me preocupa? Estoy ante una decisión terrible. Solo de escuchar el acento de Mary... ¡aaah! Pero también está la mirada penetrante de Shelley... ¡aaah! Pero la dulce voz del amo Gaignun... ¡aaaaah!"
+
+#. habla: Luther
+#, fuzzy
+msgctxt "#49"
+msgid "Just to let you know, I'm not a weird stalker or anything."
+msgstr "Para que lo sepas, no soy ningún acosador raro ni nada por el estilo."
+
+#. habla: Luther
+#, fuzzy
+msgctxt "#50"
+msgid "Little Master, did you get Master Gaignun's autograph?"
+msgstr "Joven amo, ¿consiguió el autógrafo del amo Gaignun?"
+
+#. habla: Luther
+#, fuzzy
+msgctxt "#51"
+msgid "A candid picture of Mary or Shelley would be nice, too."
+msgstr "Una foto espontánea de Mary o de Shelley también estaría bien."
+
+#. habla: Luther
+#, fuzzy
+msgctxt "#52"
+msgid "You must be MOMO, the 100-Series Observational Realian Prototype that everyone's talking about. Pleased to meet you. From now on, we'll be friends!"
+msgstr "Tú debes ser MOMO, el prototipo de la Realian de Observación Serie 100 del que todos hablan. Mucho gusto. ¡De ahora en adelante, seremos amigos!"
+
+#. habla: Luther
+#, fuzzy
+msgctxt "#53"
+msgid "I haven't seen Master Gaignun lately. Did something happen? "
+msgstr "Últimamente no veo al amo Gaignun. ¿Pasó algo?"
+
+#. habla: Luther
+#, fuzzy
+msgctxt "#54"
+msgid "I've made up my mind. I'm going to stay by his side. Merely feeling his eyes gaze upon me makes me feel like I'm in heaven!"
+msgstr "Ya me decidí. Voy a quedarme a su lado. ¡Solo sentir su mirada sobre mí me hace sentir en el cielo!"
+
+#. habla: Luther
+#, fuzzy
+msgctxt "#55"
+msgid "I doubt a triple-digit member like you would understand these feelings."
+msgstr "Dudo que un socio de tres dígitos como tú entienda estos sentimientos."
+
+#. habla: Luther
+#, fuzzy
+msgctxt "#56"
+msgid "Ah, Little Master! How is Master Gaignun? Please tell him I'm very worried about him."
+msgstr "¡Ah, joven amo! ¿Cómo está el amo Gaignun? Por favor, dígale que estoy muy preocupado por él."
+
+#. habla: Luther
+#, fuzzy
+msgctxt "#57"
+msgid "Say, we're friends, right? I have a favor to ask you. Could you use your abilities to search for Master Gaignun?"
+msgstr "Oye, somos amigos, ¿no? Tengo un favor que pedirte. ¿Podrías usar tus habilidades para buscar al amo Gaignun?"
+
+#. habla: Luther
+#, fuzzy
+msgctxt "#58"
+msgid "What?! How can you refuse a friend's request like that?! That's so rude!"
+msgstr "¡¿Qué?! ¡¿Cómo puedes negarle así un favor a un amigo?! ¡Qué grosería!"
+
+#. habla: Luther
+#, fuzzy
+msgctxt "#59"
+msgid "I haven't seen Master Gaignun lately. I'm sure he's very busy, but I'm worried he may be ill."
+msgstr "Últimamente no veo al amo Gaignun. Seguro que está muy ocupado, pero me preocupa que esté enfermo."
+
+#. habla: Luther
+#, fuzzy
+msgctxt "#60"
+msgid "Maybe he's feeling embarrassed and shy about seeing me."
+msgstr "Quizá le da vergüenza y timidez verme."
+
+#. habla: Luther
+#, fuzzy
+msgctxt "#61"
+msgid "What's with that serious look? Don't tell me something happened to Master Gaignun?!"
+msgstr "¿Qué es esa cara tan seria? ¡¿No me digas que le pasó algo al amo Gaignun?!"
+
+#. habla: Roty
+#, fuzzy
+msgctxt "#62"
+msgid "You must be Jr."
+msgstr "Tú debes ser Jr."
+
+#. habla: Roty
+#, fuzzy
+msgctxt "#63"
+msgid "Is it true that you're Director Gaignun's secret love child?"
+msgstr "¿Es verdad que eres el hijo secreto del director Gaignun?"
+
+#. habla: Roty
+#, fuzzy
+msgctxt "#64"
+msgid "Don't look at me like that. Come on, tell me! "
+msgstr "No me mires así. ¡Vamos, cuéntame!"
+
+#. habla: Roty
+#, fuzzy
+msgctxt "#65"
+msgid "Ah, you're chaos, one of the Elsa's crew, right?"
+msgstr "Ah, tú eres chaos, de la tripulación del Elsa, ¿no?"
+
+#. habla: Roty
+#, fuzzy
+msgctxt "#66"
+msgid "Could I ask you something about Director Gaignun?"
+msgstr "¿Puedo preguntarte algo sobre el director Gaignun?"
+
+#. habla: Roty
+#, fuzzy
+msgctxt "#67"
+msgid "Don't worry, it won't take long."
+msgstr "No te preocupes, no va a llevar mucho tiempo."
+
+#. habla: Roty
+#, fuzzy
+msgctxt "#68"
+msgid "Hey, wait, don't run away!"
+msgstr "¡Oye, espera, no te escapes!"
+
+#. habla: Roty
+#, fuzzy
+msgctxt "#69"
+msgid "It was the leadership of Director Gaignun that allowed the Kukai Foundation to become number one in the business world."
+msgstr "Fue el liderazgo del director Gaignun lo que permitió que la Fundación Kukai se convirtiera en la número uno del mundo de los negocios."
+
+#. habla: Roty
+#, fuzzy
+msgctxt "#70"
+msgid "But there are also plenty of rumors behind that success. There are a lot of things about the Foundation and the Miltian government that just don't add up."
+msgstr "Pero detrás de ese éxito también hay muchos rumores. Hay un montón de cosas sobre la Fundación y el gobierno de Miltia que no cuadran."
+
+#. habla: Roty
+#, fuzzy
+msgctxt "#71"
+msgid "It looks like this deserves a thorough investigation."
+msgstr "Parece que esto merece una investigación a fondo."
+
+#. habla: Roty
+#, fuzzy
+msgctxt "#72"
+msgid "Say, chaos, your personal data doesn't exist anywhere. Just who are you?"
+msgstr "Oye, chaos, tus datos personales no existen en ningún lado. ¿Quién eres en realidad?"
+
+#. habla: Roty
+#, fuzzy
+msgctxt "#73"
+msgid "You're supposedly a representative director here too, right? Is that some kind of joke?"
+msgstr "Se supone que aquí también eres director representante, ¿no? ¿Es algún tipo de broma?"
+
+#. habla: Roty
+#, fuzzy
+msgctxt "#74"
+msgid "Oh, my, pink hair! Now that's unusual. Are you a new model of 100-Series Realian?"
+msgstr "¡Vaya, pelo rosa! Eso sí que es poco común. ¿Eres un modelo nuevo de Realian de la Serie 100?"
+
+#. habla: Roty
+#, fuzzy
+msgctxt "#75"
+msgid "What? You're the 100-Series Prototype?!"
+msgstr "¿Qué? ¡¿Eres el prototipo de la Serie 100?!"
+
+#. habla: Roty
+#, fuzzy
+msgctxt "#76"
+msgid "The appearance of Old Miltia and the invasion of the Immigrant Fleet. No matter how you look at it, there's something fishy going on! Doesn't it seem as if they knew Miltia was going to reappear?"
+msgstr "La aparición de la Antigua Miltia y la invasión de la Flota de Inmigrantes. ¡Se mire como se mire, aquí hay algo raro! ¿No parece que sabían que Miltia iba a reaparecer?"
+
+#. habla: Roty
+#, fuzzy
+msgctxt "#77"
+msgid "Yeah, I'm sure I'm right! My journalist instincts tell me something is up! "
+msgstr "¡Sí, seguro que tengo razón! ¡Mi instinto de periodista me dice que aquí hay algo!"
+
+#. habla: Roty
+#, fuzzy
+msgctxt "#78"
+msgid "Did you see that?! It destroyed Old Miltia! How can you stay so calm?"
+msgstr "¡¿Viste eso?! ¡Destruyó la Antigua Miltia! ¿Cómo puedes mantener la calma?"
+
+#. habla: Roty
+#, fuzzy
+msgctxt "#79"
+msgid "You're so annoying, grinning like that. Is it that fun to watch me get flustered?"
+msgstr "Qué molesta esa sonrisita. ¿Tan divertido es verme alterada?"
+
+#. habla: Roty
+#, fuzzy
+msgctxt "#80"
+msgid "Jr., you're really Director Gaignun's clone, aren't you? You can tell me. "
+msgstr "Jr., en realidad eres un clon del director Gaignun, ¿no? Me lo puedes decir."
+
+#. habla: Roty
+#, fuzzy
+msgctxt "#81"
+msgid "\"...The Galaxy Federation ships deployed to Old Miltian space vanished one after another as the demonic butterfly spread its destructive wings...\" Yeah, that'll work."
+msgstr "\"...Las naves de la Federación Galáctica desplegadas en el espacio de la Antigua Miltia desaparecían una tras otra mientras la mariposa demoníaca extendía sus alas destructoras...\" Sí, eso funciona."
+
+#. habla: Roty
+#, fuzzy
+msgctxt "#82"
+msgid "I'm sorry, but could you not talk to me right now? I'm busy!"
+msgstr "Perdón, pero ¿podrías no hablarme ahora? ¡Estoy ocupada!"
+
+#. habla: Roty
+#, fuzzy
+msgctxt "#83"
+msgid "Hey! Did you see that?! It destroyed Old Miltia! We could even see it from here! Everyone must be in such a panic!"
+msgstr "¡Oye! ¡¿Viste eso?! ¡Destruyó la Antigua Miltia! ¡Hasta se veía desde aquí! ¡Todos deben estar en pánico!"
+
+#. habla: Roty
+#, fuzzy
+msgctxt "#84"
+msgid "I can't just stand here! I have to make a thorough record of this historical event and pass it down to future generations!"
+msgstr "¡No me puedo quedar aquí parada! ¡Tengo que registrar a fondo este acontecimiento histórico y transmitirlo a las generaciones futuras!"
+
+#. habla: Roty
+#, fuzzy
+msgctxt "#85"
+msgid "\"...And I was now certain that the end of the universe was at hand...\" Okay, this is shaping up pretty well. This is going to be a great article."
+msgstr "\"...Y entonces supe con certeza que el fin del universo estaba cerca...\" Bien, esto va tomando forma. Va a ser un gran artículo."
+
+#. habla: Ginevra
+#, fuzzy
+msgctxt "#86"
+msgid "Little Master, could you find someone for me?"
+msgstr "Joven amo, ¿podría encontrarme a alguien?"
+
+#. habla: Ginevra
+#, fuzzy
+msgctxt "#87"
+msgid "I want to find a blond man in a tank-top and smack him real good."
+msgstr "Quiero encontrar a un rubio en camiseta sin mangas y darle una buena paliza."
+
+#. habla: Ginevra
+#, fuzzy
+msgctxt "#88"
+msgid "Ah! I know you! You were with Tony, weren't you?! I think I saw you get in some ship together."
+msgstr "¡Ah! ¡Te conozco! Tú estabas con Tony, ¿o no? Creo que los vi subir juntos a una nave."
+
+#. habla: Ginevra
+#, fuzzy
+msgctxt "#89"
+msgid "Damn that Tony! He's going to get a taste of my fist someday! What? You know him? Then shut up and listen to my story!"
+msgstr "¡Maldito Tony! ¡Algún día va a probar mi puño! ¿Qué? ¿Lo conoces? ¡Entonces cállate y escucha mi historia!"
+
+#. habla: Ginevra
+#, fuzzy
+msgctxt "#90"
+msgid "Tony's always been a playboy, and, well, I was one of his girls, but this is different! I trusted him all this time, and then he!...Damn him!"
+msgstr "Tony siempre fue un mujeriego y, bueno, yo era una de sus chicas, ¡pero esto es distinto! Confié en él todo este tiempo y después él... ¡Maldito sea!"
+
+#. habla: Ginevra
+#, fuzzy
+msgctxt "#91"
+msgid "Hey, you! Are you friends with Tony?"
+msgstr "¡Oye, tú! ¿Eres amigo de Tony?"
+
+#. habla: Ginevra
+#, fuzzy
+msgctxt "#92"
+msgid "What? Really?! I can't believe it! He's not only together with that old guy, but this little pretty boy, too."
+msgstr "¿Qué? ¡¿De verdad?! ¡No lo puedo creer! No solo anda con ese viejo, sino también con este chico lindo."
+
+#. habla: Ginevra
+#, fuzzy
+msgctxt "#93"
+msgid "Little Master, did you find Tony?"
+msgstr "Joven amo, ¿encontró a Tony?"
+
+#. habla: Ginevra
+#, fuzzy
+msgctxt "#94"
+msgid "Ever since that day, I've been going to the gym. To punch out Tony, of course."
+msgstr "Desde aquel día voy al gimnasio. Para darle una paliza a Tony, claro."
+
+#. habla: Ginevra
+#, fuzzy
+msgctxt "#95"
+msgid "Never trust men. You never know what they're into."
+msgstr "Nunca confíes en los hombres. Nunca sabes en qué andan."
+
+#. habla: Ginevra
+#, fuzzy
+msgctxt "#96"
+msgid "Damn that Tony! Someday I'm going to punch that blond jerk black and blue! What, you know him? Then listen to what I have to say!"
+msgstr "¡Maldito Tony! ¡Algún día voy a dejar a ese rubio idiota lleno de moretones! ¿Qué, lo conoces? ¡Entonces escucha lo que tengo que decir!"
+
+#. habla: Ginevra
+#, fuzzy
+msgctxt "#97"
+msgid "He's a terrible womanizer, but just when I started to be okay with that and think it was nice to have him by my side sometimes, he runs off with a man instead!"
+msgstr "Es un mujeriego terrible, pero justo cuando empezaba a aceptarlo y a pensar que estaba bien tenerlo a mi lado de vez en cuando, ¡se va con un hombre!"
+
+#. habla: Ginevra
+#, fuzzy
+msgctxt "#98"
+msgid "A big macho guy! Can you believe it?!"
+msgstr "¡Un tipo grandote y musculoso! ¡¿Puedes creerlo?!"
+
+#. habla: Ginevra
+#, fuzzy
+msgctxt "#99"
+msgid "I heard you're working together with Tony at the moment. Does he have any other men he's close to? A navigator with glasses?! So, now I've got another powerful rival."
+msgstr "Escuché que ahora trabajas junto a Tony. ¿Tiene algún otro hombre cercano? ¡¿Un navegante de anteojos?! O sea que ahora tengo otro rival poderoso."
+
+#. habla: Ginevra
+#, fuzzy
+msgctxt "#100"
+msgid "Little Master is it true you're secretly going out with Tony, too?"
+msgstr "Joven amo, ¿es verdad que usted también sale en secreto con Tony?"
+
+#. habla: Ginevra
+#, fuzzy
+msgctxt "#101"
+msgid "Shall I show you the results of my time at the gym?"
+msgstr "¿Quieres que te muestre los resultados de mis horas en el gimnasio?"
+
+#. habla: Ginevra
+#, fuzzy
+msgctxt "#102"
+msgid "You absolutely cannot trust men. Just don't go there."
+msgstr "De los hombres no se puede confiar para nada. Ni lo intentes."
+
+#. habla: Ginevra
+#, fuzzy
+msgctxt "#103"
+msgid "Damn that Tony! Someday I'm going to rip that tank-top right off of him! What? You know him? Then listen to what I have to say!"
+msgstr "¡Maldito Tony! ¡Algún día le voy a arrancar esa camiseta sin mangas! ¿Qué? ¿Lo conoces? ¡Entonces escucha lo que tengo que decir!"
+
+#. habla: Ginevra
+#, fuzzy
+msgctxt "#104"
+msgid "It'd be one thing if he left me for another woman, but he left me for a man! I got a message from him afterwards, and he said, \"I feel like I'm truly alive.\" Can you believe it?!"
+msgstr "Una cosa sería que me dejara por otra mujer, ¡pero me dejó por un hombre! Después me mandó un mensaje que decía: \"Siento que de verdad estoy vivo\". ¡¿Puedes creerlo?!"
+
+#. habla: Ginevra
+#, fuzzy
+msgctxt "#105"
+msgid "I'm definitely going to make Tony pay, but I'm not going to forgive that macho old man who stole Tony away from me, either!"
+msgstr "Pienso hacerle pagar a Tony, ¡pero tampoco voy a perdonar a ese viejo musculoso que me robó a Tony!"
+
+#. habla: Ginevra
+#, fuzzy
+msgctxt "#106"
+msgid "Little Master, don't tell me you have feelings for my Tony, too."
+msgstr "Joven amo, no me diga que a usted también le gusta mi Tony."
+
+#. habla: Naive Mass-Produced 100-Series
+#, fuzzy
+msgctxt "#107"
+msgid "How irritating! I never thought that there would be data so unusual that it wouldn't be recorded even in the mass-produced 100-Series shared database!"
+msgstr "¡Qué irritante! ¡Nunca pensé que habría datos tan inusuales que ni siquiera estuvieran registrados en la base de datos compartida de las Serie 100 producidas en masa!"
+
+#. Opciones: una por línea. Mantener 2 líneas en el mismo orden.
+#, fuzzy
+msgctxt "#108"
+msgid ""
+"Yes, the world is a big place.\n"
+"Do such things really exist?"
+msgstr ""
+"Sí, el mundo es muy grande.\n"
+"¿De verdad existen cosas así?"
+
+#. habla: Naive Mass-Produced 100-Series
+#, fuzzy
+msgctxt "#109"
+msgid "I recently found an object on the ground, and when I showed it to people they gave me a weird look! When I showed it to a Galaxy Federation soldier the other day, he immediately yelled, \"It's the curse of Swaine!\" and ran away! What in the world is this thing?"
+msgstr "Hace poco encontré un objeto en el suelo, ¡y cuando se lo mostraba a la gente me miraban raro! ¡El otro día se lo mostré a un soldado de la Federación Galáctica y enseguida gritó \"¡Es la maldición de Swaine!\" y salió corriendo! ¿Qué demonios es esta cosa?"
+
+#. habla: Naive Mass-Produced 100-Series
+#, fuzzy
+msgctxt "#110"
+msgid "Yes. They really do. Take this, for example: it looks like a remote control and has the number 11 written on it. Carrying this around here seems to be making everyone hate me! Would you take it off my hands?"
+msgstr "Sí. De verdad existen. Por ejemplo, esto: parece un control remoto y tiene escrito el número 11. ¡Parece que llevarlo encima hace que todos aquí me odien! ¿Me lo sacarían de encima?"
+
+#, fuzzy
+msgctxt "#111"
+msgid ""
+"Okay, we'll take it!\n"
+"It sounds like something I can live without."
+msgstr ""
+"¡Bueno, nos lo quedamos!\n"
+"Suena a algo de lo que puedo prescindir."
+
+#, fuzzy
+msgctxt "#112"
+msgid "You obtained Decoder 11!"
+msgstr "¡Obtuviste el Decodificador 11!"
+
+#. habla: Naive Mass-Produced 100-Series
+#, fuzzy
+msgctxt "#113"
+msgid "Thank you! If you don't need it, you should give it to someone else!"
+msgstr "¡Gracias! Si no lo necesitan, ¡dénselo a otra persona!"
+
+#. habla: Naive Mass-Produced 100-Series
+#, fuzzy
+msgctxt "#114"
+msgid "Hmm. (What should I do? I'm curious about that segment thing. Maybe I'll investigate it myself.) Oh! It's nothing! Please don't mind me!"
+msgstr "Hmm. (¿Qué hago? Me da curiosidad eso de los segmentos. Quizá lo investigue yo misma.) ¡Ah! ¡No es nada! ¡No me hagan caso!"
+
+#. habla: Naive Mass-Produced 100-Series
+#, fuzzy
+msgctxt "#115"
+msgid "Oh! Did you know that I'm a Realian?"
+msgstr "¡Oh! ¿Sabían que soy una Realian?"
+
+#. Opciones: una por línea. Mantener 2 líneas en el mismo orden.
+#, fuzzy
+msgctxt "#116"
+msgid ""
+"Uh...yes.\n"
+"...You're hopeless."
+msgstr ""
+"Eh... sí.\n"
+"...No tienes remedio."
+
+#. habla: Naive Mass-Produced 100-Series
+#, fuzzy
+msgctxt "#117"
+msgid "Wow! How did you know? I haven't told anyone!"
+msgstr "¡Guau! ¿Cómo lo supieron? ¡No se lo conté a nadie!"
+
+#. habla: Naive Mass-Produced 100-Series
+#, fuzzy
+msgctxt "#118"
+msgid "Hey! You don't have to be so mean!"
+msgstr "¡Oye! ¡No tienen por qué ser tan malos!"

@@ -1,0 +1,134 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Xenosaga Episode II - traducción al español\n"
+"Language: es_419\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Xeno-Source: 0:cf/en/sc8028.sbl\n"
+"X-Xeno-Tipo: cinematica\n"
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#6"
+msgid "Just relax, okay MOMO?"
+msgstr "Tranquila, MOMO, ¿sí?"
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#. Opciones: una por línea. Mantener 2 líneas en el mismo orden.
+#, fuzzy
+msgctxt "#7"
+msgid ""
+"This is just the initial\n"
+"preparation for the analysis."
+msgstr ""
+"Esto es solo la preparación\n"
+"inicial para el análisis."
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#8"
+msgid "Thank you. I'll do my best."
+msgstr "Gracias. Voy a dar lo mejor de mí."
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#9"
+msgid ""
+"You know, I'm a self-adjusting model.\n"
+"I've never had maintenance like this before."
+msgstr ""
+"Es que soy un modelo autoajustable.\n"
+"Nunca me hicieron un mantenimiento así."
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#10"
+msgid ""
+"So, I guess this is what it\n"
+"feels like when you do it, Ziggy?"
+msgstr ""
+"¿Esto es lo que sientes cuando\n"
+"te hacen el mantenimiento, Ziggy?"
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#11"
+msgid "Don't worry. There's nothing to be afraid of."
+msgstr "No te preocupes. No hay nada que temer."
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#12"
+msgid ""
+"We will be shutting down your artificial\n"
+"personality layer during the analysis."
+msgstr ""
+"Vamos a apagar tu capa de personalidad\n"
+"artificial durante el análisis."
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#13"
+msgid ""
+"Your artificial emotion and abstract cognitive\n"
+"functions will temporarily cease to function,"
+msgstr ""
+"Tus emociones artificiales y tu cognición\n"
+"abstracta dejarán de funcionar por un tiempo,"
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#14"
+msgid "but please do not be alarmed."
+msgstr "pero, por favor, no te alarmes."
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#15"
+msgid "Artificial emotion?"
+msgstr "¿Emociones artificiales?"
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#16"
+msgid ""
+"Since your artificial personality is\n"
+"an option for interpersonal interaction,"
+msgstr ""
+"Como tu personalidad artificial es una\n"
+"opción para la interacción con otros,"
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#17"
+msgid ""
+"this procedure will have no effect\n"
+"on your observational functions."
+msgstr ""
+"este procedimiento no afectará\n"
+"tus funciones de observación."
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#18"
+msgid "My heart is just an optional function?"
+msgstr "¿Mi corazón es solo una función opcional?"
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#19"
+msgid "MOMO..."
+msgstr "MOMO..."
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#20"
+msgid "Personality Sleep Mode activated."
+msgstr "Modo de suspensión de personalidad activado."
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#21"
+msgid "Shutting down."
+msgstr "Apagando."

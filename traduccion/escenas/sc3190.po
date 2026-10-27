@@ -1,0 +1,62 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Xenosaga Episode II - traducción al español\n"
+"Language: es_419\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Xeno-Source: 0:cf/en/sc3190.sbl\n"
+
+#. habla: Widder
+#, fuzzy
+msgctxt "#1"
+msgid "Beyond this point is the Restricted Area, where research materials, data, and weapons of security level A or higher are stored. Currently, all of the Dämmerung is under security alert, so no one may enter without permission from the Security Division."
+msgstr "Más allá de este punto está la Zona restringida, donde se guardan materiales de investigación, datos y armas de nivel de seguridad A o superior. En este momento, todo el Dämmerung está en alerta de seguridad, así que nadie puede entrar sin permiso de la División de Seguridad."
+
+#. habla: Widder
+#, fuzzy
+msgctxt "#2"
+msgid "Please be careful, especially at night, since security is tightened with robot sentries."
+msgstr "Tenga cuidado, sobre todo de noche, ya que se refuerza la seguridad con robots centinela."
+
+#. habla: Widder
+#. Opciones: una por línea. Mantener 4 líneas en el mismo orden.
+#, fuzzy
+msgctxt "#3"
+msgid ""
+"...\n"
+"...\n"
+"......\n"
+"Zzzz..."
+msgstr ""
+"...\n"
+"...\n"
+"......\n"
+"Zzzz..."
+
+#. habla: Chad
+#, fuzzy
+msgctxt "#4"
+msgid "I'm sorry. You can't use this elevator as it is currently undergoing inspection. Please wait patiently until we finish working on it."
+msgstr "Lo siento. No puede usar este ascensor porque está en revisión. Por favor, espere con paciencia hasta que terminemos."
+
+#. habla: Chad
+#, fuzzy
+msgctxt "#5"
+msgid "I know it's terrible timing, but things just break down. I think we'll have it fixed soon, so hang on just a little longer."
+msgstr "Sé que es el peor momento, pero las cosas se rompen. Creo que pronto lo vamos a tener arreglado, así que aguarde un poquito más."
+
+#, fuzzy
+msgctxt "#6"
+msgid "Go down?"
+msgstr "¿Bajar?"
+
+#. Opciones: una por línea. Mantener 2 líneas en el mismo orden.
+#, fuzzy
+msgctxt "#7"
+msgid ""
+"Yes\n"
+"No"
+msgstr ""
+"Sí\n"
+"No"

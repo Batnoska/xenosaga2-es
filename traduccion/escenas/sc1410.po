@@ -1,0 +1,488 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Xenosaga Episode II - traducción al español\n"
+"Language: es_419\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Xeno-Source: 0:cf/en/sc1410.sbl\n"
+
+#. habla: Pitt
+#, fuzzy
+msgctxt "#3"
+msgid "My son always asked me about work, so I finally got permission for him to look around."
+msgstr "Mi hijo siempre me preguntaba por mi trabajo, así que por fin conseguí permiso para que viniera a recorrer el lugar."
+
+#. habla: Pitt
+#, fuzzy
+msgctxt "#4"
+msgid "I would think a kid his age would enjoy going to a toy store a lot more than a lab."
+msgstr "Pensé que a un chico de su edad le gustaría mucho más ir a una juguetería que a un laboratorio."
+
+#. habla: Pitt
+#, fuzzy
+msgctxt "#5"
+msgid "Please save my son!"
+msgstr "¡Por favor, salven a mi hijo!"
+
+#. habla: Pitt
+#, fuzzy
+msgctxt "#6"
+msgid "Thank you so much!"
+msgstr "¡Muchísimas gracias!"
+
+#. habla: Pitt
+#, fuzzy
+msgctxt "#7"
+msgid "Why did this have to happen to my son?"
+msgstr "¿Por qué tenía que pasarle esto a mi hijo?"
+
+#. habla: Pitt
+#, fuzzy
+msgctxt "#8"
+msgid "I know you can save him!"
+msgstr "¡Sé que pueden salvarlo!"
+
+#. habla: Pitt
+#, fuzzy
+msgctxt "#9"
+msgid "I owe my son's life to you."
+msgstr "Les debo la vida de mi hijo."
+
+#. habla: Pitt
+#, fuzzy
+msgctxt "#10"
+msgid "This wouldn't have happened if I'd only been more careful."
+msgstr "Esto no habría pasado si hubiera sido más cuidadoso."
+
+#. habla: Markov
+#, fuzzy
+msgctxt "#11"
+msgid "Chief Uzuki! I'd love to hear about the battles against the Gnosis. Please tell me some stories when you have the time!"
+msgstr "¡Jefa Uzuki! Me encantaría escuchar sobre las batallas contra los Gnosis. ¡Cuénteme algunas historias cuando tenga tiempo!"
+
+#. habla: Markov
+#, fuzzy
+msgctxt "#12"
+msgid "My father and grandfather both manufactured weapons at Vector, so when they heard I made it into Vector's Second Division, the leader in arms production, they were ecstatic!"
+msgstr "Mi padre y mi abuelo fabricaron armas en Vector, así que cuando supieron que entré a la Segunda División, la líder en producción de armamento, ¡no cabían en sí de la alegría!"
+
+#. habla: Markov
+#, fuzzy
+msgctxt "#13"
+msgid "My ancestors were sword smiths. I guess you could call me a modern-day sword smith."
+msgstr "Mis antepasados eran forjadores de espadas. Supongo que podría decirse que soy un forjador de espadas moderno."
+
+#. habla: Markov
+#, fuzzy
+msgctxt "#14"
+msgid "Genealogy is so fascinating!"
+msgstr "¡La genealogía es fascinante!"
+
+#. habla: Markov
+#, fuzzy
+msgctxt "#15"
+msgid "Ah, Chief Uzuki! I have some questions about KOS-MOS' activity report. I'd like to have a meeting with you when you have some time."
+msgstr "¡Ah, jefa Uzuki! Tengo algunas preguntas sobre el informe de actividad de KOS-MOS. Me gustaría reunirme con usted cuando tenga tiempo."
+
+#. habla: Markov
+#, fuzzy
+msgctxt "#16"
+msgid "Can you believe just a little while ago there was a battle on the city highway? It's so sad to see how violent this place is getting."
+msgstr "¿Puede creer que hace un rato hubo una batalla en la autopista de la ciudad? Es muy triste ver lo violento que se está volviendo este lugar."
+
+#. habla: Markov
+#, fuzzy
+msgctxt "#17"
+msgid "You know that car chase out on the streets of Miltia? The blue craft that was involved...is that the rumored E.S.?"
+msgstr "¿Supo de la persecución en las calles de Miltia? La nave azul que estaba involucrada... ¿es el famoso E.S.?"
+
+#. habla: Markov
+#, fuzzy
+msgctxt "#18"
+msgid "Hi, KOS-MOS! Well, it looks like all of your new components are functioning properly."
+msgstr "¡Hola, KOS-MOS! Bueno, parece que todos tus componentes nuevos funcionan correctamente."
+
+#. habla: Markov
+#, fuzzy
+msgctxt "#19"
+msgid "Your Tertiary Weapons System is the pride of Second Division. It'll take out any enemy in one shot!"
+msgstr "Tu Sistema de Armas Terciario es el orgullo de la Segunda División. ¡Acaba con cualquier enemigo de un solo disparo!"
+
+#. habla: Markov
+#, fuzzy
+msgctxt "#20"
+msgid "KOS-MOS' usefulness was proven in her battles against the Gnosis."
+msgstr "La utilidad de KOS-MOS quedó demostrada en sus batallas contra los Gnosis."
+
+#. habla: Markov
+#, fuzzy
+msgctxt "#21"
+msgid "However, it's still going to be some time before we're ready for mass-production..."
+msgstr "Sin embargo, todavía va a pasar un tiempo antes de que estemos listos para la producción en masa..."
+
+#. habla: Markov
+#, fuzzy
+msgctxt "#22"
+msgid "Your battle craft was made at First Division as well, right?"
+msgstr "Su máquina de combate también se fabricó en la Primera División, ¿verdad?"
+
+#. habla: Markov
+#, fuzzy
+msgctxt "#23"
+msgid "I assume it's some sort of a prototype, but it's still quite a surprise to see First Division make something like that by themselves."
+msgstr "Supongo que es una especie de prototipo, pero igual sorprende que la Primera División haya hecho algo así por su cuenta."
+
+#. habla: Markov
+#, fuzzy
+msgctxt "#24"
+msgid "A.G.W.S. and A.M.W.S. are completely ineffective against that thing. Not even a barrage from a battle fleet can scratch it."
+msgstr "Los A.G.W.S. y los A.M.W.S. no le hacen nada a esa cosa. Ni siquiera el bombardeo de una flota de combate puede rayarla."
+
+#. habla: Markov
+#, fuzzy
+msgctxt "#25"
+msgid "That thing has shown us how truly powerless we are."
+msgstr "Esa cosa nos mostró lo impotentes que somos en realidad."
+
+#. habla: Markov
+#, fuzzy
+msgctxt "#26"
+msgid "There are massive losses in Old Miltian space. HQ has instructed us to dispatch Second Division's high-speed ships and rescue vessels to the area."
+msgstr "Hay pérdidas enormes en el espacio de la Antigua Miltia. El cuartel general nos ordenó enviar a la zona las naves rápidas y de rescate de la Segunda División."
+
+#. habla: Markov
+#, fuzzy
+msgctxt "#27"
+msgid "Unbelievable. That thing wiped out both the Federation and Immigrant Fleets. I didn't know weapons like that existed."
+msgstr "Increíble. Esa cosa aniquiló tanto a la flota de la Federación como a la Flota de Inmigrantes. No sabía que existían armas así."
+
+#. habla: Ermanno
+#, fuzzy
+msgctxt "#28"
+msgid "Hey, Chief Uzuki! How do you like blasting things with that PT Cartridge? You're speechless, right? Yeah, I thought so."
+msgstr "¡Hola, jefa Uzuki! ¿Qué le parece volar cosas con ese cartucho PT? Se quedó sin palabras, ¿no? Sí, me lo imaginaba."
+
+#. habla: Ermanno
+#, fuzzy
+msgctxt "#29"
+msgid "They're planning to slap two of those cartridges on the Tertiary Weapons System. I can't wait!"
+msgstr "Planean ponerle dos de esos cartuchos al Sistema de Armas Terciario. ¡Me muero de ganas!"
+
+#. habla: Ermanno
+#, fuzzy
+msgctxt "#30"
+msgid "We mainly do operational testing of weapons here inside the Encephalon. We handle some A.G.W.S. combat training, too!"
+msgstr "Aquí, dentro del Encéfalo, hacemos sobre todo pruebas operativas de armas. ¡También nos encargamos de algo de entrenamiento de combate con A.G.W.S.!"
+
+#. habla: Ermanno
+#, fuzzy
+msgctxt "#31"
+msgid "Did something happen at the U.M.N. Control Center? There's a rumor that the Second Miltian government has called for help from both First and Third Divisions!"
+msgstr "¿Pasó algo en el Centro de Control de la U.M.N.? ¡Dicen que el gobierno de Segunda Miltia pidió ayuda a la Primera y a la Tercera División!"
+
+#. habla: Ermanno
+#, fuzzy
+msgctxt "#32"
+msgid "Did something happen at the U.M.N. Control Center? There's a rumor that the Second Miltian government has called for help from both First and Third Divisions!"
+msgstr "¿Pasó algo en el Centro de Control de la U.M.N.? ¡Dicen que el gobierno de Segunda Miltia pidió ayuda a la Primera y a la Tercera División!"
+
+#. habla: Ermanno
+#, fuzzy
+msgctxt "#33"
+msgid "KOS-MOS' battle record is awesome! I mean...awesome!"
+msgstr "¡El historial de combate de KOS-MOS es tremendo! En serio... ¡tremendo!"
+
+#. habla: Ermanno
+#, fuzzy
+msgctxt "#34"
+msgid "The capabilities she showed fighting the Gnosis has even the Tactical Sim Lab people psyched."
+msgstr "Lo que demostró peleando contra los Gnosis tiene entusiasmada hasta a la gente del Laboratorio de Simulación Táctica."
+
+#. habla: Ermanno
+#, fuzzy
+msgctxt "#35"
+msgid "KOS-MOS! You're amazing! I knew you'd be good, but this good?! Wow! No wonder they call you the Steel Goddess of War!"
+msgstr "¡KOS-MOS! ¡Eres increíble! Sabía que ibas a ser buena, pero ¿tanto? ¡Guau! ¡Con razón te dicen la Diosa de Acero de la Guerra!"
+
+#. habla: Ermanno
+#, fuzzy
+msgctxt "#36"
+msgid "It's terrible! I can't believe this!"
+msgstr "¡Es terrible! ¡No lo puedo creer!"
+
+#. habla: Ermanno
+#, fuzzy
+msgctxt "#37"
+msgid "I really hope there's not going to be a war! But you know, a war could be good for Second Division since we're in charge of hardware."
+msgstr "¡Ojalá no haya una guerra! Aunque, ¿sabe?, una guerra podría venirle bien a la Segunda División, ya que nos encargamos del hardware."
+
+#. habla: Ermanno
+#, fuzzy
+msgctxt "#38"
+msgid "Chief Uzuki...There's not a single thing in Second Division that can fight back against a weapon like that."
+msgstr "Jefa Uzuki... No hay nada en la Segunda División que pueda contraatacar a un arma así."
+
+#. habla: Ermanno
+#, fuzzy
+msgctxt "#39"
+msgid "KOS-MOS, maybe you can?...No, not even you could do anything to that. If this is a bad dream, somebody wake me up quick!"
+msgstr "KOS-MOS, ¿quizá tú podrías...? No, ni siquiera tú podrías hacerle algo a eso. ¡Si esto es una pesadilla, que alguien me despierte rápido!"
+
+#. habla: Ermanno
+#, fuzzy
+msgctxt "#40"
+msgid "This is it! This is the end! I don't believe it!"
+msgstr "¡Esto es el fin! ¡Es el fin! ¡No lo puedo creer!"
+
+#. habla: Ermanno
+#, fuzzy
+msgctxt "#41"
+msgid "That thing is just floating in space! Man, this is a nightmare! Not even Second Division has any weapons like that!"
+msgstr "¡Esa cosa está flotando en el espacio! ¡Qué pesadilla! ¡Ni siquiera la Segunda División tiene armas así!"
+
+#. habla: Lydia
+#, fuzzy
+msgctxt "#42"
+msgid "Chief Uzuki, I heard about the Woglinde. Such a tragedy..."
+msgstr "Jefa Uzuki, me enteré de lo del Woglinde. Qué tragedia..."
+
+#. habla: Lydia
+#, fuzzy
+msgctxt "#43"
+msgid "I heard Assistant Chief Ridgeley is still missing. You have my condolences..."
+msgstr "Supe que el subjefe Ridgeley sigue desaparecido. Mis condolencias..."
+
+#. habla: Lydia
+#, fuzzy
+msgctxt "#44"
+msgid "They still haven't given us the operational report on the Rhine Maiden."
+msgstr "Todavía no nos dieron el informe operativo del Rhine Maiden."
+
+#. habla: Lydia
+#, fuzzy
+msgctxt "#45"
+msgid "I believe Miyuki Itsumi is in charge of it. I wonder what she's doing."
+msgstr "Creo que Miyuki Itsumi está a cargo. Me pregunto qué estará haciendo."
+
+#. habla: Lydia
+#, fuzzy
+msgctxt "#46"
+msgid "Um...I heard this rumor...that people have seen Assistant Chief Ridgeley's ghost."
+msgstr "Eh... escuché un rumor... dicen que vieron el fantasma del subjefe Ridgeley."
+
+#. habla: Lydia
+#, fuzzy
+msgctxt "#47"
+msgid "He apparently shows up in photos. Have you ever seen it?"
+msgstr "Parece que aparece en las fotos. ¿Usted lo vio alguna vez?"
+
+#. habla: Lydia
+#, fuzzy
+msgctxt "#48"
+msgid "I guess he wasn't able to rest in peace."
+msgstr "Supongo que no pudo descansar en paz."
+
+#. habla: Lydia
+#, fuzzy
+msgctxt "#49"
+msgid "Do you...um...believe in ghosts?"
+msgstr "¿Usted... eh... cree en fantasmas?"
+
+#. habla: Lydia
+#, fuzzy
+msgctxt "#50"
+msgid "I heard the ghost of an employee that died recently has shown up in photos."
+msgstr "Escuché que el fantasma de un empleado que murió hace poco apareció en unas fotos."
+
+#. habla: Lydia
+#, fuzzy
+msgctxt "#51"
+msgid "Chief Uzuki, I think you've been too soft on Miyuki."
+msgstr "Jefa Uzuki, creo que fue demasiado blanda con Miyuki."
+
+#. habla: Lydia
+#, fuzzy
+msgctxt "#52"
+msgid "I don't know what it's like in First Division, but this sort of thing is not tolerated in Second Division. I hope she knows that."
+msgstr "No sé cómo es en la Primera División, pero en la Segunda no se tolera este tipo de cosas. Espero que ella lo sepa."
+
+#. habla: Lydia
+#, fuzzy
+msgctxt "#53"
+msgid "Oh, KOS-MOS! I thought you were gone! They said you headed for Old Miltian space and disappeared."
+msgstr "¡Oh, KOS-MOS! ¡Creí que no estabas! Dijeron que te fuiste hacia el espacio de la Antigua Miltia y desapareciste."
+
+#. habla: Lydia
+#, fuzzy
+msgctxt "#54"
+msgid "A...are you a ghost, too?"
+msgstr "¿Tú... tú también eres un fantasma?"
+
+#. habla: Lydia
+#, fuzzy
+msgctxt "#55"
+msgid "I'm sorry, but I'm very busy. Please stay out of my way. I can't believe Miyuki! She still hasn't come back from the Dämmerung."
+msgstr "Lo siento, pero estoy muy ocupada. Por favor, no me estorbe. ¡No puedo creer lo de Miyuki! Todavía no volvió del Dämmerung."
+
+#. habla: Lydia
+#, fuzzy
+msgctxt "#56"
+msgid "We have a ton of work to do here. What is she thinking?"
+msgstr "Tenemos un montón de trabajo aquí. ¿En qué estará pensando?"
+
+#. habla: Lydia
+#, fuzzy
+msgctxt "#57"
+msgid "The reappearance and destruction of Miltia, and the appearance of that giant weapon...It feels like I'm watching some cheesy B-movie. "
+msgstr "La reaparición y la destrucción de Miltia, y la aparición de esa arma gigante... Siento que estoy viendo una película clase B."
+
+#. habla: Lydia
+#, fuzzy
+msgctxt "#58"
+msgid "If Assistant Chief Ridgeley's ghost shows up, it'll turn into a cheap horror flick."
+msgstr "Si aparece el fantasma del subjefe Ridgeley, se va a convertir en una película de terror barata."
+
+#. habla: Lydia
+#, fuzzy
+msgctxt "#59"
+msgid "There are a lot of incomprehensible design elements in both your software and hardware. I wonder what Chief Winnicot was thinking when he built you."
+msgstr "Hay muchos elementos de diseño incomprensibles en tu software y en tu hardware. Me pregunto en qué estaba pensando el jefe Winnicot cuando te construyó."
+
+#. habla: Lydia
+#, fuzzy
+msgctxt "#60"
+msgid "It seems the situation is very serious. The government reacted too slowly, and it still doesn't know what to do."
+msgstr "Parece que la situación es muy grave. El gobierno reaccionó demasiado tarde y todavía no sabe qué hacer."
+
+#. habla: Lydia
+#, fuzzy
+msgctxt "#61"
+msgid "I wonder just how great the losses are. This is turning into something that even Vector can't ignore."
+msgstr "Me pregunto qué tan grandes serán las pérdidas. Esto se está convirtiendo en algo que ni siquiera Vector puede ignorar."
+
+#. habla: Enola
+#, fuzzy
+msgctxt "#62"
+msgid "Oh, Chief. I wanted to tell you that there's a defect in the barrel of the Phase Transfer Cannon KOS-MOS used."
+msgstr "Ah, jefa. Quería decirle que hay un defecto en el cañón del Cañón de Transferencia de Fase que usó KOS-MOS."
+
+#. habla: Enola
+#, fuzzy
+msgctxt "#63"
+msgid "The barrel warped even with the significantly suppressed output. I guess we'll need to improve durability if it's going to be fired consecutively."
+msgstr "El cañón se deformó aun con la potencia muy reducida. Supongo que habrá que mejorar su resistencia si se va a disparar varias veces seguidas."
+
+#. habla: Enola
+#, fuzzy
+msgctxt "#64"
+msgid "The mobile weapons developed by Vector consist of the A.M.W.S. and the A.G.W.S. The A.G.W.S. is a version of the A.M.W.S. developed for anti-Gnosis usage."
+msgstr "Las armas móviles que desarrolló Vector son los A.M.W.S. y los A.G.W.S. El A.G.W.S. es una versión del A.M.W.S. desarrollada para combatir a los Gnosis."
+
+#. habla: Enola
+#, fuzzy
+msgctxt "#65"
+msgid "They aren't deployed often due to cost and maintenance problems, so the A.M.W.S. will remain the primary weapon for some time."
+msgstr "No se despliegan a menudo por los costos y los problemas de mantenimiento, así que el A.M.W.S. seguirá siendo el arma principal por un tiempo."
+
+#. habla: Enola
+#, fuzzy
+msgctxt "#66"
+msgid "Did you know that Vector is secretly developing a mobile weapon called E.S.?"
+msgstr "¿Sabía que Vector está desarrollando en secreto un arma móvil llamada E.S.?"
+
+#. habla: Enola
+#, fuzzy
+msgctxt "#67"
+msgid "Even its existence is ultra top secret, but I heard that the power system is actually something that the U-TIC Organization was researching fourteen years ago."
+msgstr "Hasta su existencia es ultrasecreta, pero escuché que su sistema de energía es en realidad algo que la Organización U-TIC investigaba hace catorce años."
+
+#. habla: Enola
+#, fuzzy
+msgctxt "#68"
+msgid "I bet it's got some pretty dangerous stuff inside."
+msgstr "Seguro que tiene cosas bastante peligrosas adentro."
+
+#. habla: Enola
+#, fuzzy
+msgctxt "#69"
+msgid "Hey, an E.S. was confirmed in Old Miltian space just a little while ago. And they say the location coincides with KOS-MOS' coordinates after she jumped from Second Division."
+msgstr "Oiga, hace un rato se confirmó un E.S. en el espacio de la Antigua Miltia. Y dicen que la posición coincide con las coordenadas de KOS-MOS cuando saltó desde la Segunda División."
+
+#. habla: Enola
+#, fuzzy
+msgctxt "#70"
+msgid "Do you think that's just a coincidence?"
+msgstr "¿Cree que es una coincidencia?"
+
+#. habla: Enola
+#, fuzzy
+msgctxt "#71"
+msgid "Oh, KOS-MOS! Do you know anything about a codename called E.S.? I heard that there was an E.S. at the same coordinates you headed to when you suddenly took off from here."
+msgstr "¡Ah, KOS-MOS! ¿Sabes algo de un nombre en clave llamado E.S.? Escuché que había un E.S. en las mismas coordenadas a las que fuiste cuando te marchaste de repente."
+
+#. habla: Enola
+#, fuzzy
+msgctxt "#72"
+msgid "The silent treatment, huh? You've got a sneaky streak in you."
+msgstr "Así que te haces la desentendida, ¿eh? Qué pícara resultaste."
+
+#. habla: Enola
+#, fuzzy
+msgctxt "#73"
+msgid "Most of the ships in the Federation fleet were designed and developed by Second Division. Even so, the current equipment is still inadequate to take on the Gnosis."
+msgstr "La mayoría de las naves de la flota de la Federación fueron diseñadas y desarrolladas por la Segunda División. Aun así, el equipamiento actual sigue siendo insuficiente para enfrentar a los Gnosis."
+
+#. habla: Enola
+#, fuzzy
+msgctxt "#74"
+msgid "If the Rhine Maiden is mass-produced, the balance of power would shift instantly."
+msgstr "Si el Rhine Maiden se produjera en masa, el equilibrio de poder cambiaría de inmediato."
+
+#. habla: Enola
+#, fuzzy
+msgctxt "#75"
+msgid "Chief Uzuki. You're originally from Old Miltia, aren't you? I'm so sorry, dear..."
+msgstr "Jefa Uzuki. Usted es de la Antigua Miltia, ¿no? Lo siento mucho, querida..."
+
+#. habla: Enola
+#, fuzzy
+msgctxt "#76"
+msgid "Did you see that mysterious mobile weapon that appeared on Old Miltia? It's time we brought out the Tertiary Weapons System! Let me know what you think of it, okay?"
+msgstr "¿Vio esa misteriosa arma móvil que apareció en la Antigua Miltia? ¡Es hora de sacar el Sistema de Armas Terciario! Dígame qué le parece, ¿sí?"
+
+#. habla: Enola
+#, fuzzy
+msgctxt "#77"
+msgid "The Federation fleet! Wiped out! The ships we designed...just blown away. I can't take this!"
+msgstr "¡La flota de la Federación! ¡Aniquilada! Las naves que diseñamos... hechas pedazos. ¡No lo soporto!"
+
+#. habla: Carl
+#, fuzzy
+msgctxt "#78"
+msgid "Normally, the E.S.' special attack limit is 200, but there seems to be an accessory that can make a 300 attack possible. Where can you get it? I wish I knew."
+msgstr "Normalmente, el límite del ataque especial del E.S. es 200, pero parece que hay un accesorio que permite llegar a 300. ¿Dónde se consigue? Ojalá lo supiera."
+
+#. habla: Allen
+#, fuzzy
+msgctxt "#79"
+msgid "Chief? Weren't you going to stop by your house? You didn't come back here just because you were worried about KOS-MOS, did you?"
+msgstr "¿Jefa? ¿No ibas a pasar por tu casa? No volviste solo porque estabas preocupada por KOS-MOS, ¿verdad?"
+
+#. habla: Allen
+#, fuzzy
+msgctxt "#80"
+msgid "It's going to be fine! I'll be here! There's nothing to worry about!"
+msgstr "¡Todo va a salir bien! ¡Yo me quedo aquí! ¡No hay nada de qué preocuparse!"
+
+#. habla: Allen
+#, fuzzy
+msgctxt "#81"
+msgid "Whoa! Don't startle me like that! If you've come to check on KOS-MOS, I'm afraid you can't see her right now."
+msgstr "¡Epa! ¡No me asustes así! Si viniste a ver a KOS-MOS, me temo que ahora no puedes verla."
+
+#. habla: Allen
+#, fuzzy
+msgctxt "#82"
+msgid "Anyway, isn't MOMO's analysis about to start?"
+msgstr "De todos modos, ¿no está por empezar el análisis de MOMO?"

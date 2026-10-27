@@ -1,0 +1,76 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Xenosaga Episode II - traducción al español\n"
+"Language: es_419\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Xeno-Source: 0:cf/en/sc3080.sbl\n"
+
+#. habla: 【Restricted Area - Facility Guide】
+#, fuzzy
+msgctxt "#4"
+msgid ""
+"<Loading Area>\n"
+"Elevator Hall, Dock (current position), Warehouse, Conveyor Belt Room, Storage Area\n"
+"<Research Block>\n"
+"Water Tank, Wind Tunnel Lab, AA Rank Private Dock\n"
+"★The passageway to the Research Block is in the Storage Area."
+msgstr ""
+"<Zona de carga>\n"
+"Vestíbulo de ascensores, Muelle (posición actual), Almacén, Sala de la cinta transportadora, Depósito\n"
+"<Bloque de Investigación>\n"
+"Tanque de agua, Laboratorio del túnel de viento, Muelle privado de rango AA\n"
+"★El pasadizo al Bloque de Investigación está en el Depósito."
+
+#, fuzzy
+msgctxt "#5"
+msgid "Use the elevator?"
+msgstr "¿Usar el ascensor?"
+
+#. Opciones: una por línea. Mantener 2 líneas en el mismo orden.
+#, fuzzy
+msgctxt "#6"
+msgid ""
+"Yes\n"
+"No"
+msgstr ""
+"Sí\n"
+"No"
+
+#, fuzzy
+msgctxt "#7"
+msgid "Push the button?"
+msgstr "¿Presionar el botón?"
+
+#, fuzzy
+msgctxt "#8"
+msgid "Activate the elevator?"
+msgstr "¿Activar el ascensor?"
+
+#. habla: Allen
+#, fuzzy
+msgctxt "#9"
+msgid "I wonder what that button does. Chief, we probably shouldn't touch it."
+msgstr "Me pregunto qué hace ese botón. Jefa, mejor no lo toquemos."
+
+#, fuzzy
+msgctxt "#10"
+msgid ""
+"Oh, be quiet! (Push it!)\n"
+"You may be right. (Don't push it.)"
+msgstr ""
+"¡Ay, cállate! (Presionarlo)\n"
+"Quizá tengas razón. (No presionarlo)"
+
+#. habla: Allen
+#, fuzzy
+msgctxt "#13"
+msgid "Oh, ah! No!!"
+msgstr "¡Oh, ah! ¡¡No!!"
+
+#. habla: Allen
+#, fuzzy
+msgctxt "#14"
+msgid "Ahhh! I told you not to!"
+msgstr "¡Aaah! ¡Te dije que no lo hicieras!"

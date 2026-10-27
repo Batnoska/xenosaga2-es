@@ -1,0 +1,620 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Xenosaga Episode II - traducción al español\n"
+"Language: es_419\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Xeno-Source: 0:cf/en/sc4070.sbl\n"
+
+#. habla: King
+#, fuzzy
+msgctxt "#3"
+msgid "Under these circumstances, dear, I don't care if the doctor is witty or not! I don't care if he's a veterinarian or not! Just please, please, please bring the best doctor there is to come see my Josephine!"
+msgstr "¡En estas circunstancias, cariño, no me importa si el doctor es ingenioso o no! ¡No me importa si es veterinario o no! ¡Por favor, por favor, por favor, traigan al mejor doctor que haya para que vea a mi Josephine!"
+
+#. habla: King
+#, fuzzy
+msgctxt "#4"
+msgid "I've heard there's a famous nanotreatment doctor on Second Miltia!"
+msgstr "¡Escuché que en Segunda Miltia hay un doctor de nanotratamientos famoso!"
+
+#. habla: King
+#, fuzzy
+msgctxt "#5"
+msgid "Oh! It was all just a false pregnancy! That poor pussycat must want little kittens of his own!"
+msgstr "¡Oh! ¡Era todo un embarazo psicológico! ¡El pobre minino debe querer gatitos propios!"
+
+#. habla: King
+#, fuzzy
+msgctxt "#6"
+msgid "He's really a boy cat, you know! My poor, little fuzzy darling must be suffering terribly because his dream can't come true. I'm sure that's what got to him! He's very delicate, just like me!"
+msgstr "¡Porque es un gato macho, ¿sabes?! ¡Mi pobre peludito precioso debe estar sufriendo muchísimo porque su sueño no se puede cumplir! ¡Seguro que eso fue lo que lo afectó! ¡Es muy delicado, igual que yo!"
+
+#. habla: King
+#, fuzzy
+msgctxt "#7"
+msgid "Oh! Listen to this! Josephine is a boy cat, but he gave birth to the cutest little kitties!"
+msgstr "¡Oh! ¡Escuchen esto! ¡Josephine es un gato macho, pero dio a luz a los gatitos más lindos!"
+
+#. habla: King
+#, fuzzy
+msgctxt "#8"
+msgid "It wasn't a false pregnancy after all! He was really pregnant! Teehee! ♪"
+msgstr "¡Al final no era un embarazo psicológico! ¡Estaba embarazado de verdad! ¡Jijí! ♪"
+
+#. habla: King
+#, fuzzy
+msgctxt "#9"
+msgid "..."
+msgstr "..."
+
+#. habla: King
+#, fuzzy
+msgctxt "#10"
+msgid ""
+"...\n"
+"Oh! Where did my cute kitty-witties go?!"
+msgstr ""
+"...\n"
+"¡Oh! ¡¿Adónde se fueron mis gatitos?!"
+
+#. habla: Riggs
+#, fuzzy
+msgctxt "#11"
+msgid "Ah, Little Master! If you find any good junk parts again, send them my way! There always seem to be unbelievable treasures hidden in the junk you bring!"
+msgstr "¡Ah, joven amo! ¡Si vuelve a encontrar buenas piezas de chatarra, mándemelas! ¡En la chatarra que trae siempre parece haber tesoros increíbles escondidos!"
+
+#. habla: Riggs
+#, fuzzy
+msgctxt "#12"
+msgid "By the way, what is good junk, anyway?"
+msgstr "Por cierto, ¿qué es una buena chatarra, a todo esto?"
+
+#. habla: Riggs
+#, fuzzy
+msgctxt "#13"
+msgid "Hmm? Hey, what's a girl doing in a place like this? Oh, I got it! Do you want me to fix a broken doll or something?"
+msgstr "¿Hmm? Oye, ¿qué hace una chica en un lugar así? ¡Ah, ya sé! ¿Quieres que te arregle una muñeca rota o algo así?"
+
+#. habla: Riggs
+#, fuzzy
+msgctxt "#14"
+msgid "If anything breaks, just let me know! We've got a good group of repair pros in here!"
+msgstr "¡Si algo se rompe, solo avísame! ¡Aquí tenemos un buen grupo de expertos en reparaciones!"
+
+#. habla: Riggs
+#, fuzzy
+msgctxt "#15"
+msgid "There was this music box in the junk Little Master brought me the other day! There was just something about it. So I fixed it up, and now it sounds great!"
+msgstr "¡En la chatarra que me trajo el joven amo el otro día había una caja de música! Tenía algo especial. Así que la arreglé, ¡y ahora suena genial!"
+
+#. habla: Riggs
+#, fuzzy
+msgctxt "#16"
+msgid "That music box I repaired plays a wonderful melody! If you like, I'll give it to you!"
+msgstr "¡Esa caja de música que reparé toca una melodía maravillosa! Si quieres, ¡te la regalo!"
+
+#. habla: Riggs
+#, fuzzy
+msgctxt "#17"
+msgid "What's that? You want that music box I was talking about before? You've got great timing! I was just thinking of giving it to someone! Here you go! This is what you wanted, right?"
+msgstr "¿Qué dices? ¿Quieres la caja de música de la que te hablé antes? ¡Qué buen momento! ¡Justo estaba pensando en regalársela a alguien! ¡Aquí tienes! Esto es lo que querías, ¿no?"
+
+#, fuzzy
+msgctxt "#18"
+msgid "You obtained a Music Box!"
+msgstr "¡Obtuviste una Caja de música!"
+
+#. habla: Riggs
+#, fuzzy
+msgctxt "#19"
+msgid "I went to the trouble of fixing it, so make sure a lot of people get to hear it!"
+msgstr "Me tomé el trabajo de arreglarla, ¡así que asegúrate de que la escuche mucha gente!"
+
+#. habla: Riggs
+#, fuzzy
+msgctxt "#20"
+msgid "Did that music box I gave you come in handy?"
+msgstr "¿Te sirvió esa caja de música que te di?"
+
+#. habla: Riggs
+#, fuzzy
+msgctxt "#21"
+msgid "Fixing junk is my hobby! That music box was a piece of cake!"
+msgstr "¡Arreglar chatarra es mi pasatiempo! ¡Esa caja de música fue pan comido!"
+
+#. habla: Clive
+#, fuzzy
+msgctxt "#22"
+msgid "Oh, hi, Little Master. Man, I just don't know what to do about the boss' obsession with cats!"
+msgstr "Ah, hola, joven amo. ¡Uf, no sé qué hacer con la obsesión del jefe por los gatos!"
+
+#. habla: Clive
+#, fuzzy
+msgctxt "#23"
+msgid "Even when we go to a bar, he makes sure he finds a seat for his cat before getting seats for us!"
+msgstr "¡Hasta cuando vamos a un bar, se asegura de encontrarle asiento a su gato antes que a nosotros!"
+
+#. habla: Clive
+#, fuzzy
+msgctxt "#24"
+msgid "Little lady, if you start to think of yourself as invincible just because you're cute, you're gonna get burned!"
+msgstr "Señorita, si te crees invencible solo porque eres linda, ¡te va a ir muy mal!"
+
+#. habla: Clive
+#, fuzzy
+msgctxt "#25"
+msgid "A kid from around here started messing with the boss' cat the other day and whoa! He didn't go easy on that kid at all!"
+msgstr "El otro día un chico de por aquí se puso a molestar al gato del jefe y, ¡uf! ¡No tuvo ninguna piedad con ese chico!"
+
+#. habla: Clive
+#, fuzzy
+msgctxt "#26"
+msgid "I thought I was used to the boss' announcements..."
+msgstr "Creí que ya estaba acostumbrado a los anuncios del jefe..."
+
+#. habla: Clive
+#, fuzzy
+msgctxt "#27"
+msgid "...but I was really surprised by what he said the other day! He said he wants to get another cat!"
+msgstr "...¡pero lo que dijo el otro día me sorprendió de verdad! ¡Dijo que quiere tener otro gato!"
+
+#. habla: Clive
+#, fuzzy
+msgctxt "#28"
+msgid "You haven't found any owners for the kittens yet. Good luck!"
+msgstr "Todavía no encontraron dueños para los gatitos. ¡Suerte!"
+
+#. habla: Clive
+#, fuzzy
+msgctxt "#29"
+msgid "There're four kittens left! Hang in there!"
+msgstr "¡Quedan cuatro gatitos! ¡Ánimo!"
+
+#. habla: Clive
+#, fuzzy
+msgctxt "#30"
+msgid "There're three kittens left! Hang in there!"
+msgstr "¡Quedan tres gatitos! ¡Ánimo!"
+
+#. habla: Clive
+#, fuzzy
+msgctxt "#31"
+msgid "There're two kittens left! Hang in there!"
+msgstr "¡Quedan dos gatitos! ¡Ánimo!"
+
+#. habla: Clive
+#, fuzzy
+msgctxt "#32"
+msgid "There's one kitten left! Hang in there!"
+msgstr "¡Queda un gatito! ¡Ánimo!"
+
+#. habla: Clive
+#, fuzzy
+msgctxt "#33"
+msgid "It probably would have been best to take care of those kittens at our place, just like the boss said, but...well, we'll go see them from time to time!"
+msgstr "Seguramente habría sido mejor cuidar a esos gatitos en nuestra casa, como decía el jefe, pero... bueno, ¡vamos a ir a verlos de vez en cuando!"
+
+#. habla: Clive
+#, fuzzy
+msgctxt "#34"
+msgid "By the way, how's the boss? Is he lonely because the kittens are gone? What? I should ask him myself? I can't talk to him after what happened!"
+msgstr "Por cierto, ¿cómo está el jefe? ¿Se siente solo porque ya no están los gatitos? ¿Qué? ¿Que se lo pregunte yo? ¡No puedo hablar con él después de lo que pasó!"
+
+#. habla: Clive
+#, fuzzy
+msgctxt "#35"
+msgid "I thought I was used to the boss' announcements..."
+msgstr "Creí que ya estaba acostumbrado a los anuncios del jefe..."
+
+#. habla: Clive
+#, fuzzy
+msgctxt "#36"
+msgid "...but I was really surprised by what he said the other day! He said he wants to get another cat!"
+msgstr "...¡pero lo que dijo el otro día me sorprendió de verdad! ¡Dijo que quiere tener otro gato!"
+
+#. habla: Josephine
+#, fuzzy
+msgctxt "#37"
+msgid "Meow. (My tummy hurts.)"
+msgstr "Miau. (Me duele la pancita.)"
+
+#. habla: Josephine
+#, fuzzy
+msgctxt "#38"
+msgid "Meow. (My tummy feels weird.)"
+msgstr "Miau. (Siento la pancita rara.)"
+
+#. habla: Josephine
+#, fuzzy
+msgctxt "#39"
+msgid "Meow. (My tummy got better!)"
+msgstr "Miau. (¡Ya se me pasó lo de la pancita!)"
+
+#. habla: Josephine
+#, fuzzy
+msgctxt "#40"
+msgid "Meow. (I brought friends!)"
+msgstr "Miau. (¡Traje amigos!)"
+
+#. habla: Hirad
+#, fuzzy
+msgctxt "#41"
+msgid "Hmm. Josephine is suffering from a stomachache of unknown cause."
+msgstr "Hmm. Josephine sufre un dolor de estómago de causa desconocida."
+
+#. habla: Hirad
+#, fuzzy
+msgctxt "#42"
+msgid "It looks like King misunderstood what's wrong with Josephine."
+msgstr "Parece que King malinterpretó lo que le pasa a Josephine."
+
+#. habla: Rockwell
+#, fuzzy
+msgctxt "#43"
+msgid "No sir, I haven't done anything! I just...huh? Oh, you're not King! You startled me! Man! I snuck in here without knowing it was actually King's hideout! Did you wander in here by accident, too? I know a secret passage. Want me to tell you about it?"
+msgstr "¡No, señor, no hice nada! Solo... ¿eh? ¡Ah, no eres King! ¡Qué susto me diste! ¡Uf! ¡Me metí aquí sin saber que era la guarida de King! ¿Tú también entraste aquí por accidente? Conozco un pasadizo secreto. ¿Quieres que te diga cuál es?"
+
+#. Opciones: una por línea. Mantener 2 líneas en el mismo orden.
+#, fuzzy
+msgctxt "#44"
+msgid ""
+"Please tell me.\n"
+"Maybe next time."
+msgstr ""
+"Por favor, dímelo.\n"
+"Quizá la próxima vez."
+
+#. habla: Rockwell
+#, fuzzy
+msgctxt "#45"
+msgid "Okay! Leave it to me!"
+msgstr "¡Muy bien! ¡Déjamelo a mí!"
+
+#. habla: Rockwell
+#, fuzzy
+msgctxt "#46"
+msgid "Oh? Well, do what you like!"
+msgstr "¿Ah, no? Bueno, ¡haz lo que quieras!"
+
+#. habla: Ollie
+#, fuzzy
+msgctxt "#47"
+msgid "Meow meow."
+msgstr "Miau miau."
+
+#, fuzzy
+msgctxt "#48"
+msgid "He's quiet and refined."
+msgstr "Es tranquilo y refinado."
+
+#, fuzzy
+msgctxt "#49"
+msgid "He's quiet and refined. Would you like to search for an owner for Ollie?"
+msgstr "Es tranquilo y refinado. ¿Quieres buscarle dueño a Ollie?"
+
+#. Opciones: una por línea. Mantener 2 líneas en el mismo orden.
+#, fuzzy
+msgctxt "#50"
+msgid ""
+"Yes\n"
+"No"
+msgstr ""
+"Sí\n"
+"No"
+
+#, fuzzy
+msgctxt "#51"
+msgid "Beginning the search for Ollie's new owner."
+msgstr "Empezando la búsqueda de un nuevo dueño para Ollie."
+
+#, fuzzy
+msgctxt "#52"
+msgid "Canceling the search for Ollie's new owner."
+msgstr "Se canceló la búsqueda de un nuevo dueño para Ollie."
+
+#. habla: Newt
+#, fuzzy
+msgctxt "#53"
+msgid "Meow meow meow meow. ♪"
+msgstr "Miau miau miau miau. ♪"
+
+#, fuzzy
+msgctxt "#54"
+msgid "He seems to be sentimental and timid."
+msgstr "Parece sentimental y tímido."
+
+#, fuzzy
+msgctxt "#55"
+msgid "He seems to be sentimental and timid. Would you like to search for an owner for Newt?"
+msgstr "Parece sentimental y tímido. ¿Quieres buscarle dueño a Newt?"
+
+#, fuzzy
+msgctxt "#56"
+msgid "Beginning the search for Newt's new owner."
+msgstr "Empezando la búsqueda de un nuevo dueño para Newt."
+
+#, fuzzy
+msgctxt "#57"
+msgid "Canceling the search for Newt's new owner."
+msgstr "Se canceló la búsqueda de un nuevo dueño para Newt."
+
+#. habla: Rebour
+#, fuzzy
+msgctxt "#58"
+msgid "*Purr* *Purr* *Purr*"
+msgstr "*Ronroneo* *Ronroneo* *Ronroneo*"
+
+#, fuzzy
+msgctxt "#59"
+msgid "He's a rough tomcat."
+msgstr "Es un gato callejero y rudo."
+
+#, fuzzy
+msgctxt "#60"
+msgid "He's a rough tomcat. Would you like to search for an owner for Rebour?"
+msgstr "Es un gato callejero y rudo. ¿Quieres buscarle dueño a Rebour?"
+
+#, fuzzy
+msgctxt "#61"
+msgid "Beginning the search for Rebour's new owner."
+msgstr "Empezando la búsqueda de un nuevo dueño para Rebour."
+
+#, fuzzy
+msgctxt "#62"
+msgid "Canceling the search for Rebour's new owner."
+msgstr "Se canceló la búsqueda de un nuevo dueño para Rebour."
+
+#. habla: Walker
+#, fuzzy
+msgctxt "#63"
+msgid "Mew! Meow meow!"
+msgstr "¡Miu! ¡Miau miau!"
+
+#, fuzzy
+msgctxt "#64"
+msgid "He's cuddly and friendly."
+msgstr "Es mimoso y amistoso."
+
+#, fuzzy
+msgctxt "#65"
+msgid "He's cuddly and friendly. Would you like to search for an owner for Walker?"
+msgstr "Es mimoso y amistoso. ¿Quieres buscarle dueño a Walker?"
+
+#, fuzzy
+msgctxt "#66"
+msgid "Beginning the search for Walker's new owner."
+msgstr "Empezando la búsqueda de un nuevo dueño para Walker."
+
+#, fuzzy
+msgctxt "#67"
+msgid "Canceling the search for Walker's new owner."
+msgstr "Se canceló la búsqueda de un nuevo dueño para Walker."
+
+#. habla: Loop
+#, fuzzy
+msgctxt "#68"
+msgid "Mew mew meow!"
+msgstr "¡Miu miu miau!"
+
+#, fuzzy
+msgctxt "#69"
+msgid "That's one hip cat."
+msgstr "Ese gato tiene mucho estilo."
+
+#, fuzzy
+msgctxt "#70"
+msgid "That's one hip cat. Would you like to search for an owner for Loop?"
+msgstr "Ese gato tiene mucho estilo. ¿Quieres buscarle dueño a Loop?"
+
+#, fuzzy
+msgctxt "#71"
+msgid "Beginning the search for Loop's new owner."
+msgstr "Empezando la búsqueda de un nuevo dueño para Loop."
+
+#, fuzzy
+msgctxt "#72"
+msgid "Canceling the search for Loop's new owner."
+msgstr "Se canceló la búsqueda de un nuevo dueño para Loop."
+
+#. habla: King
+#, fuzzy
+msgctxt "#73"
+msgid ""
+"Oh, my, it's incredible how news travels! You've come here because you're worried about Josephine's condition, too, right dear? What? That's not why you're here?\n"
+"...\n"
+"...\n"
+"...\n"
+"So, you bastards are just here to goof around then?! Is that it?! Huh?!\n"
+"...\n"
+"...\n"
+"...\n"
+"What? That's not it either?\n"
+"...\n"
+"...\n"
+"...\n"
+"Then you really are worried about Josephine, aren't you? Yes, my cutesy-wootsy fuzzy-wuzzy kitty cat Josephine has been feeling down in the dumps lately. I think he's caught a little cold! I'd really like to have a witty doctor take a look at him (A witty doctor? Okay...) but there aren't any veterinarians on the Foundation! And so, I have a favor to ask you dear. Could you please find a doctor somewhere and bring him here to see my precious Josephine? Pretty please with sugar on top?"
+msgstr ""
+"¡Ay, es increíble lo rápido que corren las noticias! Vinieron porque están preocupados por el estado de Josephine, ¿no, queridos? ¿Qué? ¿No vinieron por eso?\n"
+"...\n"
+"...\n"
+"...\n"
+"¡¿O sea que vinieron a perder el tiempo, desgraciados?! ¡¿Es eso?! ¡¿Eh?!\n"
+"...\n"
+"...\n"
+"...\n"
+"¿Qué? ¿Tampoco es eso?\n"
+"...\n"
+"...\n"
+"...\n"
+"Entonces de verdad están preocupados por Josephine, ¿no? Sí, mi gatito peludito precioso Josephine anda decaído últimamente. ¡Creo que se resfrió un poquito! Me gustaría mucho que lo viera un doctor ingenioso (¿Un doctor ingenioso? Bueno...), ¡pero en la Fundación no hay veterinarios! Así que tengo un favor que pedirles, queridos. ¿Podrían encontrar un doctor en algún lado y traerlo para que vea a mi precioso Josephine? ¿Por favorcito?"
+
+#. habla: King
+#, fuzzy
+msgctxt "#74"
+msgid "Really?! Oh, you're such a doll! ♪ *Kiss*"
+msgstr "¡¿De verdad?! ¡Ay, son un amor! ♪ *Muac*"
+
+#. habla: King
+#, fuzzy
+msgctxt "#76"
+msgid "I don't know if he's a veterinarian or not, but I heard there's a doctor who gives fabulous nanotreatments on Second Miltia! You might want to go check him out!"
+msgstr "No sé si es veterinario o no, ¡pero escuché que en Segunda Miltia hay un doctor que hace nanotratamientos fabulosos! ¡Quizá les convenga ir a verlo!"
+
+#. habla: King
+#, fuzzy
+msgctxt "#77"
+msgid "You little punk! Come here! I'm gonna rip your head off and..."
+msgstr "¡Mocosos! ¡Vengan aquí! Les voy a arrancar la cabeza y..."
+
+#. habla: King
+#, fuzzy
+msgctxt "#78"
+msgid "Oh! You really brought a great doctor! ♪ Did you hear what was wrong with Josephine? It turns out *whisper* he was actually suffering from a false pregnancy! *whisper* Teehee, oh please!"
+msgstr "¡Oh! ¡De verdad trajeron un doctor estupendo! ♪ ¿Supieron lo que le pasaba a Josephine? Resulta que *susurro* ¡tenía un embarazo psicológico! *susurro* ¡Jijí, ay, por favor!"
+
+#. habla: King
+#, fuzzy
+msgctxt "#80"
+msgid "Oh, my, I've been so happy and sad and all, I've forgotten to give you dears a reward. Please take this!"
+msgstr "Ay, entre tanta alegría y tristeza, me olvidé de darles una recompensa, queridos. ¡Tomen esto, por favor!"
+
+#, fuzzy
+msgctxt "#81"
+msgid "You obtained Revive DX x2!"
+msgstr "¡Obtuviste Reanimador DX x2!"
+
+#. habla: King
+#, fuzzy
+msgctxt "#82"
+msgid "You saved little Josephine's life! That means the same thing as saving my own life! If you're ever in trouble, sweetie, you just let me know! I'll help you out!"
+msgstr "¡Le salvaron la vida al pequeño Josephine! ¡Es lo mismo que salvarme la vida a mí! Si alguna vez tienen problemas, cariño, ¡solo avísenme! ¡Los voy a ayudar!"
+
+#. habla: Clive
+#, fuzzy
+msgctxt "#83"
+msgid "Oh, jeez! Josephine found some kittens somewhere and brought them back! And our boss seriously believes Josephine gave birth to them! I think the boss is right when he says we should take care of the kittens, but take a look around! We're just a little repair shop! When you consider all the money you need...What should we do? Do you think you could find owners for the kittens?"
+msgstr "¡Uy, qué lío! ¡Josephine encontró unos gatitos en algún lado y los trajo! ¡Y nuestro jefe cree en serio que Josephine los parió! Creo que el jefe tiene razón cuando dice que tenemos que cuidar a los gatitos, pero ¡miren a su alrededor! Solo somos un pequeño taller de reparaciones. Si pensamos en todo el dinero que hace falta... ¿Qué hacemos? ¿Podrían encontrarles dueños a los gatitos?"
+
+#. Opciones: una por línea. Mantener 2 líneas en el mismo orden.
+#, fuzzy
+msgctxt "#84"
+msgid ""
+"Well, I guess we could help.\n"
+"Hmm, I'd rather not."
+msgstr ""
+"Bueno, supongo que podemos ayudar.\n"
+"Hmm, prefiero no hacerlo."
+
+#. habla: Clive
+#, fuzzy
+msgctxt "#85"
+msgid "Oh! Thank you! Thank you! "
+msgstr "¡Oh! ¡Gracias! ¡Gracias!"
+
+#. habla: Clive
+#, fuzzy
+msgctxt "#86"
+msgid "I think it's going to be difficult to find owners for them. You'll just have to go around and talk to everyone!"
+msgstr "Creo que va a ser difícil encontrarles dueños. ¡Van a tener que recorrer el lugar y hablar con todo el mundo!"
+
+#. habla: Clive
+#, fuzzy
+msgctxt "#87"
+msgid "Oh, also! The kittens might be young, but they already have distinct personalities. If you talk to them, you might be able to find out what they're like! Once you've done that, if you know what kind of personality the prospective owners are looking for, maybe it won't be as hard as it sounds!"
+msgstr "¡Ah, además! Los gatitos son chiquitos, pero ya tienen personalidades bien distintas. Si hablan con ellos, ¡quizá puedan averiguar cómo son! Después, si saben qué tipo de personalidad buscan los posibles dueños, ¡quizá no sea tan difícil como parece!"
+
+#. habla: Clive
+#, fuzzy
+msgctxt "#88"
+msgid "Hmm, five kittens. What should I do?"
+msgstr "Hmm, cinco gatitos. ¿Qué hago?"
+
+#. habla: Clive
+#, fuzzy
+msgctxt "#89"
+msgid "Oh, you've found owners for all the kittens!"
+msgstr "¡Oh, encontraron dueños para todos los gatitos!"
+
+#. habla: Clive
+#, fuzzy
+msgctxt "#90"
+msgid "We don't know what to do with this thing! I guess it's not quite a reward, but you can go ahead and take it with our thanks!"
+msgstr "¡No sabemos qué hacer con esta cosa! Supongo que no es gran recompensa, ¡pero llévensela con nuestro agradecimiento!"
+
+#, fuzzy
+msgctxt "#91"
+msgid "You can now use the Double Attack \"Cross Hilbert\"! Cross Hilbert is a Double Attack for KOS-MOS and MOMO. "
+msgstr "¡Ahora puedes usar el Ataque Doble \"Cruz Hilbert\"! Cruz Hilbert es un Ataque Doble de KOS-MOS y MOMO."
+
+#, fuzzy
+msgctxt "#92"
+msgid "The vibration checker is reacting. What would you like to do?"
+msgstr "El detector de vibraciones está reaccionando. ¿Qué quieres hacer?"
+
+#, fuzzy
+msgctxt "#93"
+msgid ""
+"Check the reaction again.\n"
+"Leave it alone.\n"
+"Register it as the matching ring and pick it up."
+msgstr ""
+"Volver a revisar la reacción.\n"
+"Dejarlo.\n"
+"Registrarlo como el anillo correcto y recogerlo."
+
+#, fuzzy
+msgctxt "#94"
+msgid "Reaction check complete."
+msgstr "Revisión de la reacción completa."
+
+#, fuzzy
+msgctxt "#95"
+msgid "You left the ring alone."
+msgstr "Dejaste el anillo."
+
+#, fuzzy
+msgctxt "#96"
+msgid "Once you pick up a ring, the vibration checker will cease functioning. You will not be able to search for rings anymore. Are you sure?"
+msgstr "Una vez que recojas un anillo, el detector de vibraciones dejará de funcionar. Ya no podrás buscar anillos. ¿Continuar?"
+
+#. Opciones: una por línea. Mantener 2 líneas en el mismo orden.
+#, fuzzy
+msgctxt "#97"
+msgid ""
+"Yes.\n"
+"No, don't pick it up."
+msgstr ""
+"Sí.\n"
+"No, no recogerlo."
+
+#, fuzzy
+msgctxt "#98"
+msgid "You obtained an Engagement Ring!"
+msgstr "¡Obtuviste un Anillo de compromiso!"
+
+#, fuzzy
+msgctxt "#99"
+msgid "Please enter the password."
+msgstr "Ingrese la contraseña."
+
+#, fuzzy
+msgctxt "#100"
+msgid "Releasing the lock."
+msgstr "Abriendo la cerradura."
+
+#, fuzzy
+msgctxt "#101"
+msgid "The password is incorrect."
+msgstr "La contraseña es incorrecta."
+
+#, fuzzy
+msgctxt "#102"
+msgid "You cannot open it without King's Key."
+msgstr "No se puede abrir sin la Llave de King."
+
+#, fuzzy
+msgctxt "#103"
+msgid "The lock is open."
+msgstr "La cerradura está abierta."

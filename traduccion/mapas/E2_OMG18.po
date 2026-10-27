@@ -1,0 +1,304 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Xenosaga Episode II - traducción al español\n"
+"Language: es_419\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Xeno-Source: 0:model/map/en/E2_OMG18.sbl\n"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#0"
+msgid "$zoom15;$col7AF9FB;The Wheel of Memory begins to move!$colc0c0c0;"
+msgstr "$zoom15;$col7AF9FB;¡La Rueda de la Memoria empieza a girar!$colc0c0c0;"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#1"
+msgid "$zoom13;Wheel of Memory"
+msgstr "$zoom13;Rueda de la Memoria"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#2"
+msgid "$zoom15;$colc0c0c0;White Robe awakens!"
+msgstr "$zoom15;$colc0c0c0;¡Despierta la Túnica Blanca!"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#3"
+msgid ""
+"$zoom15;$colc0c0c0;The Mirror of Truth clears\n"
+"and reveals$col7AF9FB; chaos' soul$colc0c0c0;.$colc0c0c0;"
+msgstr ""
+"$zoom15;$colc0c0c0;El Espejo de la Verdad se aclara\n"
+"y revela$col7AF9FB; el alma de chaos$colc0c0c0;.$colc0c0c0;"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#4"
+msgid "$zoom13;Memories of Guadalupe"
+msgstr "$zoom13;Recuerdos de Guadalupe"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#5"
+msgid ""
+"$zoom15;$colc0c0c0;The Mirror of Truth clears\n"
+"and reveals$col7AF9FB; KOS-MOS' soul$colc0c0c0;.$colc0c0c0;"
+msgstr ""
+"$zoom15;$colc0c0c0;El Espejo de la Verdad se aclara\n"
+"y revela$col7AF9FB; el alma de KOS-MOS$colc0c0c0;.$colc0c0c0;"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#6"
+msgid ""
+"$zoom15;$colc0c0c0;The Mirror of Truth clears\n"
+"and reveals$col7AF9FB; Shion's soul$colc0c0c0;.$colc0c0c0;"
+msgstr ""
+"$zoom15;$colc0c0c0;El Espejo de la Verdad se aclara\n"
+"y revela$col7AF9FB; el alma de Shion$colc0c0c0;.$colc0c0c0;"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#7"
+msgid ""
+"$zoom15;$colc0c0c0;The Mirror of Truth clears\n"
+"and reveals$col7AF9FB; Jin's soul$colc0c0c0;.$colc0c0c0;"
+msgstr ""
+"$zoom15;$colc0c0c0;El Espejo de la Verdad se aclara\n"
+"y revela$col7AF9FB; el alma de Jin$colc0c0c0;.$colc0c0c0;"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#8"
+msgid ""
+"$zoom15;$colc0c0c0;The Mirror of Truth clears\n"
+"and reveals$col7AF9FB; Ziggy's soul$colc0c0c0;.$colc0c0c0;"
+msgstr ""
+"$zoom15;$colc0c0c0;El Espejo de la Verdad se aclara\n"
+"y revela$col7AF9FB; el alma de Ziggy$colc0c0c0;.$colc0c0c0;"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#9"
+msgid ""
+"$zoom15;$colc0c0c0;The Mirror of Truth clears\n"
+"and reveals$col7AF9FB; MOMO's soul$colc0c0c0;.$colc0c0c0;"
+msgstr ""
+"$zoom15;$colc0c0c0;El Espejo de la Verdad se aclara\n"
+"y revela$col7AF9FB; el alma de MOMO$colc0c0c0;.$colc0c0c0;"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#10"
+msgid ""
+"$zoom15;$colc0c0c0;The Mirror of Truth clears\n"
+"and reveals$col7AF9FB; Jr.'s soul$colc0c0c0;.$colc0c0c0;"
+msgstr ""
+"$zoom15;$colc0c0c0;El Espejo de la Verdad se aclara\n"
+"y revela$col7AF9FB; el alma de Jr.$colc0c0c0;$colc0c0c0;"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#11"
+msgid "$zoom15;$col7AF9FB;The Mirror of Truth absorbed the soul!$colc0c0c0;"
+msgstr "$zoom15;$col7AF9FB;¡El Espejo de la Verdad absorbió el alma!$colc0c0c0;"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#12"
+msgid "$zoom15;$colc0c0c0;The Mirror of Truth darkens.$colc0c0c0;"
+msgstr "$zoom15;$colc0c0c0;El Espejo de la Verdad se oscurece.$colc0c0c0;"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#13"
+msgid "$zoom15;$col7AF9FB;White Robe gazes at the land of healing.$colc0c0c0;"
+msgstr "$zoom15;$col7AF9FB;La Túnica Blanca contempla la tierra sanadora.$colc0c0c0;"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#14"
+msgid ""
+"$zoom15;$colc0c0c0;Cry of the Rapture awakens!\n"
+"$col7AF9FB;Desire for females surges.$colc0c0c0;"
+msgstr ""
+"$zoom15;$colc0c0c0;¡Despierta el Grito del Éxtasis!\n"
+"$col7AF9FB;Crece el deseo por las mujeres.$colc0c0c0;"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#15"
+msgid "$zoom15;$col7AF9FB;Target of desire disappeared!$colc0c0c0;"
+msgstr "$zoom15;$col7AF9FB;¡Desapareció el objeto del deseo!$colc0c0c0;"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#16"
+msgid "$zoom15;$col7AF9FB;I have no interest in the wicked!$colc0c0c0;"
+msgstr "$zoom15;$col7AF9FB;¡No me interesan los malvados!$colc0c0c0;"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#17"
+msgid ""
+"$zoom15;$colc0c0c0;Call to Arms awakens!\n"
+"$col7AF9FB;Awakened the male's instinct to fight."
+msgstr ""
+"$zoom15;$colc0c0c0;¡Despierta el Llamado a las Armas!\n"
+"$col7AF9FB;Despertó el instinto de lucha masculino."
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#18"
+msgid "$zoom15;$col7AF9FB;I have no interest in the damned!$colc0c0c0;"
+msgstr "$zoom15;$col7AF9FB;¡No me interesan los condenados!$colc0c0c0;"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#19"
+msgid "$zoom21;$col7AF9FB;   3$colc0c0c0;"
+msgstr "$zoom21;$col7AF9FB;   3$colc0c0c0;"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#20"
+msgid "$zoom21;$col7AF9FB;   2$colc0c0c0;"
+msgstr "$zoom21;$col7AF9FB;   2$colc0c0c0;"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#21"
+msgid "$zoom21;$col7AF9FB;   1$colc0c0c0;"
+msgstr "$zoom21;$col7AF9FB;   1$colc0c0c0;"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#22"
+msgid "$zoom21;$col7AF9FB;   0$colc0c0c0;"
+msgstr "$zoom21;$col7AF9FB;   0$colc0c0c0;"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#23"
+msgid "$zoom13;Love of the Virgin (Beam)"
+msgstr "$zoom13;Amor de la Virgen (Haz)"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#24"
+msgid "$zoom13;Sodom Quake (Strike)"
+msgstr "$zoom13;Terremoto de Sodoma (Golpe)"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#25"
+msgid "$zoom13;Roar of Lucifer (Strike)"
+msgstr "$zoom13;Rugido de Lucifer (Golpe)"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#26"
+msgid "$zoom13;Four Shining Wheels (L Poison EP)"
+msgstr "$zoom13;Cuatro ruedas brillantes (Veneno EP L)"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#27"
+msgid "$zoom13;A Lily Bathed in Deception (L Weak)"
+msgstr "$zoom13;Lirio bañado en engaño (Debilidad L)"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#28"
+msgid "$zoom13;Heart Rending Despair (L Ether DD)"
+msgstr "$zoom13;Desesperación desgarradora (Éter DD L)"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#29"
+msgid "$zoom13;Advent of Sweet Whispers (L Stun)"
+msgstr "$zoom13;Llegada de dulces susurros (Aturdimiento L)"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#30"
+msgid "$zoom13;Assumption of the Virgin"
+msgstr "$zoom13;Asunción de la Virgen"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#31"
+msgid "$zoom13;Look of Rapture"
+msgstr "$zoom13;Mirada del éxtasis"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#32"
+msgid ""
+"$zoom15;$col7AF9FB;Increased Ether Attack of\n"
+"Cry of the Rapture."
+msgstr ""
+"$zoom15;$col7AF9FB;Aumentó el ataque de éter\n"
+"del Grito del Éxtasis."
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#33"
+msgid "$zoom13;Purification of the Soul"
+msgstr "$zoom13;Purificación del alma"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#34"
+msgid "$zoom13;Instigate Massacre"
+msgstr "$zoom13;Instigar la masacre"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#35"
+msgid ""
+"$zoom15;$col7AF9FB;Increased Physical Attack of\n"
+"Call to Arms."
+msgstr ""
+"$zoom15;$col7AF9FB;Aumentó el ataque físico\n"
+"del Llamado a las Armas."
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#36"
+msgid "$zoom13;Gehenna (Fire)"
+msgstr "$zoom13;Gehenna (Fuego)"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#37"
+msgid "$zoom13;Flame Blast"
+msgstr "$zoom13;Ráfaga ígnea"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#38"
+msgid "$zoom13;Thunder Blast"
+msgstr "$zoom13;Ráfaga de rayo"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#39"
+msgid "$zoom13;Oracle of Healing"
+msgstr "$zoom13;Oráculo de sanación"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#40"
+msgid "$zoom13;Lament of Babel (Thunder)"
+msgstr "$zoom13;Lamento de Babel (Rayo)"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#41"
+msgid "$zoom13;Refresh H"
+msgstr "$zoom13;Refresh H"

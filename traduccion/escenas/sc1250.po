@@ -1,0 +1,53 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Xenosaga Episode II - traducción al español\n"
+"Language: es_419\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Xeno-Source: 0:cf/en/sc1250.sbl\n"
+
+#. habla: Samuel
+#, fuzzy
+msgctxt "#2"
+msgid "You bastards! I don't know who the hell you are, but stop destroying our city!"
+msgstr "¡Desgraciados! ¡No sé quiénes demonios son, pero dejen de destruir nuestra ciudad!"
+
+#. habla: Monica
+#, fuzzy
+msgctxt "#3"
+msgid "Toto! You'll be safe there! Don't move until Mommy says it's okay!"
+msgstr "¡Toto! ¡Ahí vas a estar a salvo! ¡No te muevas hasta que mamá te diga!"
+
+#. habla: Toto
+#, fuzzy
+msgctxt "#4"
+msgid "Mommy, help! Mommy, help! Mommy, help! Mommy, Mommy, help! Mommy, *Sob* Help! Mommy! Aaah!"
+msgstr "¡Mamá, ayuda! ¡Mamá, ayuda! ¡Mamá, ayuda! ¡Mamá, mamá, ayuda! ¡Mamá, *snif*, ayuda! ¡Mamá! ¡Aaah!"
+
+#. habla: Marco
+#, fuzzy
+msgctxt "#5"
+msgid "How did I get mixed up in this? I guess I'm just an unlucky old man..."
+msgstr "¿Cómo terminé metido en esto? Supongo que soy un viejo con mala suerte..."
+
+#. habla: Toshie
+#, fuzzy
+msgctxt "#6"
+msgid "The phones aren't working. I hope everyone at home is all right."
+msgstr "Los teléfonos no funcionan. Espero que todos en casa estén bien."
+
+#, fuzzy
+msgctxt "#8"
+msgid "Use the elevator?"
+msgstr "¿Usar el ascensor?"
+
+#. Opciones: una por línea. Mantener 2 líneas en el mismo orden.
+#, fuzzy
+msgctxt "#9"
+msgid ""
+"Yes\n"
+"No"
+msgstr ""
+"Sí\n"
+"No"

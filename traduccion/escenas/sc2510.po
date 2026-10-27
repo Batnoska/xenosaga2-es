@@ -1,0 +1,747 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Xenosaga Episode II - traducción al español\n"
+"Language: es_419\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Xeno-Source: 0:cf/en/sc2510.sbl\n"
+
+#. habla: Shion
+#, fuzzy
+msgctxt "#0"
+msgid "Captain! We owe you one!"
+msgstr "¡Capitán! ¡Le debemos una!"
+
+#. habla: Matthews
+#, fuzzy
+msgctxt "#1"
+msgid "Yo! Looks like you're causing trouble like always!"
+msgstr "¡Ey! ¡Parece que andas causando problemas, como siempre!"
+
+#. habla: Shion
+#, fuzzy
+msgctxt "#2"
+msgid "Yeah, something kind of happened at First Division."
+msgstr "Sí, pasó algo en la Primera División."
+
+#. habla: chaos
+#, fuzzy
+msgctxt "#3"
+msgid "Something?"
+msgstr "¿Algo?"
+
+#. habla: Shion
+#, fuzzy
+msgctxt "#4"
+msgid "Yeah. I can't put it into words very well, but I felt I had to go to Old Miltia."
+msgstr "Sí. No sé muy bien cómo explicarlo, pero sentí que tenía que ir a la Antigua Miltia."
+
+#. habla: Matthews
+#, fuzzy
+msgctxt "#5"
+msgid "What?!"
+msgstr "¡¿Qué?!"
+
+#. habla: Shion
+#, fuzzy
+msgctxt "#6"
+msgid "What? What's wrong, Captain?"
+msgstr "¿Qué? ¿Qué pasa, capitán?"
+
+#. habla: Matthews
+#, fuzzy
+msgctxt "#7"
+msgid "Representative Helmer asked us to go to Old Miltia, too. I didn't think there was anyone else crazy enough to head there."
+msgstr "El representante Helmer también nos pidió que fuéramos a la Antigua Miltia. No pensé que hubiera alguien más tan loco como para ir allí."
+
+#. habla: Jr.
+#, fuzzy
+msgctxt "#8"
+msgid "Yeah, Helmer asked me to go there, too! Besides, that's where the original Zohar is."
+msgstr "¡Sí, Helmer también me pidió que fuera! Además, allí está el Zohar original."
+
+#. habla: Jin
+#, fuzzy
+msgctxt "#9"
+msgid "Canaan and I have business on Old Miltia as well. Representative Helmer asked me to analyze Canaan's data."
+msgstr "Canaan y yo también tenemos asuntos en la Antigua Miltia. El representante Helmer me pidió que analizara los datos de Canaan."
+
+#. habla: Shion
+#, fuzzy
+msgctxt "#10"
+msgid "So, everyone is headed for Old Miltia."
+msgstr "Así que todos vamos a la Antigua Miltia."
+
+#. habla: Allen
+#, fuzzy
+msgctxt "#11"
+msgid "KOS-MOS was amazing back there!"
+msgstr "¡KOS-MOS estuvo increíble allá atrás!"
+
+#. habla: Jr.
+#, fuzzy
+msgctxt "#12"
+msgid "Yeah, even I was surprised. But who was that enemy? It even dodged KOS-MOS' attack! I have a bad feeling about this."
+msgstr "Sí, hasta yo me sorprendí. Pero ¿quién era ese enemigo? ¡Hasta esquivó el ataque de KOS-MOS! Tengo un mal presentimiento."
+
+#. habla: Shion
+#, fuzzy
+msgctxt "#13"
+msgid "Yeah, I wonder about that myself."
+msgstr "Sí, yo también me lo pregunto."
+
+#. habla: Matthews
+#, fuzzy
+msgctxt "#14"
+msgid "All right, lemme say something. Our next destination is Old Miltia, right? I can't say I'm looking forward to it, but it looks like we have to go, so let me know when you're ready to set out. Until then, go take a look around the newly remodeled Elsa!"
+msgstr "Bueno, déjenme decir algo. Nuestro próximo destino es la Antigua Miltia, ¿no? No puedo decir que me entusiasme, pero parece que tenemos que ir, así que avísenme cuando estén listos para partir. Mientras tanto, ¡vayan a echarle un vistazo al Elsa recién remodelado!"
+
+#. habla: Jr.
+#, fuzzy
+msgctxt "#15"
+msgid "Okay, then! That was a little rough, but we made it. There's no time to waste! Let's hurry up, get inside there, and take it out! That's a pretty big fortress, so we'll take the E.S.s!"
+msgstr "¡Bueno, entonces! Fue un poco movido, pero llegamos. ¡No hay tiempo que perder! ¡Démonos prisa, entremos ahí y acabemos con eso! Es una fortaleza bastante grande, ¡así que vamos con los E.S.!"
+
+#. habla: Jr.
+#, fuzzy
+msgctxt "#16"
+msgid "All right! Let's finish this!"
+msgstr "¡Muy bien! ¡Terminemos con esto!"
+
+#. habla: Canaan
+#, fuzzy
+msgctxt "#17"
+msgid "This area used to be the capital of Old Miltia. The area up ahead was ground zero fourteen years ago. It was filled with U-TIC Organization facilities. The area that handled the most important research was..."
+msgstr "Esta zona era la capital de la Antigua Miltia. Más adelante estaba la zona cero de hace catorce años. Estaba llena de instalaciones de la Organización U-TIC. La zona que se encargaba de las investigaciones más importantes era..."
+
+#. habla: Jin
+#, fuzzy
+msgctxt "#18"
+msgid "Labyrinthos. The original Zohar should still be sleeping deep inside it."
+msgstr "Labyrinthos. El Zohar original debería seguir durmiendo en sus profundidades."
+
+#. habla: Canaan
+#, fuzzy
+msgctxt "#19"
+msgid "Rubedo, your objective is to secure the original Zohar, correct?"
+msgstr "Rubedo, tu objetivo es asegurar el Zohar original, ¿correcto?"
+
+#. habla: Jr.
+#, fuzzy
+msgctxt "#20"
+msgid "Yeah. Shion? Shion, are you all right?"
+msgstr "Sí. ¿Shion? Shion, ¿estás bien?"
+
+#. habla: Shion
+#, fuzzy
+msgctxt "#21"
+msgid ""
+"What? Ah, yes.\n"
+"(Cecily and Cathe may be there as well.)"
+msgstr ""
+"¿Qué? Ah, sí.\n"
+"(Quizá Cecily y Cathe también estén ahí.)"
+
+#. habla: Jr.
+#, fuzzy
+msgctxt "#22"
+msgid "Hmm? Did you say something?"
+msgstr "¿Hmm? ¿Dijiste algo?"
+
+#. habla: Shion
+#, fuzzy
+msgctxt "#23"
+msgid "No, it's nothing."
+msgstr "No, no es nada."
+
+#. habla: Canaan
+#, fuzzy
+msgctxt "#24"
+msgid "Now we can finally analyze the data in my head."
+msgstr "Por fin podremos analizar los datos que tengo en la cabeza."
+
+#. habla: Jin
+#, fuzzy
+msgctxt "#25"
+msgid "Yes. We should hurry."
+msgstr "Sí. Deberíamos darnos prisa."
+
+#. habla: Canaan
+#, fuzzy
+msgctxt "#26"
+msgid "I agree. The Immigrant Fleet should already be here, but it's really quiet. That has me worried."
+msgstr "De acuerdo. La Flota de Inmigrantes ya debería estar aquí, pero todo está muy tranquilo. Eso me preocupa."
+
+#. habla: Matthews
+#, fuzzy
+msgctxt "#27"
+msgid "Well? Whaddaya think of the Elsa's new look? Beautiful, isn't she?"
+msgstr "¿Y bien? ¿Qué les parece el nuevo aspecto del Elsa? ¿No es una belleza?"
+
+#. habla: Matthews
+#, fuzzy
+msgctxt "#28"
+msgid "There's no point in hanging out on the bridge the whole time. Why don't you have a look around? Or do you want to head off for Old Miltia at top speed right now?"
+msgstr "No tiene sentido quedarse todo el tiempo en el puente. ¿Por qué no dan una vuelta? ¿O quieren salir ya mismo a toda velocidad hacia la Antigua Miltia?"
+
+#, fuzzy
+msgctxt "#29"
+msgid ""
+"I'll look around the Elsa a bit more!\n"
+"I want to head for Old Miltia now!"
+msgstr ""
+"¡Voy a recorrer un poco más el Elsa!\n"
+"¡Quiero ir ya a la Antigua Miltia!"
+
+#. habla: Matthews
+#, fuzzy
+msgctxt "#30"
+msgid "I thought so! You know, you should be honored to be on board a great ship like this! Take your time!"
+msgstr "¡Me lo imaginaba! ¿Saben? ¡Deberían sentirse honrados de estar a bordo de una nave tan grandiosa! ¡Tómense su tiempo!"
+
+#. habla: Matthews
+#, fuzzy
+msgctxt "#31"
+msgid "Okay, you got it! Hey, Tony! You heard that, right? Hit it!"
+msgstr "¡Muy bien, entendido! ¡Oye, Tony! ¿Escuchaste, no? ¡A toda máquina!"
+
+#. habla: Matthews
+#, fuzzy
+msgctxt "#32"
+msgid "What are you doing? Don't worry about things here. Go destroy that thing!"
+msgstr "¿Qué hacen? No se preocupen por lo de aquí. ¡Vayan a destruir esa cosa!"
+
+#. habla: Matthews
+#, fuzzy
+msgctxt "#33"
+msgid "If we get swallowed up by the Abyss, we won't be able to get out!"
+msgstr "¡Si nos traga el Abismo, no vamos a poder salir!"
+
+#. habla: Matthews
+#, fuzzy
+msgctxt "#34"
+msgid "Dammit! I just had this ship remodeled, and it got wrecked again! Well, at least that old man who joined the crew could fix it."
+msgstr "¡Maldición! ¡Acabo de remodelar esta nave y otra vez quedó destrozada! Bueno, al menos ese viejo que se unió a la tripulación pudo arreglarla."
+
+#. habla: Matthews
+#, fuzzy
+msgctxt "#35"
+msgid "So, want to head for Old Miltia now?"
+msgstr "¿Y? ¿Quieren ir ya a la Antigua Miltia?"
+
+#. Opciones: una por línea. Mantener 2 líneas en el mismo orden.
+#, fuzzy
+msgctxt "#36"
+msgid ""
+"Yes\n"
+"No"
+msgstr ""
+"Sí\n"
+"No"
+
+#. habla: Matthews
+#, fuzzy
+msgctxt "#37"
+msgid "Okay! Tony! Hit it!"
+msgstr "¡Muy bien! ¡Tony! ¡A toda máquina!"
+
+#. habla: Matthews
+#, fuzzy
+msgctxt "#38"
+msgid "Huh? Is there somewhere else you wanna go?"
+msgstr "¿Eh? ¿Hay otro lugar adonde quieran ir?"
+
+#. Opciones: una por línea. Mantener 2 líneas en el mismo orden.
+#, fuzzy
+msgctxt "#39"
+msgid ""
+"Second Miltia\n"
+"Cancel"
+msgstr ""
+"Segunda Miltia\n"
+"Cancelar"
+
+#. habla: Matthews
+#, fuzzy
+msgctxt "#40"
+msgid "Let me know if you wanna go somewhere!"
+msgstr "¡Avísenme si quieren ir a algún lado!"
+
+#. habla: Matthews
+#, fuzzy
+msgctxt "#41"
+msgid "Yo! Heading out?"
+msgstr "¡Ey! ¿Salimos?"
+
+#. habla: Matthews
+#, fuzzy
+msgctxt "#42"
+msgid "Where you wanna go?"
+msgstr "¿Adónde quieren ir?"
+
+#. Opciones: una por línea. Mantener 3 líneas en el mismo orden.
+#, fuzzy
+msgctxt "#43"
+msgid ""
+"Old Miltia\n"
+"The Foundation\n"
+"Cancel"
+msgstr ""
+"Antigua Miltia\n"
+"La Fundación\n"
+"Cancelar"
+
+#. habla: Matthews
+#, fuzzy
+msgctxt "#44"
+msgid "You want to go back to Old Miltia?"
+msgstr "¿Quieren volver a la Antigua Miltia?"
+
+#. habla: Matthews
+#, fuzzy
+msgctxt "#45"
+msgid "Huh? Did you forget something? Where you wanna go?"
+msgstr "¿Eh? ¿Se olvidaron algo? ¿Adónde quieren ir?"
+
+#. habla: Matthews
+#, fuzzy
+msgctxt "#46"
+msgid "Let me know if you wanna go somewhere! Though personally, I want to take care of business on Old Miltia as soon as we can!"
+msgstr "¡Avísenme si quieren ir a algún lado! ¡Aunque yo, personalmente, quiero terminar cuanto antes con lo de la Antigua Miltia!"
+
+#. Opciones: una por línea. Mantener 2 líneas en el mismo orden.
+#, fuzzy
+msgctxt "#47"
+msgid ""
+"The Foundation\n"
+"Cancel"
+msgstr ""
+"La Fundación\n"
+"Cancelar"
+
+#. habla: Matthews
+#, fuzzy
+msgctxt "#48"
+msgid "Hey, hey! You're just going to leave without finishing things here? Of course, I'll launch if you tell me to!"
+msgstr "¡Oigan, oigan! ¿Se van a ir así como así, sin terminar lo de aquí? ¡Claro que, si me lo dicen, despego!"
+
+#. habla: Matthews
+#, fuzzy
+msgctxt "#49"
+msgid "So, do you want to launch?"
+msgstr "Entonces, ¿quieren despegar?"
+
+#. Opciones: una por línea. Mantener 3 líneas en el mismo orden.
+#, fuzzy
+msgctxt "#50"
+msgid ""
+"Second Miltia\n"
+"The Foundation\n"
+"Cancel"
+msgstr ""
+"Segunda Miltia\n"
+"La Fundación\n"
+"Cancelar"
+
+#. habla: Matthews
+#, fuzzy
+msgctxt "#51"
+msgid "Hurry up and take care of your business! I don't want to stay in a creepy place like this a second longer than I have to!"
+msgstr "¡Apúrense con lo suyo! ¡No quiero quedarme en un lugar tan siniestro como este ni un segundo más de lo necesario!"
+
+#. Opciones: una por línea. Mantener 3 líneas en el mismo orden.
+#, fuzzy
+msgctxt "#52"
+msgid ""
+"Submerged City\n"
+"Second Miltia\n"
+"Cancel"
+msgstr ""
+"Ciudad sumergida\n"
+"Segunda Miltia\n"
+"Cancelar"
+
+#. Opciones: una por línea. Mantener 3 líneas en el mismo orden.
+#, fuzzy
+msgctxt "#53"
+msgid ""
+"Submerged City\n"
+"The Foundation\n"
+"Cancel"
+msgstr ""
+"Ciudad sumergida\n"
+"La Fundación\n"
+"Cancelar"
+
+#. habla: Matthews
+#, fuzzy
+msgctxt "#54"
+msgid "Yo! Wanna go somewhere?"
+msgstr "¡Ey! ¿Quieren ir a algún lado?"
+
+#. Opciones: una por línea. Mantener 3 líneas en el mismo orden.
+#, fuzzy
+msgctxt "#55"
+msgid ""
+"Omega System\n"
+"Second Miltia\n"
+"Cancel"
+msgstr ""
+"Sistema Omega\n"
+"Segunda Miltia\n"
+"Cancelar"
+
+#. habla: Matthews
+#, fuzzy
+msgctxt "#56"
+msgid "Looks like this is gonna be a big fight. You better be ready!"
+msgstr "Parece que esta va a ser una pelea grande. ¡Más vale que estén listos!"
+
+#. Opciones: una por línea. Mantener 3 líneas en el mismo orden.
+#, fuzzy
+msgctxt "#57"
+msgid ""
+"Omega System\n"
+"The Foundation\n"
+"Cancel"
+msgstr ""
+"Sistema Omega\n"
+"La Fundación\n"
+"Cancelar"
+
+#. habla: Matthews
+#, fuzzy
+msgctxt "#58"
+msgid "Okay! The E.S.s are ready! Go out there and get 'em!"
+msgstr "¡Muy bien! ¡Los E.S. están listos! ¡Salgan y denles su merecido!"
+
+#. habla: Matthews
+#, fuzzy
+msgctxt "#59"
+msgid "Yo, Little Master! I'm not one to stick my nose into other people's business, but go out there and settle this thing for good!"
+msgstr "¡Ey, joven amo! No soy de meterme en los asuntos ajenos, ¡pero sal ahí y termina con esto de una vez por todas!"
+
+#. habla: Matthews
+#, fuzzy
+msgctxt "#60"
+msgid "I like straight-shooters like you."
+msgstr "Me gustan los tipos directos como tú."
+
+#. habla: Tony
+#, fuzzy
+msgctxt "#61"
+msgid "That enemy! What was that mobile weapon? I've never seen a human pilot move like that!"
+msgstr "¡Ese enemigo! ¿Qué era esa arma móvil? ¡Nunca vi a un piloto humano moverse así!"
+
+#. habla: Tony
+#, fuzzy
+msgctxt "#62"
+msgid "You guys sure love getting into trouble."
+msgstr "A ustedes sí que les encanta meterse en problemas."
+
+#. habla: Tony
+#, fuzzy
+msgctxt "#63"
+msgid "There's nothing we can do if the Elsa can't move. Hurry up and take care of this thing."
+msgstr "Si el Elsa no se puede mover, no podemos hacer nada. Apúrense y encárguense de esa cosa."
+
+#. habla: Tony
+#, fuzzy
+msgctxt "#64"
+msgid "Okay, then! We're off to Old Miltia!"
+msgstr "¡Muy bien, entonces! ¡Rumbo a la Antigua Miltia!"
+
+#. habla: Tony
+#, fuzzy
+msgctxt "#65"
+msgid "Hey relax! This time, I'll make sure we don't get surprised by the enemy!"
+msgstr "¡Tranquilos! ¡Esta vez me voy a asegurar de que el enemigo no nos sorprenda!"
+
+#. habla: Tony
+#, fuzzy
+msgctxt "#66"
+msgid "I've done my job. The rest is up to you."
+msgstr "Ya hice mi trabajo. Lo demás queda en sus manos."
+
+#. habla: Tony
+#, fuzzy
+msgctxt "#67"
+msgid "Oh, and we can't put something as dangerous as the Zohar on this ship. Get Helmer to arrange transportation."
+msgstr "Ah, y no podemos subir algo tan peligroso como el Zohar a esta nave. Pídanle a Helmer que organice el transporte."
+
+#. habla: Tony
+#, fuzzy
+msgctxt "#68"
+msgid "Are you serious? We're going to take on that thing? I don't see how the Elsa can handle that."
+msgstr "¿Hablan en serio? ¿Vamos a enfrentarnos a esa cosa? No veo cómo el Elsa podría con eso."
+
+#. habla: Tony
+#, fuzzy
+msgctxt "#69"
+msgid "Well, there's nothing the great Tony can't do. We've come this far. I won't turn back now!"
+msgstr "Bueno, no hay nada que el gran Tony no pueda hacer. Llegamos hasta aquí. ¡No pienso echarme atrás ahora!"
+
+#. habla: Tony
+#, fuzzy
+msgctxt "#70"
+msgid "I've done all I can do. The rest is up to you. Go get 'em!"
+msgstr "Ya hice todo lo que podía. Lo demás queda en sus manos. ¡Vayan por ellos!"
+
+#. habla: Hammer
+#, fuzzy
+msgctxt "#71"
+msgid "Welcome back. This place is definitely livelier with you around."
+msgstr "Bienvenidos de vuelta. Este lugar sin duda es más animado con ustedes aquí."
+
+#. habla: Hammer
+#, fuzzy
+msgctxt "#72"
+msgid "This place reeks of testosterone. Not even you could clear it up by yourself."
+msgstr "Este lugar apesta a testosterona. Ni siquiera tú podrías arreglarlo sola."
+
+#. habla: Hammer
+#, fuzzy
+msgctxt "#73"
+msgid "Leave the trip to Old Miltia to us and have a look around this brand new Elsa!"
+msgstr "¡Dejen el viaje a la Antigua Miltia en nuestras manos y den una vuelta por el flamante Elsa!"
+
+#. habla: Hammer
+#, fuzzy
+msgctxt "#74"
+msgid "That was a close one, wasn't it?! KOS-MOS, you were really cool!"
+msgstr "¡Uf, estuvo cerca! ¡KOS-MOS, estuviste genial!"
+
+#. habla: Hammer
+#, fuzzy
+msgctxt "#75"
+msgid "It's no good. The Logical Drive took a direct hit. It's going to take more than a little tinkering to fix this."
+msgstr "No hay manera. El Logical Drive recibió un impacto directo. Va a hacer falta algo más que unos retoques para arreglarlo."
+
+#. habla: Hammer
+#, fuzzy
+msgctxt "#76"
+msgid "It's okay. We managed to fix it. Of course, it's just temporary, so if it breaks again, we're gonna be stuck."
+msgstr "Tranquilos. Logramos arreglarlo. Claro que es solo temporal, así que si se vuelve a romper, nos quedamos varados."
+
+#. habla: Hammer
+#, fuzzy
+msgctxt "#77"
+msgid "It's amazing how the capital looks exactly the same as it did back then!"
+msgstr "¡Es increíble cómo la capital se ve exactamente igual que en aquel entonces!"
+
+#. habla: Hammer
+#, fuzzy
+msgctxt "#78"
+msgid "It's a little eerie, though. It feels so dead."
+msgstr "Aunque da un poco de escalofríos. Se siente tan muerta."
+
+#. habla: Hammer
+#, fuzzy
+msgctxt "#79"
+msgid "All right, this is it! Don't worry. We won't leave without you. We got you covered."
+msgstr "¡Muy bien, aquí vamos! No se preocupen. No nos vamos a ir sin ustedes. Los cubrimos."
+
+#. habla: Hammer
+#, fuzzy
+msgctxt "#80"
+msgid "What are you still doing here?"
+msgstr "¿Qué hacen todavía aquí?"
+
+#. habla: Hammer
+#, fuzzy
+msgctxt "#81"
+msgid "It'd probably be a good idea for you to hurry up!"
+msgstr "¡Probablemente sea buena idea que se den prisa!"
+
+#. habla: Hammer
+#, fuzzy
+msgctxt "#82"
+msgid "You're going, right? Out to fight that huge thing? It's all yours..."
+msgstr "Van a ir, ¿no? ¿A pelear contra esa cosa enorme? Es toda suya..."
+
+#. habla: Hammer
+#, fuzzy
+msgctxt "#83"
+msgid "It's all up to you now. We'll cheer you on from up here."
+msgstr "Ahora todo depende de ustedes. Los vamos a alentar desde aquí arriba."
+
+#. habla: Canaan
+#, fuzzy
+msgctxt "#84"
+msgid "That mobile weapon you were in seems to be an E.S. series. Our E.S. reacted to it."
+msgstr "Esa arma móvil en la que venías parece ser de la serie E.S. Nuestro E.S. reaccionó ante ella."
+
+#. habla: Canaan
+#, fuzzy
+msgctxt "#85"
+msgid "There are two other E.S. crafts onboard this ship. They were all assigned here by Vector's CEO. I didn't think there were that many people that could pilot those things."
+msgstr "En esta nave hay otros dos E.S. Todos los asignó aquí el presidente de Vector. No pensé que hubiera tanta gente capaz de pilotear esas cosas."
+
+#. habla: Canaan
+#, fuzzy
+msgctxt "#86"
+msgid "The enemy isn't behaving very rationally, bringing out a giant fortress like this against a single freighter."
+msgstr "El enemigo no se comporta de forma muy racional, sacando una fortaleza gigante como esta contra un simple carguero."
+
+#. habla: Canaan
+#, fuzzy
+msgctxt "#87"
+msgid "If you want to go down to Miltia, talk to Matthews, not me."
+msgstr "Si quieren bajar a Miltia, hablen con Matthews, no conmigo."
+
+#. habla: Canaan
+#, fuzzy
+msgctxt "#88"
+msgid "How long am I going to have to wait?"
+msgstr "¿Cuánto tiempo más voy a tener que esperar?"
+
+#. habla: Canaan
+#, fuzzy
+msgctxt "#89"
+msgid "Every second counts, right? I want that data in my head analyzed as soon as possible."
+msgstr "Cada segundo cuenta, ¿no? Quiero que analicen cuanto antes los datos que tengo en la cabeza."
+
+#. habla: Canaan
+#, fuzzy
+msgctxt "#90"
+msgid "Cecily and Cathe? Never heard of them. Are you saying they're here?"
+msgstr "¿Cecily y Cathe? Nunca oí hablar de ellas. ¿Me estás diciendo que están aquí?"
+
+#. habla: Canaan
+#, fuzzy
+msgctxt "#91"
+msgid "Rubedo, I don't think securing the original Zohar is going to be easy."
+msgstr "Rubedo, no creo que asegurar el Zohar original vaya a ser fácil."
+
+#. habla: Canaan
+#, fuzzy
+msgctxt "#92"
+msgid "This area used to be the capital of Old Miltia. Up ahead is ground zero from fourteen years ago. I remember U-TIC Organization facilities scattered everywhere around here. One of those was Labyrinthos, the facility where the most important research took place. The original Zohar should still be sleeping deep inside it."
+msgstr "Esta zona era la capital de la Antigua Miltia. Más adelante está la zona cero de hace catorce años. Recuerdo instalaciones de la Organización U-TIC repartidas por todas partes por aquí. Una de ellas era Labyrinthos, la instalación donde se hacían las investigaciones más importantes. El Zohar original debería seguir durmiendo en sus profundidades."
+
+#. habla: Canaan
+#, fuzzy
+msgctxt "#93"
+msgid "It's strange. The Immigrant Fleet should already be here."
+msgstr "Qué raro. La Flota de Inmigrantes ya debería estar aquí."
+
+#. habla: Canaan
+#, fuzzy
+msgctxt "#94"
+msgid "Why is it so quiet?"
+msgstr "¿Por qué está todo tan tranquilo?"
+
+#. habla: Canaan
+#, fuzzy
+msgctxt "#95"
+msgid "What's wrong? Don't you need to finish up on Old Miltia?"
+msgstr "¿Qué pasa? ¿No tienen que terminar lo de la Antigua Miltia?"
+
+#. habla: Canaan
+#, fuzzy
+msgctxt "#96"
+msgid "You don't have time to be hanging around here."
+msgstr "No tienen tiempo para andar dando vueltas por aquí."
+
+#. habla: Canaan
+#, fuzzy
+msgctxt "#97"
+msgid "Relax. I'll help out with the ship while you're away. I'm sure I'll be much more useful than that Vector Assistant Chief or whatever he is."
+msgstr "Tranquilos. Mientras no estén, voy a ayudar con la nave. Seguro que voy a ser mucho más útil que ese subjefe de Vector o lo que sea."
+
+#. habla: Canaan
+#, fuzzy
+msgctxt "#98"
+msgid "Don't worry about this ship. If anything happens, I'll make sure you get out alive."
+msgstr "No se preocupen por esta nave. Si pasa algo, me voy a asegurar de que salgan con vida."
+
+#. habla: Allen
+#, fuzzy
+msgctxt "#99"
+msgid "Are you all right? If it gets dangerous, come right back, okay? Don't do anything stupid."
+msgstr "¿Estás bien? Si se pone peligroso, vuelve enseguida, ¿sí? No hagas ninguna locura."
+
+#. habla: Allen
+#, fuzzy
+msgctxt "#100"
+msgid "We just barely got away, and now we're headed right back?!"
+msgstr "¡¿Apenas logramos escapar y ahora volvemos directo para allá?!"
+
+#. habla: Allen
+#, fuzzy
+msgctxt "#101"
+msgid "How can everyone be so tough?"
+msgstr "¿Cómo puede ser que todos sean tan valientes?"
+
+#. habla: Allen
+#, fuzzy
+msgctxt "#102"
+msgid "It's a long way to Labyrinthos. Please use the E.S. when heading out!"
+msgstr "Labyrinthos queda lejos. ¡Por favor, vayan con el E.S.!"
+
+#. habla: Allen
+#, fuzzy
+msgctxt "#103"
+msgid "So, this is Miltia. Looking at a whole city submerged like this makes me feel like I'm watching a movie."
+msgstr "Así que esto es Miltia. Ver una ciudad entera sumergida así me hace sentir como si estuviera viendo una película."
+
+#. habla: Allen
+#, fuzzy
+msgctxt "#104"
+msgid "Shouldn't you be taking care of business in Labyrinthos?"
+msgstr "¿No deberían estar encargándose de lo de Labyrinthos?"
+
+#. habla: Allen
+#, fuzzy
+msgctxt "#105"
+msgid "Hurry up and take care of things so we can get out of here."
+msgstr "Apúrense y terminen con lo suyo para que podamos irnos de aquí."
+
+#. habla: Allen
+#, fuzzy
+msgctxt "#106"
+msgid "Impossible! We can't win against something like that! What is everyone thinking?! This isn't the job I signed up for!"
+msgstr "¡Imposible! ¡No podemos ganarle a algo así! ¡¿En qué están pensando todos?! ¡No me contrataron para esto!"
+
+#. habla: Allen
+#, fuzzy
+msgctxt "#107"
+msgid "All right. I won't say anymore. Leave the rest to me and go out there and fight."
+msgstr "Muy bien. No voy a decir nada más. Déjenme el resto a mí y salgan a pelear."
+
+#. habla: Jin
+#, fuzzy
+msgctxt "#108"
+msgid "I told you time and again to think before you act. Oh well, I'm just glad you're safe. So, I assume you still intend to go to Old Miltia?"
+msgstr "Te dije una y otra vez que pensaras antes de actuar. Bueno, me alegra que estés a salvo. Entonces, supongo que todavía piensas ir a la Antigua Miltia."
+
+#. habla: Jin
+#, fuzzy
+msgctxt "#109"
+msgid "I'm sure you have your reasons, and since you're already here, I'm not going to tell you to leave. But please listen to me. Don't do anything foolish. Do you understand?"
+msgstr "Seguro que tienes tus motivos y, como ya estás aquí, no te voy a pedir que te vayas. Pero, por favor, escúchame. No hagas ninguna tontería. ¿Entendido?"
+
+#. habla: Jr.
+#, fuzzy
+msgctxt "#110"
+msgid "Hehehe, that was a pretty flashy entrance you guys made. I guess the fact that we ran into each other here means we're thinking the same thing."
+msgstr "Jejeje, qué entrada tan espectacular hicieron. Supongo que, si nos cruzamos aquí, es porque pensamos lo mismo."
+
+#. habla: Jr.
+#, fuzzy
+msgctxt "#111"
+msgid "You're headed to Old Miltia, right?"
+msgstr "Van a la Antigua Miltia, ¿no?"
+
+#. habla: chaos
+#, fuzzy
+msgctxt "#112"
+msgid "Welcome back. I'm glad you're safe. I didn't think we'd run into you out here."
+msgstr "Bienvenidos de vuelta. Me alegra que estén a salvo. No pensé que nos encontraríamos con ustedes aquí."
+
+#. habla: chaos
+#, fuzzy
+msgctxt "#113"
+msgid "I'm sure you have your own reasons for being out here, but anyway, it's good to have you on board."
+msgstr "Seguro que tienen sus propios motivos para estar aquí, pero en fin, es bueno tenerlos a bordo."

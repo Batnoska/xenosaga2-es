@@ -1,0 +1,173 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Xenosaga Episode II - traducción al español\n"
+"Language: es_419\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Xeno-Source: 0:cf/en/sc6307.sbl\n"
+"X-Xeno-Tipo: cinematica\n"
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#3"
+msgid "Why is this damn thing not working?!"
+msgstr "¡¿Por qué no funciona este maldito aparato?!"
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#4"
+msgid "External speakers?"
+msgstr "¿Altavoces externos?"
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#5"
+msgid ""
+"We have mobilized all units, but we're\n"
+"all exhausted from training earlier."
+msgstr ""
+"Movilizamos a todas las unidades, pero\n"
+"están agotados por el entrenamiento."
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#6"
+msgid "May I―"
+msgstr "¿Me permite―?"
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#7"
+msgid "Line up, maggots!"
+msgstr "¡A formar, gusanos!"
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#8"
+msgid "Did you pansies already forget your training?!"
+msgstr "¡¿Ya se olvidaron del entrenamiento, blandengues?!"
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#9"
+msgid "Do you know how bad you made me look?!"
+msgstr "¡¿Saben lo mal que me hicieron quedar?!"
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#10"
+msgid "Listen to me!"
+msgstr "¡Escúchenme!"
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#. Opciones: una por línea. Mantener 2 líneas en el mismo orden.
+#, fuzzy
+msgctxt "#11"
+msgid ""
+"What you think means nothing!\n"
+"What you want means nothing!"
+msgstr ""
+"¡Lo que ustedes piensen no importa!\n"
+"¡Lo que ustedes quieran no importa!"
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#12"
+msgid "You do as I say!"
+msgstr "¡Ustedes hacen lo que yo digo!"
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#13"
+msgid "I am the boot in your buttocks!"
+msgstr "¡Yo soy la bota que les patea el trasero!"
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#14"
+msgid "You! What is your problem?"
+msgstr "¡Tú! ¿Cuál es tu problema?"
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#. Opciones: una por línea. Mantener 3 líneas en el mismo orden.
+#, fuzzy
+msgctxt "#15"
+msgid ""
+"Were you born that dumb or did\n"
+"your drunk mama slap you on the\n"
+"wrong end when you squirted out?"
+msgstr ""
+"¿Naciste así de tonto o tu madre\n"
+"borracha te dio la nalgada en el\n"
+"lado equivocado cuando saliste?"
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#16"
+msgid "Why are you laughing? Do I amuse you?"
+msgstr "¿De qué te ríes? ¿Te parezco gracioso?"
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#17"
+msgid "I'm tired of all you pantywaist nitwits!"
+msgstr "¡Estoy harto de todos ustedes, inútiles debiluchos!"
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#18"
+msgid "You make me physically ill!"
+msgstr "¡Me dan asco!"
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#19"
+msgid "Drop and give me a million!"
+msgstr "¡Al suelo y háganme un millón de flexiones!"
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#20"
+msgid "I will break you!"
+msgstr "¡Los voy a hacer pedazos!"
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#21"
+msgid "Enemy unit discovered on deck! Standby!"
+msgstr "¡Unidad enemiga detectada en cubierta! ¡Atentos!"
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#22"
+msgid "What did you say?!"
+msgstr "¡¿Qué dijiste?!"
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#23"
+msgid "Dammit! They found us!"
+msgstr "¡Maldición! ¡Nos encontraron!"
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#. Opciones: una por línea. Mantener 2 líneas en el mismo orden.
+#, fuzzy
+msgctxt "#24"
+msgid ""
+"All hands, prepare for battle!\n"
+"Target the Vector A.M.W.S.!"
+msgstr ""
+"¡Todos a sus puestos de combate!\n"
+"¡Apunten al A.M.W.S. de Vector!"
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#. Opciones: una por línea. Mantener 2 líneas en el mismo orden.
+#, fuzzy
+msgctxt "#25"
+msgid ""
+"This is not a drill!\n"
+"Show me everything you've got!"
+msgstr ""
+"¡Esto no es un simulacro!\n"
+"¡Muéstrenme todo lo que tienen!"

@@ -1,0 +1,191 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Xenosaga Episode II - traducción al español\n"
+"Language: es_419\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Xeno-Source: 0:cf/en/sc1640.sbl\n"
+
+#, fuzzy
+msgctxt "#5"
+msgid "Valve 1 is already open."
+msgstr "La válvula 1 ya está abierta."
+
+#, fuzzy
+msgctxt "#6"
+msgid "Valve 2 is already open."
+msgstr "La válvula 2 ya está abierta."
+
+#, fuzzy
+msgctxt "#7"
+msgid "Valve 3 is already open."
+msgstr "La válvula 3 ya está abierta."
+
+#, fuzzy
+msgctxt "#8"
+msgid "Turning valve 3 at this time will not control the water flow."
+msgstr "Girar la válvula 3 ahora no controlará el flujo de agua."
+
+#, fuzzy
+msgctxt "#9"
+msgid "Valve 4 is already open."
+msgstr "La válvula 4 ya está abierta."
+
+#, fuzzy
+msgctxt "#10"
+msgid "Valve 5 is already open."
+msgstr "La válvula 5 ya está abierta."
+
+#, fuzzy
+msgctxt "#11"
+msgid "Valve 6 is already open."
+msgstr "La válvula 6 ya está abierta."
+
+#, fuzzy
+msgctxt "#12"
+msgid "Turning valve 6 at this time will not control the water flow."
+msgstr "Girar la válvula 6 ahora no controlará el flujo de agua."
+
+#, fuzzy
+msgctxt "#13"
+msgid "The slide deck is operational."
+msgstr "La plataforma deslizante está operativa."
+
+#, fuzzy
+msgctxt "#14"
+msgid "The water gate is closed."
+msgstr "La compuerta está cerrada."
+
+#, fuzzy
+msgctxt "#15"
+msgid "The water flow seems to have improved."
+msgstr "Parece que el flujo de agua mejoró."
+
+#, fuzzy
+msgctxt "#16"
+msgid "You cannot use the hover platform."
+msgstr "No puedes usar la plataforma flotante."
+
+#. habla: Second Miltia Water Works
+#, fuzzy
+msgctxt "#17"
+msgid "A release key is required to open the partition to water conditioning tank B."
+msgstr "Para abrir la división del tanque de acondicionamiento B, se necesita una llave de liberación."
+
+#, fuzzy
+msgctxt "#18"
+msgid "Use Water Tank B Key?"
+msgstr "¿Usar la Llave del tanque B?"
+
+#. Opciones: una por línea. Mantener 2 líneas en el mismo orden.
+#, fuzzy
+msgctxt "#19"
+msgid ""
+"Yes\n"
+"No"
+msgstr ""
+"Sí\n"
+"No"
+
+#. habla: Second Miltia Water Works
+#, fuzzy
+msgctxt "#20"
+msgid "A release key is required to open the partition to water conditioning tank B. Please place the water conditioning tank B key near the sensor on the right."
+msgstr "Para abrir la división del tanque de acondicionamiento B, se necesita una llave de liberación. Coloque la llave del tanque de acondicionamiento B cerca del sensor de la derecha."
+
+#. habla: Second Miltia Water Works
+#, fuzzy
+msgctxt "#21"
+msgid "Water conditioning tank B is currently sealed."
+msgstr "El tanque de acondicionamiento B está sellado."
+
+#, fuzzy
+msgctxt "#22"
+msgid "Go to B1?"
+msgstr "¿Ir a B1?"
+
+#, fuzzy
+msgctxt "#23"
+msgid "Going to B1."
+msgstr "Yendo a B1."
+
+#, fuzzy
+msgctxt "#24"
+msgid "Turn valve 1?"
+msgstr "¿Girar la válvula 1?"
+
+#, fuzzy
+msgctxt "#25"
+msgid "Rotate the right analog stick clockwise 15 times!"
+msgstr "¡Gira el stick analógico derecho en el sentido de las agujas del reloj 15 veces!"
+
+#, fuzzy
+msgctxt "#26"
+msgid "You opened water gate 1!"
+msgstr "¡Abriste la compuerta 1!"
+
+#, fuzzy
+msgctxt "#29"
+msgid "Turn valve 2?"
+msgstr "¿Girar la válvula 2?"
+
+#, fuzzy
+msgctxt "#30"
+msgid "You opened water gate 2!"
+msgstr "¡Abriste la compuerta 2!"
+
+#, fuzzy
+msgctxt "#31"
+msgid "Turn valve 3?"
+msgstr "¿Girar la válvula 3?"
+
+#, fuzzy
+msgctxt "#32"
+msgid "You opened water gate 3!"
+msgstr "¡Abriste la compuerta 3!"
+
+#, fuzzy
+msgctxt "#33"
+msgid "Turn valve 4?"
+msgstr "¿Girar la válvula 4?"
+
+#, fuzzy
+msgctxt "#34"
+msgid "You opened water gate 4!"
+msgstr "¡Abriste la compuerta 4!"
+
+#, fuzzy
+msgctxt "#35"
+msgid "Turn valve 5?"
+msgstr "¿Girar la válvula 5?"
+
+#, fuzzy
+msgctxt "#36"
+msgid "You opened water gate 5!"
+msgstr "¡Abriste la compuerta 5!"
+
+#, fuzzy
+msgctxt "#37"
+msgid "Turn valve 6?"
+msgstr "¿Girar la válvula 6?"
+
+#, fuzzy
+msgctxt "#38"
+msgid "Rotate the right analog stick clockwise 30 times!"
+msgstr "¡Gira el stick analógico derecho en el sentido de las agujas del reloj 30 veces!"
+
+#, fuzzy
+msgctxt "#39"
+msgid "You opened the last water gate!"
+msgstr "¡Abriste la última compuerta!"
+
+#, fuzzy
+msgctxt "#42"
+msgid "Activate the hover platform?"
+msgstr "¿Activar la plataforma flotante?"
+
+#, fuzzy
+msgctxt "#44"
+msgid "Push the button?"
+msgstr "¿Presionar el botón?"

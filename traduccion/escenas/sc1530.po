@@ -1,0 +1,365 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Xenosaga Episode II - traducción al español\n"
+"Language: es_419\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Xeno-Source: 0:cf/en/sc1530.sbl\n"
+
+#, fuzzy
+msgctxt "#1"
+msgid "This looks like a good open space. Would you like to put up a poster?"
+msgstr "Parece un buen espacio libre. ¿Quieres poner un póster?"
+
+#. Opciones: una por línea. Mantener 2 líneas en el mismo orden.
+#, fuzzy
+msgctxt "#2"
+msgid ""
+"Yes\n"
+"No"
+msgstr ""
+"Sí\n"
+"No"
+
+#, fuzzy
+msgctxt "#3"
+msgid "Transporting and projecting a poster."
+msgstr "Transportando y proyectando el póster."
+
+#, fuzzy
+msgctxt "#4"
+msgid "Canceling poster."
+msgstr "Se canceló el póster."
+
+#. habla: CAUTION
+#, fuzzy
+msgctxt "#5"
+msgid "Dangerous area ahead. Entrance is prohibited."
+msgstr "Zona peligrosa más adelante. Prohibido el paso."
+
+#. habla: Other Professor
+#, fuzzy
+msgctxt "#6"
+msgid "I am the great Other Professor of Miltia! Is there something you would like to ask?"
+msgstr "¡Soy el gran Otro Profesor de Miltia! ¿Hay algo que quieras preguntarme?"
+
+#, fuzzy
+msgctxt "#7"
+msgid ""
+"The History of the Machine Below 01\n"
+"The History of the Machine Below 02\n"
+"The History of the Machine Below 03\n"
+"The History of the Machine Below 04\n"
+"The History of the Machine Below 05\n"
+"The History of the Machine Below 06\n"
+"The History of the Machine Below 07\n"
+"The History of the Machine Below 08\n"
+"The History of the Machine Below 09\n"
+"The History of the Machine Below 10\n"
+"I don't need anything from you."
+msgstr ""
+"Historia de la máquina de abajo 01\n"
+"Historia de la máquina de abajo 02\n"
+"Historia de la máquina de abajo 03\n"
+"Historia de la máquina de abajo 04\n"
+"Historia de la máquina de abajo 05\n"
+"Historia de la máquina de abajo 06\n"
+"Historia de la máquina de abajo 07\n"
+"Historia de la máquina de abajo 08\n"
+"Historia de la máquina de abajo 09\n"
+"Historia de la máquina de abajo 10\n"
+"No necesito nada de ti."
+
+#. habla: Other Professor
+#, fuzzy
+msgctxt "#8"
+msgid "That is the Forbidden Device, a relic from the golden era of the U.M.N. transport system experiments on living beings!"
+msgstr "¡Ese es el Dispositivo Prohibido, una reliquia de la época dorada de los experimentos de transporte de seres vivos por el sistema U.M.N.!"
+
+#. habla: Other Professor
+#, fuzzy
+msgctxt "#9"
+msgid "You want to know the history of its construction? Well, it was built when information regarding the U.M.N. architecture leaked from Vector to private enterprises. But would Vector really let their top secret U.M.N.-related technology and data leak out like that?  I think not. The theory is that the leak was actually an intentional move in order to scout out highly skilled personnel for Vector."
+msgstr "¿Quieres saber la historia de su construcción? Bueno, se construyó cuando la información sobre la arquitectura de la U.M.N. se filtró de Vector a empresas privadas. Pero ¿de verdad Vector dejaría que se filtraran así su tecnología y sus datos ultrasecretos de la U.M.N.? Creo que no. La teoría es que la filtración fue en realidad una jugada intencional para reclutar personal muy capacitado para Vector."
+
+#. habla: Other Professor
+#, fuzzy
+msgctxt "#10"
+msgid "Using the leaked U.M.N. architecture information, the private enterprises began secret U.M.N. transport experiments on living beings! But as you know, the results were a complete disaster. The death rate of the test subjects was a horrifying 99.76%%."
+msgstr "¡Con la información filtrada sobre la arquitectura de la U.M.N., las empresas privadas empezaron experimentos secretos de transporte de seres vivos por la U.M.N.! Pero, como sabrás, los resultados fueron un desastre total. La tasa de mortalidad de los sujetos de prueba fue de un espantoso 99.76%%."
+
+#. habla: Other Professor
+#, fuzzy
+msgctxt "#11"
+msgid "The Federation government viewed the results with stern displeasure and for all intents and purposes froze any further U.M.N. transport experiments on living beings! At the time, rumors were rampant that Vector, who does hold quite an influence over the Federation, stayed silent and did not protest the decision because they had already completed gathering their personnel. But I think they may have just been taking a moral stance not to create any more controversy."
+msgstr "¡El gobierno de la Federación vio los resultados con profundo desagrado y, en la práctica, congeló cualquier otro experimento de transporte de seres vivos por la U.M.N.! En aquel entonces corría el rumor de que Vector, que tiene bastante influencia sobre la Federación, se quedó callada y no protestó porque ya había terminado de reunir a su personal. Pero yo creo que quizá solo adoptó una postura ética para no generar más polémica."
+
+#. habla: Other Professor
+#, fuzzy
+msgctxt "#12"
+msgid "After live transport experiments ended, transport experiments in virtual space became the standard! The data the private enterprises referenced during that time was naturally those that had leaked from Vector, but Vector remained silent as long as the experiments were not done on human beings. I think the most likely reason for this lies in the difficulty in suppressing the leaked information and the ability to harvest Encephalon-related data from the civilian enterprises."
+msgstr "¡Al terminar los experimentos de transporte con seres vivos, los experimentos de transporte en el espacio virtual se volvieron la norma! Los datos que usaron las empresas privadas en esa época eran, naturalmente, los que se habían filtrado de Vector, pero Vector no dijo nada mientras los experimentos no se hicieran con seres humanos. Creo que la razón más probable es lo difícil que era contener la información filtrada y la posibilidad de recolectar datos sobre el Encéfalo de las empresas civiles."
+
+#. habla: Other Professor
+#, fuzzy
+msgctxt "#13"
+msgid "What wasn't revealed was that Vector, who is in charge of U.M.N. construction and management, actually continued to perform transport experiments on living beings. It's unknown whether the private enterprises knew that or not, but in any case, passion for living creature transport experiments using virtual space gradually waned."
+msgstr "Lo que no se reveló es que Vector, que está a cargo de construir y administrar la U.M.N., en realidad siguió haciendo experimentos de transporte con seres vivos. No se sabe si las empresas privadas lo sabían o no, pero en todo caso, el entusiasmo por los experimentos de transporte de seres vivos en el espacio virtual fue decayendo poco a poco."
+
+#. habla: Other Professor
+#, fuzzy
+msgctxt "#14"
+msgid "Currently, abandoned research facilities used by numerous private enterprises to conduct Encephalon experiments remain scattered in various places. Well, calling them \"research facilities\" is a bit of an overstatement. They're nothing more than Encephalon dive devices!"
+msgstr "Hoy en día, quedan dispersas en varios lugares instalaciones de investigación abandonadas que muchas empresas privadas usaban para hacer experimentos en el Encéfalo. Bueno, llamarlas \"instalaciones de investigación\" es exagerar un poco. ¡No son más que dispositivos de inmersión en el Encéfalo!"
+
+#. habla: Other Professor
+#, fuzzy
+msgctxt "#15"
+msgid "The device below was said to be the absolute worst type of Encephalon device developed for transport experiments on living beings! Why is that, you ask? The Encephalon it constructs affects the real world! However, because the project was halted in its early stages, there is hardly anyone who knows what the dive device even looks like."
+msgstr "¡Se dice que el dispositivo de abajo era el peor tipo de dispositivo de Encéfalo desarrollado para los experimentos de transporte con seres vivos! ¿Por qué, preguntas? ¡El Encéfalo que construye afecta al mundo real! Sin embargo, como el proyecto se detuvo en sus primeras etapas, casi nadie sabe siquiera cómo es el dispositivo de inmersión."
+
+#. habla: Other Professor
+#, fuzzy
+msgctxt "#16"
+msgid "The effect it has on the real world is extremely small. It merely causes diving devices to appear. And so far, only four cases have been reported. Even if someone were to come in contact with the devices that appear, there's no danger of diving unless a special machine called a Sequencer is used to disengage the key protection. Also, it's been confirmed that diving out from the Encephalon allows individuals to return to the real world."
+msgstr "El efecto que tiene sobre el mundo real es mínimo. Solo hace aparecer dispositivos de inmersión. Y hasta ahora se informaron apenas cuatro casos. Aunque alguien toque los dispositivos que aparecen, no hay peligro de inmersión a menos que se use una máquina especial llamada Secuenciador para desactivar la protección de la llave. Además, se confirmó que salir de la inmersión en el Encéfalo permite volver al mundo real."
+
+#. habla: Other Professor
+#, fuzzy
+msgctxt "#17"
+msgid "But still, no one should touch the machine below! It's extremely dangerous!"
+msgstr "¡Pero aun así, nadie debería tocar la máquina de abajo! ¡Es extremadamente peligrosa!"
+
+#. habla: Other Professor
+#, fuzzy
+msgctxt "#18"
+msgid "Oh...that's a bit harsh."
+msgstr "Oh... eso fue un poco duro."
+
+#. habla: Other Professor
+#, fuzzy
+msgctxt "#19"
+msgid "I wonder how Haksheen is. It's been decades since I've seen him!"
+msgstr "Me pregunto cómo estará Haksheen. ¡Hace décadas que no lo veo!"
+
+#. habla: Other Professor
+#, fuzzy
+msgctxt "#20"
+msgid "He's planning to complete the legendary giant robot in order to settle the score with Dark! But I've heard that Dark is also developing his own giant robot to face off against Haksheen!"
+msgstr "¡Planea terminar el legendario robot gigante para ajustar cuentas con Dark! ¡Pero escuché que Dark también está desarrollando su propio robot gigante para enfrentarse a Haksheen!"
+
+#. habla: Other Professor
+#, fuzzy
+msgctxt "#21"
+msgid "So, Haksheen has finally decided to face off against Dark? "
+msgstr "¿Así que Haksheen por fin decidió enfrentarse a Dark?"
+
+#. habla: Other Professor
+#, fuzzy
+msgctxt "#22"
+msgid "I've heard that Dark's giant robot is incredibly powerful! Be careful!"
+msgstr "¡Escuché que el robot gigante de Dark es increíblemente poderoso! ¡Tengan cuidado!"
+
+#. habla: Other Professor
+#, fuzzy
+msgctxt "#23"
+msgid "Sequencer B is the key to unlock the yellow Forbidden Device! If you find a yellow Forbidden Device, try using it!"
+msgstr "¡El Secuenciador B es la llave para desbloquear el Dispositivo Prohibido amarillo! ¡Si encuentras un Dispositivo Prohibido amarillo, úsalo!"
+
+#. habla: Other Professor
+#, fuzzy
+msgctxt "#24"
+msgid "Using the Forbidden Devices to dive into the Encephalon is extremely dangerous! Make sure you are prepared!"
+msgstr "¡Usar los Dispositivos Prohibidos para sumergirse en el Encéfalo es extremadamente peligroso! ¡Asegúrate de estar preparado!"
+
+#. habla: Janet
+#, fuzzy
+msgctxt "#25"
+msgid "My home is on the Foundation. I left after having a fight with my father, and that was the last time I ever saw him. "
+msgstr "Mi hogar está en la Fundación. Me fui después de pelearme con mi padre, y esa fue la última vez que lo vi."
+
+#. habla: Janet
+#, fuzzy
+msgctxt "#26"
+msgid "It's a little late to admit it now, but I guess I wasn't a very good daughter. "
+msgstr "Es un poco tarde para admitirlo, pero creo que no fui muy buena hija."
+
+#. habla: Janet
+#, fuzzy
+msgctxt "#27"
+msgid "Master Gaignun graciously arranged to have a statue of my father constructed, but negligence on the part of the designer resulted in some sort of problem with the statue."
+msgstr "El amo Gaignun tuvo la gentileza de hacer construir una estatua de mi padre, pero por un descuido del diseñador, la estatua quedó con algún tipo de problema."
+
+#. habla: Janet
+#, fuzzy
+msgctxt "#28"
+msgid "What possible secret could my father's statue hold?"
+msgstr "¿Qué secreto podrá esconder la estatua de mi padre?"
+
+#. habla: Janet
+#, fuzzy
+msgctxt "#29"
+msgid "Hmm? Vimala, from the Foundation? I'm surprised you know her."
+msgstr "¿Hmm? ¿Vimala, de la Fundación? Me sorprende que la conozcas."
+
+#. habla: Janet
+#, fuzzy
+msgctxt "#30"
+msgid "I lost my mother when I was very young, and Vimala has been like a mother to me ever since."
+msgstr "Perdí a mi madre cuando era muy pequeña, y desde entonces Vimala fue como una madre para mí."
+
+#. habla: Janet
+#, fuzzy
+msgctxt "#31"
+msgid "Vimala on the Foundation surely knows where the statue's designer is! Perhaps you should talk to her!"
+msgstr "¡Seguro que Vimala, en la Fundación, sabe dónde está el diseñador de la estatua! ¡Quizá deberías hablar con ella!"
+
+#. habla: Janet
+#, fuzzy
+msgctxt "#32"
+msgid "Thank you so much for finding the designer! I'm glad to hear it wasn't anything that would harm my father's name."
+msgstr "¡Muchísimas gracias por encontrar al diseñador! Me alegra saber que no era nada que pudiera manchar el nombre de mi padre."
+
+#. habla: Janet
+#, fuzzy
+msgctxt "#33"
+msgid "Please use the Unlock Code I gave you however you like."
+msgstr "Por favor, usa el Código secreto que te di como quieras."
+
+#. habla: Other Professor
+#, fuzzy
+msgctxt "#34"
+msgid "Ah! That Haksheen! So, he's finally made up his mind to fight Dark! "
+msgstr "¡Ah! ¡Ese Haksheen! ¡Así que por fin se decidió a pelear contra Dark!"
+
+#. habla: KOS-MOS
+#, fuzzy
+msgctxt "#35"
+msgid "I have no record of any persons named Haksheen. "
+msgstr "No tengo registro de ninguna persona llamada Haksheen."
+
+#. habla: Ziggy
+#, fuzzy
+msgctxt "#36"
+msgid "Haksheen? Who is that?"
+msgstr "¿Haksheen? ¿Quién es?"
+
+#. habla: Shion
+#, fuzzy
+msgctxt "#37"
+msgid "W...wait! Who in the world are you talking about?"
+msgstr "¡E... espera! ¿De quién demonios estás hablando?"
+
+#. habla: MOMO
+#, fuzzy
+msgctxt "#38"
+msgid "Um...who's Haksheen?"
+msgstr "Eh... ¿quién es Haksheen?"
+
+#. habla: chaos
+#, fuzzy
+msgctxt "#39"
+msgid "Haksheen? Who's that?"
+msgstr "¿Haksheen? ¿Quién es ese?"
+
+#. habla: Jr.
+#, fuzzy
+msgctxt "#40"
+msgid "Huh? Who the heck is Haksheen? "
+msgstr "¿Eh? ¿Quién rayos es Haksheen?"
+
+#. habla: Jin
+#, fuzzy
+msgctxt "#41"
+msgid "Hmm? I'm afraid I'm not familiar with anyone named Haksheen."
+msgstr "¿Hmm? Me temo que no conozco a nadie llamado Haksheen."
+
+#. habla: Other Professor
+#, fuzzy
+msgctxt "#42"
+msgid "Haksheen's the one who's going to fight Dark, right? Haksheen Light, also known as the Professor! He's a genius scientist who suddenly disappeared after graduating at the top of his class at the University of Bormeo! But he never ceased communicating with me! He, Dark, and I were in the same graduating class at the university! Anyway, if Haksheen has given his permission, then I must give you this!"
+msgstr "Haksheen es el que va a pelear contra Dark, ¿no? ¡Haksheen Light, también conocido como el Profesor! ¡Es un científico genial que desapareció de repente después de graduarse primero de su clase en la Universidad de Bormeo! ¡Pero nunca dejó de comunicarse conmigo! ¡Él, Dark y yo nos graduamos juntos en la universidad! En fin, si Haksheen dio su permiso, ¡tengo que darte esto!"
+
+#, fuzzy
+msgctxt "#43"
+msgid "You obtained Sequencer B!"
+msgstr "¡Obtuviste el Secuenciador B!"
+
+#. habla: Other Professor
+#, fuzzy
+msgctxt "#44"
+msgid "I'll also remove the lock to the green Forbidden Device in this research facility! If you obtain Sequencer A, you'll be able to dive with it!"
+msgstr "¡También voy a quitar el bloqueo del Dispositivo Prohibido verde de este centro de investigación! ¡Si consigues el Secuenciador A, podrás hacer la inmersión con él!"
+
+#, fuzzy
+msgctxt "#45"
+msgid "Forbidden Device...It appears to be an Encephalon dive device."
+msgstr "Dispositivo Prohibido... Parece ser un dispositivo de inmersión en el Encéfalo."
+
+#, fuzzy
+msgctxt "#46"
+msgid "Forbidden Device initialization complete. Commence Encephalon dive?"
+msgstr "Inicialización del Dispositivo Prohibido completa. ¿Comenzar la inmersión en el Encéfalo?"
+
+#, fuzzy
+msgctxt "#47"
+msgid "Commencing Encephalon dive."
+msgstr "Comenzando la inmersión en el Encéfalo."
+
+#, fuzzy
+msgctxt "#48"
+msgid "Canceling Encephalon dive."
+msgstr "Se canceló la inmersión en el Encéfalo."
+
+#, fuzzy
+msgctxt "#50"
+msgid "Commence Encephalon dive?"
+msgstr "¿Comenzar la inmersión en el Encéfalo?"
+
+#. habla: Janet
+#, fuzzy
+msgctxt "#51"
+msgid "There's something that's been bothering me ever since I returned from the Foundation. Perhaps you've already heard, but there seems to be a problem with my father's statue due to the designer's neglect. I looked into it, but I couldn't tell what was wrong. I suppose I could just leave it, but I'm worried that it might be something that could harm my father's good name. Do you think you could find the designer for me and question him about the problem with the statue?"
+msgstr "Hay algo que me preocupa desde que volví de la Fundación. Quizá ya lo sepas, pero parece que la estatua de mi padre tiene un problema por un descuido del diseñador. La revisé, pero no pude darme cuenta de qué era. Supongo que podría dejarlo así, pero me preocupa que sea algo que pueda manchar el buen nombre de mi padre. ¿Podrías encontrar al diseñador y preguntarle por el problema de la estatua?"
+
+#. habla: Janet
+#, fuzzy
+msgctxt "#52"
+msgid "Really?!"
+msgstr "¡¿De verdad?!"
+
+#. habla: Janet
+#, fuzzy
+msgctxt "#54"
+msgid "Vimala on the Foundation should know where the designer has gone! Perhaps you should talk to her!"
+msgstr "¡Vimala, en la Fundación, debería saber adónde fue el diseñador! ¡Quizá deberías hablar con ella!"
+
+#. habla: Janet
+#, fuzzy
+msgctxt "#55"
+msgid "Hmm. My father was a courageous man. I must prevent anything that would harm his good name. "
+msgstr "Hmm. Mi padre era un hombre valiente. Tengo que impedir cualquier cosa que manche su buen nombre."
+
+#. habla: Janet
+#, fuzzy
+msgctxt "#56"
+msgid "These are the plans for the statue?! You found the designer for me!"
+msgstr "¡¿Son los planos de la estatua?! ¡Encontraste al diseñador!"
+
+#. habla: Janet
+#, fuzzy
+msgctxt "#58"
+msgid "Let's see. It looks like it's a simple bug in the construction nanomachines. It'll be easy to fix this! I'm glad it wasn't anything that would harm my father's good name."
+msgstr "A ver. Parece que es un simple error en las nanomáquinas de construcción. ¡Esto se arregla fácil! Me alegra que no fuera nada que pudiera manchar el buen nombre de mi padre."
+
+#, fuzzy
+msgctxt "#59"
+msgid "You obtained the Unlock Code!"
+msgstr "¡Obtuviste el Código secreto!"
+
+#. habla: Janet
+#, fuzzy
+msgctxt "#60"
+msgid "This is the Unlock Code to my father's statue. Please use it however you like."
+msgstr "Este es el Código secreto de la estatua de mi padre. Úsalo como quieras."

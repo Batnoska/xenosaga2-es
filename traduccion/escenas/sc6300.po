@@ -1,0 +1,104 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Xenosaga Episode II - traducción al español\n"
+"Language: es_419\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Xeno-Source: 0:cf/en/sc6300.sbl\n"
+
+#. habla: Red Cloaked Man
+#, fuzzy
+msgctxt "#0"
+msgid "We've detected Albedo's ascension."
+msgstr "Detectamos la ascensión de Albedo."
+
+#. habla: Wilhelm
+#, fuzzy
+msgctxt "#1"
+msgid "I see."
+msgstr "Ya veo."
+
+#. habla: Wilhelm
+#, fuzzy
+msgctxt "#2"
+msgid "He did well. The lock has been opened and the obstacle removed. The rest is up to her."
+msgstr "Lo hizo bien. La cerradura está abierta y el obstáculo, eliminado. El resto depende de ella."
+
+#. habla: Red Cloaked Man
+#, fuzzy
+msgctxt "#3"
+msgid "Will matters proceed smoothly?"
+msgstr "¿Las cosas saldrán como esperamos?"
+
+#. habla: Wilhelm
+#, fuzzy
+msgctxt "#4"
+msgid "She is suited for the task. There will be no problems."
+msgstr "Ella está a la altura de la tarea. No habrá problemas."
+
+#. habla: Wilhelm
+#, fuzzy
+msgctxt "#5"
+msgid "People always try to live a life of choices between 'good' and 'evil.'"
+msgstr "La gente siempre intenta vivir eligiendo entre el \"bien\" y el \"mal\"."
+
+#. habla: Wilhelm
+#, fuzzy
+msgctxt "#6"
+msgid "They make pessimism their foundation, and praise misfortune and sorrow. And then they try to seek a pure heart."
+msgstr "Hacen del pesimismo su base y alaban la desgracia y el dolor. Y luego intentan buscar un corazón puro."
+
+#. habla: Wilhelm
+#, fuzzy
+msgctxt "#7"
+msgid "Yet this is nothing more than their individual view, born out of comparison with others."
+msgstr "Pero eso no es más que su visión individual, nacida de compararse con los demás."
+
+#. habla: Wilhelm
+#, fuzzy
+msgctxt "#8"
+msgid "Is she who thinks of others 'right'? Is he who opened the door 'wrong'?"
+msgstr "¿Es \"correcta\" la que piensa en los demás? ¿Es \"incorrecto\" el que abrió la puerta?"
+
+#. habla: Wilhelm
+#, fuzzy
+msgctxt "#9"
+msgid "Only those who stand in a place beyond that point can comprehend the true essence and gain knowledge of absolute truth."
+msgstr "Solo quienes se encuentran en un lugar más allá de ese punto pueden comprender la verdadera esencia y alcanzar el conocimiento de la verdad absoluta."
+
+#. habla: Wilhelm
+#, fuzzy
+msgctxt "#10"
+msgid "Her awakening―KOS-MOS' awakening―will lead us to that summit. Don't you agree?"
+msgstr "Su despertar―el despertar de KOS-MOS―nos llevará a esa cumbre. ¿No crees?"
+
+#. habla: Red Cloaked Man
+#, fuzzy
+msgctxt "#11"
+msgid "..."
+msgstr "..."
+
+#. habla: Wilhelm
+#, fuzzy
+msgctxt "#12"
+msgid "In any case, the intermission is over and the players stand upon the stage. All that remains is to wait for the knight to appear. And for that, it is necessary that someone play the role of the villain."
+msgstr "En cualquier caso, el intermedio terminó y los actores están sobre el escenario. Solo queda esperar a que aparezca el caballero. Y para eso, es necesario que alguien haga el papel de villano."
+
+#. habla: Red Cloaked Man
+#, fuzzy
+msgctxt "#13"
+msgid "Will he suffice for that role?"
+msgstr "¿Él servirá para ese papel?"
+
+#. habla: Wilhelm
+#, fuzzy
+msgctxt "#14"
+msgid "Do you object?"
+msgstr "¿Tienes alguna objeción?"
+
+#. habla: Wilhelm
+#, fuzzy
+msgctxt "#15"
+msgid "The greater the suffering, the more exciting the drama."
+msgstr "Cuanto mayor es el sufrimiento, más emocionante es el drama."

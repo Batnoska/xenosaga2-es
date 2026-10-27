@@ -1,0 +1,102 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Xenosaga Episode II - traducción al español\n"
+"Language: es_419\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Xeno-Source: 0:cf/en/sc8038.sbl\n"
+"X-Xeno-Tipo: cinematica\n"
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#6"
+msgid "So, you practice along with her piano."
+msgstr "Así que practicas al ritmo de su piano."
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#7"
+msgid ""
+"If you're that interested in her, why don't\n"
+"you just stay there in virtual space?"
+msgstr ""
+"Si tanto te interesa, ¿por qué no\n"
+"te quedas ahí en el espacio virtual?"
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#8"
+msgid "I'm sure she'd like that, too."
+msgstr "Seguro que a ella también le gustaría."
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#9"
+msgid "It's not like that."
+msgstr "No es eso."
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#. Opciones: una por línea. Mantener 2 líneas en el mismo orden.
+#, fuzzy
+msgctxt "#10"
+msgid ""
+"Your concentration's been\n"
+"slipping lately, Rubedo."
+msgstr ""
+"Últimamente te cuesta\n"
+"concentrarte, Rubedo."
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#11"
+msgid ""
+"It's almost time for our training in the\n"
+"U-DO simulator. You know that, right?"
+msgstr ""
+"Ya casi es hora de nuestro entrenamiento\n"
+"en el simulador de U-DO. Lo sabes, ¿no?"
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#12"
+msgid "Hey, I know all about it."
+msgstr "Sí, ya sé, ya sé."
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#13"
+msgid "I'm the link master. I'll fulfill the mission."
+msgstr "Soy el maestro de enlace. Cumpliré la misión."
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#14"
+msgid "I can trust you, right?"
+msgstr "Puedo confiar en ti, ¿verdad?"
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#15"
+msgid ""
+"As long as you're here, I don't\n"
+"have to be afraid of U-DO, right?"
+msgstr ""
+"Mientras estés aquí, no tengo\n"
+"que tenerle miedo a U-DO, ¿verdad?"
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#16"
+msgid "Of course! Pull yourself together!"
+msgstr "¡Claro que sí! ¡Anímate!"
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#17"
+msgid ""
+"We're the variants. Your waveform's\n"
+"way beyond a standard U.R.T.V."
+msgstr ""
+"Somos variantes. Tu onda está muy\n"
+"por encima de la de un U.R.T.V. normal."

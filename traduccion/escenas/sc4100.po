@@ -1,0 +1,541 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Xenosaga Episode II - traducción al español\n"
+"Language: es_419\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Xeno-Source: 0:cf/en/sc4100.sbl\n"
+
+#. habla: Hugo
+#, fuzzy
+msgctxt "#0"
+msgid "Ah, Little Master. Did I do something stupid?"
+msgstr "Ah, joven amo. ¿Hice alguna tontería?"
+
+#. Opciones: una por línea. Mantener 2 líneas en el mismo orden.
+#, fuzzy
+msgctxt "#1"
+msgid ""
+"What are you talking about?\n"
+"Yes, you fool!"
+msgstr ""
+"¿De qué hablas?\n"
+"¡Sí, tonto!"
+
+#. habla: Hugo
+#, fuzzy
+msgctxt "#2"
+msgid "You know that I'm an Encephalon dive engineer, right? But right now, I'm out of a job. All I did was modify the Encephalon just a little. Hmm, if I could just fix that bug, it might be just the thing to getting my job back."
+msgstr "Sabe que soy ingeniero de inmersión en el Encéfalo, ¿no? Pero ahora estoy sin trabajo. Lo único que hice fue modificar un poquito el Encéfalo. Hmm, si pudiera arreglar ese error, quizá eso me ayudaría a recuperar mi trabajo."
+
+#. habla: Hugo
+#, fuzzy
+msgctxt "#3"
+msgid "Haha, hearing someone say, \"You fool!\" reminds me of that bouncy old guy that lived beneath the weapon shop."
+msgstr "Jaja, que me digan \"¡Tonto!\" me recuerda a ese viejo saltarín que vivía debajo de la armería."
+
+#. habla: Hugo
+#, fuzzy
+msgctxt "#4"
+msgid "Do you know my name, little girl?"
+msgstr "¿Sabes cómo me llamo, niña?"
+
+#. Opciones: una por línea. Mantener 2 líneas en el mismo orden.
+#, fuzzy
+msgctxt "#5"
+msgid ""
+"I don't know your name.\n"
+"Hmm, I have a feeling I know."
+msgstr ""
+"No sé cómo te llamas.\n"
+"Hmm, creo que lo sé."
+
+#. habla: Hugo
+#, fuzzy
+msgctxt "#6"
+msgid "My name is Hugo. People call me, \"Bravo Hugo!\" I used to be a renowned Encephalon engineer!"
+msgstr "Me llamo Hugo. ¡Me dicen \"Bravo Hugo\"! ¡Antes era un ingeniero del Encéfalo de renombre!"
+
+#. habla: Hugo
+#, fuzzy
+msgctxt "#7"
+msgid "Hahaha! Now, now, don't lie! This is the first time we've met!"
+msgstr "¡Jajaja! Vamos, vamos, ¡no mientas! ¡Es la primera vez que nos vemos!"
+
+#. habla: Hugo
+#, fuzzy
+msgctxt "#8"
+msgid "Those bastards just keep ignoring me! I'm Bravo Hugo! No one has better Encephalon diving skills than me!"
+msgstr "¡Esos desgraciados me siguen ignorando! ¡Soy Bravo Hugo! ¡Nadie tiene mejores habilidades de inmersión en el Encéfalo que yo!"
+
+#. habla: Hugo
+#, fuzzy
+msgctxt "#9"
+msgid "I wonder if there's a way I can disarm that trap I placed in the Encephalon."
+msgstr "Me pregunto si habrá alguna forma de desactivar la trampa que puse en el Encéfalo."
+
+#. habla: Hugo
+#, fuzzy
+msgctxt "#10"
+msgid "What the?! You still haven't disarmed the trap I set? You're useless!"
+msgstr "¡¿Qué?! ¿Todavía no desactivaron la trampa que puse? ¡Son unos inútiles!"
+
+#. habla: Hugo
+#, fuzzy
+msgctxt "#11"
+msgid "Oh! Thank you! Bravo!"
+msgstr "¡Oh! ¡Gracias! ¡Bravo!"
+
+#. habla: Hugo
+#, fuzzy
+msgctxt "#12"
+msgid "This means I can go back to my old job!"
+msgstr "¡Esto significa que puedo volver a mi antiguo trabajo!"
+
+#. habla: Simon
+#, fuzzy
+msgctxt "#13"
+msgid "Hmm? Oh, it's you, Little Master! For the first time in my life, I've hit a brick wall, so to speak!"
+msgstr "¿Hmm? ¡Ah, es usted, joven amo! ¡Por primera vez en mi vida me topé con un muro, por así decirlo!"
+
+#. habla: Simon
+#, fuzzy
+msgctxt "#14"
+msgid "What do I mean? I'm talking about that quiz game in the Our Treasure hotel, \"Destroy Runner: Revenge!\" Just like the last game, it doesn't require any physical effort, but the questions are too hard! And when I can't answer the questions, I get really depressed."
+msgstr "¿Qué quiero decir? ¡Hablo de ese juego de preguntas del hotel Our Treasure, \"Destroy Runner: Revenge\"! Igual que el juego anterior, no requiere ningún esfuerzo físico, ¡pero las preguntas son demasiado difíciles! Y cuando no puedo responderlas, me deprimo muchísimo."
+
+#. habla: Simon
+#, fuzzy
+msgctxt "#15"
+msgid "What? I'd appreciate it if kids would leave me alone. I'm not in the mood to deal with children."
+msgstr "¿Qué? Agradecería que los niños me dejaran en paz. No estoy de humor para lidiar con niños."
+
+#. habla: Simon
+#, fuzzy
+msgctxt "#16"
+msgid "It's because of that game, that quiz game in the Our Treasure Inn. This time, there are 20 number questions."
+msgstr "Es por ese juego, ese juego de preguntas de la posada Our Treasure. Esta vez son 20 preguntas con números."
+
+#. habla: Simon
+#, fuzzy
+msgctxt "#17"
+msgid "Do you wish to challenge me in a contest of knowledge? You couldn't possibly win."
+msgstr "¿Desea desafiarme en un duelo de conocimientos? Jamás podría ganarme."
+
+#. habla: Simon
+#, fuzzy
+msgctxt "#18"
+msgid "I might not look it, but I'm the quiz king!"
+msgstr "¡Quizá no lo parezca, pero soy el rey de las preguntas!"
+
+#. habla: Simon
+#, fuzzy
+msgctxt "#19"
+msgid "I wish you the best of luck. Proceed to the inn and exact revenge for me!"
+msgstr "Les deseo la mejor de las suertes. ¡Vayan a la posada y vénguenme!"
+
+#. habla: Simon
+#, fuzzy
+msgctxt "#20"
+msgid "Well, well, if it isn't the new quiz champion! I'm currently working to increase my own prowess."
+msgstr "¡Vaya, vaya, pero si es el nuevo campeón de preguntas! Ahora estoy trabajando para mejorar mi propia destreza."
+
+#. habla: Simon
+#, fuzzy
+msgctxt "#21"
+msgid "It feels good to be working toward a goal."
+msgstr "Se siente bien trabajar por una meta."
+
+#. habla: Theodore
+#, fuzzy
+msgctxt "#22"
+msgid "I found a chemical that makes flowers grow quickly! But somebody told me growing flowers is a girl's hobby! That's not true, is it?"
+msgstr "¡Encontré un químico que hace crecer rápido las flores! ¡Pero alguien me dijo que cultivar flores es un pasatiempo de niñas! Eso no es verdad, ¿no?"
+
+#. habla: Theodore
+#, fuzzy
+msgctxt "#23"
+msgid "Hmm. Well, if you need this Hyper Fertilizer, just come talk to me. ♪"
+msgstr "Hmm. Bueno, si necesitan este Hiperfertilizante, vengan a hablar conmigo. ♪"
+
+#. habla: Theodore
+#, fuzzy
+msgctxt "#24"
+msgid "What? You want the Hyper Fertilizer? Okay, here you go!"
+msgstr "¿Qué? ¿Quieren el Hiperfertilizante? ¡Bueno, aquí tienen!"
+
+#, fuzzy
+msgctxt "#25"
+msgid "You obtained Hyper Fertilizer!"
+msgstr "¡Obtuviste Hiperfertilizante!"
+
+#. habla: Theodore
+#, fuzzy
+msgctxt "#26"
+msgid "Please grow some pretty flowers!"
+msgstr "¡Por favor, cultiven flores lindas!"
+
+#. habla: Theodore
+#, fuzzy
+msgctxt "#27"
+msgid "Oh, I don't have any more left."
+msgstr "Ah, ya no me queda."
+
+#. habla: Theodore
+#, fuzzy
+msgctxt "#28"
+msgid "A pretty flower bloomed? I wish I could see it, too."
+msgstr "¿Floreció una flor linda? Ojalá yo también pudiera verla."
+
+#. habla: Theodore
+#, fuzzy
+msgctxt "#29"
+msgid "Guess what! Mommy told me that growing flowers isn't just for girls!"
+msgstr "¡Adivinen qué! ¡Mamá me dijo que cultivar flores no es solo cosa de niñas!"
+
+#. habla: Natalie
+#, fuzzy
+msgctxt "#30"
+msgid "Jr., do you know how old Butch was when he stopped wetting the bed?"
+msgstr "Jr., ¿sabes hasta qué edad mojó la cama Butch?"
+
+#. Opciones: una por línea. Mantener 2 líneas en el mismo orden.
+#, fuzzy
+msgctxt "#31"
+msgid ""
+"Butch? Who's Butch?\n"
+"Beats me."
+msgstr ""
+"¿Butch? ¿Quién es Butch?\n"
+"Ni idea."
+
+#. habla: Natalie
+#, fuzzy
+msgctxt "#32"
+msgid "Oh, come on! Butch is the head of the Fishing Lab!"
+msgstr "¡Ay, vamos! ¡Butch es el jefe del Laboratorio de Pesca!"
+
+#. habla: Natalie
+#, fuzzy
+msgctxt "#33"
+msgid "It's a secret, but I heard he wet his bed until he was eight years old!"
+msgstr "Es un secreto, ¡pero escuché que mojó la cama hasta los ocho años!"
+
+#. habla: Natalie
+#, fuzzy
+msgctxt "#34"
+msgid "Theodore is weird! Even though he's a boy, he says he wants to grow flowers! He says he has a flower medicine, but no flower seeds! Too bad for him, huh? ♪"
+msgstr "¡Theodore es raro! ¡Aunque es varón, dice que quiere cultivar flores! ¡Dice que tiene un remedio para flores, pero no tiene semillas! Qué pena por él, ¿no? ♪"
+
+#. habla: Natalie
+#, fuzzy
+msgctxt "#35"
+msgid "Want to hear a secret? I know someone who has a flower seed! It's the old lady at the hotel!"
+msgstr "¿Quieres saber un secreto? ¡Conozco a alguien que tiene una semilla de flor! ¡Es la señora del hotel!"
+
+#. habla: Natalie
+#, fuzzy
+msgctxt "#36"
+msgid "That Hugo just goofs around all day!"
+msgstr "¡Ese Hugo se la pasa holgazaneando todo el día!"
+
+#. habla: Natalie
+#, fuzzy
+msgctxt "#37"
+msgid "But Hugo's really nice! When Daddy got mad at me and I was crying, Hugo gave me candy!"
+msgstr "¡Pero Hugo es muy bueno! ¡Cuando papá me regañó y yo estaba llorando, Hugo me dio un caramelo!"
+
+#. habla: ZAZA
+#, fuzzy
+msgctxt "#38"
+msgid "I JUST WANTED TO GO ON ADVENTURES THROUGHOUT THE WORLD LIKE CAPTAIN MATTHEWS. I WAS ABLE TO MEET MANY DIFFERENT PEOPLE IN THE OUTSIDE WORLD: A MAN WAITING WHERE SHION WORKS, A GIRL WHO DROPPED HER HANDKERCHIEF IN THE WATER AND WAS CRYING, A WOMAN HAVING TROUBLE OPERATING A COMPUTER, A REALIAN OVERWORKING HIS DROIDS, SOMEONE WHO KEPT A COOK BOOK THAT WAS MEANT FOR SOMEONE ELSE, AN OLD WOMAN WITH A CATERPILLAR ON HER BACK, AND A NICE LADY WHO REPAIRED ME WHEN I WAS DAMAGED. LEARNING ABOUT HUMANS HAS BEEN AN INVALUABLE EXPERIENCE FOR ME, BUT IF A DROID LIKE ME DOESN'T GET SPECIAL MAINTENANCE, WE QUICKLY BREAK DOWN. IT SEEMS IT IS DIFFICULT FOR ME TO LIVE AS A HUMAN. IF I ENTERED THE SELF-REPAIR FUNCTION STARTUP PASSWORD, I SHOULD BE ABLE TO AT LEAST MAKE IT BACK TO THE ELSA, BUT I'VE FORGOTTEN THE PASSWORD. I GUESS I'M GOING TO BECOME SCRAP HERE. I WAS SO FOOLISH..."
+msgstr "SOLO QUERÍA VIVIR AVENTURAS POR TODO EL MUNDO COMO EL CAPITÁN MATTHEWS. EN EL MUNDO EXTERIOR PUDE CONOCER A MUCHAS PERSONAS DISTINTAS: UN HOMBRE QUE ESPERABA DONDE TRABAJA SHION, UNA NIÑA QUE LLORABA PORQUE SE LE HABÍA CAÍDO EL PAÑUELO AL AGUA, UNA MUJER QUE TENÍA PROBLEMAS PARA USAR UNA COMPUTADORA, UN REALIAN QUE HACÍA TRABAJAR DE MÁS A SUS DROIDES, ALGUIEN QUE SE QUEDÓ CON UN LIBRO DE COCINA QUE ERA PARA OTRA PERSONA, UNA ANCIANA CON UNA ORUGA EN LA ESPALDA Y UNA SEÑORA AMABLE QUE ME REPARÓ CUANDO ESTABA DAÑADO. APRENDER SOBRE LOS HUMANOS FUE UNA EXPERIENCIA INVALORABLE PARA MÍ, PERO SI UN DROIDE COMO YO NO RECIBE MANTENIMIENTO ESPECIAL, SE ROMPE ENSEGUIDA. PARECE QUE ME ES DIFÍCIL VIVIR COMO UN HUMANO. SI INGRESARA LA CONTRASEÑA DE INICIO DE LA FUNCIÓN DE AUTORREPARACIÓN, AL MENOS PODRÍA VOLVER AL ELSA, PERO OLVIDÉ LA CONTRASEÑA. SUPONGO QUE AQUÍ ME VOY A CONVERTIR EN CHATARRA. QUÉ TONTO FUI..."
+
+#, fuzzy
+msgctxt "#39"
+msgid "Enter the password for him?"
+msgstr "¿Ingresar la contraseña por él?"
+
+#. Opciones: una por línea. Mantener 2 líneas en el mismo orden.
+#, fuzzy
+msgctxt "#40"
+msgid ""
+"Yes\n"
+"No"
+msgstr ""
+"Sí\n"
+"No"
+
+#. habla: ZAZA
+#, fuzzy
+msgctxt "#41"
+msgid "PLEASE ENTER THE PASSWORD."
+msgstr "POR FAVOR, INGRESA LA CONTRASEÑA."
+
+#. habla: ZAZA
+#, fuzzy
+msgctxt "#42"
+msgid "OH, WONDERFUL! YOU SUCCESSFULLY ENTERED THE PASSWORD! IT WILL TAKE SOME TIME FOR THE SELF-REPAIR FUNCTION TO BEGIN WORKING. IF YOU GO BACK TO THE ELSA, PLEASE TELL SPUMONI THAT I'LL BE BACK SOON!"
+msgstr "¡OH, QUÉ MARAVILLA! ¡INGRESASTE LA CONTRASEÑA CORRECTAMENTE! LA FUNCIÓN DE AUTORREPARACIÓN VA A TARDAR UN POCO EN EMPEZAR A FUNCIONAR. SI VUELVES AL ELSA, ¡POR FAVOR, DILE A SPUMONI QUE PRONTO VOY A VOLVER!"
+
+#. habla: ZAZA
+#, fuzzy
+msgctxt "#43"
+msgid "OH NO...THE PASSWORD ENTRY FAILED. PLEASE ENTER THE CORRECT PASSWORD."
+msgstr "OH, NO... FALLÓ EL INGRESO DE LA CONTRASEÑA. POR FAVOR, INGRESA LA CONTRASEÑA CORRECTA."
+
+#. habla: ZAZA
+#, fuzzy
+msgctxt "#44"
+msgid "IF YOU GO BACK TO THE ELSA, PLEASE TELL SPUMONI THAT I'LL BE BACK SOON!"
+msgstr "SI VUELVES AL ELSA, ¡POR FAVOR, DILE A SPUMONI QUE PRONTO VOY A VOLVER!"
+
+#. habla: Pitt
+#, fuzzy
+msgctxt "#45"
+msgid "Where in the Encephalon would have a toy store warehouse? Supposedly, there's a big star for a landmark."
+msgstr "¿En qué lugar del Encéfalo habrá un depósito de juguetería? Se supone que tiene una gran estrella como punto de referencia."
+
+#. habla: Pitt
+#, fuzzy
+msgctxt "#46"
+msgid "There's something you need to be careful about when releasing the security lock on the toy store warehouse. The two entrances to the toy store within the Encephalon are linked by the program. What it means is, if you release the lock on one entrance, releasing the lock on the other one becomes impossible. In other words, if my son isn't on the side where you release the lock, he'll be trapped forever in virtual space, unable to dive out! Please be careful!"
+msgstr "Hay algo con lo que tienen que tener cuidado al liberar el bloqueo de seguridad del depósito de la juguetería. Las dos entradas de la juguetería dentro del Encéfalo están vinculadas por el programa. O sea que, si liberan el bloqueo de una entrada, después es imposible liberar el de la otra. En otras palabras, si mi hijo no está del lado en el que liberan el bloqueo, ¡va a quedar atrapado para siempre en el espacio virtual, sin poder salir de la inmersión! ¡Por favor, tengan cuidado!"
+
+#. habla: Pitt
+#, fuzzy
+msgctxt "#47"
+msgid "I'll have a stern talk with my son and make sure he never does anything like that again."
+msgstr "Voy a hablar seriamente con mi hijo y me voy a asegurar de que nunca más vuelva a hacer algo así."
+
+#. habla: Pitt
+#, fuzzy
+msgctxt "#48"
+msgid "Maybe Henry did this because I didn't pay enough attention to him."
+msgstr "Quizá Henry hizo esto porque yo no le prestaba suficiente atención."
+
+#. habla: Pitt
+#, fuzzy
+msgctxt "#49"
+msgid "I'm going to Vector's Second Division to pick up my son."
+msgstr "Voy a la Segunda División de Vector a buscar a mi hijo."
+
+#. habla: Pitt
+#, fuzzy
+msgctxt "#50"
+msgid "Don't worry! My son isn't dead! I'm sure he will regain consciousness one day when virtual-space based mental care advances!"
+msgstr "¡No se preocupen! ¡Mi hijo no está muerto! ¡Seguro que algún día recupera la conciencia, cuando avance el tratamiento mental basado en el espacio virtual!"
+
+#. habla: Henry
+#, fuzzy
+msgctxt "#51"
+msgid "Oh, it's you! The ones who saved me! Thank you!"
+msgstr "¡Oh, son ustedes! ¡Los que me salvaron! ¡Gracias!"
+
+#. habla: Henry
+#, fuzzy
+msgctxt "#52"
+msgid "I won't ever touch that dangerous machine again. ♪"
+msgstr "Nunca más voy a tocar esa máquina peligrosa. ♪"
+
+#. habla: Simon
+#, fuzzy
+msgctxt "#53"
+msgid "Oh, I'm a little depressed because of my poor performance on that awful quiz game, \"Destroy Runner: Revenge.\" I once prided myself on the fact that I was the quiz king, but that game is too much for me. I am beaten. I am defeated. I am ruined! Do you think you could go beat that game to avenge me?"
+msgstr "Ay, estoy un poco deprimido por mi mal desempeño en ese horrible juego de preguntas, \"Destroy Runner: Revenge\". Alguna vez me enorgullecí de ser el rey de las preguntas, pero ese juego me supera. Estoy vencido. Estoy derrotado. ¡Estoy arruinado! ¿Creen que podrían ir a ganarle a ese juego para vengarme?"
+
+#. Opciones: una por línea. Mantener 2 líneas en el mismo orden.
+#, fuzzy
+msgctxt "#54"
+msgid ""
+"Leave it to me!\n"
+"No!"
+msgstr ""
+"¡Déjamelo a mí!\n"
+"¡No!"
+
+#. habla: Simon
+#, fuzzy
+msgctxt "#55"
+msgid "Oh! Thank you for accepting my request!"
+msgstr "¡Oh! ¡Gracias por aceptar mi pedido!"
+
+#. habla: Simon
+#, fuzzy
+msgctxt "#57"
+msgid "Then I shall entrust you with my secret treasure, a Free Play Token."
+msgstr "Entonces les confío mi tesoro secreto, una Ficha de juego gratis."
+
+#, fuzzy
+msgctxt "#58"
+msgid "You obtained a Free Play Token!"
+msgstr "¡Obtuviste una Ficha de juego gratis!"
+
+#. habla: Simon
+#, fuzzy
+msgctxt "#59"
+msgid "I wish you the best of luck. Proceed to the Foundation and exact revenge for me!"
+msgstr "Les deseo la mejor de las suertes. ¡Vayan a la Fundación y vénguenme!"
+
+#. habla: Simon
+#, fuzzy
+msgctxt "#60"
+msgid "I see. I suppose it cannot be helped. I cannot force you to go."
+msgstr "Ya veo. Supongo que no hay nada que hacer. No puedo obligarlos a ir."
+
+#. habla: Simon
+#, fuzzy
+msgctxt "#61"
+msgid "Stupendous! You beat that game marvelously, didn't you?!"
+msgstr "¡Estupendo! ¡Le ganaron a ese juego de forma magistral!"
+
+#. habla: Simon
+#, fuzzy
+msgctxt "#63"
+msgid "With this victory, I have repaid that machine for the humiliation I suffered. I know it's not much, but please take this as a humble token of my appreciation!"
+msgstr "Con esta victoria, le cobré a esa máquina la humillación que sufrí. Sé que no es mucho, pero por favor acepten esto como humilde muestra de mi agradecimiento."
+
+#, fuzzy
+msgctxt "#64"
+msgid "You obtained an EMAX300! The EMAX300 is an E.S. accessory."
+msgstr "¡Obtuviste un EMAX300! El EMAX300 es un accesorio para E.S."
+
+#. habla: Simon
+#, fuzzy
+msgctxt "#65"
+msgid "I still have much to learn. I shall dedicate myself to the way of the quiz!"
+msgstr "Todavía me queda mucho por aprender. ¡Me dedicaré al camino de las preguntas!"
+
+#. habla: Pitt
+#, fuzzy
+msgctxt "#66"
+msgid "Oh, no! Oh, no! Something terrible happened! I work at Vector's Second Division. I wanted to show my son where I work, so I got special permission for him to come see the inside of Second Division. But I took my eyes off him for just a second, and he activated an Encephalon dive calibration bed. I immediately tried to stop the program and pull my son back, but something inside the Encephalon is blocking forced shutdowns! I'm not trained, so I can't dive into the Encephalon to bring back my son. Please! Would you dive into the Encephalon and bring him back?"
+msgstr "¡Ay, no! ¡Ay, no! ¡Pasó algo terrible! Trabajo en la Segunda División de Vector. Quería mostrarle a mi hijo dónde trabajo, así que conseguí un permiso especial para que viera el interior de la Segunda División. Pero le saqué los ojos de encima un segundo, y activó una cama de calibración de inmersión en el Encéfalo. Intenté detener el programa enseguida y traer de vuelta a mi hijo, ¡pero algo dentro del Encéfalo bloquea los apagados forzados! No estoy capacitado, así que no puedo sumergirme en el Encéfalo para traer a mi hijo. ¡Por favor! ¿Podrían sumergirse en el Encéfalo y traerlo de vuelta?"
+
+#. habla: Pitt
+#, fuzzy
+msgctxt "#67"
+msgid "Th...thank you so much!"
+msgstr "¡Mu... muchísimas gracias!"
+
+#. habla: Pitt
+#, fuzzy
+msgctxt "#68"
+msgid "Even I don't know exactly where my son dove. The last time I saw him, he said, \"I'd rather go to a toy store than this place,\" so maybe he went somewhere related to toys. That's just a guess, though. Oh, I know! That famous toy store, Toy's Universe! If you can find that toy store in the Encephalon somewhere, he may be there! Fortunately, I had the key to the toy store recreated. If you use the number printed on the key, you may be able to release the code lock and enter the toy store warehouse! Let me give it to you!"
+msgstr "Ni yo sé exactamente dónde hizo la inmersión mi hijo. La última vez que lo vi, dijo: \"Preferiría ir a una juguetería que a este lugar\", así que quizá fue a algún lugar relacionado con juguetes. Aunque es solo una suposición. ¡Ah, ya sé! ¡Esa juguetería famosa, Toy's Universe! Si encuentran esa juguetería en algún lugar del Encéfalo, ¡quizá esté ahí! Por suerte, mandé a recrear la llave de la juguetería. Si usan el número impreso en la llave, quizá puedan liberar el bloqueo con código y entrar al depósito de la juguetería. ¡Se la doy!"
+
+#, fuzzy
+msgctxt "#69"
+msgid "You obtained the Toy Store Key!"
+msgstr "¡Obtuviste la Llave de la juguetería!"
+
+#. habla: Pitt
+#, fuzzy
+msgctxt "#70"
+msgid "Where in the Encephalon is that toy store warehouse? I think it's by their famous star logo. Please! Save my son!"
+msgstr "¿En qué lugar del Encéfalo está ese depósito de la juguetería? Creo que está junto a su famoso logo de la estrella. ¡Por favor! ¡Salven a mi hijo!"
+
+#. habla: Pitt
+#, fuzzy
+msgctxt "#71"
+msgid "It's my fault that my son activated the diving bed. Oh, what am I going to do?!"
+msgstr "Es culpa mía que mi hijo haya activado la cama de inmersión. ¡Ay! ¿Qué voy a hacer?"
+
+#. habla: Pitt
+#, fuzzy
+msgctxt "#72"
+msgid "Thanks to you, Henry was able to safely dive out of the Encephalon!"
+msgstr "¡Gracias a ustedes, Henry pudo salir a salvo de la inmersión en el Encéfalo!"
+
+#. habla: Pitt
+#, fuzzy
+msgctxt "#73"
+msgid "What can I possibly say to thank you? Please, take this!"
+msgstr "¿Cómo puedo agradecerles? ¡Por favor, acepten esto!"
+
+#, fuzzy
+msgctxt "#74"
+msgid "You obtained Secret Key 10! This key opens the Level 2 Class H skill \"Inner Peace.\""
+msgstr "¡Obtuviste la Llave Secreta 10! Esta llave desbloquea la habilidad de Clase H de nivel 2 \"Paz interior\"."
+
+#. habla: Pitt
+#, fuzzy
+msgctxt "#75"
+msgid "That stupid son of mine! I'll give him a good talking to, so he never does anything like that again!"
+msgstr "¡Qué hijo tan tonto tengo! ¡Voy a hablar seriamente con él para que nunca más haga algo así!"
+
+#. habla: Pitt
+#, fuzzy
+msgctxt "#76"
+msgid ""
+"!!\n"
+"...\n"
+"...\n"
+"...\n"
+"I can tell from your face what happened to my son."
+msgstr ""
+"¡¡!!\n"
+"...\n"
+"...\n"
+"...\n"
+"Por sus caras ya sé lo que le pasó a mi hijo."
+
+#. habla: Pitt
+#, fuzzy
+msgctxt "#78"
+msgid "I am grateful for all the effort you gave for my son! Please take this as a token of my feelings."
+msgstr "¡Les agradezco todo el esfuerzo que hicieron por mi hijo! Por favor, acepten esto como muestra de mi gratitud."
+
+#. habla: Pitt
+#, fuzzy
+msgctxt "#79"
+msgid "I'm going to Vector's Second Division to pick up my son. Don't worry! My son isn't dead! I'm sure he will regain consciousness one day when virtual-space based mental care advances!"
+msgstr "Voy a la Segunda División de Vector a buscar a mi hijo. ¡No se preocupen! ¡Mi hijo no está muerto! ¡Seguro que algún día recupera la conciencia, cuando avance el tratamiento mental basado en el espacio virtual!"
+
+#. habla: Hugo
+#, fuzzy
+msgctxt "#80"
+msgid "Well, the truth is, I want my old job back! What was it? I used to be an Encephalon dive engineer at Vector, but anyone that's familiar with that job knows you spend all day cooped up in a room. So, when I watched people enjoy themselves under the sun, I suddenly got irritated and added a bug that only activates during outdoor simulations. Especially on ones with good weather! I call it a bug, but it's not anything serious. It's just something to give the Encephalon divers a little surprise! It was stress relief, but my fun didn't last long. Someone in the company reported me, and now, here I am. I received a message that I could return to work if I remove the bug, but the trap goes so deep, I can't remove the bug I created! Do you think you could dive into the Encephalon and disarm the trap for me?"
+msgstr "Bueno, la verdad es que quiero recuperar mi antiguo trabajo. ¿Qué era? Antes era ingeniero de inmersión en el Encéfalo en Vector, pero cualquiera que conozca ese trabajo sabe que uno se pasa todo el día encerrado en una sala. Así que, al ver a la gente disfrutar al sol, de repente me dio rabia y agregué un error que solo se activa durante las simulaciones al aire libre. ¡Sobre todo en las que tienen buen clima! Le digo error, pero no es nada grave. ¡Es solo algo para darles una pequeña sorpresa a los que hacen la inmersión en el Encéfalo! Era para aliviar el estrés, pero la diversión no me duró mucho. Alguien de la empresa me denunció, y aquí estoy. Recibí un mensaje que decía que podía volver a trabajar si quitaba el error, ¡pero la trampa es tan profunda que no puedo quitar el error que yo mismo creé! ¿Creen que podrían sumergirse en el Encéfalo y desactivar la trampa por mí?"
+
+#. habla: Hugo
+#, fuzzy
+msgctxt "#81"
+msgid "You will?! Thank you!"
+msgstr "¡¿De verdad?! ¡Gracias!"
+
+#. habla: Hugo
+#, fuzzy
+msgctxt "#83"
+msgid "My bug activates in the virtual space accessed through the U.M.N. I've forgotten some details, but it should be set to activate in outdoor areas with good weather! I think you need to seek a \"private\" spot first. Good luck!"
+msgstr "Mi error se activa en el espacio virtual al que se accede por la U.M.N. Me olvidé algunos detalles, ¡pero debería estar configurado para activarse en zonas al aire libre con buen clima! Creo que primero tienen que buscar un lugar \"privado\". ¡Buena suerte!"
+
+#. habla: Hugo
+#, fuzzy
+msgctxt "#84"
+msgid "Oh. It looks like it's going to be a while before I can go back to work."
+msgstr "Ah. Parece que todavía va a pasar un tiempo hasta que pueda volver a trabajar."
+
+#. habla: Hugo
+#, fuzzy
+msgctxt "#85"
+msgid "Oh! You disarmed my trap, didn't you?!"
+msgstr "¡Oh! Desactivaron mi trampa, ¿no?"
+
+#. habla: Hugo
+#, fuzzy
+msgctxt "#87"
+msgid "How can I possibly thank you?! I won't let you refuse a reward! Wait just a moment! Hold on, did you get a present inside the Encephalon? Uh-oh! Then I don't have anything to give you!"
+msgstr "¡¿Cómo puedo agradecerles?! ¡No voy a dejar que rechacen una recompensa! ¡Esperen un momento! Pero... ¿recibieron un regalo dentro del Encéfalo? ¡Uy! ¡Entonces no tengo nada para darles!"
+
+#. habla: Hugo
+#, fuzzy
+msgctxt "#88"
+msgid "Well, then, I'm off to see my old boss and ask for my job back!"
+msgstr "Bueno, entonces, ¡me voy a ver a mi antiguo jefe para pedirle que me devuelva el trabajo!"
+
+#, fuzzy
+msgctxt "#89"
+msgid "Use the launch headed for the Durandal?"
+msgstr "¿Usar la lanzadera con destino al Durandal?"

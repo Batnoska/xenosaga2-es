@@ -1,0 +1,436 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Xenosaga Episode II - traducción al español\n"
+"Language: es_419\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Xeno-Source: 0:yosikawa/Tutorial.txd\n"
+
+#, fuzzy
+msgctxt "#0"
+msgid "Skill Tutorial"
+msgstr "Tutorial de habilidades"
+
+#, fuzzy
+msgctxt "#3"
+msgid ""
+"You can customize the abilities of your characters\n"
+"by learning skills."
+msgstr ""
+"Puedes personalizar las capacidades de tus\n"
+"personajes aprendiendo habilidades."
+
+#, fuzzy
+msgctxt "#5"
+msgid ""
+"Skills are organized into four levels, which are\n"
+"then divided into classes."
+msgstr ""
+"Las habilidades se organizan en cuatro niveles,\n"
+"que a su vez se dividen en clases."
+
+#, fuzzy
+msgctxt "#7"
+msgid ""
+"Class Levels 1-3 have eight classes, and Class Level 4\n"
+"has four. Each class contains four skills."
+msgstr ""
+"Los niveles de clase 1 a 3 tienen ocho clases y el\n"
+"nivel 4, cuatro. Cada clase tiene cuatro habilidades."
+
+#, fuzzy
+msgctxt "#9"
+msgid ""
+"By using the Class Points and Skill Points earned\n"
+"from battles, characters are able to learn new\n"
+"abilities and grow more powerful."
+msgstr ""
+"Con los Puntos de clase y de habilidad que ganan\n"
+"en los combates, los personajes pueden aprender\n"
+"nuevas capacidades y hacerse más fuertes."
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#12"
+msgid ""
+"This tutorial will cover the following:$colFAB2AA;\n"
+"Display Info\n"
+"Learning Skills\n"
+"Skill Types  $colc0c0c0;"
+msgstr ""
+"En este tutorial veremos lo siguiente:$colFAB2AA;\n"
+"Información en pantalla\n"
+"Cómo aprender habilidades\n"
+"Tipos de habilidades  $colc0c0c0;"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#15"
+msgid "$colFAB2AA;Display Info$colc0c0c0;"
+msgstr "$colFAB2AA;Información en pantalla$colc0c0c0;"
+
+#, fuzzy
+msgctxt "#18"
+msgid ""
+"Skill Navigator: displays skills learned by\n"
+"the character."
+msgstr ""
+"Navegador de habilidades: muestra las\n"
+"habilidades que aprendió el personaje."
+
+#, fuzzy
+msgctxt "#20"
+msgid ""
+"The rings represent Class Levels 1-4, where Level 1\n"
+"is the outermost ring and Level 4 is the innermost\n"
+"ring."
+msgstr ""
+"Los anillos representan los niveles de clase 1 a 4: el\n"
+"nivel 1 es el anillo exterior y el nivel 4, el anillo\n"
+"interior."
+
+#, fuzzy
+msgctxt "#22"
+msgid ""
+"Planets appear and change color as you unlock\n"
+"classes and learn skills."
+msgstr ""
+"Aparecen planetas que cambian de color a medida\n"
+"que abres clases y aprendes habilidades."
+
+#, fuzzy
+msgctxt "#26"
+msgid "Point Window: displays points and other information."
+msgstr "Ventana de puntos: muestra los puntos y otros datos."
+
+#, fuzzy
+msgctxt "#29"
+msgid ""
+"[Class Lv] Class Level: displays highest level\n"
+"available."
+msgstr ""
+"[Nv. clase] Nivel de clase: muestra el nivel más alto\n"
+"disponible."
+
+#, fuzzy
+msgctxt "#32"
+msgid "[Learned S] Learned Skills: number of skills learned."
+msgstr "[Hab. apr.] Cantidad de habilidades aprendidas."
+
+#, fuzzy
+msgctxt "#35"
+msgid ""
+"[C.Pt] Class Points: current Class Points in possession.\n"
+"Use these to unlock classes."
+msgstr ""
+"[PC] Puntos de clase: los Puntos de clase que tienes.\n"
+"Sirven para abrir clases."
+
+#, fuzzy
+msgctxt "#38"
+msgid ""
+"[S.Pt] Skill Points: current Skill Points in possession.\n"
+"Use these to learn skills."
+msgstr ""
+"[PH] Puntos de habilidad: los que tienes ahora.\n"
+"Sirven para aprender habilidades."
+
+#, fuzzy
+msgctxt "#43"
+msgid "Skill Window: view and learn skills here."
+msgstr "Ventana de habilidades: para verlas y aprenderlas."
+
+#, fuzzy
+msgctxt "#45"
+msgid ""
+"Use the up and down directional buttons to\n"
+"highlight a level, class, or skill."
+msgstr ""
+"Usa los botones arriba y abajo para elegir\n"
+"un nivel, una clase o una habilidad."
+
+#, fuzzy
+msgctxt "#56"
+msgid ""
+"Use the left and right directional buttons to switch\n"
+"pages."
+msgstr ""
+"Usa los botones izquierda y derecha para cambiar\n"
+"de página."
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#63"
+msgid "Press &03 to select."
+msgstr "Presiona &03 para seleccionar."
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#65"
+msgid ""
+"You can view the classes/skills at any time. Study the\n"
+"different classes and plan out which skills to learn.\n"
+"$col7AF9FB;Grayed-out classes or skills cannot be unlocked or\n"
+"learned until you have enough points.$colc0c0c0;"
+msgstr ""
+"Puedes mirar las clases y habilidades cuando quieras.\n"
+"Estudia las clases y planea qué habilidades aprender.\n"
+"$col7AF9FB;Las clases o habilidades en gris no se pueden abrir\n"
+"ni aprender hasta que tengas suficientes puntos.$colc0c0c0;"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#70"
+msgid "$colFAB2AA;Learning Skills$colc0c0c0;"
+msgstr "$colFAB2AA;Cómo aprender habilidades$colc0c0c0;"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#71"
+msgid ""
+"We will use Class Level 1>Class A>Medica$colc0c0c0; as an\n"
+"example."
+msgstr ""
+"Usaremos como ejemplo Nivel de clase 1>Clase A>\n"
+"Medica$colc0c0c0;."
+
+#, fuzzy
+msgctxt "#77"
+msgid ""
+"The Class Level in the Skill Window works in\n"
+"conjunction with the four rings of the\n"
+"Skill Navigator."
+msgstr ""
+"El nivel de clase de la ventana de habilidades\n"
+"funciona junto con los cuatro anillos del\n"
+"navegador de habilidades."
+
+#, fuzzy
+msgctxt "#80"
+msgid "Class Level 1 Ring"
+msgstr "Anillo del nivel de clase 1"
+
+#, fuzzy
+msgctxt "#83"
+msgid "Class Level 2 Ring"
+msgstr "Anillo del nivel de clase 2"
+
+#, fuzzy
+msgctxt "#86"
+msgid "Class Level 3 Ring"
+msgstr "Anillo del nivel de clase 3"
+
+#, fuzzy
+msgctxt "#89"
+msgid "Class Level 4 Ring"
+msgstr "Anillo del nivel de clase 4"
+
+#, fuzzy
+msgctxt "#92"
+msgid ""
+"Medica is a Class Level 1 skill. After highlighting the\n"
+"appropriate level, press the right directional button\n"
+"to switch from the Level page to the Class page."
+msgstr ""
+"Medica es una habilidad del nivel de clase 1. Después\n"
+"de elegir el nivel, presiona el botón derecha para\n"
+"pasar de la página de niveles a la de clases."
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#104"
+msgid "There are eight different classes: $col7AF9FB;A B C D E F G H$colc0c0c0;."
+msgstr "Hay ocho clases distintas: $col7AF9FB;A B C D E F G H$colc0c0c0;."
+
+#, fuzzy
+msgctxt "#106"
+msgid ""
+"Medica is in Class A, but you must first unlock\n"
+"Class A before you can learn the skill."
+msgstr ""
+"Medica está en la clase A, pero antes de aprender\n"
+"la habilidad tienes que abrir la clase A."
+
+#, fuzzy
+msgctxt "#108"
+msgid "We will unlock Class A by using Class Points."
+msgstr "Vamos a abrir la clase A con Puntos de clase."
+
+#, fuzzy
+msgctxt "#119"
+msgid ""
+"Class A is now open. You can view the skills by\n"
+"pressing the right directional button."
+msgstr ""
+"La clase A ya está abierta. Puedes ver sus\n"
+"habilidades presionando el botón derecha."
+
+#, fuzzy
+msgctxt "#125"
+msgid "We will learn Medica by using Skill Points."
+msgstr "Vamos a aprender Medica con Puntos de habilidad."
+
+#, fuzzy
+msgctxt "#137"
+msgid ""
+"As you can see, a planet has been added to the\n"
+"Skill Navigator..."
+msgstr ""
+"Como ves, se agregó un planeta al\n"
+"navegador de habilidades..."
+
+#, fuzzy
+msgctxt "#141"
+msgid ""
+"and [Learned S] in the Point Window has been\n"
+"changed to 1. This shows that Medica has\n"
+"been learned."
+msgstr ""
+"y [Hab. apr.] en la ventana de puntos cambió\n"
+"a 1. Esto indica que ya aprendiste\n"
+"Medica."
+
+#, fuzzy
+msgctxt "#150"
+msgid "We will now learn all the skills under Class A."
+msgstr "Vamos a aprender todas las habilidades de la clase A."
+
+#, fuzzy
+msgctxt "#174"
+msgid ""
+"By learning all the skills under one class, you will\n"
+"earn additional Class Points. This is known as a\n"
+"Class Bonus."
+msgstr ""
+"Al aprender todas las habilidades de una clase,\n"
+"ganas Puntos de clase extra. Esto se llama\n"
+"Bonificación de clase."
+
+#, fuzzy
+msgctxt "#176"
+msgid ""
+"Be sure to utilize this effectively, as you cannot\n"
+"earn very many Class Points from battles."
+msgstr ""
+"Aprovéchala bien, porque en los combates no\n"
+"se ganan muchos Puntos de clase."
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#178"
+msgid ""
+"$col7AF9FB;There are items that increase your Skill Points and\n"
+"Class Points. $colc0c0c0;Be sure to search dungeons carefully\n"
+"for these rare treasures."
+msgstr ""
+"$col7AF9FB;Hay objetos que aumentan los Puntos de habilidad y\n"
+"de clase. $colc0c0c0;Explora bien las mazmorras en busca\n"
+"de estos tesoros raros."
+
+#, fuzzy
+msgctxt "#182"
+msgid ""
+"Also, your Class Level will increase automatically\n"
+"when you learn all the skills under one class."
+msgstr ""
+"Además, tu nivel de clase sube solo cuando\n"
+"aprendes todas las habilidades de una clase."
+
+#, fuzzy
+msgctxt "#196"
+msgid "This allows you to learn the higher-level skills."
+msgstr "Así puedes aprender habilidades de nivel superior."
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#205"
+msgid "$colFAB2AA;Skill Types$colc0c0c0;"
+msgstr "$colFAB2AA;Tipos de habilidades$colc0c0c0;"
+
+#, fuzzy
+msgctxt "#208"
+msgid ""
+"There are three types of skills:\n"
+"Equipped Skills\n"
+"Ether Skills\n"
+"Mastered Skills"
+msgstr ""
+"Hay tres tipos de habilidades:\n"
+"Habilidades equipadas\n"
+"Habilidades de éter\n"
+"Habilidades dominadas"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#220"
+msgid ""
+"Equipped Skills     &10\n"
+"These skills must be equipped in the Status\n"
+"menu to have effect."
+msgstr ""
+"Habilidades equipadas     &10\n"
+"Tienen que estar equipadas en el menú\n"
+"de estado para surtir efecto."
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#232"
+msgid ""
+"Ether Skills     &11\n"
+"These Ethers must be selected during battle\n"
+"or from the Ether menu to have effect."
+msgstr ""
+"Habilidades de éter     &11\n"
+"Hay que elegir estos éteres en combate o\n"
+"desde el menú de éter para que surtan efecto."
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#238"
+msgid ""
+"Mastered Skills     &12\n"
+"These skills are in effect as soon as they\n"
+"are learned."
+msgstr ""
+"Habilidades dominadas     &12\n"
+"Surten efecto en cuanto\n"
+"se aprenden."
+
+#, fuzzy
+msgctxt "#240"
+msgid ""
+"Please keep these different types in mind\n"
+"when learning a skill."
+msgstr ""
+"Ten en cuenta estos tipos distintos\n"
+"al aprender una habilidad."
+
+#, fuzzy
+msgctxt "#242"
+msgid "This is the end of the Skill Tutorial."
+msgstr "Aquí termina el tutorial de habilidades."
+
+#, fuzzy
+msgctxt "#245"
+msgid "Exit tutorial"
+msgstr "Salir del tutorial"
+
+#, fuzzy
+msgctxt "#246"
+msgid "Start over from the beginning"
+msgstr "Empezar de nuevo desde el principio"
+
+#, fuzzy
+msgctxt "#249"
+msgid ""
+"Some skills are hidden, so be sure to explore\n"
+"everywhere."
+msgstr ""
+"Algunas habilidades están ocultas, así que\n"
+"explora por todas partes."
+
+#, fuzzy
+msgctxt "#252"
+msgid "Starting the tutorial over from the beginning."
+msgstr "Volviendo a empezar el tutorial desde el principio."

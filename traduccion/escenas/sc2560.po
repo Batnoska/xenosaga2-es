@@ -1,0 +1,1258 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Xenosaga Episode II - traducción al español\n"
+"Language: es_419\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Xeno-Source: 0:cf/en/sc2560.sbl\n"
+
+#. habla: Professor
+#, fuzzy
+msgctxt "#0"
+msgid "The time has finally come for me to explain the true reason behind why I've dedicated myself to the construction of a giant robot!"
+msgstr "¡Por fin llegó el momento de explicarles la verdadera razón por la que me dediqué a construir un robot gigante!"
+
+#. habla: KOS-MOS
+#, fuzzy
+msgctxt "#1"
+msgid "..."
+msgstr "..."
+
+#. habla: Ziggy
+#, fuzzy
+msgctxt "#2"
+msgid "I'm not particularly interested, but it seems you want to talk about it anyway."
+msgstr "No me interesa particularmente, pero parece que igual quiere contarlo."
+
+#. habla: Shion
+#, fuzzy
+msgctxt "#3"
+msgid "Hmm? What's with the serious tone, Professor?"
+msgstr "¿Hmm? ¿Por qué tan serio, Profesor?"
+
+#. habla: MOMO
+#, fuzzy
+msgctxt "#4"
+msgid "What?! You mean making that giant robot isn't just a hobby?"
+msgstr "¡¿Qué?! ¿Quiere decir que construir ese robot gigante no es solo un pasatiempo?"
+
+#. habla: chaos
+#, fuzzy
+msgctxt "#5"
+msgid "What's going on, Professor? You sound rather excited today."
+msgstr "¿Qué pasa, Profesor? Hoy se lo ve bastante entusiasmado."
+
+#. habla: Jr.
+#, fuzzy
+msgctxt "#6"
+msgid "Huh? You're really worked up today. What's up?"
+msgstr "¿Eh? Hoy estás muy agitado. ¿Qué pasa?"
+
+#. habla: Jin
+#, fuzzy
+msgctxt "#7"
+msgid "Well, now, that sounds like it might be interesting."
+msgstr "Vaya, eso suena interesante."
+
+#. habla: Professor
+#, fuzzy
+msgctxt "#8"
+msgid "There is a man who I think is my twin brother!"
+msgstr "¡Hay un hombre que creo que es mi hermano gemelo!"
+
+#. habla: Ziggy
+#, fuzzy
+msgctxt "#9"
+msgid "You think? So, he's not actually related to you?"
+msgstr "¿Cree? ¿Entonces no es pariente suyo?"
+
+#. habla: Shion
+#, fuzzy
+msgctxt "#10"
+msgid "What do you mean, \"you think\"?"
+msgstr "¿Cómo que \"cree\"?"
+
+#. habla: MOMO
+#, fuzzy
+msgctxt "#11"
+msgid "Oh, so this person isn't really your brother."
+msgstr "Ah, entonces esa persona no es su hermano de verdad."
+
+#. habla: chaos
+#, fuzzy
+msgctxt "#12"
+msgid "Haha, that sounds like something you'd say, Professor."
+msgstr "Jaja, eso suena muy suyo, Profesor."
+
+#. habla: Jr.
+#, fuzzy
+msgctxt "#13"
+msgid "Your twin brother? That sounds pretty interesting!"
+msgstr "¿Tu hermano gemelo? ¡Eso suena bastante interesante!"
+
+#. habla: Jin
+#, fuzzy
+msgctxt "#14"
+msgid "What? So, then, you're saying he's not related to you at all?"
+msgstr "¿Qué? Entonces, ¿me está diciendo que no es pariente suyo en absoluto?"
+
+#. habla: Professor
+#, fuzzy
+msgctxt "#15"
+msgid "The reason I think he is, is...well, it's a bit of a long story, but if you meet him, you'll understand why I can't help thinking he's my twin."
+msgstr "La razón por la que lo creo es... bueno, es una historia un poco larga, pero si lo conocen, van a entender por qué no puedo evitar pensar que es mi gemelo."
+
+#. habla: Ziggy
+#, fuzzy
+msgctxt "#16"
+msgid "Hmm. I'd actually prefer to avoid meeting him, if possible."
+msgstr "Hmm. En realidad, preferiría no conocerlo, si es posible."
+
+#. habla: Shion
+#, fuzzy
+msgctxt "#17"
+msgid "In other words, he's a lot like you? Perhaps it would be best if I didn't meet him."
+msgstr "¿O sea que se parece mucho a usted? Quizá sea mejor que yo no lo conozca."
+
+#. habla: MOMO
+#, fuzzy
+msgctxt "#18"
+msgid "You mean he's a lot like you? I'd love to talk to him!"
+msgstr "¿Quiere decir que se parece mucho a usted? ¡Me encantaría hablar con él!"
+
+#. habla: chaos
+#, fuzzy
+msgctxt "#19"
+msgid "Two Professors? I'm not sure what to say about that."
+msgstr "¿Dos Profesores? No sé qué decir al respecto."
+
+#. habla: Jr.
+#, fuzzy
+msgctxt "#20"
+msgid "So, you're sayin' this twin of yours acts just like you? That's a scary thought."
+msgstr "¿O sea que me dices que ese gemelo tuyo se comporta igual que tú? Qué idea tan aterradora."
+
+#. habla: Jin
+#, fuzzy
+msgctxt "#21"
+msgid "Well, now. Then we must meet this person."
+msgstr "Vaya, vaya. Entonces tenemos que conocer a esa persona."
+
+#. habla: Professor
+#, fuzzy
+msgctxt "#22"
+msgid "The problem is that he has this grand evil scheme that utilizes the Forbidden Devices, and it will shake the universe to its very core!"
+msgstr "¡El problema es que tiene un gran plan malvado que usa los Dispositivos Prohibidos, y va a sacudir el universo hasta sus cimientos!"
+
+#. habla: Ziggy
+#, fuzzy
+msgctxt "#23"
+msgid "An evil scheme? I guess we can't ignore that."
+msgstr "¿Un plan malvado? Supongo que no podemos ignorarlo."
+
+#. habla: Shion
+#, fuzzy
+msgctxt "#24"
+msgid "Oh, brother...I wonder which of you is really the one with the evil scheme."
+msgstr "Ay, por favor... Me pregunto cuál de los dos es el que de verdad tiene un plan malvado."
+
+#. habla: MOMO
+#, fuzzy
+msgctxt "#25"
+msgid "What? He's a bad person?"
+msgstr "¿Qué? ¿Es una mala persona?"
+
+#. habla: chaos
+#, fuzzy
+msgctxt "#26"
+msgid "Oh. Well, we certainly can't ignore that."
+msgstr "Oh. Bueno, eso sin duda no podemos ignorarlo."
+
+#. habla: Jr.
+#, fuzzy
+msgctxt "#27"
+msgid "Ah-ha! So, you decided to take a stand!"
+msgstr "¡Ajá! ¡Así que decidiste tomar cartas en el asunto!"
+
+#. habla: Jin
+#, fuzzy
+msgctxt "#28"
+msgid "My, my, that doesn't sound good."
+msgstr "Vaya, vaya, eso no suena nada bien."
+
+#. habla: Professor
+#, fuzzy
+msgctxt "#29"
+msgid "Of course, even though I think of him as my twin brother, he's not really related to me, and it's not like he's my responsibility or anything, but there's actually another reason!"
+msgstr "Claro que, aunque lo considere mi hermano gemelo, no es pariente mío y no es que sea mi responsabilidad ni nada por el estilo, ¡pero en realidad hay otra razón!"
+
+#. habla: Ziggy
+#, fuzzy
+msgctxt "#30"
+msgid "Another reason?"
+msgstr "¿Otra razón?"
+
+#. habla: Shion
+#, fuzzy
+msgctxt "#31"
+msgid "So, the fact that you think he's your twin brother has nothing to do with this?"
+msgstr "¿Entonces que crea que es su hermano gemelo no tiene nada que ver con esto?"
+
+#. habla: MOMO
+#, fuzzy
+msgctxt "#32"
+msgid "Another reason? Please tell me!"
+msgstr "¿Otra razón? ¡Cuéntenos, por favor!"
+
+#. habla: chaos
+#, fuzzy
+msgctxt "#33"
+msgid "Another reason? What in the world is it?"
+msgstr "¿Otra razón? ¿De qué se trata?"
+
+#. habla: Jr.
+#, fuzzy
+msgctxt "#34"
+msgid "Hey! You got me all excited about the twin brother thing for nothing! "
+msgstr "¡Oye! ¡Me entusiasmaste con lo del hermano gemelo para nada!"
+
+#. habla: Jin
+#, fuzzy
+msgctxt "#35"
+msgid "Oh? There's another reason you've been making a giant robot?"
+msgstr "¿Oh? ¿Hay otra razón por la que está construyendo un robot gigante?"
+
+#. habla: Professor
+#, fuzzy
+msgctxt "#36"
+msgid ""
+"It turns out, he's making a giant robot, too! And its name is...\n"
+"...\n"
+"...\n"
+"...\n"
+"Dark Erde Kaiser!"
+msgstr ""
+"¡Resulta que él también está construyendo un robot gigante! Y su nombre es...\n"
+"...\n"
+"...\n"
+"...\n"
+"¡Dark Erde Kaiser!"
+
+#. habla: Ziggy
+#, fuzzy
+msgctxt "#37"
+msgid "Dark Erde Kaiser?!"
+msgstr "¡¿Dark Erde Kaiser?!"
+
+#. habla: Shion
+#, fuzzy
+msgctxt "#38"
+msgid "..."
+msgstr "..."
+
+#. habla: MOMO
+#, fuzzy
+msgctxt "#39"
+msgid "Dark Erde Kaiser! That's a cool name!"
+msgstr "¡Dark Erde Kaiser! ¡Qué nombre tan genial!"
+
+#. habla: chaos
+#, fuzzy
+msgctxt "#40"
+msgid "That sounds, uh...kind of scary...I guess."
+msgstr "Eso suena, eh... medio aterrador... supongo."
+
+#. habla: Jr.
+#, fuzzy
+msgctxt "#41"
+msgid "Cool! That definitely sounds evil!"
+msgstr "¡Genial! ¡Eso sin duda suena malvado!"
+
+#. habla: Jin
+#, fuzzy
+msgctxt "#42"
+msgid "Hmm, another giant robot. Now this is interesting."
+msgstr "Hmm, otro robot gigante. Esto se pone interesante."
+
+#. habla: Professor
+#, fuzzy
+msgctxt "#43"
+msgid "So, you know, I was thinking, if I fight evil with my giant robot, I could win the respect and adoration of billions of people throughout the galaxy! Or at least a country club membership."
+msgstr "¡Así que pensé que, si combato el mal con mi robot gigante, podría ganarme el respeto y la admiración de miles de millones de personas en toda la galaxia! O al menos una membresía en un club de campo."
+
+#. habla: Ziggy
+#, fuzzy
+msgctxt "#44"
+msgid "All this work for one selfish goal, is that it?"
+msgstr "Todo este trabajo para un objetivo egoísta, ¿no es así?"
+
+#. habla: Shion
+#, fuzzy
+msgctxt "#45"
+msgid "Professor! What are you saying?!"
+msgstr "¡Profesor! ¡¿Qué está diciendo?!"
+
+#. habla: MOMO
+#, fuzzy
+msgctxt "#46"
+msgid "Professor, I'm disappointed in you."
+msgstr "Profesor, me decepciona."
+
+#. habla: chaos
+#, fuzzy
+msgctxt "#47"
+msgid "Oh, brother. So, that's what you had on your mind?"
+msgstr "Ay, por favor. ¿Así que eso era lo que tenía en mente?"
+
+#. habla: Jr.
+#, fuzzy
+msgctxt "#48"
+msgid "Hey, wait a minute! Don't you think you've got your priorities mixed up?"
+msgstr "¡Oye, espera un momento! ¿No crees que tienes las prioridades un poco cambiadas?"
+
+#. habla: Jin
+#, fuzzy
+msgctxt "#49"
+msgid "Hmm. I'd love to help you, but with a selfish motive like that..."
+msgstr "Hmm. Me encantaría ayudarlo, pero con un motivo tan egoísta..."
+
+#. habla: Professor
+#, fuzzy
+msgctxt "#50"
+msgid "At any rate, I have but one aim! The Dark Professor. I will defeat the Dark Professor and save the universe from the clutches of evil!"
+msgstr "¡En fin, tengo un solo objetivo! El Profesor Oscuro. ¡Voy a derrotar al Profesor Oscuro y salvar al universo de las garras del mal!"
+
+#. habla: Ziggy
+#, fuzzy
+msgctxt "#51"
+msgid "Save the universe, huh? I suppose we could help."
+msgstr "Salvar al universo, ¿eh? Supongo que podríamos ayudar."
+
+#. habla: Shion
+#, fuzzy
+msgctxt "#52"
+msgid "Hmm. Save the universe, huh? Fine, fine, I guess we could lend a hand."
+msgstr "Hmm. Salvar al universo, ¿eh? Bueno, bueno, supongo que podríamos darle una mano."
+
+#. habla: MOMO
+#, fuzzy
+msgctxt "#53"
+msgid "I knew you were really a good guy, Professor! ♪"
+msgstr "¡Sabía que en el fondo era bueno, Profesor! ♪"
+
+#. habla: chaos
+#, fuzzy
+msgctxt "#54"
+msgid "So, you want us to give you a hand?"
+msgstr "¿Entonces quiere que le demos una mano?"
+
+#. habla: Jr.
+#, fuzzy
+msgctxt "#55"
+msgid "All right, that's what I was waiting to hear! So, where is this Dark Professor?"
+msgstr "¡Muy bien, eso es lo que quería escuchar! ¿Y dónde está ese Profesor Oscuro?"
+
+#. habla: Jin
+#, fuzzy
+msgctxt "#56"
+msgid "Well, now. Save the universe, huh? It sounds like we should lend you a hand."
+msgstr "Vaya, vaya. Salvar al universo, ¿eh? Parece que deberíamos darle una mano."
+
+#. habla: Professor
+#, fuzzy
+msgctxt "#57"
+msgid "Well, despite my best research, I have been unable to determine the whereabouts of the Dark Professor! If you ask my friend, the Other Professor, who lives on Second Miltia, he should be able to help you locate the Dark Professor! The time has come for me to show my true powers!"
+msgstr "¡Bueno, a pesar de mis mejores investigaciones, no pude averiguar el paradero del Profesor Oscuro! Si le preguntan a mi amigo, el Otro Profesor, que vive en Segunda Miltia, ¡él debería poder ayudarlos a encontrar al Profesor Oscuro! ¡Llegó la hora de mostrar mi verdadero poder!"
+
+#. habla: KOS-MOS
+#, fuzzy
+msgctxt "#58"
+msgid "..."
+msgstr "..."
+
+#. habla: Ziggy
+#, fuzzy
+msgctxt "#59"
+msgid "I see. So, first we need to go see the Other Professor on Second Miltia."
+msgstr "Ya veo. Entonces primero tenemos que ir a ver al Otro Profesor a Segunda Miltia."
+
+#. habla: Shion
+#, fuzzy
+msgctxt "#60"
+msgid "Ah, the Other Professor. He's that person Janet was working with on Second Miltia. Okay! We'll help you!"
+msgstr "Ah, el Otro Profesor. Es la persona con la que trabajaba Janet en Segunda Miltia. ¡Muy bien! ¡Lo ayudaremos!"
+
+#. habla: MOMO
+#, fuzzy
+msgctxt "#61"
+msgid "So, we need to go see the Other Professor on Second Miltia? Okay!"
+msgstr "Entonces, ¿tenemos que ir a ver al Otro Profesor a Segunda Miltia? ¡Muy bien!"
+
+#. habla: chaos
+#, fuzzy
+msgctxt "#62"
+msgid "A search for the Dark Professor. It sounds like we could be in for a long quest."
+msgstr "Una búsqueda del Profesor Oscuro. Parece que nos espera una larga aventura."
+
+#. habla: Jr.
+#, fuzzy
+msgctxt "#63"
+msgid "Okay, gotcha! We'll give you a hand!"
+msgstr "¡Muy bien, entendido! ¡Te daremos una mano!"
+
+#. habla: Jin
+#, fuzzy
+msgctxt "#64"
+msgid "Understood. Then, we should first head for Second Miltia to see the Other Professor."
+msgstr "Entendido. Entonces, primero deberíamos ir a Segunda Miltia a ver al Otro Profesor."
+
+#, fuzzy
+msgctxt "#65"
+msgid "You can confirm the information of the robot parts you have acquired. Which part would you like to check?"
+msgstr "Puedes consultar la información de las piezas de robot que obtuviste. ¿Qué pieza quieres revisar?"
+
+#. Opciones: una por línea. Mantener 5 líneas en el mismo orden.
+#, fuzzy
+msgctxt "#66"
+msgid ""
+"Arms\n"
+"Legs\n"
+"Head\n"
+"Body\n"
+"Cancel"
+msgstr ""
+"Brazos\n"
+"Piernas\n"
+"Cabeza\n"
+"Cuerpo\n"
+"Cancelar"
+
+#, fuzzy
+msgctxt "#67"
+msgid "Unable to check. You do not have the arms yet."
+msgstr "No se puede revisar. Todavía no tienes los brazos."
+
+#, fuzzy
+msgctxt "#68"
+msgid "Confirming arms."
+msgstr "Consultando los brazos."
+
+#, fuzzy
+msgctxt "#69"
+msgid "You currently have the Type A arms."
+msgstr "Ahora tienes los brazos Tipo A."
+
+#, fuzzy
+msgctxt "#70"
+msgid "You currently have the Type B arms."
+msgstr "Ahora tienes los brazos Tipo B."
+
+#, fuzzy
+msgctxt "#71"
+msgid "You currently have the Type C arms."
+msgstr "Ahora tienes los brazos Tipo C."
+
+#, fuzzy
+msgctxt "#72"
+msgid "Unable to check. You do not have the legs yet."
+msgstr "No se puede revisar. Todavía no tienes las piernas."
+
+#, fuzzy
+msgctxt "#73"
+msgid "Confirming legs."
+msgstr "Consultando las piernas."
+
+#, fuzzy
+msgctxt "#74"
+msgid "You currently have the Type A legs."
+msgstr "Ahora tienes las piernas Tipo A."
+
+#, fuzzy
+msgctxt "#75"
+msgid "You currently have the Type B legs."
+msgstr "Ahora tienes las piernas Tipo B."
+
+#, fuzzy
+msgctxt "#76"
+msgid "You currently have the Type C legs."
+msgstr "Ahora tienes las piernas Tipo C."
+
+#, fuzzy
+msgctxt "#77"
+msgid "Unable to check. You do not have the head yet."
+msgstr "No se puede revisar. Todavía no tienes la cabeza."
+
+#, fuzzy
+msgctxt "#78"
+msgid "Confirming head."
+msgstr "Consultando la cabeza."
+
+#, fuzzy
+msgctxt "#79"
+msgid "You currently have the Type A head."
+msgstr "Ahora tienes la cabeza Tipo A."
+
+#, fuzzy
+msgctxt "#80"
+msgid "You currently have the Type B head."
+msgstr "Ahora tienes la cabeza Tipo B."
+
+#, fuzzy
+msgctxt "#81"
+msgid "You currently have the Type C head."
+msgstr "Ahora tienes la cabeza Tipo C."
+
+#, fuzzy
+msgctxt "#82"
+msgid "Unable to check. You either do not have a body, or it has not yet been processed."
+msgstr "No se puede revisar. O no tienes un cuerpo, o todavía no fue procesado."
+
+#, fuzzy
+msgctxt "#83"
+msgid "Confirming body information."
+msgstr "Consultando la información del cuerpo."
+
+#, fuzzy
+msgctxt "#84"
+msgid "The body was processed into Type A."
+msgstr "El cuerpo se procesó como Tipo A."
+
+#, fuzzy
+msgctxt "#85"
+msgid "The body was processed into Type B."
+msgstr "El cuerpo se procesó como Tipo B."
+
+#, fuzzy
+msgctxt "#86"
+msgid "The body was processed into Type C."
+msgstr "El cuerpo se procesó como Tipo C."
+
+#, fuzzy
+msgctxt "#87"
+msgid "Canceling robot parts confirmation."
+msgstr "Se canceló la consulta de piezas de robot."
+
+#. habla: Professor
+#, fuzzy
+msgctxt "#88"
+msgid "I'll unlock the Type A arm Ether skill, Erde Storm, for Shion! But first, there's something I want to tell you!"
+msgstr "¡Voy a desbloquear para Shion la habilidad de éter de los brazos Tipo A, Erde Storm! ¡Pero primero quiero contarles algo!"
+
+#. habla: Professor
+#, fuzzy
+msgctxt "#89"
+msgid "I'll unlock the Type B arm Ether skill, Erde Storm, for Shion! But first, there's something I want to tell you!"
+msgstr "¡Voy a desbloquear para Shion la habilidad de éter de los brazos Tipo B, Erde Storm! ¡Pero primero quiero contarles algo!"
+
+#. habla: Professor
+#, fuzzy
+msgctxt "#90"
+msgid "I'll unlock the Type C arm Ether skill, Erde Storm, for Shion! But first, there's something I want to tell you!"
+msgstr "¡Voy a desbloquear para Shion la habilidad de éter de los brazos Tipo C, Erde Storm! ¡Pero primero quiero contarles algo!"
+
+#. habla: Professor
+#, fuzzy
+msgctxt "#91"
+msgid "I'll unlock the Type A leg Ether skill, Erde Quake, for Shion! But first, there's something I want to tell you!"
+msgstr "¡Voy a desbloquear para Shion la habilidad de éter de las piernas Tipo A, Erde Quake! ¡Pero primero quiero contarles algo!"
+
+#. habla: Professor
+#, fuzzy
+msgctxt "#92"
+msgid "I'll unlock the Type B leg Ether skill, Erde Quake, for Shion! But first, there's something I want to tell you!"
+msgstr "¡Voy a desbloquear para Shion la habilidad de éter de las piernas Tipo B, Erde Quake! ¡Pero primero quiero contarles algo!"
+
+#. habla: Professor
+#, fuzzy
+msgctxt "#93"
+msgid "I'll unlock the Type C leg Ether skill, Erde Quake, for Shion! But first, there's something I want to tell you!"
+msgstr "¡Voy a desbloquear para Shion la habilidad de éter de las piernas Tipo C, Erde Quake! ¡Pero primero quiero contarles algo!"
+
+#. habla: Professor
+#, fuzzy
+msgctxt "#94"
+msgid "I'll unlock the Type A head Ether skill, Erde Beam, for Shion! But first, there's something I want to tell you!"
+msgstr "¡Voy a desbloquear para Shion la habilidad de éter de la cabeza Tipo A, Erde Beam! ¡Pero primero quiero contarles algo!"
+
+#. habla: Professor
+#, fuzzy
+msgctxt "#95"
+msgid "I'll unlock the Type B head Ether skill, Erde Beam, for Shion! But first, there's something I want to tell you!"
+msgstr "¡Voy a desbloquear para Shion la habilidad de éter de la cabeza Tipo B, Erde Beam! ¡Pero primero quiero contarles algo!"
+
+#. habla: Professor
+#, fuzzy
+msgctxt "#96"
+msgid "I'll unlock the Type C head Ether skill, Erde Beam, for Shion! But first, there's something I want to tell you!"
+msgstr "¡Voy a desbloquear para Shion la habilidad de éter de la cabeza Tipo C, Erde Beam! ¡Pero primero quiero contarles algo!"
+
+#. habla: Professor
+#, fuzzy
+msgctxt "#97"
+msgid "Hahaha! Why am I here, you ask? Hehehe. I can't tell you that just yet, but all will become clear in due time!"
+msgstr "¡Jajaja! ¿Que por qué estoy aquí? Jejeje. Todavía no se los puedo decir, ¡pero todo se aclarará a su debido tiempo!"
+
+#. habla: Professor
+#, fuzzy
+msgctxt "#98"
+msgid "If I had to answer, I'd just say, \"It's tee time!\""
+msgstr "Si tuviera que responder, solo diría: \"¡Es la hora del té!\"."
+
+#. habla: Professor
+#, fuzzy
+msgctxt "#99"
+msgid "Modify the body into which type?"
+msgstr "¿En qué tipo quieres modificar el cuerpo?"
+
+#. Opciones: una por línea. Mantener 3 líneas en el mismo orden.
+#, fuzzy
+msgctxt "#100"
+msgid ""
+"Type A\n"
+"Type B\n"
+"Type C"
+msgstr ""
+"Tipo A\n"
+"Tipo B\n"
+"Tipo C"
+
+#. habla: Professor
+#, fuzzy
+msgctxt "#101"
+msgid "I'll process the body into Type A! But first, there's something I want to tell you!"
+msgstr "¡Voy a procesar el cuerpo como Tipo A! ¡Pero primero quiero contarles algo!"
+
+#. habla: Professor
+#, fuzzy
+msgctxt "#102"
+msgid "I'll process the body into Type B! But first, there's something I want to tell you!"
+msgstr "¡Voy a procesar el cuerpo como Tipo B! ¡Pero primero quiero contarles algo!"
+
+#. habla: Professor
+#, fuzzy
+msgctxt "#103"
+msgid "I'll process the body into Type C! But first, there's something I want to tell you!"
+msgstr "¡Voy a procesar el cuerpo como Tipo C! ¡Pero primero quiero contarles algo!"
+
+#. habla: Professor
+#, fuzzy
+msgctxt "#104"
+msgid "I am feeling pretty hard-boiled right now. Why? Because I'm out in space for the first time in a while!"
+msgstr "Ahora mismo me siento todo un tipo duro. ¿Por qué? ¡Porque hacía mucho que no salía al espacio!"
+
+#. habla: Professor
+#, fuzzy
+msgctxt "#105"
+msgid "I have a good reason for being passionate about building a giant robot! There is something I must do for this universe!"
+msgstr "¡Tengo un buen motivo para estar tan entusiasmado con construir un robot gigante! ¡Hay algo que debo hacer por este universo!"
+
+#. habla: Professor
+#, fuzzy
+msgctxt "#106"
+msgid "Modify the body into which type?"
+msgstr "¿En qué tipo quieres modificar el cuerpo?"
+
+#. habla: Professor
+#, fuzzy
+msgctxt "#107"
+msgid "You know, I'm getting more and more assistants! Unfortunately, Assistant Scott is the only one who actually wants to work."
+msgstr "¿Saben? ¡Cada vez tengo más asistentes! Lamentablemente, el asistente Scott es el único que de verdad quiere trabajar."
+
+#. habla: Professor
+#, fuzzy
+msgctxt "#108"
+msgid "Where the heck did Assistants #2 and #3 wander off to this time?"
+msgstr "¿Adónde demonios se fueron esta vez los asistentes N.º 2 y N.º 3?"
+
+#. habla: Professor
+#, fuzzy
+msgctxt "#109"
+msgid "It's imperative that I complete my giant robot in order to bring peace to the universe! To do that, we need power that far exceeds the original Erde Kaiser!"
+msgstr "¡Es imprescindible que termine mi robot gigante para traer la paz al universo! ¡Para eso necesitamos un poder que supere con creces al Erde Kaiser original!"
+
+#. habla: Professor
+#, fuzzy
+msgctxt "#110"
+msgid "When you've collected all the robot parts, come see me!"
+msgstr "¡Cuando hayan reunido todas las piezas del robot, vengan a verme!"
+
+#. habla: Professor
+#, fuzzy
+msgctxt "#111"
+msgid "Whoa! Pee-ew! Somebody needs a bath!"
+msgstr "¡Epa! ¡Puaj! ¡Alguien necesita un baño!"
+
+#. habla: Professor
+#, fuzzy
+msgctxt "#112"
+msgid "Grr, damn that Dark! Oh! It's nothing! I was just talking to myself!"
+msgstr "¡Grr, maldito Dark! ¡Ah! ¡No es nada! ¡Solo hablaba solo!"
+
+#. habla: Professor
+#, fuzzy
+msgctxt "#113"
+msgid "My dream of so many years has finally come true. And its name is Erde Kaiser Fury! What do you think? It sounds strong, doesn't it?"
+msgstr "Por fin se cumplió el sueño de tantos años. ¡Y su nombre es Erde Kaiser Fury! ¿Qué les parece? Suena poderoso, ¿no?"
+
+#. habla: Professor
+#, fuzzy
+msgctxt "#114"
+msgid "Humph! The peace of the universe is ensured! Now, what to do next?"
+msgstr "¡Hmpf! ¡La paz del universo está asegurada! Ahora, ¿qué hago después?"
+
+#. habla: Professor
+#, fuzzy
+msgctxt "#115"
+msgid "Humph! I guess I owe you guys once again. I'm very grateful!"
+msgstr "¡Hmpf! Supongo que otra vez les debo una. ¡Les estoy muy agradecido!"
+
+#. habla: Assistant Scott
+#, fuzzy
+msgctxt "#116"
+msgid "Is Allen coming by? I have a ton of things I want to talk to him about."
+msgstr "¿Va a venir Allen? Tengo un montón de cosas de las que quiero hablar con él."
+
+#. habla: Assistant Scott
+#, fuzzy
+msgctxt "#117"
+msgid "The Professor sure likes that phrase, \"tee time,\" but I'm pretty sure he means \"showtime.\" I can't tell if he's doing it on purpose or if he really doesn't know. He's such a hard man to figure out."
+msgstr "Al Profesor le encanta esa frase, \"la hora del té\", pero estoy casi seguro de que quiere decir \"la hora del show\". No sé si lo hace a propósito o si de verdad no lo sabe. Es un hombre muy difícil de entender."
+
+#. habla: Assistant Scott
+#, fuzzy
+msgctxt "#118"
+msgid "Somehow I wound up becoming part of the Elsa crew. But maybe it's all right to let go from time to time and just let things happen."
+msgstr "No sé cómo, terminé siendo parte de la tripulación del Elsa. Pero quizá está bien soltarse de vez en cuando y dejar que las cosas pasen."
+
+#. habla: Assistant Scott
+#, fuzzy
+msgctxt "#119"
+msgid "The Professor seems to worry about a lot of things that he can't tell me about, but he still manages to drag me into them."
+msgstr "Parece que al Profesor le preocupan muchas cosas que no me puede contar, pero igual se las arregla para arrastrarme con él."
+
+#. habla: Assistant Scott
+#, fuzzy
+msgctxt "#120"
+msgid "I can't believe him! I work day and night as an excellent assistant to the Professor, and he goes and hires two others!"
+msgstr "¡No lo puedo creer! ¡Trabajo día y noche como excelente asistente del Profesor, y él va y contrata a otros dos!"
+
+#. habla: Assistant Scott
+#, fuzzy
+msgctxt "#121"
+msgid "What? The new assistants are Allen and KOS-MOS? Oh, then it's all right, I guess. What's all right? I can't tell you that. Hehehe."
+msgstr "¿Qué? ¿Los asistentes nuevos son Allen y KOS-MOS? Ah, entonces está bien, supongo. ¿Qué está bien? Eso no se los puedo decir. Jejeje."
+
+#. habla: Assistant Scott
+#, fuzzy
+msgctxt "#122"
+msgid "He may appear irresponsible, but the Professor has great respect for the power of friendship!"
+msgstr "Quizá parezca irresponsable, ¡pero el Profesor respeta muchísimo el poder de la amistad!"
+
+#. habla: Assistant Scott
+#, fuzzy
+msgctxt "#123"
+msgid "He said that he wants to complete the giant robot in order to prevent the flame of friendship from dying out."
+msgstr "Dijo que quiere terminar el robot gigante para que no se apague la llama de la amistad."
+
+#. habla: Assistant Scott
+#, fuzzy
+msgctxt "#124"
+msgid "What? You've collected all the robot parts? That's amazing! Please tell the Professor at once!"
+msgstr "¿Qué? ¿Reunieron todas las piezas del robot? ¡Increíble! ¡Por favor, díganselo al Profesor enseguida!"
+
+#. habla: Assistant Scott
+#, fuzzy
+msgctxt "#125"
+msgid "What the Professor is attempting to accomplish is the creation of the ultimate power of friendship that will surpass even the Erde Kaiser!"
+msgstr "¡Lo que el Profesor intenta lograr es crear el poder definitivo de la amistad, que supere incluso al Erde Kaiser!"
+
+#. habla: Assistant Scott
+#, fuzzy
+msgctxt "#126"
+msgid "What is this threat to the universe that the Professor is talking about?"
+msgstr "¿Cuál es esa amenaza para el universo de la que habla el Profesor?"
+
+#. habla: Assistant Scott
+#, fuzzy
+msgctxt "#127"
+msgid "I've never seen the Professor so serious before!"
+msgstr "¡Nunca había visto al Profesor tan serio!"
+
+#. habla: Assistant Scott
+#, fuzzy
+msgctxt "#128"
+msgid "I didn't know that the Professor had a rival like him. I was truly surprised!"
+msgstr "No sabía que el Profesor tenía un rival así. ¡De verdad me sorprendió!"
+
+#. habla: Assistant Scott
+#, fuzzy
+msgctxt "#129"
+msgid "The Dark Professor...he didn't seem like a truly evil person at heart."
+msgstr "El Profesor Oscuro... no parecía alguien realmente malvado en el fondo."
+
+#. habla: CAMPARI
+#, fuzzy
+msgctxt "#130"
+msgid "THE PROFESSOR TOLD ME THAT THE FATE OF THE UNIVERSE LIES IN YOUR HANDS! PLEASE PUT AN END TO THE DARK PROFESSOR'S AMBITIONS!"
+msgstr "¡EL PROFESOR ME DIJO QUE EL DESTINO DEL UNIVERSO ESTÁ EN SUS MANOS! ¡POR FAVOR, PÓNGANLE FIN A LAS AMBICIONES DEL PROFESOR OSCURO!"
+
+#. habla: CAMPARI
+#, fuzzy
+msgctxt "#131"
+msgid "THE WHEREABOUTS OF THE DARK PROFESSOR? AN OLD ACQUAINTANCE OF THE PROFESSOR LIVES ON SECOND MILTIA. HIS NAME IS \"OTHER PROFESSOR.\" HE MAY KNOW SOMETHING ABOUT WHERE THE DARK PROFESSOR IS!"
+msgstr "¿EL PARADERO DEL PROFESOR OSCURO? UN VIEJO CONOCIDO DEL PROFESOR VIVE EN SEGUNDA MILTIA. SE LLAMA \"EL OTRO PROFESOR\". ¡QUIZÁ SEPA ALGO DE DÓNDE ESTÁ EL PROFESOR OSCURO!"
+
+#. habla: CAMPARI
+#, fuzzy
+msgctxt "#132"
+msgid "I ACTUALLY KNOW AN ULTIMATE SECRET! WHAT IS THAT SECRET?...I'LL TELL YOU ! THERE'S A DRAGON KNIGHT-ISH BUG HIDING IN THE EVS OF THE RESTRICTED AREA OF THE DÄMMERUNG! IT MAY BE GOOD TO TEST YOURSELF OUT ON IT BEFORE YOU FACE THE DARK PROFESSOR!"
+msgstr "¡EN REALIDAD CONOZCO UN SECRETO DEFINITIVO! ¿CUÁL ES ESE SECRETO?... ¡SE LO VOY A CONTAR! ¡EN LA EVS DEL ÁREA RESTRINGIDA DEL DÄMMERUNG SE ESCONDE UN BICHO CON PINTA DE CABALLERO DRAGÓN! ¡QUIZÁ LES CONVENGA PONERSE A PRUEBA CONTRA ÉL ANTES DE ENFRENTARSE AL PROFESOR OSCURO!"
+
+#. habla: CAMPARI
+#, fuzzy
+msgctxt "#133"
+msgid "SO, WHAT WAS THE PROFESSOR'S RIVAL LIKE? I REALLY WANT TO KNOW!"
+msgstr "ENTONCES, ¿CÓMO ERA EL RIVAL DEL PROFESOR? ¡ME MUERO POR SABERLO!"
+
+#. habla: CAMPARI
+#, fuzzy
+msgctxt "#134"
+msgid "HIS NAME IS DARK PROFESSOR? HE SOUNDS EVIL. BY THE WAY, I'VE GOT A FRIEND WHO'S COMPILING INFORMATION ON SUPER STRONG ENTITIES FOUND IN THE EVS. HE NEEDS THE NAMES OF THREE MORE ENTITIES TO COMPLETE HIS RESEARCH! HE TOLD ME THAT IF YOU E-MAIL THE THREE NAMES TO HIM, HE MAY GIVE YOU SOMETHING FOR HELPING HIM OUT! HIS ADDRESS IS UU-KUN@XENOSAGA.COM. I THINK YOU CAN USE THE NAME OF THAT DRAGON KNIGHT-ISH BUG IN THE EVS VERSION OF THE DAMMERUNG AS ONE OF THEM! WELL, GOOD LUCK FINDING THE OTHER TWO!"
+msgstr "¿SE LLAMA PROFESOR OSCURO? SUENA MALVADO. POR CIERTO, TENGO UN AMIGO QUE ESTÁ REUNIENDO INFORMACIÓN SOBRE ENTIDADES SUPERPODEROSAS QUE APARECEN EN LA EVS. ¡LE FALTAN LOS NOMBRES DE TRES ENTIDADES MÁS PARA TERMINAR SU INVESTIGACIÓN! ¡ME DIJO QUE, SI LE MANDAN LOS TRES NOMBRES POR CORREO ELECTRÓNICO, QUIZÁ LES DÉ ALGO POR AYUDARLO! SU DIRECCIÓN ES UU-KUN@XENOSAGA.COM. ¡CREO QUE PUEDEN USAR COMO UNO DE ELLOS EL NOMBRE DE ESE BICHO CON PINTA DE CABALLERO DRAGÓN DE LA VERSIÓN EVS DEL DÄMMERUNG! BUENO, ¡SUERTE ENCONTRANDO LOS OTROS DOS!"
+
+#. habla: Matthews
+#, fuzzy
+msgctxt "#135"
+msgid "..."
+msgstr "..."
+
+#. habla: Tony
+#, fuzzy
+msgctxt "#136"
+msgid "..."
+msgstr "..."
+
+#. habla: Hammer
+#, fuzzy
+msgctxt "#137"
+msgid "Um, wow."
+msgstr "Eh, vaya."
+
+#. habla: Assistant Scott
+#, fuzzy
+msgctxt "#138"
+msgid "See, Professor?! They're angry! They look like a pretty tough bunch of guys, too. Are you sure it was okay to do something like this?"
+msgstr "¡¿Ve, Profesor?! ¡Están enojados! Y además parecen un grupo de tipos bastante duros. ¿Seguro que estaba bien hacer algo así?"
+
+#. habla: Professor
+#, fuzzy
+msgctxt "#139"
+msgid "Ha ha ha, of course it's all right! After all, a genius scientist like me is helping them repair their ship! They should be thanking me!...Or maybe not?"
+msgstr "¡Ja, ja, ja, claro que está bien! ¡Después de todo, un científico genial como yo los está ayudando a reparar su nave! ¡Deberían agradecérmelo!... ¿O quizá no?"
+
+#. habla: Assistant Scott
+#, fuzzy
+msgctxt "#140"
+msgid "Look! They're coming this way! I'll let you handle this, Professor!"
+msgstr "¡Mire! ¡Vienen para aquí! ¡Se lo dejo a usted, Profesor!"
+
+#. habla: Narration
+#, fuzzy
+msgctxt "#141"
+msgid "In the confusion surrounding the repairs of the Elsa, the Professor and Assistant Scott joined the ship's crew. The Professor even transferred the Robot Academy from the Foundation to the Elsa! The Professor's next plan went into operation without anyone stopping him, but just when it seemed everything was going smoothly, the Elsa's captain, Matthews, approached the Professor. What are you going to do, Assistant Scott? What are you going to do, Professor?! "
+msgstr "En medio del caos de las reparaciones del Elsa, el Profesor y el asistente Scott se unieron a la tripulación de la nave. ¡El Profesor hasta trasladó la Academia de Robots de la Fundación al Elsa! El siguiente plan del Profesor se puso en marcha sin que nadie lo detuviera, pero justo cuando parecía que todo iba sobre ruedas, el capitán del Elsa, Matthews, se acercó al Profesor. ¿Qué harás, asistente Scott? ¡¿Qué harás, Profesor?!"
+
+#. habla: Matthews
+#, fuzzy
+msgctxt "#142"
+msgid "Hey, geezer!"
+msgstr "¡Oye, vejete!"
+
+#. habla: Tony
+#, fuzzy
+msgctxt "#143"
+msgid "Captain, lay off him! He's just a little old man."
+msgstr "¡Capitán, déjelo en paz! Es solo un viejito."
+
+#. habla: Hammer
+#, fuzzy
+msgctxt "#144"
+msgid "Ahhh! I can't look!"
+msgstr "¡Aaah! ¡No puedo mirar!"
+
+#. habla: Matthews
+#, fuzzy
+msgctxt "#145"
+msgid "Who the hell gave you permission to build something like this inside my ship?!"
+msgstr "¡¿Quién demonios te dio permiso para construir algo así dentro de mi nave?!"
+
+#. habla: Assistant Scott
+#, fuzzy
+msgctxt "#146"
+msgid "See, Professor?! I told you! "
+msgstr "¡¿Ve, Profesor?! ¡Se lo dije!"
+
+#. habla: Professor
+#, fuzzy
+msgctxt "#147"
+msgid "Hmm, that's a good question there, sonny."
+msgstr "Hmm, buena pregunta, muchacho."
+
+#. habla: Matthews
+#, fuzzy
+msgctxt "#148"
+msgid "Huh?"
+msgstr "¿Eh?"
+
+#. habla: Professor
+#, fuzzy
+msgctxt "#149"
+msgid "Let me ask you this. You approved Stage Two of my grand plan for the Mobile Fortress Elsa, did you not?"
+msgstr "Déjame preguntarte algo. Tú aprobaste la Fase Dos de mi gran plan para la Fortaleza Móvil Elsa, ¿no es así?"
+
+#. habla: Matthews
+#, fuzzy
+msgctxt "#150"
+msgid "Huh? Ah, yeah, I guess a mobile fortress does need a giant robot. You all think so, too, right?"
+msgstr "¿Eh? Ah, sí, supongo que una fortaleza móvil necesita un robot gigante. Ustedes también lo creen, ¿no?"
+
+#. habla: Tony
+#, fuzzy
+msgctxt "#151"
+msgid "Yeah, I guess it does need a giant robot, huh?"
+msgstr "Sí, supongo que necesita un robot gigante, ¿no?"
+
+#. habla: Hammer
+#, fuzzy
+msgctxt "#152"
+msgid "Hmm, yeah, it sure does!"
+msgstr "Hmm, ¡sí, claro que sí!"
+
+#. habla: Professor
+#, fuzzy
+msgctxt "#153"
+msgid "So, there you have it."
+msgstr "Entonces, ahí lo tienes."
+
+#. habla: Matthews
+#, fuzzy
+msgctxt "#154"
+msgid "Huh? Oh, I see!"
+msgstr "¿Eh? ¡Ah, ya veo!"
+
+#. habla: Hammer
+#, fuzzy
+msgctxt "#155"
+msgid "Haha, yeah, gotcha. You understand, too, right Tony?"
+msgstr "Jaja, sí, entendido. Tú también lo entiendes, ¿no, Tony?"
+
+#. habla: Tony
+#, fuzzy
+msgctxt "#156"
+msgid "Uh, y...yeah! Right on!"
+msgstr "¡E... eh, s... sí! ¡Claro!"
+
+#. habla: Matthews
+#, fuzzy
+msgctxt "#157"
+msgid ""
+"This is great! I never thought that was the reason! Hahaha!\n"
+"...\n"
+"...\n"
+"...\n"
+"...\n"
+"What the hell are you talking about?! "
+msgstr ""
+"¡Esto es genial! ¡Nunca imaginé que esa era la razón! ¡Jajaja!\n"
+"...\n"
+"...\n"
+"...\n"
+"...\n"
+"¡¿Pero de qué demonios estás hablando?!"
+
+#. habla: Narration
+#, fuzzy
+msgctxt "#158"
+msgid ""
+"Matthews continued to berate the Professor for constructing the Robot Academy inside the Elsa. The Professor tried to use his charming ways to talk his way out of the situation, but he was unable to deceive the crew of the Elsa! Now, Professor, how will you get out of this predicament?\n"
+"Find out in the next episode."
+msgstr ""
+"Matthews siguió regañando al Profesor por construir la Academia de Robots dentro del Elsa. El Profesor intentó salir del paso con su encanto, ¡pero no logró engañar a la tripulación del Elsa! Y ahora, Profesor, ¿cómo saldrá de este aprieto?\n"
+"Descúbranlo en el próximo episodio."
+
+#. habla: Matthews
+#, fuzzy
+msgctxt "#159"
+msgid "I appreciate your help in repairing the Elsa and all, but where the hell did you get the money to build this lab?!"
+msgstr "Te agradezco que ayudes a reparar el Elsa y todo eso, pero ¡¿de dónde demonios sacaste el dinero para construir este laboratorio?!"
+
+#. habla: Professor
+#, fuzzy
+msgctxt "#160"
+msgid "I can't tell you that!"
+msgstr "¡Eso no te lo puedo decir!"
+
+#. habla: Assistant Scott
+#, fuzzy
+msgctxt "#161"
+msgid "Now that I think about it, Professor, when we went out to get parts the other day, you were humming \"I'm the great Matthews! ♪\" the whole time."
+msgstr "Ahora que lo pienso, Profesor, el otro día, cuando fuimos a buscar piezas, se pasó todo el rato tarareando \"¡Soy el gran Matthews! ♪\"."
+
+#. habla: Hammer
+#, fuzzy
+msgctxt "#162"
+msgid "..."
+msgstr "..."
+
+#. habla: Tony
+#, fuzzy
+msgctxt "#163"
+msgid "Oh, man, it sounds like we're going to be in debt for a long time."
+msgstr "Ay, no, parece que vamos a estar endeudados por mucho tiempo."
+
+#. habla: Matthews
+#, fuzzy
+msgctxt "#164"
+msgid "What?! Did you?!...Hey, geezer! Did you buy parts under my name?!"
+msgstr "¡¿Qué?! ¡¿De verdad?!... ¡Oye, vejete! ¡¿Compraste piezas a mi nombre?!"
+
+#. habla: Professor
+#, fuzzy
+msgctxt "#165"
+msgid "Th...there's a good reason!"
+msgstr "¡Ha... hay una buena razón!"
+
+#. habla: Matthews
+#, fuzzy
+msgctxt "#166"
+msgid "A reason, huh? It'd better be brilliant or I'm tossing you out the airlock!"
+msgstr "Una razón, ¿eh? ¡Más vale que sea brillante, o te tiro por la esclusa!"
+
+#. habla: Professor
+#, fuzzy
+msgctxt "#167"
+msgid "I received an odd challenge the other day. It said that he was going to use the Encephalon to conquer the world!"
+msgstr "El otro día recibí un desafío extraño. ¡Decía que iba a usar el Encéfalo para conquistar el mundo!"
+
+#. habla: Hammer
+#, fuzzy
+msgctxt "#168"
+msgid "That doesn't sound very friendly."
+msgstr "Eso no suena muy amistoso."
+
+#. habla: Matthews
+#, fuzzy
+msgctxt "#169"
+msgid "It was probably just a joke. Or do you have some reason to think it wasn't, geezer?"
+msgstr "Seguro que era una broma. ¿O tienes algún motivo para pensar que no, vejete?"
+
+#. habla: Assistant Scott
+#, fuzzy
+msgctxt "#170"
+msgid "Haha! Even someone like the Professor wouldn't be involved in something like that! Right?"
+msgstr "¡Jaja! ¡Ni siquiera alguien como el Profesor estaría metido en algo así! ¿No?"
+
+#. habla: Professor
+#, fuzzy
+msgctxt "#171"
+msgid "In fact, I do have such a reason!"
+msgstr "¡De hecho, sí tengo un motivo!"
+
+#. habla: Matthews
+#, fuzzy
+msgctxt "#172"
+msgid "!"
+msgstr "¡!"
+
+#. habla: Professor
+#, fuzzy
+msgctxt "#173"
+msgid "The Dark Professor. He is the only one who could possibly hold such an evil ambition!"
+msgstr "El Profesor Oscuro. ¡Es el único capaz de tener una ambición tan malvada!"
+
+#. habla: Matthews
+#, fuzzy
+msgctxt "#174"
+msgid "Dammit, it sounds like we've gotten mixed up in some kinda trouble again."
+msgstr "Maldición, parece que otra vez nos metimos en algún lío."
+
+#. habla: Professor
+#, fuzzy
+msgctxt "#175"
+msgid "In order to stop his evil doings, I must create a robot that is even more powerful than Erde Kaiser! So, I thought being in space would be much more convenient for doing that than staying on the Foundation."
+msgstr "¡Para detener sus maldades, tengo que crear un robot todavía más poderoso que el Erde Kaiser! Así que pensé que estar en el espacio sería mucho más conveniente para hacerlo que quedarme en la Fundación."
+
+#. habla: Narration
+#, fuzzy
+msgctxt "#176"
+msgid "The Dark Professor. So, the Professor was actually fighting real evil?! The crew of the Elsa is more anxious than ever before! Will Matthews allow the Professor to create a giant robot onboard the Elsa?! Don't take your eyes off the Robot Academy! Bring any robot parts you find to the Professor!"
+msgstr "El Profesor Oscuro. ¡¿Así que el Profesor de verdad combatía al mal?! ¡La tripulación del Elsa está más inquieta que nunca! ¡¿Matthews permitirá que el Profesor construya un robot gigante a bordo del Elsa?! ¡No le quiten los ojos de encima a la Academia de Robots! ¡Llévenle al Profesor todas las piezas de robot que encuentren!"
+
+#. habla: Hammer
+#, fuzzy
+msgctxt "#177"
+msgid "\"Dark\"? Do you know anything about this, Assistant Scott?"
+msgstr "¿\"Dark\"? ¿Usted sabe algo de esto, asistente Scott?"
+
+#. habla: Assistant Scott
+#, fuzzy
+msgctxt "#178"
+msgid "This is the first time I've heard of it, too. I never thought the Professor was really fighting against evil. I thought I was just being dragged along for one of his crazy plans."
+msgstr "Para mí también es la primera vez que lo oigo. Nunca pensé que el Profesor de verdad combatiera al mal. Creí que solo me estaba arrastrando a otro de sus planes descabellados."
+
+#. habla: Tony
+#, fuzzy
+msgctxt "#179"
+msgid "Which is pretty much what everyone else was also thinking."
+msgstr "Que es más o menos lo que todos los demás también pensaban."
+
+#. habla: Professor
+#, fuzzy
+msgctxt "#180"
+msgid "Have you finally realized my greatness? Please, Captain! Lend me your aid for just a little while longer, so that I may rid this world of evil."
+msgstr "¿Por fin se dieron cuenta de mi grandeza? ¡Por favor, capitán! Préstame tu ayuda un poco más, para que pueda librar a este mundo del mal."
+
+#. habla: Matthews
+#, fuzzy
+msgctxt "#181"
+msgid "Okay, Professor, you got it! We'll help you! You can use the facilities here however you want!"
+msgstr "¡Muy bien, Profesor, entendido! ¡Te vamos a ayudar! ¡Puedes usar las instalaciones de aquí como quieras!"
+
+#. habla: Professor
+#, fuzzy
+msgctxt "#182"
+msgid "Haha, I like a man who's easy to talk to!"
+msgstr "¡Jaja, así me gusta, un hombre razonable!"
+
+#. habla: Matthews
+#, fuzzy
+msgctxt "#183"
+msgid "But I do have one request!"
+msgstr "¡Pero tengo un pedido!"
+
+#. habla: Professor
+#, fuzzy
+msgctxt "#184"
+msgid "Hmm? What's that?"
+msgstr "¿Hmm? ¿Cuál?"
+
+#. habla: Matthews
+#, fuzzy
+msgctxt "#185"
+msgid "If you manage to make any extra money on that giant robot, you help me repay my debt!"
+msgstr "¡Si logras sacar algo de dinero extra con ese robot gigante, me ayudas a pagar mi deuda!"
+
+#. habla: Professor
+#, fuzzy
+msgctxt "#186"
+msgid "(Extra money? What is this guy talking about? Oh, well. I'll worry about that when the time comes.)"
+msgstr "(¿Dinero extra? ¿De qué habla este tipo? Bueno. Ya me preocuparé cuando llegue el momento.)"
+
+#. habla: Professor
+#, fuzzy
+msgctxt "#187"
+msgid "Leave it to me! I fully intend to reward you for your kindness!"
+msgstr "¡Déjamelo a mí! ¡Pienso recompensarte por tu amabilidad!"
+
+#. habla: Matthews
+#, fuzzy
+msgctxt "#188"
+msgid "All right! It's settled then! So, where is that Dark guy, anyway?"
+msgstr "¡Muy bien! ¡Entonces está decidido! Y, de todos modos, ¿dónde está ese tal Dark?"
+
+#. habla: Professor
+#, fuzzy
+msgctxt "#189"
+msgid "Hmm, that's a good question. I wonder where he is."
+msgstr "Hmm, buena pregunta. Me pregunto dónde estará."
+
+#. habla: Narration
+#, fuzzy
+msgctxt "#190"
+msgid "So, the Professor and Assistant Scott began building their giant robot onboard the Elsa. Just who is this Dark that the Professor speaks of?! You'll just have to see for yourselves! The completion of the legendary giant robot is not too far away! Will the Professor accomplish his true objective and complete the giant robot?! Tune in next time for the final episode!"
+msgstr "Así, el Profesor y el asistente Scott empezaron a construir su robot gigante a bordo del Elsa. ¡¿Quién es ese Dark del que habla el Profesor?! ¡Tendrán que verlo con sus propios ojos! ¡La terminación del legendario robot gigante no está muy lejos! ¡¿El Profesor cumplirá su verdadero objetivo y terminará el robot gigante?! ¡No se pierdan el último episodio!"
+
+#. habla: Professor
+#, fuzzy
+msgctxt "#191"
+msgid "Ah-ha! You have finally assembled all of the robot parts!"
+msgstr "¡Ajá! ¡Por fin reunieron todas las piezas del robot!"
+
+#. habla: Assistant Scott
+#, fuzzy
+msgctxt "#192"
+msgid "Professor! Congratulations! You've taken your first step toward that membership in the Miltia Country Club you've been dreaming of!"
+msgstr "¡Profesor! ¡Felicitaciones! ¡Dio el primer paso hacia esa membresía en el Club de Campo de Miltia con la que tanto soñaba!"
+
+#. habla: Professor
+#, fuzzy
+msgctxt "#193"
+msgid "Shhhhh! What are you saying?! That makes it sound like I'm looking for these robot parts for my own benefit! Don't talk like that about me!"
+msgstr "¡Shhhhh! ¡¿Qué estás diciendo?! ¡Eso hace sonar como si buscara estas piezas de robot para mi propio beneficio! ¡No hables así de mí!"
+
+#. habla: Assistant Scott
+#, fuzzy
+msgctxt "#194"
+msgid "What? But you're always talking about drinking and golfing and..."
+msgstr "¿Qué? Pero si siempre habla de beber y de jugar al golf y..."
+
+#. habla: Professor
+#, fuzzy
+msgctxt "#195"
+msgid "Shut it!"
+msgstr "¡Silencio!"
+
+#. habla: Assistant Scott
+#, fuzzy
+msgctxt "#196"
+msgid "!"
+msgstr "¡!"
+
+#. habla: Professor
+#, fuzzy
+msgctxt "#197"
+msgid "There comes a time when a man must show the world what he can do!"
+msgstr "¡Llega un momento en que un hombre debe mostrarle al mundo de lo que es capaz!"
+
+#. habla: Assistant Scott
+#, fuzzy
+msgctxt "#198"
+msgid "Professor!"
+msgstr "¡Profesor!"
+
+#. habla: Professor
+#, fuzzy
+msgctxt "#199"
+msgid "(Ah, now Assistant Scott will worship me once again! Worship! Hahaha!)"
+msgstr "(¡Ah, ahora el asistente Scott volverá a adorarme! ¡Adoración! ¡Jajaja!)"
+
+#. habla: Assistant Scott
+#, fuzzy
+msgctxt "#200"
+msgid "Professor, you're not in character!"
+msgstr "¡Profesor, se está saliendo del personaje!"
+
+#. habla: Professor
+#, fuzzy
+msgctxt "#201"
+msgid "Ah, uh, right, well, anyway! Let's go!"
+msgstr "¡Ah, eh, cierto, bueno, en fin! ¡Vamos!"
+
+#. habla: Professor
+#, fuzzy
+msgctxt "#203"
+msgid "Here we go, Assistant Scott! Begin transformation!"
+msgstr "¡Allá vamos, asistente Scott! ¡Iniciar transformación!"
+
+#. habla: Assistant Scott
+#, fuzzy
+msgctxt "#204"
+msgid "Okay, Professor! Set transformation!"
+msgstr "¡Sí, Profesor! ¡Preparando transformación!"
+
+#. habla: Professor
+#, fuzzy
+msgctxt "#211"
+msgid "Ha ha ha ha ha! My life's work, the Erde Kaiser Fury, is now complete! I can't wait to find out what kind of robot it turns out to be once it's actually used!"
+msgstr "¡Ja, ja, ja, ja, ja! ¡La obra de mi vida, el Erde Kaiser Fury, está terminada! ¡No veo la hora de descubrir qué clase de robot resulta cuando se use de verdad!"

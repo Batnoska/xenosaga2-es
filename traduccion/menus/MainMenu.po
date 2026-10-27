@@ -1,0 +1,2166 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Xenosaga Episode II - traducción al español\n"
+"Language: es_419\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Xeno-Source: 0:yosikawa/MainMenu.txd\n"
+
+#, fuzzy
+msgctxt "#0"
+msgid "chaos"
+msgstr "chaos"
+
+#, fuzzy
+msgctxt "#1"
+msgid "KOS-MOS"
+msgstr "KOS-MOS"
+
+#, fuzzy
+msgctxt "#2"
+msgid "Shion"
+msgstr "Shion"
+
+#, fuzzy
+msgctxt "#3"
+msgid "Jin"
+msgstr "Jin"
+
+#, fuzzy
+msgctxt "#4"
+msgid "Ziggy"
+msgstr "Ziggy"
+
+#, fuzzy
+msgctxt "#5"
+msgid "MOMO"
+msgstr "MOMO"
+
+#, fuzzy
+msgctxt "#6"
+msgid "Jr."
+msgstr "Jr."
+
+#, fuzzy
+msgctxt "#7"
+msgid "E.S. Dinah"
+msgstr "E.S. Dinah"
+
+#, fuzzy
+msgctxt "#8"
+msgid "E.S. Zebulun"
+msgstr "E.S. Zebulun"
+
+#, fuzzy
+msgctxt "#9"
+msgid "E.S. Asher"
+msgstr "E.S. Asher"
+
+#, fuzzy
+msgctxt "#12"
+msgid "Canaan"
+msgstr "Canaan"
+
+#, fuzzy
+msgctxt "#13"
+msgid "Allen"
+msgstr "Allen"
+
+#, fuzzy
+msgctxt "#17"
+msgid "chaos"
+msgstr "chaos"
+
+#, fuzzy
+msgctxt "#18"
+msgid "KOS-MOS"
+msgstr "KOS-MOS"
+
+#, fuzzy
+msgctxt "#19"
+msgid "Shion"
+msgstr "Shion"
+
+#, fuzzy
+msgctxt "#20"
+msgid "Jin"
+msgstr "Jin"
+
+#, fuzzy
+msgctxt "#21"
+msgid "Ziggy"
+msgstr "Ziggy"
+
+#, fuzzy
+msgctxt "#22"
+msgid "MOMO"
+msgstr "MOMO"
+
+#, fuzzy
+msgctxt "#23"
+msgid "Jr."
+msgstr "Jr."
+
+#, fuzzy
+msgctxt "#24"
+msgid "E.S. Dinah"
+msgstr "E.S. Dinah"
+
+#, fuzzy
+msgctxt "#25"
+msgid "E.S. Zebulun"
+msgstr "E.S. Zebulun"
+
+#, fuzzy
+msgctxt "#26"
+msgid "E.S. Asher"
+msgstr "E.S. Asher"
+
+#, fuzzy
+msgctxt "#29"
+msgid "Canaan"
+msgstr "Canaan"
+
+#, fuzzy
+msgctxt "#30"
+msgid "Allen"
+msgstr "Allen"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#34"
+msgid "$init;$bg2;$shadow+1,+3,000000;$zoom13;$han1;$xx0,21;$colc0c0c0;"
+msgstr "$init;$bg2;$shadow+1,+3,000000;$zoom13;$han1;$xx0,21;$colc0c0c0;"
+
+#, fuzzy
+msgctxt "#54"
+msgid "Level 1"
+msgstr "Nivel 1"
+
+#, fuzzy
+msgctxt "#55"
+msgid "Level 2"
+msgstr "Nivel 2"
+
+#, fuzzy
+msgctxt "#56"
+msgid "Level 3"
+msgstr "Nivel 3"
+
+#, fuzzy
+msgctxt "#57"
+msgid "Level 4"
+msgstr "Nivel 4"
+
+#, fuzzy
+msgctxt "#58"
+msgid "Class A"
+msgstr "Clase A"
+
+#, fuzzy
+msgctxt "#59"
+msgid "Class B"
+msgstr "Clase B"
+
+#, fuzzy
+msgctxt "#60"
+msgid "Class C"
+msgstr "Clase C"
+
+#, fuzzy
+msgctxt "#61"
+msgid "Class D"
+msgstr "Clase D"
+
+#, fuzzy
+msgctxt "#62"
+msgid "Class E"
+msgstr "Clase E"
+
+#, fuzzy
+msgctxt "#63"
+msgid "Class F"
+msgstr "Clase F"
+
+#, fuzzy
+msgctxt "#64"
+msgid "Class G"
+msgstr "Clase G"
+
+#, fuzzy
+msgctxt "#65"
+msgid "Class H"
+msgstr "Clase H"
+
+#, fuzzy
+msgctxt "#66"
+msgid "Required C.Pt:"
+msgstr "PC necesarios:"
+
+#, fuzzy
+msgctxt "#67"
+msgid "Required S.Pt:"
+msgstr "PH necesarios:"
+
+#, fuzzy
+msgctxt "#68"
+msgid "Learn ?"
+msgstr "¿Aprender?"
+
+#, fuzzy
+msgctxt "#69"
+msgid "Yes"
+msgstr "Sí"
+
+#, fuzzy
+msgctxt "#70"
+msgid "No"
+msgstr "No"
+
+#, fuzzy
+msgctxt "#71"
+msgid "completed."
+msgstr "completada."
+
+#, fuzzy
+msgctxt "#72"
+msgid "classes are now available."
+msgstr "habilitado: nuevas clases."
+
+#, fuzzy
+msgctxt "#73"
+msgid "Warning: Unable to launch."
+msgstr "Advertencia: no se puede despegar."
+
+#, fuzzy
+msgctxt "#74"
+msgid "Select a copilot."
+msgstr "Elige un copiloto."
+
+#, fuzzy
+msgctxt "#75"
+msgid "Class Bonus:"
+msgstr "Bonificación de clase:"
+
+#, fuzzy
+msgctxt "#76"
+msgid "points earned."
+msgstr "puntos obtenidos."
+
+#, fuzzy
+msgctxt "#80"
+msgid "Spirit Touch"
+msgstr "Toque espiritual"
+
+#, fuzzy
+msgctxt "#81"
+msgid "Angel Blast"
+msgstr "Ráfaga angelical"
+
+#, fuzzy
+msgctxt "#82"
+msgid "Divine Seal"
+msgstr "Sello divino"
+
+#, fuzzy
+msgctxt "#83"
+msgid "Spirit Cross"
+msgstr "Cruz espiritual"
+
+#, fuzzy
+msgctxt "#84"
+msgid "Spirit Strike"
+msgstr "Golpe espiritual"
+
+#, fuzzy
+msgctxt "#85"
+msgid "Angel Shot"
+msgstr "Disparo angelical"
+
+#, fuzzy
+msgctxt "#86"
+msgid "Heaven's Wrath"
+msgstr "Ira celestial"
+
+#, fuzzy
+msgctxt "#87"
+msgid "T-ARTS 1"
+msgstr "T-ARTS 1"
+
+#, fuzzy
+msgctxt "#88"
+msgid "T-ARTS 2"
+msgstr "T-ARTS 2"
+
+#, fuzzy
+msgctxt "#89"
+msgid "T-ARTS 3"
+msgstr "T-ARTS 3"
+
+#, fuzzy
+msgctxt "#90"
+msgid "T-ARTS 4"
+msgstr "T-ARTS 4"
+
+#, fuzzy
+msgctxt "#91"
+msgid "T-ARTS 5"
+msgstr "T-ARTS 5"
+
+#, fuzzy
+msgctxt "#92"
+msgid "T-ARTS 6"
+msgstr "T-ARTS 6"
+
+#, fuzzy
+msgctxt "#93"
+msgid "T-ARTS 7"
+msgstr "T-ARTS 7"
+
+#, fuzzy
+msgctxt "#94"
+msgid "Electro Shot"
+msgstr "Electrodisparo"
+
+#, fuzzy
+msgctxt "#95"
+msgid "Electro Ray"
+msgstr "Electrorrayo"
+
+#, fuzzy
+msgctxt "#96"
+msgid "Electro Blast"
+msgstr "Electrorráfaga"
+
+#, fuzzy
+msgctxt "#101"
+msgid "Tempest Blade"
+msgstr "Hoja tempestad"
+
+#, fuzzy
+msgctxt "#102"
+msgid "Wind Blade"
+msgstr "Hoja de viento"
+
+#, fuzzy
+msgctxt "#103"
+msgid "Spinning Blade"
+msgstr "Hoja giratoria"
+
+#, fuzzy
+msgctxt "#104"
+msgid "Rising Blade"
+msgstr "Hoja ascendente"
+
+#, fuzzy
+msgctxt "#105"
+msgid "Tornado Strike"
+msgstr "Golpe tornado"
+
+#, fuzzy
+msgctxt "#106"
+msgid "Soaring Blade"
+msgstr "Hoja voladora"
+
+#, fuzzy
+msgctxt "#107"
+msgid "Raptor"
+msgstr "Raptor"
+
+#, fuzzy
+msgctxt "#108"
+msgid "Combo One"
+msgstr "Combo uno"
+
+#, fuzzy
+msgctxt "#109"
+msgid "Combo Two"
+msgstr "Combo dos"
+
+#, fuzzy
+msgctxt "#110"
+msgid "Combo Three"
+msgstr "Combo tres"
+
+#, fuzzy
+msgctxt "#111"
+msgid "Combo Four"
+msgstr "Combo cuatro"
+
+#, fuzzy
+msgctxt "#112"
+msgid "Burst Blow"
+msgstr "Golpe explosivo"
+
+#, fuzzy
+msgctxt "#113"
+msgid "Burst Blade"
+msgstr "Hoja explosiva"
+
+#, fuzzy
+msgctxt "#115"
+msgid "Robin"
+msgstr "Petirrojo"
+
+#, fuzzy
+msgctxt "#116"
+msgid "Lark"
+msgstr "Alondra"
+
+#, fuzzy
+msgctxt "#117"
+msgid "Sparrow"
+msgstr "Gorrión"
+
+#, fuzzy
+msgctxt "#122"
+msgid "Quick Draw"
+msgstr "Desenfunde rápido"
+
+#, fuzzy
+msgctxt "#123"
+msgid "Quick Turn"
+msgstr "Giro rápido"
+
+#, fuzzy
+msgctxt "#124"
+msgid "Quick Drop"
+msgstr "Caída rápida"
+
+#, fuzzy
+msgctxt "#125"
+msgid "Quick Shot"
+msgstr "Disparo rápido"
+
+#, fuzzy
+msgctxt "#126"
+msgid "Cross Hand"
+msgstr "Mano cruzada"
+
+#, fuzzy
+msgctxt "#127"
+msgid "Crossover"
+msgstr "Cruce"
+
+#, fuzzy
+msgctxt "#128"
+msgid "Killing Sky"
+msgstr "Cielo asesino"
+
+#, fuzzy
+msgctxt "#129"
+msgid "Hand-to-hand"
+msgstr "Cuerpo a cuerpo"
+
+#, fuzzy
+msgctxt "#130"
+msgid "Beam Blaster"
+msgstr "Cañón de haz"
+
+#, fuzzy
+msgctxt "#131"
+msgid "Beam Blaster"
+msgstr "Cañón de haz"
+
+#, fuzzy
+msgctxt "#132"
+msgid "Spiral Fist"
+msgstr "Puño espiral"
+
+#, fuzzy
+msgctxt "#133"
+msgid "Tornado Fist"
+msgstr "Puño tornado"
+
+#, fuzzy
+msgctxt "#134"
+msgid "Twin Dragons"
+msgstr "Dragón gemelo"
+
+#, fuzzy
+msgctxt "#135"
+msgid "Chained Blast"
+msgstr "Cadena de aura"
+
+#, fuzzy
+msgctxt "#136"
+msgid "Meteor Storm"
+msgstr "Lluvia de fuego"
+
+#, fuzzy
+msgctxt "#137"
+msgid "X-BUSTER"
+msgstr "X-BUSTER"
+
+#, fuzzy
+msgctxt "#138"
+msgid "Iron Blade"
+msgstr "Hoja de hierro"
+
+#, fuzzy
+msgctxt "#139"
+msgid "Kick"
+msgstr "Patada"
+
+#, fuzzy
+msgctxt "#140"
+msgid "Archery"
+msgstr "Arquería"
+
+#, fuzzy
+msgctxt "#141"
+msgid "Archery"
+msgstr "Arquería"
+
+#, fuzzy
+msgctxt "#142"
+msgid "Rain Arrow"
+msgstr "Flechas de luz"
+
+#, fuzzy
+msgctxt "#143"
+msgid "Starlight Arrow"
+msgstr "Flecha estelar"
+
+#, fuzzy
+msgctxt "#144"
+msgid "Golden Bow"
+msgstr "Arco dorado"
+
+#, fuzzy
+msgctxt "#145"
+msgid "Ice Rondo"
+msgstr "Rondó de hielo"
+
+#, fuzzy
+msgctxt "#146"
+msgid "Power Kick"
+msgstr "Patada feroz"
+
+#, fuzzy
+msgctxt "#147"
+msgid "Aird"
+msgstr "Aird"
+
+#, fuzzy
+msgctxt "#148"
+msgid "Meteor Blast"
+msgstr "Gran meteoro"
+
+#, fuzzy
+msgctxt "#149"
+msgid "Shield Lancer"
+msgstr "Lancero escudo"
+
+#, fuzzy
+msgctxt "#150"
+msgid "Gatling Gun"
+msgstr "Gatling"
+
+#, fuzzy
+msgctxt "#151"
+msgid "Gatling Gun"
+msgstr "Gatling"
+
+#, fuzzy
+msgctxt "#152"
+msgid "Shot Buster"
+msgstr "Cañón lanza"
+
+#, fuzzy
+msgctxt "#153"
+msgid "Gatling Blast"
+msgstr "Ráfaga Gatling"
+
+#, fuzzy
+msgctxt "#154"
+msgid "Wings of Light"
+msgstr "Alas de luz"
+
+#, fuzzy
+msgctxt "#155"
+msgid "Ice Storm"
+msgstr "Ventisca"
+
+#, fuzzy
+msgctxt "#156"
+msgid "Corona Buster"
+msgstr "Cañón corona"
+
+#, fuzzy
+msgctxt "#157"
+msgid "Odin Buster"
+msgstr "Cañón Odín"
+
+#, fuzzy
+msgctxt "#158"
+msgid "Moonlight Blade"
+msgstr "Hoja lunar"
+
+#, fuzzy
+msgctxt "#159"
+msgid "Ice Brand"
+msgstr "Filo glacial"
+
+#, fuzzy
+msgctxt "#160"
+msgid "Burst Veil"
+msgstr "Velo potenciado"
+
+#, fuzzy
+msgctxt "#161"
+msgid "Elemental Nocturne"
+msgstr "Nocturno elemental"
+
+#, fuzzy
+msgctxt "#162"
+msgid "Archangel's Requiem"
+msgstr "Réquiem del arcángel"
+
+#, fuzzy
+msgctxt "#163"
+msgid "Dual Spell Ray"
+msgstr "Dual Spell Ray"
+
+#, fuzzy
+msgctxt "#164"
+msgid "Cross Fist"
+msgstr "Puño cruzado"
+
+#, fuzzy
+msgctxt "#165"
+msgid "Gravity Bomb"
+msgstr "Bomba gravitatoria"
+
+#, fuzzy
+msgctxt "#166"
+msgid "Silver Duet"
+msgstr "Dúo plateado"
+
+#, fuzzy
+msgctxt "#167"
+msgid "Power Strike"
+msgstr "Golpe poderoso"
+
+#, fuzzy
+msgctxt "#168"
+msgid "Lion Heart"
+msgstr "Corazón de león"
+
+#, fuzzy
+msgctxt "#169"
+msgid "Cross Hilbert"
+msgstr "Cruz Hilbert"
+
+#, fuzzy
+msgctxt "#170"
+msgid "Blessed Miracle"
+msgstr "Milagro bendito"
+
+#, fuzzy
+msgctxt "#171"
+msgid "Twin Buster"
+msgstr "Cañón gemelo"
+
+#, fuzzy
+msgctxt "#172"
+msgid "Grand Ronde"
+msgstr "Gran ronda"
+
+#, fuzzy
+msgctxt "#173"
+msgid "Fiery Ritornelle"
+msgstr "Ritornelo ígneo"
+
+#, fuzzy
+msgctxt "#174"
+msgid "Phoenix Blade"
+msgstr "Hoja fénix"
+
+#, fuzzy
+msgctxt "#175"
+msgid "MINIGUN"
+msgstr "MINIGUN"
+
+#, fuzzy
+msgctxt "#176"
+msgid "MICRO MISSILE"
+msgstr "MICROMISILES"
+
+#, fuzzy
+msgctxt "#177"
+msgid "DRAGON BLADE"
+msgstr "HOJA DRAGÓN"
+
+#, fuzzy
+msgctxt "#178"
+msgid "X-BUSTER"
+msgstr "X-BUSTER"
+
+#, fuzzy
+msgctxt "#180"
+msgid "Items"
+msgstr "Objetos"
+
+#, fuzzy
+msgctxt "#181"
+msgid "Key Items"
+msgstr "Objetos clave"
+
+#, fuzzy
+msgctxt "#182"
+msgid "Equipped Skills"
+msgstr "Hab. equipadas"
+
+#, fuzzy
+msgctxt "#183"
+msgid "Ether Skills"
+msgstr "Hab. de éter"
+
+#, fuzzy
+msgctxt "#184"
+msgid "Mastered Skills"
+msgstr "Hab. dominadas"
+
+#, fuzzy
+msgctxt "#185"
+msgid "Class"
+msgstr "Clase"
+
+#, fuzzy
+msgctxt "#186"
+msgid "Battle Party"
+msgstr "Grupo de combate"
+
+#, fuzzy
+msgctxt "#187"
+msgid "Leader Select"
+msgstr "Elegir líder"
+
+#, fuzzy
+msgctxt "#188"
+msgid "Single Attacks"
+msgstr "Ataques individuales"
+
+#, fuzzy
+msgctxt "#189"
+msgid "Double Attacks"
+msgstr "Ataques dobles"
+
+#, fuzzy
+msgctxt "#190"
+msgid "Normal Attacks"
+msgstr "Ataques normales"
+
+#, fuzzy
+msgctxt "#191"
+msgid "Special Attacks"
+msgstr "Ataques especiales"
+
+#, fuzzy
+msgctxt "#192"
+msgid "Equip Accessories"
+msgstr "Equipar accesorios"
+
+#, fuzzy
+msgctxt "#193"
+msgid "Skills"
+msgstr "Habilidades"
+
+#, fuzzy
+msgctxt "#194"
+msgid "Tutorial"
+msgstr "Tutorial"
+
+#, fuzzy
+msgctxt "#195"
+msgid "Character Select"
+msgstr "Elegir personaje"
+
+#, fuzzy
+msgctxt "#196"
+msgid "Ether"
+msgstr "Éter"
+
+#, fuzzy
+msgctxt "#200"
+msgid "Clear data check"
+msgstr "Verificar datos completados"
+
+#, fuzzy
+msgctxt "#201"
+msgid "Xenosaga EPISODE I"
+msgstr "Xenosaga EPISODE I"
+
+#, fuzzy
+msgctxt "#202"
+msgid "Xenosaga EPISODE I Reloaded"
+msgstr "Xenosaga EPISODE I Reloaded"
+
+#, fuzzy
+msgctxt "#203"
+msgid "Xenosaga Freaks"
+msgstr "Xenosaga Freaks"
+
+#, fuzzy
+msgctxt "#206"
+msgid "Unlock special features for Xenosaga EPISODE II!"
+msgstr "¡Desbloquea extras para Xenosaga EPISODE II!"
+
+#, fuzzy
+msgctxt "#207"
+msgid "Check for Xenosaga EPISODE I clear data?"
+msgstr "¿Buscar datos completados de Xenosaga EPISODE I?"
+
+#, fuzzy
+msgctxt "#208"
+msgid "No memory card (8MB) (for PlayStation®2) inserted."
+msgstr "Sin tarjeta de memoria (8MB) (para PlayStation®2)."
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#209"
+msgid "$rx116;$ry30;No clear data found."
+msgstr "$rx116;$ry30;No hay datos completados."
+
+#, fuzzy
+msgctxt "#210"
+msgid "Clear data check complete."
+msgstr "Verificación completada."
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#211"
+msgid "$rx126;Feature unlocked!"
+msgstr "$rx126;¡Extra desbloqueado!"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#212"
+msgid "$rx60;Earned Swimsuit for Ziggy and KOS-MOS."
+msgstr "$rx60;Traje de baño de Ziggy y KOS-MOS obtenido."
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#213"
+msgid "$rx100;Earned Geriatric Swimsuit."
+msgstr "$rx100;Traje de baño geriátrico obtenido."
+
+#, fuzzy
+msgctxt "#214"
+msgid "End setup?"
+msgstr "¿Terminar la configuración?"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#215"
+msgid "$rx152;EPISODE I"
+msgstr "$rx152;EPISODE I"
+
+#, fuzzy
+msgctxt "#216"
+msgid "Xenocomi (unavailable in the US)"
+msgstr "Xenocomi (no disponible en EE. UU.)"
+
+#, fuzzy
+msgctxt "#218"
+msgid ""
+"Checking memory card (8MB) (for PlayStation®2) in\n"
+"MEMORY CARD slot ０."
+msgstr ""
+"Comprobando la tarjeta de memoria (8MB) (para\n"
+"PlayStation®2) de la ranura de MEMORY CARD ０."
+
+#, fuzzy
+msgctxt "#219"
+msgid ""
+"Please do not remove memory card (8MB) (for PlayStation®2)\n"
+"or switch off the console."
+msgstr ""
+"No retires la tarjeta de memoria (8MB) (para PlayStation®2)\n"
+"ni apagues la consola."
+
+#, fuzzy
+msgctxt "#220"
+msgid ""
+"No memory card (8MB) (for PlayStation®2) found in\n"
+"MEMORY CARD slot 1."
+msgstr ""
+"No hay tarjeta de memoria (8MB) (para PlayStation®2)\n"
+"en la ranura de MEMORY CARD 1."
+
+#, fuzzy
+msgctxt "#221"
+msgid ""
+"Memory card (8MB) (for PlayStation®2) in MEMORY CARD\n"
+"slot 1 is unformatted."
+msgstr ""
+"La tarjeta de memoria (8MB) (para PlayStation®2) de\n"
+"la ranura de MEMORY CARD 1 no está formateada."
+
+#, fuzzy
+msgctxt "#222"
+msgid ""
+"No memory card (8MB) (for PlayStation®2) found in\n"
+"MEMORY CARD slot 2."
+msgstr ""
+"No hay tarjeta de memoria (8MB) (para PlayStation®2)\n"
+"en la ranura de MEMORY CARD 2."
+
+#, fuzzy
+msgctxt "#223"
+msgid ""
+"Memory card (8MB) (for PlayStation®2) in MEMORY CARD\n"
+"slot 2 is unformatted."
+msgstr ""
+"La tarjeta de memoria (8MB) (para PlayStation®2) de\n"
+"la ranura de MEMORY CARD 2 no está formateada."
+
+#, fuzzy
+msgctxt "#224"
+msgid "Please insert a memory card (8MB) (for PlayStation®2)"
+msgstr "Inserta tarjeta de memoria (8MB) (para PlayStation®2)"
+
+#, fuzzy
+msgctxt "#225"
+msgid "with the clear data for"
+msgstr "con los datos completados de"
+
+#, fuzzy
+msgctxt "#226"
+msgid ":  End Setup"
+msgstr ":  Terminar"
+
+#, fuzzy
+msgctxt "#227"
+msgid ":  Back"
+msgstr ":  Volver"
+
+#, fuzzy
+msgctxt "#229"
+msgid "Acquired item."
+msgstr "Obtuviste un objeto."
+
+#, fuzzy
+msgctxt "#231"
+msgid "You already have 99 of this item."
+msgstr "Ya tienes 99 unidades de este objeto."
+
+#, fuzzy
+msgctxt "#232"
+msgid ":  End"
+msgstr ":  Salir"
+
+#, fuzzy
+msgctxt "#233"
+msgid ":  Next"
+msgstr ":  Seguir"
+
+#, fuzzy
+msgctxt "#239"
+msgid "None"
+msgstr "Ninguno"
+
+#, fuzzy
+msgctxt "#240"
+msgid "Bm"
+msgstr "Hz"
+
+#, fuzzy
+msgctxt "#241"
+msgid "Au"
+msgstr "Au"
+
+#, fuzzy
+msgctxt "#242"
+msgid "Th"
+msgstr "Ry"
+
+#, fuzzy
+msgctxt "#243"
+msgid "Fi"
+msgstr "Fu"
+
+#, fuzzy
+msgctxt "#244"
+msgid "Ic"
+msgstr "Hi"
+
+#, fuzzy
+msgctxt "#245"
+msgid "Pc"
+msgstr "Pe"
+
+#, fuzzy
+msgctxt "#246"
+msgid "Sl"
+msgstr "Co"
+
+#, fuzzy
+msgctxt "#247"
+msgid "St"
+msgstr "Go"
+
+#, fuzzy
+msgctxt "#262"
+msgid "Equip"
+msgstr "Equipar"
+
+#, fuzzy
+msgctxt "#263"
+msgid "Remove"
+msgstr "Quitar"
+
+#, fuzzy
+msgctxt "#264"
+msgid "Remove"
+msgstr "Quitar"
+
+#, fuzzy
+msgctxt "#265"
+msgid "Remove all"
+msgstr "Quitar todo"
+
+#, fuzzy
+msgctxt "#274"
+msgid "Single"
+msgstr "Uno"
+
+#, fuzzy
+msgctxt "#275"
+msgid "All"
+msgstr "Todos"
+
+#, fuzzy
+msgctxt "#276"
+msgid "Front"
+msgstr "Frente"
+
+#, fuzzy
+msgctxt "#277"
+msgid "Straight"
+msgstr "Línea"
+
+#, fuzzy
+msgctxt "#279"
+msgid "B B"
+msgstr "B B"
+
+#, fuzzy
+msgctxt "#280"
+msgid "B C"
+msgstr "B C"
+
+#, fuzzy
+msgctxt "#281"
+msgid "C C"
+msgstr "C C"
+
+#, fuzzy
+msgctxt "#282"
+msgid "C B"
+msgstr "C B"
+
+#, fuzzy
+msgctxt "#283"
+msgid "B/C"
+msgstr "B/C"
+
+#, fuzzy
+msgctxt "#284"
+msgid "A/B/C"
+msgstr "A/B/C"
+
+#, fuzzy
+msgctxt "#285"
+msgid "A"
+msgstr "A"
+
+#, fuzzy
+msgctxt "#286"
+msgid "A A"
+msgstr "A A"
+
+#, fuzzy
+msgctxt "#287"
+msgid "C"
+msgstr "C"
+
+#, fuzzy
+msgctxt "#288"
+msgid "B/C"
+msgstr "B/C"
+
+#, fuzzy
+msgctxt "#289"
+msgid "A/B/C"
+msgstr "A/B/C"
+
+#, fuzzy
+msgctxt "#290"
+msgid "C C"
+msgstr "C C"
+
+#, fuzzy
+msgctxt "#294"
+msgid "Physical"
+msgstr "Físico"
+
+#, fuzzy
+msgctxt "#295"
+msgid "Ether"
+msgstr "Éter"
+
+#, fuzzy
+msgctxt "#296"
+msgid "Support"
+msgstr "Apoyo"
+
+#, fuzzy
+msgctxt "#297"
+msgid "S. Atk"
+msgstr "At. esp."
+
+#, fuzzy
+msgctxt "#300"
+msgid "Short"
+msgstr "Cerca"
+
+#, fuzzy
+msgctxt "#301"
+msgid "Long"
+msgstr "Lejos"
+
+#, fuzzy
+msgctxt "#304"
+msgid "Slash"
+msgstr "Corte"
+
+#, fuzzy
+msgctxt "#305"
+msgid "Pierce"
+msgstr "Perforación"
+
+#, fuzzy
+msgctxt "#306"
+msgid "Strike"
+msgstr "Golpe"
+
+#, fuzzy
+msgctxt "#307"
+msgid "Fire"
+msgstr "Fuego"
+
+#, fuzzy
+msgctxt "#308"
+msgid "Ice"
+msgstr "Hielo"
+
+#, fuzzy
+msgctxt "#309"
+msgid "Thunder"
+msgstr "Rayo"
+
+#, fuzzy
+msgctxt "#310"
+msgid "Aura"
+msgstr "Aura"
+
+#, fuzzy
+msgctxt "#311"
+msgid "Beam"
+msgstr "Haz"
+
+#, fuzzy
+msgctxt "#312"
+msgid "Special"
+msgstr "Especial"
+
+#, fuzzy
+msgctxt "#315"
+msgid "Normal"
+msgstr "Normal"
+
+#, fuzzy
+msgctxt "#316"
+msgid "Down only"
+msgstr "Solo Derribo"
+
+#, fuzzy
+msgctxt "#319"
+msgid "Conditions"
+msgstr "Condiciones"
+
+#, fuzzy
+msgctxt "#320"
+msgid "Stock ×"
+msgstr "Stock ×"
+
+#, fuzzy
+msgctxt "#321"
+msgid "Air"
+msgstr "Elevación"
+
+#, fuzzy
+msgctxt "#322"
+msgid "Down"
+msgstr "Derribo"
+
+#, fuzzy
+msgctxt "#323"
+msgid ""
+"Clear Status\n"
+"Effects"
+msgstr ""
+"Curar efectos\n"
+"de estado"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#324"
+msgid "$zoom10,13;Burst Veil$zoom13;"
+msgstr "$zoom10,13;Velo potenciado$zoom13;"
+
+#, fuzzy
+msgctxt "#325"
+msgid "L Slow"
+msgstr "Lentitud L"
+
+#, fuzzy
+msgctxt "#326"
+msgid "H Lost"
+msgstr "Pérdida H"
+
+#, fuzzy
+msgctxt "#327"
+msgid "Best Ally"
+msgstr "Mejor aliado"
+
+#, fuzzy
+msgctxt "#328"
+msgid "Reserve"
+msgstr "Reserva"
+
+#, fuzzy
+msgctxt "#329"
+msgid "Reserve"
+msgstr "Reserva"
+
+#, fuzzy
+msgctxt "#330"
+msgid "IA"
+msgstr "IA"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#331"
+msgid "$zoom12,12;Special$zoom12;"
+msgstr "$zoom12,12;Especial$zoom12;"
+
+#, fuzzy
+msgctxt "#334"
+msgid "100%"
+msgstr "100%"
+
+#, fuzzy
+msgctxt "#335"
+msgid "200%"
+msgstr "200%"
+
+#, fuzzy
+msgctxt "#336"
+msgid "300%"
+msgstr "300%"
+
+#, fuzzy
+msgctxt "#338"
+msgid "Weak vs. Physical Attacks."
+msgstr "Débil contra ataques físicos."
+
+#, fuzzy
+msgctxt "#339"
+msgid "Weak vs. Ether Attacks."
+msgstr "Débil contra ataques de éter."
+
+#, fuzzy
+msgctxt "#340"
+msgid "Unable to analyze."
+msgstr "No se puede analizar."
+
+#, fuzzy
+msgctxt "#342"
+msgid "Cursor memory"
+msgstr "Memoria del cursor"
+
+#, fuzzy
+msgctxt "#343"
+msgid "Menu controls"
+msgstr "Controles del menú"
+
+#, fuzzy
+msgctxt "#344"
+msgid "Audio output"
+msgstr "Salida de audio"
+
+#, fuzzy
+msgctxt "#345"
+msgid "Vibration"
+msgstr "Vibración"
+
+#, fuzzy
+msgctxt "#346"
+msgid "Subtitles"
+msgstr "Subtítulos"
+
+#, fuzzy
+msgctxt "#347"
+msgid "Screen adjustment"
+msgstr "Ajuste de pantalla"
+
+#, fuzzy
+msgctxt "#348"
+msgid "Default"
+msgstr "Predeterminado"
+
+#, fuzzy
+msgctxt "#349"
+msgid "Optical digital output"
+msgstr "Salida digital óptica"
+
+#, fuzzy
+msgctxt "#350"
+msgid "Game controls"
+msgstr "Controles"
+
+#, fuzzy
+msgctxt "#351"
+msgid "Radar display"
+msgstr "Radar"
+
+#, fuzzy
+msgctxt "#355"
+msgid "OFF"
+msgstr "NO"
+
+#, fuzzy
+msgctxt "#356"
+msgid "ON"
+msgstr "SÍ"
+
+#, fuzzy
+msgctxt "#357"
+msgid "Mono"
+msgstr "Mono"
+
+#, fuzzy
+msgctxt "#358"
+msgid "Stereo"
+msgstr "Estéreo"
+
+#, fuzzy
+msgctxt "#359"
+msgid "Dolby Pro Logic II"
+msgstr "Dolby Pro Logic II"
+
+#, fuzzy
+msgctxt "#361"
+msgid "Basic"
+msgstr "Básico"
+
+#, fuzzy
+msgctxt "#362"
+msgid "Expert"
+msgstr "Experto"
+
+#, fuzzy
+msgctxt "#363"
+msgid "2ch"
+msgstr "2ch"
+
+#, fuzzy
+msgctxt "#364"
+msgid "Dolby Digital 5.1"
+msgstr "Dolby Digital 5.1"
+
+#, fuzzy
+msgctxt "#365"
+msgid "OFF"
+msgstr "NO"
+
+#, fuzzy
+msgctxt "#366"
+msgid "ON"
+msgstr "SÍ"
+
+#, fuzzy
+msgctxt "#367"
+msgid "English"
+msgstr "Inglés"
+
+#, fuzzy
+msgctxt "#368"
+msgid "German"
+msgstr "Alemán"
+
+#, fuzzy
+msgctxt "#369"
+msgid "French"
+msgstr "Francés"
+
+#, fuzzy
+msgctxt "#370"
+msgid "Italian"
+msgstr "Italiano"
+
+#, fuzzy
+msgctxt "#371"
+msgid "Spanish"
+msgstr "Español"
+
+#, fuzzy
+msgctxt "#378"
+msgid "Set cursor position memory."
+msgstr "Activa o desactiva la memoria del cursor."
+
+#, fuzzy
+msgctxt "#379"
+msgid ""
+"Set menu controls to basic or expert (expert mode has\n"
+"shortened menu controls)."
+msgstr ""
+"Elige controles del menú básicos o expertos (el modo\n"
+"experto acorta los controles del menú)."
+
+#, fuzzy
+msgctxt "#380"
+msgid "Set audio output to mono, stereo, or Dolby Pro Logic II."
+msgstr "Salida de audio: mono, estéreo o Dolby Pro Logic II."
+
+#, fuzzy
+msgctxt "#381"
+msgid "Set analog controller (DUALSHOCK®2) vibration."
+msgstr "Vibración del control analógico (DUALSHOCK®2)."
+
+#, fuzzy
+msgctxt "#382"
+msgid "Set subtitle display for the event movies."
+msgstr "Configura los subtítulos de las escenas de video."
+
+#, fuzzy
+msgctxt "#383"
+msgid "Adjust screen position."
+msgstr "Ajusta la posición de la pantalla."
+
+#, fuzzy
+msgctxt "#384"
+msgid "Return to default settings."
+msgstr "Restablece la configuración predeterminada."
+
+#, fuzzy
+msgctxt "#385"
+msgid "Set optical digital output to 5.1 or 2ch."
+msgstr "Configura la salida digital óptica: 5.1 o 2ch."
+
+#, fuzzy
+msgctxt "#386"
+msgid "Display game controls."
+msgstr "Muestra los controles del juego."
+
+#, fuzzy
+msgctxt "#390"
+msgid "Set audio output to mono or stereo."
+msgstr "Configura la salida de audio: mono o estéreo."
+
+#, fuzzy
+msgctxt "#391"
+msgid ""
+"Set optical digital output to 5.1 or 2ch.\n"
+"Please make sure to connect the optical digital cable."
+msgstr ""
+"Configura la salida digital óptica: 5.1 o 2ch.\n"
+"Asegúrate de conectar el cable digital óptico."
+
+#, fuzzy
+msgctxt "#400"
+msgid "????"
+msgstr "????"
+
+#, fuzzy
+msgctxt "#402"
+msgid ""
+"Use items.\n"
+"Use the left and right directional buttons to switch pages."
+msgstr ""
+"Usa objetos.\n"
+"Cambia de página con los botones izquierda y derecha."
+
+#, fuzzy
+msgctxt "#403"
+msgid "Select character."
+msgstr "Elige un personaje."
+
+#, fuzzy
+msgctxt "#410"
+msgid "Use items."
+msgstr "Usa objetos."
+
+#, fuzzy
+msgctxt "#411"
+msgid "Use Ether."
+msgstr "Usa éteres."
+
+#, fuzzy
+msgctxt "#412"
+msgid "Learn skills."
+msgstr "Aprende habilidades."
+
+#, fuzzy
+msgctxt "#413"
+msgid "View Tech."
+msgstr "Mira las técnicas."
+
+#, fuzzy
+msgctxt "#414"
+msgid "View character stats and equip skills."
+msgstr "Mira los parámetros y equipa habilidades."
+
+#, fuzzy
+msgctxt "#415"
+msgid "Change battle party and leader."
+msgstr "Cambia el grupo de combate y el líder."
+
+#, fuzzy
+msgctxt "#416"
+msgid "Access U.M.N. simulator."
+msgstr "Accede al simulador de la U.M.N."
+
+#, fuzzy
+msgctxt "#417"
+msgid "View GS info."
+msgstr "Mira la información de la Ruta SG."
+
+#, fuzzy
+msgctxt "#418"
+msgid "View Segment File info."
+msgstr "Mira la información del Archivo de Segmento."
+
+#, fuzzy
+msgctxt "#419"
+msgid "Change settings."
+msgstr "Cambia la configuración."
+
+#, fuzzy
+msgctxt "#420"
+msgid ""
+"View Key Items.\n"
+"Use the left and right directional buttons to switch pages."
+msgstr ""
+"Mira los objetos clave.\n"
+"Cambia de página con los botones izquierda y derecha."
+
+#, fuzzy
+msgctxt "#421"
+msgid "Change display order."
+msgstr "Cambia el orden de la lista."
+
+#, fuzzy
+msgctxt "#422"
+msgid "View Tech."
+msgstr "Mira las técnicas."
+
+#, fuzzy
+msgctxt "#423"
+msgid "View Double Tech."
+msgstr "Mira las técnicas dobles."
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#424"
+msgid ""
+"Press &03 to set Equipped Skills and press &01 to remove.\n"
+"Use the left and right directional buttons to switch pages."
+msgstr ""
+"Presiona &03 para equipar habilidades y &01 para quitarlas.\n"
+"Cambia de página con los botones izquierda y derecha."
+
+#, fuzzy
+msgctxt "#425"
+msgid ""
+"View Ether Skills.\n"
+"Use the left and right directional buttons to switch pages."
+msgstr ""
+"Mira las habilidades de éter.\n"
+"Cambia de página con los botones izquierda y derecha."
+
+#, fuzzy
+msgctxt "#426"
+msgid ""
+"View Mastered Skills.\n"
+"Use the left and right directional buttons to switch pages."
+msgstr ""
+"Mira las habilidades dominadas.\n"
+"Cambia de página con los botones izquierda y derecha."
+
+#, fuzzy
+msgctxt "#427"
+msgid ""
+"View all skills.\n"
+"Use the left and right directional buttons to switch pages."
+msgstr ""
+"Mira todas las habilidades.\n"
+"Cambia de página con los botones izquierda y derecha."
+
+#, fuzzy
+msgctxt "#428"
+msgid ""
+"Change combatants and reserves.\n"
+"Press the START button to change the leader."
+msgstr ""
+"Cambia combatientes y reservas.\n"
+"Presiona START para cambiar el líder."
+
+#, fuzzy
+msgctxt "#429"
+msgid ""
+"Change the on-screen character. It is also possible to\n"
+"change the leader by pressing the START button."
+msgstr ""
+"Cambia el personaje en pantalla. También puedes\n"
+"cambiar el líder presionando START."
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#431"
+msgid ""
+"Change combatants, reserves, and copilots.\n"
+"Press &01 to send all copilots to standby."
+msgstr ""
+"Cambia combatientes, reservas y copilotos.\n"
+"Presiona &01 para enviar los copilotos a la reserva."
+
+#, fuzzy
+msgctxt "#432"
+msgid ""
+"Change the on-screen character. It is also possible to\n"
+"change the leader by pressing the START button."
+msgstr ""
+"Cambia el personaje en pantalla. También puedes\n"
+"cambiar el líder presionando START."
+
+#, fuzzy
+msgctxt "#433"
+msgid "View stats and equip accessories."
+msgstr "Mira los parámetros y equipa accesorios."
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#434"
+msgid ""
+"Press &03 to equip accessories.\n"
+"Press &01 to remove equipped accessories."
+msgstr ""
+"Presiona &03 para equipar accesorios.\n"
+"Presiona &01 para quitar los accesorios equipados."
+
+#, fuzzy
+msgctxt "#435"
+msgid ""
+"Learn skills.\n"
+"Use the left and right directional buttons to switch pages."
+msgstr ""
+"Aprende habilidades.\n"
+"Cambia de página con los botones izquierda y derecha."
+
+#, fuzzy
+msgctxt "#436"
+msgid ""
+"Class level qualifications not met.\n"
+"Unable to unlock class or learn skills."
+msgstr ""
+"No cumples los requisitos de nivel de clase.\n"
+"No puedes abrir la clase ni aprender habilidades."
+
+#, fuzzy
+msgctxt "#437"
+msgid "Explains how to learn skills."
+msgstr "Explica cómo aprender habilidades."
+
+#, fuzzy
+msgctxt "#440"
+msgid ""
+"Learned Jr. and MOMO's Double Attack,\n"
+"\"Silver Duet\"."
+msgstr ""
+"Jr. y MOMO aprendieron el Ataque Doble\n"
+"\"Dúo plateado\"."
+
+#, fuzzy
+msgctxt "#441"
+msgid ""
+"Learned Shion and KOS-MOS' Double Attack,\n"
+"\"Gravity Bomb\"."
+msgstr ""
+"Shion y KOS-MOS aprendieron el Ataque Doble\n"
+"\"Bomba gravitatoria\"."
+
+#, fuzzy
+msgctxt "#442"
+msgid ""
+"Learned Jin and Shion's Double Attack,\n"
+"\"Phoenix Blade\"."
+msgstr ""
+"Jin y Shion aprendieron el Ataque Doble\n"
+"\"Hoja fénix\"."
+
+#, fuzzy
+msgctxt "#443"
+msgid ""
+"Learned chaos and MOMO's Double Attack,\n"
+"\"Blessed Miracle\"."
+msgstr ""
+"chaos y MOMO aprendieron el Ataque Doble\n"
+"\"Milagro bendito\"."
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#446"
+msgid "$rx75;$ry30;Exit U.M.N.?"
+msgstr "$rx75;$ry30;¿Salir de la U.M.N.?"
+
+#, fuzzy
+msgctxt "#450"
+msgid "Next"
+msgstr "Siguiente"
+
+#, fuzzy
+msgctxt "#451"
+msgid "Back"
+msgstr "Volver"
+
+#, fuzzy
+msgctxt "#452"
+msgid "End"
+msgstr "Terminar"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#469"
+msgid "$rx47;for Centerlink"
+msgstr "$rx47;para Centerlink"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#470"
+msgid "$rx43;Old Miltia (14 years ago)"
+msgstr "$rx43;Antigua Miltia (hace 14 años)"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#471"
+msgid "$rx20;Subconscious Domain (Summer)"
+msgstr "$rx20;Dominio subconsciente (verano)"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#472"
+msgid "$rx20;Subconscious Domain (Winter)"
+msgstr "$rx20;Dominio subconsciente (invierno)"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#473"
+msgid "$rx20;Dämmerung Restricted Area"
+msgstr "$rx20;Zona restringida del Dämmerung"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#474"
+msgid "$rx55;Ormus Stronghold"
+msgstr "$rx55;Fortaleza de Ormus"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#475"
+msgid "$rx60;Submerged City"
+msgstr "$rx60;Ciudad sumergida"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#476"
+msgid "$rx80;Labyrinthos"
+msgstr "$rx80;Labyrinthos"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#477"
+msgid "$rx80;Ω System"
+msgstr "$rx80;Sistema Ω"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#480"
+msgid "$zoom15;Old Miltia (14 years ago)$zoom13;"
+msgstr "$zoom15;Antigua Miltia (hace 14 años)$zoom13;"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#481"
+msgid "$zoom15;Subconscious Domain (Summer)$zoom13;"
+msgstr "$zoom15;Dominio subconsciente (verano)$zoom13;"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#482"
+msgid "$zoom15;Subconscious Domain (Winter)$zoom13;"
+msgstr "$zoom15;Dominio subconsciente (invierno)$zoom13;"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#483"
+msgid "$zoom15;Dämmerung Restricted Area$zoom13;"
+msgstr "$zoom15;Zona restringida del Dämmerung$zoom13;"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#484"
+msgid "$zoom15;Ormus Stronghold$zoom13;"
+msgstr "$zoom15;Fortaleza de Ormus$zoom13;"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#485"
+msgid "$zoom15;Submerged City$zoom13;"
+msgstr "$zoom15;Ciudad sumergida$zoom13;"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#486"
+msgid "$zoom15;Labyrinthos$zoom13;"
+msgstr "$zoom15;Labyrinthos$zoom13;"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#487"
+msgid "$zoom15;Ω System$zoom13;"
+msgstr "$zoom15;Sistema Ω$zoom13;"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#490"
+msgid "$rx52;Select start type."
+msgstr "$rx52;Elige el tipo de inicio."
+
+#, fuzzy
+msgctxt "#491"
+msgid "Character"
+msgstr "Personaje"
+
+#, fuzzy
+msgctxt "#492"
+msgid "E.S."
+msgstr "E.S."
+
+#, fuzzy
+msgctxt "#493"
+msgid "Launch"
+msgstr "Despegar"
+
+#, fuzzy
+msgctxt "#494"
+msgid "Launch"
+msgstr "Despegar"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#495"
+msgid "$rx83;Character"
+msgstr "$rx83;Personaje"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#496"
+msgid "$rx100;E.S."
+msgstr "$rx100;E.S."
+
+#, fuzzy
+msgctxt "#512"
+msgid "Save"
+msgstr "Guardar"
+
+#, fuzzy
+msgctxt "#513"
+msgid "Load"
+msgstr "Cargar"
+
+#, fuzzy
+msgctxt "#514"
+msgid "MEMORY CARD slot 1"
+msgstr "MEMORY CARD 1"
+
+#, fuzzy
+msgctxt "#515"
+msgid "MEMORY CARD slot 2"
+msgstr "MEMORY CARD 2"
+
+#, fuzzy
+msgctxt "#516"
+msgid "Cancel"
+msgstr "Cancelar"
+
+#, fuzzy
+msgctxt "#517"
+msgid "HDD"
+msgstr "HDD"
+
+#, fuzzy
+msgctxt "#520"
+msgid "Yes"
+msgstr "Sí"
+
+#, fuzzy
+msgctxt "#521"
+msgid "No"
+msgstr "No"
+
+#, fuzzy
+msgctxt "#522"
+msgid "Is this okay?"
+msgstr "¿Confirmas?"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#523"
+msgid "$zoom11,13;Format?$zoom12,13;"
+msgstr "$zoom11,13;¿Formatear?$zoom12,13;"
+
+#, fuzzy
+msgctxt "#524"
+msgid "Overwrite?"
+msgstr "¿Sobrescribir?"
+
+#, fuzzy
+msgctxt "#525"
+msgid "Exit?"
+msgstr "¿Salir?"
+
+#, fuzzy
+msgctxt "#527"
+msgid "Checking..."
+msgstr "Comprobando..."
+
+#, fuzzy
+msgctxt "#528"
+msgid "New save"
+msgstr "Nuevo guardado"
+
+#, fuzzy
+msgctxt "#529"
+msgid "No data found."
+msgstr "No hay datos."
+
+#, fuzzy
+msgctxt "#531"
+msgid "Select MEMORY CARD slot to save."
+msgstr "Elige la ranura de MEMORY CARD para guardar."
+
+#, fuzzy
+msgctxt "#532"
+msgid "Select MEMORY CARD slot to load."
+msgstr "Elige la ranura de MEMORY CARD para cargar."
+
+#, fuzzy
+msgctxt "#533"
+msgid "Select save location."
+msgstr "Elige dónde guardar."
+
+#, fuzzy
+msgctxt "#534"
+msgid "Select data to load."
+msgstr "Elige los datos que quieres cargar."
+
+#, fuzzy
+msgctxt "#535"
+msgid "Overwriting selected data."
+msgstr "Sobrescribiendo los datos seleccionados."
+
+#, fuzzy
+msgctxt "#536"
+msgid "Loading selected data."
+msgstr "Cargando los datos seleccionados."
+
+#, fuzzy
+msgctxt "#539"
+msgid ""
+"Formatting memory card (8MB) (for PlayStation®2) in\n"
+"MEMORY CARD slot ０. Please do not remove\n"
+"memory card (8MB) (for PlayStation®2) or switch off the console."
+msgstr ""
+"Formateando la tarjeta de memoria (8MB) (para PlayStation®2)\n"
+"de la ranura de MEMORY CARD ０. No retires la tarjeta de\n"
+"memoria (8MB) (para PlayStation®2) ni apagues la consola."
+
+#, fuzzy
+msgctxt "#540"
+msgid "Format completed."
+msgstr "Formato completado."
+
+#, fuzzy
+msgctxt "#541"
+msgid ""
+"Format failed! Check memory card (8MB) (for PlayStation®2)\n"
+"in MEMORY CARD slot ０ and try again."
+msgstr ""
+"¡Error al formatear! Revisa la tarjeta de memoria (8MB)\n"
+"(para PlayStation®2) de la ranura de MEMORY CARD ０\n"
+"e inténtalo de nuevo."
+
+#, fuzzy
+msgctxt "#543"
+msgid ""
+"No memory card (8MB) (for PlayStation®2) found\n"
+"in MEMORY CARD slot ０."
+msgstr ""
+"No hay tarjeta de memoria (8MB) (para PlayStation®2)\n"
+"en la ranura de MEMORY CARD ０."
+
+#, fuzzy
+msgctxt "#544"
+msgid ""
+"Checking memory card (8MB) (for PlayStation®2) in\n"
+"MEMORY CARD slot ０. Please do not remove\n"
+"memory card (8MB) (for PlayStation®2) or switch off the console."
+msgstr ""
+"Comprobando la tarjeta de memoria (8MB) (para PlayStation®2)\n"
+"de la ranura de MEMORY CARD ０. No retires la tarjeta de\n"
+"memoria (8MB) (para PlayStation®2) ni apagues la consola."
+
+#, fuzzy
+msgctxt "#545"
+msgid ""
+"Unable to access memory card (8MB) (for PlayStation®2) in\n"
+"MEMORY CARD slot ０."
+msgstr ""
+"No se puede acceder a la tarjeta de memoria (8MB)\n"
+"(para PlayStation®2) de la ranura de MEMORY CARD ０."
+
+#, fuzzy
+msgctxt "#546"
+msgid ""
+"Memory card (8MB) (for PlayStation®2) in MEMORY CARD slot ０\n"
+"is unformatted. Do you want to format it?"
+msgstr ""
+"La tarjeta de memoria (8MB) (para PlayStation®2) de la ranura\n"
+"de MEMORY CARD ０ no está formateada. ¿Quieres formatearla?"
+
+#, fuzzy
+msgctxt "#547"
+msgid ""
+"Insufficient space on memory card (8MB) (for PlayStation®2) in\n"
+"MEMORY CARD slot ０. Xenosaga Episode II requires 34KB of\n"
+"free space to save data."
+msgstr ""
+"No hay espacio suficiente en la tarjeta de memoria (8MB)\n"
+"(para PlayStation®2) de la ranura de MEMORY CARD ０. Xenosaga\n"
+"Episode II necesita 34KB libres para guardar datos."
+
+#, fuzzy
+msgctxt "#548"
+msgid ""
+"Creating Xenosaga Episode II game data on\n"
+"memory card (8MB) (for PlayStation®2) in MEMORY CARD slot ０."
+msgstr ""
+"Creando los datos de Xenosaga Episode II en la tarjeta\n"
+"de memoria (8MB) (para PlayStation®2) de la ranura de\n"
+"MEMORY CARD ０."
+
+#, fuzzy
+msgctxt "#549"
+msgid ""
+"Saving. Please do not remove memory card (8MB) (for PlayStation®2)\n"
+"or switch off the console."
+msgstr ""
+"Guardando. No retires la tarjeta de memoria (8MB)\n"
+"(para PlayStation®2) ni apagues la consola."
+
+#, fuzzy
+msgctxt "#550"
+msgid "Save completed."
+msgstr "Guardado completado."
+
+#, fuzzy
+msgctxt "#551"
+msgid ""
+"Save failed. Check memory card (8MB) (for PlayStation®2)\n"
+"in MEMORY CARD slot ０ and try again."
+msgstr ""
+"Error al guardar. Revisa la tarjeta de memoria (8MB)\n"
+"(para PlayStation®2) de la ranura de MEMORY CARD ０\n"
+"e inténtalo de nuevo."
+
+#, fuzzy
+msgctxt "#552"
+msgid ""
+"There is a previous Xenosaga Ep. II game data.\n"
+"Previous data will be lost if the game data is overwritten."
+msgstr ""
+"Ya existen datos de Xenosaga Ep. II. Si los\n"
+"sobrescribes, se perderán los datos anteriores."
+
+#, fuzzy
+msgctxt "#553"
+msgid ""
+"Memory card (8MB) (for PlayStation®2) in MEMORY CARD slot ０\n"
+"is unformatted."
+msgstr ""
+"La tarjeta de memoria (8MB) (para PlayStation®2) de\n"
+"la ranura de MEMORY CARD ０ no está formateada."
+
+#, fuzzy
+msgctxt "#556"
+msgid "No Xenosaga Ep. II game data found."
+msgstr "No hay datos de Xenosaga Ep. II."
+
+#, fuzzy
+msgctxt "#557"
+msgid ""
+"Loading. Please do not remove memory card (8MB) (for PlayStation®2)\n"
+"or switch off the console."
+msgstr ""
+"Cargando. No retires la tarjeta de memoria (8MB)\n"
+"(para PlayStation®2) ni apagues la consola."
+
+#, fuzzy
+msgctxt "#558"
+msgid "Load completed."
+msgstr "Carga completada."
+
+#, fuzzy
+msgctxt "#559"
+msgid ""
+"Load failed. Check memory card (8MB) (for PlayStation®2)\n"
+"in MEMORY CARD slot ０ and try again."
+msgstr ""
+"Error al cargar. Revisa la tarjeta de memoria (8MB)\n"
+"(para PlayStation®2) de la ranura de MEMORY CARD ０\n"
+"e inténtalo de nuevo."
+
+#, fuzzy
+msgctxt "#565"
+msgid "Unable to access the HDD."
+msgstr "No se puede acceder al HDD."
+
+#, fuzzy
+msgctxt "#566"
+msgid "Clear data"
+msgstr "Datos completados"
+
+#, fuzzy
+msgctxt "#567"
+msgid "Old data."
+msgstr "Datos antiguos."
+
+#, fuzzy
+msgctxt "#568"
+msgid "Data is corrupted."
+msgstr "Los datos están dañados."

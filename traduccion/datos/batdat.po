@@ -1,0 +1,5539 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Xenosaga Episode II - traducción al español\n"
+"Language: es_419\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Xeno-Source: 0:yamamoto/batdat.us\n"
+
+#, fuzzy
+msgctxt "personajes#0"
+msgid "chaos"
+msgstr "chaos"
+
+#, fuzzy
+msgctxt "personajes#1"
+msgid "KOS-MOS"
+msgstr "KOS-MOS"
+
+#, fuzzy
+msgctxt "personajes#2"
+msgid "Shion"
+msgstr "Shion"
+
+#, fuzzy
+msgctxt "personajes#3"
+msgid "Jin"
+msgstr "Jin"
+
+#, fuzzy
+msgctxt "personajes#4"
+msgid "Ziggy"
+msgstr "Ziggy"
+
+#, fuzzy
+msgctxt "personajes#5"
+msgid "MOMO"
+msgstr "MOMO"
+
+#, fuzzy
+msgctxt "personajes#6"
+msgid "Jr."
+msgstr "Jr."
+
+#, fuzzy
+msgctxt "personajes#10"
+msgid "E.S.Dinah"
+msgstr "E.S.Dinah"
+
+#, fuzzy
+msgctxt "personajes#11"
+msgid "E.S.Zebulun"
+msgstr "E.S.Zebulun"
+
+#, fuzzy
+msgctxt "personajes#12"
+msgid "E.S.Asher"
+msgstr "E.S.Asher"
+
+#, fuzzy
+msgctxt "enemigos#0"
+msgid "Ai Apaec"
+msgstr "Ai Apaec"
+
+#, fuzzy
+msgctxt "enemigos#1"
+msgid "Deion"
+msgstr "Deion"
+
+#, fuzzy
+msgctxt "enemigos#2"
+msgid "Aiakos"
+msgstr "Aiakos"
+
+#, fuzzy
+msgctxt "enemigos#3"
+msgid "Kazfa Jina"
+msgstr "Kazfa Jina"
+
+#, fuzzy
+msgctxt "enemigos#4"
+msgid "Okypete"
+msgstr "Okypete"
+
+#, fuzzy
+msgctxt "enemigos#5"
+msgid "Svarozic"
+msgstr "Svarozic"
+
+#, fuzzy
+msgctxt "enemigos#6"
+msgid "Perun"
+msgstr "Perun"
+
+#, fuzzy
+msgctxt "enemigos#7"
+msgid "Stribog"
+msgstr "Stribog"
+
+#, fuzzy
+msgctxt "enemigos#8"
+msgid "Azazel"
+msgstr "Azazel"
+
+#, fuzzy
+msgctxt "enemigos#9"
+msgid "Armaros"
+msgstr "Armaros"
+
+#, fuzzy
+msgctxt "enemigos#10"
+msgid "Zwerg Kape"
+msgstr "Zwerg Kape"
+
+#, fuzzy
+msgctxt "enemigos#11"
+msgid "Ashmed Bapuz"
+msgstr "Ashmed Bapuz"
+
+#, fuzzy
+msgctxt "enemigos#13"
+msgid "Arvakv"
+msgstr "Arvakv"
+
+#, fuzzy
+msgctxt "enemigos#14"
+msgid "Rod Blondel"
+msgstr "Rod Blondel"
+
+#, fuzzy
+msgctxt "enemigos#15"
+msgid "Wraith Virus"
+msgstr "Virus espectro"
+
+#, fuzzy
+msgctxt "enemigos#16"
+msgid "Grips Sister"
+msgstr "Grips Sister"
+
+#, fuzzy
+msgctxt "enemigos#17"
+msgid "Grips Sister"
+msgstr "Grips Sister"
+
+#, fuzzy
+msgctxt "enemigos#18"
+msgid "Wraith Feeler"
+msgstr "Tentáculo espectro"
+
+#, fuzzy
+msgctxt "enemigos#19"
+msgid "Expression"
+msgstr "Expresión"
+
+#, fuzzy
+msgctxt "enemigos#20"
+msgid "Necessity"
+msgstr "Necesidad"
+
+#, fuzzy
+msgctxt "enemigos#21"
+msgid "Vacillation"
+msgstr "Vacilación"
+
+#, fuzzy
+msgctxt "enemigos#22"
+msgid "Information Type"
+msgstr "Tipo información"
+
+#, fuzzy
+msgctxt "enemigos#23"
+msgid "Infected U.R.T.V."
+msgstr "U.R.T.V. infectado"
+
+#, fuzzy
+msgctxt "enemigos#25"
+msgid "Glare"
+msgstr "Resplandor"
+
+#, fuzzy
+msgctxt "enemigos#26"
+msgid "Catharsis"
+msgstr "Catarsis"
+
+#, fuzzy
+msgctxt "enemigos#27"
+msgid "Piercing Scream"
+msgstr "Grito penetrante"
+
+#, fuzzy
+msgctxt "enemigos#28"
+msgid "Creation Type"
+msgstr "Tipo creación"
+
+#, fuzzy
+msgctxt "enemigos#29"
+msgid "Vive II Prototype"
+msgstr "Prototipo Vive II"
+
+#, fuzzy
+msgctxt "enemigos#30"
+msgid "Calx II Prototype"
+msgstr "Prototipo Calx II"
+
+#, fuzzy
+msgctxt "enemigos#31"
+msgid "Vive II Revised"
+msgstr "Vive II mejorado"
+
+#, fuzzy
+msgctxt "enemigos#32"
+msgid "Calx II Revised"
+msgstr "Calx II mejorado"
+
+#, fuzzy
+msgctxt "enemigos#33"
+msgid "Ortu Ria Kufli"
+msgstr "Ortu Ria Kufli"
+
+#, fuzzy
+msgctxt "enemigos#34"
+msgid "Ortu Ria Lukia"
+msgstr "Ortu Ria Lukia"
+
+#, fuzzy
+msgctxt "enemigos#35"
+msgid "Ortu Ria Hins"
+msgstr "Ortu Ria Hins"
+
+#, fuzzy
+msgctxt "enemigos#37"
+msgid "Kfuga Lily"
+msgstr "Kfuga Lily"
+
+#, fuzzy
+msgctxt "enemigos#38"
+msgid "E2 Hauser"
+msgstr "E2 Hauser"
+
+#, fuzzy
+msgctxt "enemigos#39"
+msgid "O-78 Grisly"
+msgstr "O-78 Grisly"
+
+#, fuzzy
+msgctxt "enemigos#40"
+msgid "Ratus TI Mk II"
+msgstr "Ratus TI Mk II"
+
+#, fuzzy
+msgctxt "enemigos#41"
+msgid "Carnicos I"
+msgstr "Carnicos I"
+
+#, fuzzy
+msgctxt "enemigos#42"
+msgid "Testud"
+msgstr "Testud"
+
+#, fuzzy
+msgctxt "enemigos#43"
+msgid "Yacud Cannon"
+msgstr "Cañón Yacud"
+
+#, fuzzy
+msgctxt "enemigos#44"
+msgid "Revised Testud"
+msgstr "Testud mejorado"
+
+#, fuzzy
+msgctxt "enemigos#45"
+msgid "Auto Intercept Pod"
+msgstr "Interceptor"
+
+#, fuzzy
+msgctxt "enemigos#46"
+msgid "Kfuga Valy"
+msgstr "Kfuga Valy"
+
+#, fuzzy
+msgctxt "enemigos#47"
+msgid "Carnicos II"
+msgstr "Carnicos II"
+
+#, fuzzy
+msgctxt "enemigos#48"
+msgid "O-78 Grisly 2"
+msgstr "O-78 Grisly 2"
+
+#, fuzzy
+msgctxt "enemigos#50"
+msgid "Stole Marine"
+msgstr "Stole Marine"
+
+#, fuzzy
+msgctxt "enemigos#51"
+msgid "Executus Sagitta"
+msgstr "Executus Sagitta"
+
+#, fuzzy
+msgctxt "enemigos#52"
+msgid "Cera 7 F"
+msgstr "Cera 7 F"
+
+#, fuzzy
+msgctxt "enemigos#53"
+msgid "Cera 6 F"
+msgstr "Cera 6 F"
+
+#, fuzzy
+msgctxt "enemigos#54"
+msgid "Executus Arma"
+msgstr "Executus Arma"
+
+#, fuzzy
+msgctxt "enemigos#55"
+msgid "Cera 7 S"
+msgstr "Cera 7 S"
+
+#, fuzzy
+msgctxt "enemigos#56"
+msgid "Cera 6 S"
+msgstr "Cera 6 S"
+
+#, fuzzy
+msgctxt "enemigos#57"
+msgid "Leviat"
+msgstr "Leviat"
+
+#, fuzzy
+msgctxt "enemigos#58"
+msgid "Leviat Officer"
+msgstr "Oficial Leviat"
+
+#, fuzzy
+msgctxt "enemigos#59"
+msgid "O-88 Delphinus"
+msgstr "O-88 Delphinus"
+
+#, fuzzy
+msgctxt "enemigos#60"
+msgid "Anathema"
+msgstr "Anathema"
+
+#, fuzzy
+msgctxt "enemigos#61"
+msgid "Maranatha"
+msgstr "Maranatha"
+
+#, fuzzy
+msgctxt "enemigos#62"
+msgid "Anathema Officer"
+msgstr "Oficial Anathema"
+
+#, fuzzy
+msgctxt "enemigos#63"
+msgid "Nova"
+msgstr "Nova"
+
+#, fuzzy
+msgctxt "enemigos#64"
+msgid "Crescens"
+msgstr "Crescens"
+
+#, fuzzy
+msgctxt "enemigos#65"
+msgid "U-TIC Soldier A"
+msgstr "Soldado U-TIC A"
+
+#, fuzzy
+msgctxt "enemigos#66"
+msgid "U-TIC Soldier B"
+msgstr "Soldado U-TIC B"
+
+#, fuzzy
+msgctxt "enemigos#67"
+msgid "P.S.S. - P"
+msgstr "P.S.S. - P"
+
+#, fuzzy
+msgctxt "enemigos#68"
+msgid "P.S.S. - B"
+msgstr "P.S.S. - B"
+
+#, fuzzy
+msgctxt "enemigos#69"
+msgid "P.S.S. - P2"
+msgstr "P.S.S. - P2"
+
+#, fuzzy
+msgctxt "enemigos#70"
+msgid "P.S.S. - B2"
+msgstr "P.S.S. - B2"
+
+#, fuzzy
+msgctxt "enemigos#71"
+msgid "P.S.S. - C"
+msgstr "P.S.S. - C"
+
+#, fuzzy
+msgctxt "enemigos#72"
+msgid "P.S.S. - A"
+msgstr "P.S.S. - A"
+
+#, fuzzy
+msgctxt "enemigos#73"
+msgid "P.S.S. - S"
+msgstr "P.S.S. - S"
+
+#, fuzzy
+msgctxt "enemigos#74"
+msgid "P.S.S. - F"
+msgstr "P.S.S. - F"
+
+#, fuzzy
+msgctxt "enemigos#75"
+msgid "Ormus Knight A"
+msgstr "Caballero Ormus A"
+
+#, fuzzy
+msgctxt "enemigos#76"
+msgid "Ormus Knight B"
+msgstr "Caballero Ormus B"
+
+#, fuzzy
+msgctxt "enemigos#77"
+msgid "VSS Emissive"
+msgstr "VSS Emissive"
+
+#, fuzzy
+msgctxt "enemigos#78"
+msgid "VSS Rayleigh"
+msgstr "VSS Rayleigh"
+
+#, fuzzy
+msgctxt "enemigos#79"
+msgid "VSS Fresnel"
+msgstr "VSS Fresnel"
+
+#, fuzzy
+msgctxt "enemigos#80"
+msgid "U-TIC Soldier A"
+msgstr "Soldado U-TIC A"
+
+#, fuzzy
+msgctxt "enemigos#81"
+msgid "U-TIC Soldier B"
+msgstr "Soldado U-TIC B"
+
+#, fuzzy
+msgctxt "enemigos#82"
+msgid "Revised E2 Hauser"
+msgstr "E2 Hauser mejorado"
+
+#, fuzzy
+msgctxt "enemigos#83"
+msgid "Infected U.R.T.V."
+msgstr "U.R.T.V. infectado"
+
+#, fuzzy
+msgctxt "enemigos#84"
+msgid "Revised Carnicos I"
+msgstr "Carnicos I mejorado"
+
+#, fuzzy
+msgctxt "enemigos#85"
+msgid "P.S.S. - P2"
+msgstr "P.S.S. - P2"
+
+#, fuzzy
+msgctxt "enemigos#86"
+msgid "P.S.S. - B2"
+msgstr "P.S.S. - B2"
+
+#, fuzzy
+msgctxt "enemigos#87"
+msgid "P.S.S. - C"
+msgstr "P.S.S. - C"
+
+#, fuzzy
+msgctxt "enemigos#88"
+msgid "Testud II"
+msgstr "Testud II"
+
+#, fuzzy
+msgctxt "enemigos#89"
+msgid "O-78 Grisly 2"
+msgstr "O-78 Grisly 2"
+
+#, fuzzy
+msgctxt "enemigos#94"
+msgid "Margulis"
+msgstr "Margulis"
+
+#, fuzzy
+msgctxt "enemigos#95"
+msgid "O-88 Libra"
+msgstr "O-88 Libra"
+
+#, fuzzy
+msgctxt "enemigos#96"
+msgid "Scutum"
+msgstr "Scutum"
+
+#, fuzzy
+msgctxt "enemigos#97"
+msgid "Pilum"
+msgstr "Pilum"
+
+#, fuzzy
+msgctxt "enemigos#98"
+msgid "Level 4"
+msgstr "Nivel 4"
+
+#, fuzzy
+msgctxt "enemigos#99"
+msgid "Albedo"
+msgstr "Albedo"
+
+#, fuzzy
+msgctxt "enemigos#100"
+msgid "Margulis"
+msgstr "Margulis"
+
+#, fuzzy
+msgctxt "enemigos#101"
+msgid "Scutum"
+msgstr "Scutum"
+
+#, fuzzy
+msgctxt "enemigos#102"
+msgid "Pilum"
+msgstr "Pilum"
+
+#, fuzzy
+msgctxt "enemigos#103"
+msgid "Orgulla"
+msgstr "Orgulla"
+
+#, fuzzy
+msgctxt "enemigos#104"
+msgid "E.S. Issachar"
+msgstr "E.S. Issachar"
+
+#, fuzzy
+msgctxt "enemigos#105"
+msgid "Naglfar Cannons"
+msgstr "Cañones Naglfar"
+
+#, fuzzy
+msgctxt "enemigos#106"
+msgid "Margulis"
+msgstr "Margulis"
+
+#, fuzzy
+msgctxt "enemigos#107"
+msgid "Inversion"
+msgstr "Inversion"
+
+#, fuzzy
+msgctxt "enemigos#108"
+msgid "Cathedral "
+msgstr "Catedral"
+
+#, fuzzy
+msgctxt "enemigos#109"
+msgid "Proto Ω"
+msgstr "Proto Ω"
+
+#, fuzzy
+msgctxt "enemigos#110"
+msgid "Patriarch"
+msgstr "Patriarca"
+
+#, fuzzy
+msgctxt "enemigos#111"
+msgid "Albedo"
+msgstr "Albedo"
+
+#, fuzzy
+msgctxt "enemigos#112"
+msgid "Scarabeille "
+msgstr "Scarabeille "
+
+#, fuzzy
+msgctxt "enemigos#113"
+msgid "Dullea Soul"
+msgstr "Dullea Soul"
+
+#, fuzzy
+msgctxt "enemigos#114"
+msgid "Nepos Rigas"
+msgstr "Nepos Rigas"
+
+#, fuzzy
+msgctxt "enemigos#115"
+msgid "Mad Skelter"
+msgstr "Mad Skelter"
+
+#, fuzzy
+msgctxt "enemigos#116"
+msgid "Mikumari"
+msgstr "Mikumari"
+
+#, fuzzy
+msgctxt "enemigos#117"
+msgid "Baal Zebul"
+msgstr "Baal Zebul"
+
+#, fuzzy
+msgctxt "enemigos#118"
+msgid "Phobos Rigas"
+msgstr "Phobos Rigas"
+
+#, fuzzy
+msgctxt "enemigos#123"
+msgid "Orgulla"
+msgstr "Orgulla"
+
+#, fuzzy
+msgctxt "enemigos#124"
+msgid "Dark Erde Kaiser"
+msgstr "Dark Erde Kaiser"
+
+#, fuzzy
+msgctxt "eteres#0"
+msgid "Medica"
+msgstr "Medica"
+
+#, fuzzy
+msgctxt "eteres#0.desc"
+msgid ""
+"One ally (EP 2)\n"
+"Low HP recovery relative to Ether Attack."
+msgstr ""
+"Un aliado (EP 2)\n"
+"Recupera pocos HP según el Ataque de éter."
+
+#, fuzzy
+msgctxt "eteres#1"
+msgid "Medica 2"
+msgstr "Medica 2"
+
+#, fuzzy
+msgctxt "eteres#1.desc"
+msgid ""
+"One ally (EP 4)\n"
+"Mid HP recovery relative to Ether Attack."
+msgstr ""
+"Un aliado (EP 4)\n"
+"Recupera bastantes HP según el Ataque de éter."
+
+#, fuzzy
+msgctxt "eteres#2"
+msgid "Medica All"
+msgstr "Medica All"
+
+#, fuzzy
+msgctxt "eteres#2.desc"
+msgid ""
+"All allies (EP 10)\n"
+"Low HP recovery relative to Ether Attack."
+msgstr ""
+"Todos los aliados (EP 10)\n"
+"Recupera pocos HP según el Ataque de éter."
+
+#, fuzzy
+msgctxt "eteres#3"
+msgid "Refresh L"
+msgstr "Refresh L"
+
+#, fuzzy
+msgctxt "eteres#3.desc"
+msgid ""
+"One ally (EP 4)\n"
+"Clear L-type status effect based on caster's Eatk."
+msgstr ""
+"Un aliado (EP 4)\n"
+"Cura estados de tipo L según el EATK del usuario."
+
+#, fuzzy
+msgctxt "eteres#4"
+msgid "Refresh H"
+msgstr "Refresh H"
+
+#, fuzzy
+msgctxt "eteres#4.desc"
+msgid ""
+"One ally (EP 6)\n"
+"Clear H-type status effect based on caster's Eatk."
+msgstr ""
+"Un aliado (EP 6)\n"
+"Cura estados de tipo H según el EATK del usuario."
+
+#, fuzzy
+msgctxt "eteres#5"
+msgid "Cleanse"
+msgstr "Purificar"
+
+#, fuzzy
+msgctxt "eteres#5.desc"
+msgid ""
+"Self (EP 8)\n"
+"Clear status effects using half of current HP."
+msgstr ""
+"Uno mismo (EP 8)\n"
+"Cura los estados a cambio de la mitad de los HP."
+
+#, fuzzy
+msgctxt "eteres#6"
+msgid "Revert"
+msgstr "Revertir"
+
+#, fuzzy
+msgctxt "eteres#6.desc"
+msgid ""
+"One ally (EP 20)\n"
+"Revive character with 25% HP."
+msgstr ""
+"Un aliado (EP 20)\n"
+"Revive al personaje con el 25% de los HP."
+
+#, fuzzy
+msgctxt "eteres#7"
+msgid "Vaccine"
+msgstr "Vacuna"
+
+#, fuzzy
+msgctxt "eteres#7.desc"
+msgid ""
+"One ally (EP 6)\n"
+"Raise status effect resistance 10%."
+msgstr ""
+"Un aliado (EP 6)\n"
+"Sube la resistencia a estados un 10%."
+
+#, fuzzy
+msgctxt "eteres#8"
+msgid "Down Dex"
+msgstr "Bajar Destreza"
+
+#, fuzzy
+msgctxt "eteres#8.desc"
+msgid ""
+"One enemy (EP 4)\n"
+"Lower Dexterity and Evasion of B or G enemy."
+msgstr ""
+"Un enemigo (EP 4)\n"
+"Baja la Destreza y la Evasión de un enemigo B o G."
+
+#, fuzzy
+msgctxt "eteres#9"
+msgid "Down Force"
+msgstr "Bajar Fuerza"
+
+#, fuzzy
+msgctxt "eteres#9.desc"
+msgid ""
+"One enemy (EP 4)\n"
+"Lower Physical Attack of B or G enemy."
+msgstr ""
+"Un enemigo (EP 4)\n"
+"Baja el Ataque físico de un enemigo B o G."
+
+#, fuzzy
+msgctxt "eteres#10"
+msgid "Down P Def"
+msgstr "Bajar Def. física"
+
+#, fuzzy
+msgctxt "eteres#10.desc"
+msgid ""
+"One enemy (EP 4)\n"
+"Lower Physical Defense of B or G enemy."
+msgstr ""
+"Un enemigo (EP 4)\n"
+"Baja la Defensa física de un enemigo B o G."
+
+#, fuzzy
+msgctxt "eteres#11"
+msgid "Down Ether"
+msgstr "Bajar At. éter"
+
+#, fuzzy
+msgctxt "eteres#11.desc"
+msgid ""
+"One enemy (EP 4)\n"
+"Lower Ether Attack of B or G enemy."
+msgstr ""
+"Un enemigo (EP 4)\n"
+"Baja el Ataque de éter de un enemigo B o G."
+
+#, fuzzy
+msgctxt "eteres#12"
+msgid "Down E Def"
+msgstr "Bajar Def. éter"
+
+#, fuzzy
+msgctxt "eteres#12.desc"
+msgid ""
+"One enemy (EP 4)\n"
+"Lower Ether Defense of B or G enemy."
+msgstr ""
+"Un enemigo (EP 4)\n"
+"Baja la Defensa de éter de un enemigo B o G."
+
+#, fuzzy
+msgctxt "eteres#13"
+msgid "Break Sensors"
+msgstr "Romper sensores"
+
+#, fuzzy
+msgctxt "eteres#13.desc"
+msgid ""
+"One enemy (EP 4)\n"
+"Lower Dexterity and Evasion of M enemy."
+msgstr ""
+"Un enemigo (EP 4)\n"
+"Baja la Destreza y la Evasión de un enemigo M."
+
+#, fuzzy
+msgctxt "eteres#14"
+msgid "Break Arms"
+msgstr "Romper armas"
+
+#, fuzzy
+msgctxt "eteres#14.desc"
+msgid ""
+"One enemy (EP 4)\n"
+"Lower Physical Attack of M enemy."
+msgstr ""
+"Un enemigo (EP 4)\n"
+"Baja el Ataque físico de un enemigo M."
+
+#, fuzzy
+msgctxt "eteres#15"
+msgid "Break Armor"
+msgstr "Romper blindaje"
+
+#, fuzzy
+msgctxt "eteres#15.desc"
+msgid ""
+"One enemy (EP 4)\n"
+"Lower Physical Defense of M enemy."
+msgstr ""
+"Un enemigo (EP 4)\n"
+"Baja la Defensa física de un enemigo M."
+
+#, fuzzy
+msgctxt "eteres#16"
+msgid "Break Beam"
+msgstr "Romper haz"
+
+#, fuzzy
+msgctxt "eteres#16.desc"
+msgid ""
+"One enemy (EP 4)\n"
+"Lower Ether Attack of M enemy."
+msgstr ""
+"Un enemigo (EP 4)\n"
+"Baja el Ataque de éter de un enemigo M."
+
+#, fuzzy
+msgctxt "eteres#17"
+msgid "Break Shield"
+msgstr "Romper escudo"
+
+#, fuzzy
+msgctxt "eteres#17.desc"
+msgid ""
+"One enemy (EP 4)\n"
+"Lower Ether Defense of M enemy."
+msgstr ""
+"Un enemigo (EP 4)\n"
+"Baja la Defensa de éter de un enemigo M."
+
+#, fuzzy
+msgctxt "eteres#18"
+msgid "Junk Beam"
+msgstr "Haz chatarra"
+
+#, fuzzy
+msgctxt "eteres#18.desc"
+msgid ""
+"One enemy (EP 4)\n"
+"20% chance to cancel M enemy's action."
+msgstr ""
+"Un enemigo (EP 4)\n"
+"20% de probabilidad de anular la acción de un enemigo M."
+
+#, fuzzy
+msgctxt "eteres#19"
+msgid "Infection"
+msgstr "Infección"
+
+#, fuzzy
+msgctxt "eteres#19.desc"
+msgid ""
+"One enemy (EP 4)\n"
+"Lower status resistance of B or G enemy."
+msgstr ""
+"Un enemigo (EP 4)\n"
+"Baja la resistencia a estados de un enemigo B o G."
+
+#, fuzzy
+msgctxt "eteres#20"
+msgid "Misty"
+msgstr "Niebla"
+
+#, fuzzy
+msgctxt "eteres#20.desc"
+msgid ""
+"One enemy (EP 6)\n"
+"Block B or G enemy's Ether skills."
+msgstr ""
+"Un enemigo (EP 6)\n"
+"Bloquea las habilidades de éter de un enemigo B o G."
+
+#, fuzzy
+msgctxt "eteres#21"
+msgid "Thunder Veil"
+msgstr "Velo de rayo"
+
+#, fuzzy
+msgctxt "eteres#21.desc"
+msgid ""
+"One ally (EP 4)\n"
+"Reduce thunder damage 25%."
+msgstr ""
+"Un aliado (EP 4)\n"
+"Reduce un 25% el daño de rayo."
+
+#, fuzzy
+msgctxt "eteres#22"
+msgid "Flame Veil"
+msgstr "Velo de llamas"
+
+#, fuzzy
+msgctxt "eteres#22.desc"
+msgid ""
+"One ally (EP 4)\n"
+"Reduce fire damage 25%."
+msgstr ""
+"Un aliado (EP 4)\n"
+"Reduce un 25% el daño de fuego."
+
+#, fuzzy
+msgctxt "eteres#23"
+msgid "Ice Veil"
+msgstr "Velo de hielo"
+
+#, fuzzy
+msgctxt "eteres#23.desc"
+msgid ""
+"One ally (EP 4)\n"
+"Reduce ice damage 25%."
+msgstr ""
+"Un aliado (EP 4)\n"
+"Reduce un 25% el daño de hielo."
+
+#, fuzzy
+msgctxt "eteres#24"
+msgid "Aura Veil"
+msgstr "Velo de aura"
+
+#, fuzzy
+msgctxt "eteres#24.desc"
+msgid ""
+"One ally (EP 4)\n"
+"Reduce aura and beam damage 25%."
+msgstr ""
+"Un aliado (EP 4)\n"
+"Reduce un 25% el daño de aura y de haz."
+
+#, fuzzy
+msgctxt "eteres#25"
+msgid "Burst Veil"
+msgstr "Velo potenciado"
+
+#, fuzzy
+msgctxt "eteres#25.desc"
+msgid "Double Veil effect and raise Ether recovery 25%."
+msgstr "Duplica el efecto de los velos; recuperación de éter +25%."
+
+#, fuzzy
+msgctxt "eteres#26"
+msgid "Flame Sword"
+msgstr "Espada de llamas"
+
+#, fuzzy
+msgctxt "eteres#26.desc"
+msgid ""
+"One ally (EP 4)\n"
+"Add fire to non-elemental attacks."
+msgstr ""
+"Un aliado (EP 4)\n"
+"Agrega fuego a los ataques sin elemento."
+
+#, fuzzy
+msgctxt "eteres#27"
+msgid "Thunder Sword"
+msgstr "Espada de rayo"
+
+#, fuzzy
+msgctxt "eteres#27.desc"
+msgid ""
+"One ally (EP 4)\n"
+"Add thunder to non-elemental attacks."
+msgstr ""
+"Un aliado (EP 4)\n"
+"Agrega rayo a los ataques sin elemento."
+
+#, fuzzy
+msgctxt "eteres#28"
+msgid "Ice Sword"
+msgstr "Espada de hielo"
+
+#, fuzzy
+msgctxt "eteres#28.desc"
+msgid ""
+"One ally (EP 4)\n"
+"Add ice to non-elemental attacks."
+msgstr ""
+"Un aliado (EP 4)\n"
+"Agrega hielo a los ataques sin elemento."
+
+#, fuzzy
+msgctxt "eteres#29"
+msgid "Aura Sword"
+msgstr "Espada de aura"
+
+#, fuzzy
+msgctxt "eteres#29.desc"
+msgid ""
+"One ally (EP 4)\n"
+"Add aura to non-elemental attacks."
+msgstr ""
+"Un aliado (EP 4)\n"
+"Agrega aura a los ataques sin elemento."
+
+#, fuzzy
+msgctxt "eteres#30"
+msgid "Flame Blast"
+msgstr "Ráfaga ígnea"
+
+#, fuzzy
+msgctxt "eteres#30.desc"
+msgid ""
+"One enemy/E/Fire (EP 6)\n"
+"Fire Ether attack."
+msgstr ""
+"Un enemigo/E/Fuego (EP 6)\n"
+"Ataque de éter de fuego."
+
+#, fuzzy
+msgctxt "eteres#31"
+msgid "Ice Blast"
+msgstr "Ráfaga gélida"
+
+#, fuzzy
+msgctxt "eteres#31.desc"
+msgid ""
+"One enemy/E/Ice (EP 6)\n"
+"Ice Ether attack."
+msgstr ""
+"Un enemigo/E/Hielo (EP 6)\n"
+"Ataque de éter de hielo."
+
+#, fuzzy
+msgctxt "eteres#32"
+msgid "Thunder Blast"
+msgstr "Ráfaga de rayo"
+
+#, fuzzy
+msgctxt "eteres#32.desc"
+msgid ""
+"One enemy/E/Thunder (EP 6)\n"
+"Thunder Ether attack."
+msgstr ""
+"Un enemigo/E/Rayo (EP 6)\n"
+"Ataque de éter de rayo."
+
+#, fuzzy
+msgctxt "eteres#33"
+msgid "Aura Blast"
+msgstr "Ráfaga de aura"
+
+#, fuzzy
+msgctxt "eteres#33.desc"
+msgid ""
+"One enemy/E/Aura (EP 6)\n"
+"Aura Ether attack."
+msgstr ""
+"Un enemigo/E/Aura (EP 6)\n"
+"Ataque de éter de aura."
+
+#, fuzzy
+msgctxt "eteres#34"
+msgid "Miracle Star"
+msgstr "Estrella milagrosa"
+
+#, fuzzy
+msgctxt "eteres#34.desc"
+msgid ""
+"One enemy/E/None (EP 8)\n"
+"Non-elemental Ether attack."
+msgstr ""
+"Un enemigo/E/Ninguno (EP 8)\n"
+"Ataque de éter sin elemento."
+
+#, fuzzy
+msgctxt "eteres#35"
+msgid "Heaven's Rain"
+msgstr "Lluvia celestial"
+
+#, fuzzy
+msgctxt "eteres#35.desc"
+msgid ""
+"All enemies/E/Aura (EP 18)\n"
+"Aura Ether attack."
+msgstr ""
+"Todos los enemigos/E/Aura (EP 18)\n"
+"Ataque de éter de aura."
+
+#, fuzzy
+msgctxt "eteres#36"
+msgid "Annihilation"
+msgstr "Aniquilación"
+
+#, fuzzy
+msgctxt "eteres#36.desc"
+msgid ""
+"One enemy/E/None (EP 18)\n"
+"Non-elemental Ether attack & clear status effects."
+msgstr ""
+"Un enemigo/E/Ninguno (EP 18)\n"
+"Ataque de éter sin elemento que cura los estados."
+
+#, fuzzy
+msgctxt "eteres#37"
+msgid "Prayer"
+msgstr "Plegaria"
+
+#, fuzzy
+msgctxt "eteres#37.desc"
+msgid ""
+"Self (EP 16)\n"
+"Receive a heavenly gift."
+msgstr ""
+"Uno mismo (EP 16)\n"
+"Recibe un regalo del cielo."
+
+#, fuzzy
+msgctxt "eteres#38"
+msgid "Stock 1"
+msgstr "Stock 1"
+
+#, fuzzy
+msgctxt "eteres#38.desc"
+msgid ""
+"One ally (EP 4)\n"
+"Increase Stock count by one."
+msgstr ""
+"Un aliado (EP 4)\n"
+"Suma uno al Stock."
+
+#, fuzzy
+msgctxt "eteres#39"
+msgid "Boost 1"
+msgstr "Boost 1"
+
+#, fuzzy
+msgctxt "eteres#39.desc"
+msgid ""
+"Self (EP 8)\n"
+"Increase Boost count by one."
+msgstr ""
+"Uno mismo (EP 8)\n"
+"Suma uno al Boost."
+
+#, fuzzy
+msgctxt "eteres#40"
+msgid "Quick"
+msgstr "Rapidez"
+
+#, fuzzy
+msgctxt "eteres#40.desc"
+msgid ""
+"One ally (EP 10)\n"
+"Increase turns 25%."
+msgstr ""
+"Un aliado (EP 10)\n"
+"Aumenta los turnos un 25%."
+
+#, fuzzy
+msgctxt "eteres#41"
+msgid "Analyze"
+msgstr "Analizar"
+
+#, fuzzy
+msgctxt "eteres#41.desc"
+msgid ""
+"One enemy (EP 4)\n"
+"Analyze enemy."
+msgstr ""
+"Un enemigo (EP 4)\n"
+"Analiza al enemigo."
+
+#, fuzzy
+msgctxt "eteres#42"
+msgid "Psycho Pocket"
+msgstr "Hurto psíquico"
+
+#, fuzzy
+msgctxt "eteres#42.desc"
+msgid ""
+"One enemy (EP 4)\n"
+"Steal an item."
+msgstr ""
+"Un enemigo (EP 4)\n"
+"Roba un objeto."
+
+#, fuzzy
+msgctxt "eteres#43"
+msgid "Charge Time"
+msgstr "Tiempo de carga"
+
+#, fuzzy
+msgctxt "eteres#43.desc"
+msgid ""
+"Self (EP 4)\n"
+"Double HP regeneration (1 time)."
+msgstr ""
+"Uno mismo (EP 4)\n"
+"Duplica la regeneración de HP (1 vez)."
+
+#, fuzzy
+msgctxt "eteres#44"
+msgid "Curse"
+msgstr "Maldición"
+
+#, fuzzy
+msgctxt "eteres#44.desc"
+msgid ""
+"One enemy (EP 18)\n"
+"Enemy takes as much damage as it causes."
+msgstr ""
+"Un enemigo (EP 18)\n"
+"El enemigo recibe tanto daño como el que causa."
+
+#, fuzzy
+msgctxt "eteres#45"
+msgid "Safety Level"
+msgstr "Nivel seguro"
+
+#, fuzzy
+msgctxt "eteres#45.desc"
+msgid ""
+"One ally (EP 20)\n"
+"Survive with one HP (1 time)."
+msgstr ""
+"Un aliado (EP 20)\n"
+"Sobrevive con 1 HP (1 vez)."
+
+#, fuzzy
+msgctxt "eteres#46"
+msgid "Best Ally"
+msgstr "Mejor aliado"
+
+#, fuzzy
+msgctxt "eteres#46.desc"
+msgid ""
+"One ally (EP 60)\n"
+"Auto revive and recover all HP (1 time)."
+msgstr ""
+"Un aliado (EP 60)\n"
+"Revive solo y recupera todos los HP (1 vez)."
+
+#, fuzzy
+msgctxt "eteres#47"
+msgid "Attacker"
+msgstr "Atacante"
+
+#, fuzzy
+msgctxt "eteres#47.desc"
+msgid ""
+"Self (EP 4)\n"
+"Raise Physical Attack and lower Physical Defense."
+msgstr ""
+"Uno mismo (EP 4)\n"
+"Sube el Ataque físico y baja la Defensa física."
+
+#, fuzzy
+msgctxt "eteres#48"
+msgid "Defender"
+msgstr "Defensor"
+
+#, fuzzy
+msgctxt "eteres#48.desc"
+msgid ""
+"Self (EP 4)\n"
+"Lower Physical Attack and raise Physical Defense."
+msgstr ""
+"Uno mismo (EP 4)\n"
+"Baja el Ataque físico y sube la Defensa física."
+
+#, fuzzy
+msgctxt "eteres#49"
+msgid "Ether Spear"
+msgstr "Lanza de éter"
+
+#, fuzzy
+msgctxt "eteres#49.desc"
+msgid ""
+"Self (EP 4)\n"
+"Raise Ether Attack and lower Ether Defense."
+msgstr ""
+"Uno mismo (EP 4)\n"
+"Sube el Ataque de éter y baja la Defensa de éter."
+
+#, fuzzy
+msgctxt "eteres#50"
+msgid "Ether Shield"
+msgstr "Escudo de éter"
+
+#, fuzzy
+msgctxt "eteres#50.desc"
+msgid ""
+"Self (EP 4)\n"
+"Lower Ether Attack and raise Ether Defense."
+msgstr ""
+"Uno mismo (EP 4)\n"
+"Baja el Ataque de éter y sube la Defensa de éter."
+
+#, fuzzy
+msgctxt "eteres#51"
+msgid "Erde Storm"
+msgstr "Tormenta Erde"
+
+#, fuzzy
+msgctxt "eteres#51.desc"
+msgid ""
+"All enemies/E/None (EP 8)\n"
+"Ether power from Erde Kaiser arms."
+msgstr ""
+"Todos los enemigos/E/Ninguno (EP 8)\n"
+"Poder de éter de los brazos del Erde Kaiser."
+
+#, fuzzy
+msgctxt "eteres#52"
+msgid "Erde Beam"
+msgstr "Haz Erde"
+
+#, fuzzy
+msgctxt "eteres#52.desc"
+msgid ""
+"All enemies/E/Beam (EP 8)\n"
+"Ether power from Erde Kaiser head."
+msgstr ""
+"Todos los enemigos/E/Haz (EP 8)\n"
+"Poder de éter de la cabeza del Erde Kaiser."
+
+#, fuzzy
+msgctxt "eteres#53"
+msgid "Erde Quake"
+msgstr "Terremoto Erde"
+
+#, fuzzy
+msgctxt "eteres#53.desc"
+msgid ""
+"All enemies/E/None (EP 8)\n"
+"Ether power from Erde Kaiser legs."
+msgstr ""
+"Todos los enemigos/E/Ninguno (EP 8)\n"
+"Poder de éter de las piernas del Erde Kaiser."
+
+#, fuzzy
+msgctxt "eteres#54"
+msgid "Erde Kaiser Fury"
+msgstr "Furia Erde Kaiser"
+
+#, fuzzy
+msgctxt "eteres#54.desc"
+msgid ""
+"All enemies/E/Slash (EP 50)\n"
+"Erde Kaiser Fury with the Kaiser Sword (1 time)."
+msgstr ""
+"Todos los enemigos/E/Corte (EP 50)\n"
+"Furia del Erde Kaiser con la Kaiser Sword (1 vez)."
+
+#, fuzzy
+msgctxt "eteres#55"
+msgid "Erde Kaiser Fury"
+msgstr "Furia Erde Kaiser"
+
+#, fuzzy
+msgctxt "eteres#55.desc"
+msgid ""
+"All enemies/E/Piercing (EP 50)\n"
+"Erde Kaiser Fury with the Arm Drill (1 time)."
+msgstr ""
+"Todos los enemigos/E/Perforación (EP 50)\n"
+"Furia del Erde Kaiser con el Arm Drill (1 vez)."
+
+#, fuzzy
+msgctxt "eteres#56"
+msgid "Erde Kaiser Fury"
+msgstr "Furia Erde Kaiser"
+
+#, fuzzy
+msgctxt "eteres#56.desc"
+msgid ""
+"All enemies/E/Thunder (EP 50)\n"
+"Erde Kaiser Fury with the Kaiser Rifle (1 time)."
+msgstr ""
+"Todos los enemigos/E/Rayo (EP 50)\n"
+"Furia del Erde Kaiser con el Kaiser Rifle (1 vez)."
+
+#, fuzzy
+msgctxt "eteres#59"
+msgid "Double Medica"
+msgstr "Medica Doble"
+
+#, fuzzy
+msgctxt "eteres#59.desc"
+msgid ""
+"All allies (Medica × 2)\n"
+"Low HP recovery."
+msgstr ""
+"Todos los aliados (Medica × 2)\n"
+"Recupera pocos HP."
+
+#, fuzzy
+msgctxt "eteres#60"
+msgid "Double Medica 2"
+msgstr "Medica 2 Doble"
+
+#, fuzzy
+msgctxt "eteres#60.desc"
+msgid ""
+"All allies (Medica 2 × 2)\n"
+"Mid HP recovery."
+msgstr ""
+"Todos los aliados (Medica 2 × 2)\n"
+"Recupera bastantes HP."
+
+#, fuzzy
+msgctxt "eteres#61"
+msgid "Double Refresh L"
+msgstr "Refresh L Doble"
+
+#, fuzzy
+msgctxt "eteres#61.desc"
+msgid ""
+"All allies (Refresh L × 2)\n"
+"Remove L status effect."
+msgstr ""
+"Todos los aliados (Refresh L × 2)\n"
+"Cura los estados de tipo L."
+
+#, fuzzy
+msgctxt "eteres#62"
+msgid "Double Refresh H"
+msgstr "Refresh H Doble"
+
+#, fuzzy
+msgctxt "eteres#62.desc"
+msgid ""
+"All allies (Refresh H × 2)\n"
+"Remove H status effect."
+msgstr ""
+"Todos los aliados (Refresh H × 2)\n"
+"Cura los estados de tipo H."
+
+#, fuzzy
+msgctxt "eteres#63"
+msgid "XSB Dex"
+msgstr "XSB Dex"
+
+#, fuzzy
+msgctxt "eteres#63.desc"
+msgid ""
+"All enemies (Down Dex × 2)\n"
+"Lower Dexterity and Evasion of B or G enemies."
+msgstr ""
+"Todos los enemigos (Bajar Destreza × 2)\n"
+"Baja la Destreza y la Evasión de los enemigos B o G."
+
+#, fuzzy
+msgctxt "eteres#64"
+msgid "XSB Force"
+msgstr "XSB Force"
+
+#, fuzzy
+msgctxt "eteres#64.desc"
+msgid ""
+"All enemies (Down Force × 2)\n"
+"Lower Physical Attack of B or G enemies."
+msgstr ""
+"Todos los enemigos (Bajar Fuerza × 2)\n"
+"Baja el Ataque físico de los enemigos B o G."
+
+#, fuzzy
+msgctxt "eteres#65"
+msgid "XSB P Def"
+msgstr "XSB P Def"
+
+#, fuzzy
+msgctxt "eteres#65.desc"
+msgid ""
+"All enemies (Down P Def × 2)\n"
+"Lower Physical Defense of B or G enemies."
+msgstr ""
+"Todos los enemigos (Bajar Def. física × 2)\n"
+"Baja la Defensa física de los enemigos B o G."
+
+#, fuzzy
+msgctxt "eteres#66"
+msgid "XSB Ether"
+msgstr "XSB Ether"
+
+#, fuzzy
+msgctxt "eteres#66.desc"
+msgid ""
+"All enemies (Down Ether × 2)\n"
+"Lower Ether Attack of B or G enemies."
+msgstr ""
+"Todos los enemigos (Bajar At. éter × 2)\n"
+"Baja el Ataque de éter de los enemigos B o G."
+
+#, fuzzy
+msgctxt "eteres#67"
+msgid "XSB E Def"
+msgstr "XSB E Def"
+
+#, fuzzy
+msgctxt "eteres#67.desc"
+msgid ""
+"All enemies (Down E Def × 2)\n"
+"Lower Ether Defense of B or G enemies."
+msgstr ""
+"Todos los enemigos (Bajar Def. éter × 2)\n"
+"Baja la Defensa de éter de los enemigos B o G."
+
+#, fuzzy
+msgctxt "eteres#68"
+msgid "XBK Sensors"
+msgstr "XBK Sensors"
+
+#, fuzzy
+msgctxt "eteres#68.desc"
+msgid ""
+"All enemies (Break Sensors × 2)\n"
+"Lower Dexterity and Evasion of M enemies."
+msgstr ""
+"Todos los enemigos (Romper sensores × 2)\n"
+"Baja la Destreza y la Evasión de los enemigos M."
+
+#, fuzzy
+msgctxt "eteres#69"
+msgid "XBK Arms"
+msgstr "XBK Arms"
+
+#, fuzzy
+msgctxt "eteres#69.desc"
+msgid ""
+"All enemies (Break Arms × 2)\n"
+"Lower Physical Attack of M enemies."
+msgstr ""
+"Todos los enemigos (Romper armas × 2)\n"
+"Baja el Ataque físico de los enemigos M."
+
+#, fuzzy
+msgctxt "eteres#70"
+msgid "XBK Armor"
+msgstr "XBK Armor"
+
+#, fuzzy
+msgctxt "eteres#70.desc"
+msgid ""
+"All enemies (Break Armor × 2)\n"
+"Lower Physical Defense of M enemies."
+msgstr ""
+"Todos los enemigos (Romper blindaje × 2)\n"
+"Baja la Defensa física de los enemigos M."
+
+#, fuzzy
+msgctxt "eteres#71"
+msgid "XBK Beam"
+msgstr "XBK Beam"
+
+#, fuzzy
+msgctxt "eteres#71.desc"
+msgid ""
+"All enemies (Break Beam × 2)\n"
+"Lower Ether Attack of M enemies."
+msgstr ""
+"Todos los enemigos (Romper haz × 2)\n"
+"Baja el Ataque de éter de los enemigos M."
+
+#, fuzzy
+msgctxt "eteres#72"
+msgid "XBK Shield"
+msgstr "XBK Shield"
+
+#, fuzzy
+msgctxt "eteres#72.desc"
+msgid ""
+"All enemies (Break Shield × 2)\n"
+"Lower Ether Defense of M enemies."
+msgstr ""
+"Todos los enemigos (Romper escudo × 2)\n"
+"Baja la Defensa de éter de los enemigos M."
+
+#, fuzzy
+msgctxt "eteres#73"
+msgid "Junk Blast"
+msgstr "Ráfaga chatarra"
+
+#, fuzzy
+msgctxt "eteres#73.desc"
+msgid ""
+"All enemies (Junk Beam × 2)\n"
+"20% chance to cancel M enemies' actions."
+msgstr ""
+"Todos los enemigos (Haz chatarra × 2)\n"
+"20% de probabilidad de anular la acción de los enemigos M."
+
+#, fuzzy
+msgctxt "eteres#74"
+msgid "Lost Mist"
+msgstr "Niebla perdida"
+
+#, fuzzy
+msgctxt "eteres#74.desc"
+msgid ""
+"All enemies (Misty × 2)\n"
+"Block B or G enemies' Ether skills."
+msgstr ""
+"Todos los enemigos (Niebla × 2)\n"
+"Bloquea las habilidades de éter de los enemigos B o G."
+
+#, fuzzy
+msgctxt "eteres#75"
+msgid "Thunder Wall"
+msgstr "Muro de rayo"
+
+#, fuzzy
+msgctxt "eteres#75.desc"
+msgid ""
+"All allies (Thunder Veil × 2)\n"
+"Reduce thunder damage 25%."
+msgstr ""
+"Todos los aliados (Velo de rayo × 2)\n"
+"Reduce un 25% el daño de rayo."
+
+#, fuzzy
+msgctxt "eteres#76"
+msgid "Flame Wall"
+msgstr "Muro de llamas"
+
+#, fuzzy
+msgctxt "eteres#76.desc"
+msgid ""
+"All allies (Flame Veil × 2)\n"
+"Reduce fire damage 25%."
+msgstr ""
+"Todos los aliados (Velo de llamas × 2)\n"
+"Reduce un 25% el daño de fuego."
+
+#, fuzzy
+msgctxt "eteres#77"
+msgid "Ice Wall"
+msgstr "Muro de hielo"
+
+#, fuzzy
+msgctxt "eteres#77.desc"
+msgid ""
+"All allies (Ice Veil × 2)\n"
+"Reduce ice damage 25%."
+msgstr ""
+"Todos los aliados (Velo de hielo × 2)\n"
+"Reduce un 25% el daño de hielo."
+
+#, fuzzy
+msgctxt "eteres#78"
+msgid "Aura Wall"
+msgstr "Muro de aura"
+
+#, fuzzy
+msgctxt "eteres#78.desc"
+msgid ""
+"All allies (Aura Veil × 2)\n"
+"Reduce aura and beam damage 25%."
+msgstr ""
+"Todos los aliados (Velo de aura × 2)\n"
+"Reduce un 25% el daño de aura y de haz."
+
+#, fuzzy
+msgctxt "eteres#79"
+msgid "Flame Storm"
+msgstr "Ciclón ígneo"
+
+#, fuzzy
+msgctxt "eteres#79.desc"
+msgid ""
+"All enemies/E/Fire (Flame Blast × 2)\n"
+"Fire Ether attack."
+msgstr ""
+"Todos los enemigos/E/Fuego (Ráfaga ígnea × 2)\n"
+"Ataque de éter de fuego."
+
+#, fuzzy
+msgctxt "eteres#80"
+msgid "Thunder Storm"
+msgstr "Ciclón de rayo"
+
+#, fuzzy
+msgctxt "eteres#80.desc"
+msgid ""
+"All enemies/E/Thunder (Thunder Blast × 2)\n"
+"Thunder Ether attack."
+msgstr ""
+"Todos los enemigos/E/Rayo (Ráfaga de rayo × 2)\n"
+"Ataque de éter de rayo."
+
+#, fuzzy
+msgctxt "eteres#81"
+msgid "Ice Storm"
+msgstr "Ciclón gélido"
+
+#, fuzzy
+msgctxt "eteres#81.desc"
+msgid ""
+"All enemies/E/Ice (Ice Blast × 2)\n"
+"Ice Ether attack."
+msgstr ""
+"Todos los enemigos/E/Hielo (Ráfaga gélida × 2)\n"
+"Ataque de éter de hielo."
+
+#, fuzzy
+msgctxt "eteres#82"
+msgid "Aura Storm"
+msgstr "Ciclón de aura"
+
+#, fuzzy
+msgctxt "eteres#82.desc"
+msgid ""
+"All enemies/E/Aura (Aura Blast × 2)\n"
+"Aura Ether attack."
+msgstr ""
+"Todos los enemigos/E/Aura (Ráfaga de aura × 2)\n"
+"Ataque de éter de aura."
+
+#, fuzzy
+msgctxt "eteres#83"
+msgid "Miracle Stars"
+msgstr "Lluvia estelar"
+
+#, fuzzy
+msgctxt "eteres#83.desc"
+msgid ""
+"All enemies/E/None (Miracle Star × 2)\n"
+"Non-elemental Ether attack."
+msgstr ""
+"Todos los enemigos/E/Ninguno (Estrella milagrosa × 2)\n"
+"Ataque de éter sin elemento."
+
+#, fuzzy
+msgctxt "eteres#84"
+msgid "Flame Burst"
+msgstr "Estallido ígneo"
+
+#, fuzzy
+msgctxt "eteres#84.desc"
+msgid ""
+"One enemy/E/Fire (Flame + Aura Blast)\n"
+"Concentrated fire Ether attack."
+msgstr ""
+"Un enemigo/E/Fuego (Ráfaga ígnea + de aura)\n"
+"Ataque de éter de fuego concentrado."
+
+#, fuzzy
+msgctxt "eteres#85"
+msgid "Thunder Burst"
+msgstr "Estallido de rayo"
+
+#, fuzzy
+msgctxt "eteres#85.desc"
+msgid ""
+"One enemy/E/Thunder (Thunder + Aura Blast)\n"
+"Concentrated thunder Ether attack."
+msgstr ""
+"Un enemigo/E/Rayo (Ráfaga de rayo + de aura)\n"
+"Ataque de éter de rayo concentrado."
+
+#, fuzzy
+msgctxt "eteres#86"
+msgid "Ice Burst"
+msgstr "Estallido gélido"
+
+#, fuzzy
+msgctxt "eteres#86.desc"
+msgid ""
+"One enemy/E/Ice (Ice + Aura Blast)\n"
+"Concentrated ice Ether attack."
+msgstr ""
+"Un enemigo/E/Hielo (Ráfaga gélida + de aura)\n"
+"Ataque de éter de hielo concentrado."
+
+#, fuzzy
+msgctxt "eteres#87"
+msgid "Pocket Rare"
+msgstr "Hurto raro"
+
+#, fuzzy
+msgctxt "eteres#87.desc"
+msgid ""
+"One enemy (Analyze + Psycho Pocket)\n"
+"Analyze enemy and steal rare item."
+msgstr ""
+"Un enemigo (Analizar + Hurto psíquico)\n"
+"Analiza al enemigo y le roba un objeto raro."
+
+#, fuzzy
+msgctxt "habilidades#0"
+msgid "HP Mind 10"
+msgstr "HP Mind 10"
+
+#, fuzzy
+msgctxt "habilidades#0.desc"
+msgid "HP Recovery +10%."
+msgstr "Recuperación de HP +10%."
+
+#, fuzzy
+msgctxt "habilidades#1"
+msgid "HP Mind 15"
+msgstr "HP Mind 15"
+
+#, fuzzy
+msgctxt "habilidades#1.desc"
+msgid "HP Recovery +15%."
+msgstr "Recuperación de HP +15%."
+
+#, fuzzy
+msgctxt "habilidades#2"
+msgid "ST Mind 10"
+msgstr "ST Mind 10"
+
+#, fuzzy
+msgctxt "habilidades#2.desc"
+msgid "Status effect recovery +10%."
+msgstr "Recuperación de estados +10%."
+
+#, fuzzy
+msgctxt "habilidades#3"
+msgid "ST Mind 15"
+msgstr "ST Mind 15"
+
+#, fuzzy
+msgctxt "habilidades#3.desc"
+msgid "Status effect recovery +15%."
+msgstr "Recuperación de estados +15%."
+
+#, fuzzy
+msgctxt "habilidades#4"
+msgid "Poison Guard"
+msgstr "Antiveneno"
+
+#, fuzzy
+msgctxt "habilidades#4.desc"
+msgid "Poison resistance +25%."
+msgstr "Resistencia a Veneno +25%."
+
+#, fuzzy
+msgctxt "habilidades#5"
+msgid "Lost Guard"
+msgstr "Antipérdida"
+
+#, fuzzy
+msgctxt "habilidades#5.desc"
+msgid "Lost resistance +25%."
+msgstr "Resistencia a Pérdida +25%."
+
+#, fuzzy
+msgctxt "habilidades#6"
+msgid "Blind Guard"
+msgstr "Anticeguera"
+
+#, fuzzy
+msgctxt "habilidades#6.desc"
+msgid "Blind resistance +25%."
+msgstr "Resistencia a Ceguera +25%."
+
+#, fuzzy
+msgctxt "habilidades#7"
+msgid "Heavy Guard"
+msgstr "Antipesadez"
+
+#, fuzzy
+msgctxt "habilidades#7.desc"
+msgid "Heavy resistance +25%."
+msgstr "Resistencia a Pesadez +25%."
+
+#, fuzzy
+msgctxt "habilidades#8"
+msgid "Weak Guard"
+msgstr "Antidebilidad"
+
+#, fuzzy
+msgctxt "habilidades#8.desc"
+msgid "Weak resistance +25%."
+msgstr "Resistencia a Debilidad +25%."
+
+#, fuzzy
+msgctxt "habilidades#9"
+msgid "Slow Guard"
+msgstr "Antilentitud"
+
+#, fuzzy
+msgctxt "habilidades#9.desc"
+msgid "Slow resistance +25%."
+msgstr "Resistencia a Lentitud +25%."
+
+#, fuzzy
+msgctxt "habilidades#10"
+msgid "Stun Guard"
+msgstr "Antiaturdimiento"
+
+#, fuzzy
+msgctxt "habilidades#10.desc"
+msgid "Stun resistance +25%."
+msgstr "Resistencia a Aturdimiento +25%."
+
+#, fuzzy
+msgctxt "habilidades#11"
+msgid "Ether PD Guard"
+msgstr "Anti-Éter PD"
+
+#, fuzzy
+msgctxt "habilidades#11.desc"
+msgid "Ether PD resistance +25%."
+msgstr "Resistencia a Éter PD +25%."
+
+#, fuzzy
+msgctxt "habilidades#12"
+msgid "Ether DD Guard"
+msgstr "Anti-Éter DD"
+
+#, fuzzy
+msgctxt "habilidades#12.desc"
+msgid "Ether DD resistance +25%."
+msgstr "Resistencia a Éter DD +25%."
+
+#, fuzzy
+msgctxt "habilidades#13"
+msgid "Poison EP Guard"
+msgstr "Antiveneno EP"
+
+#, fuzzy
+msgctxt "habilidades#13.desc"
+msgid "Poison EP resistance +25%."
+msgstr "Resistencia a Veneno EP +25%."
+
+#, fuzzy
+msgctxt "habilidades#14"
+msgid "Expansion Pack"
+msgstr "Expansión"
+
+#, fuzzy
+msgctxt "habilidades#14.desc"
+msgid "Increase skill slots by one."
+msgstr "Suma un espacio para habilidades."
+
+#, fuzzy
+msgctxt "habilidades#15"
+msgid "Memory"
+msgstr "Memoria"
+
+#, fuzzy
+msgctxt "habilidades#15.desc"
+msgid "Recall enemy zones once learned."
+msgstr "Recuerda las zonas de un enemigo ya conocidas."
+
+#, fuzzy
+msgctxt "habilidades#16"
+msgid "Break B10"
+msgstr "Desequilibrio B10"
+
+#, fuzzy
+msgctxt "habilidades#16.desc"
+msgid "Break bonus chance +10%."
+msgstr "Probabilidad de bonificación por Desequilibrio +10%."
+
+#, fuzzy
+msgctxt "habilidades#17"
+msgid "Break B15"
+msgstr "Desequilibrio B15"
+
+#, fuzzy
+msgctxt "habilidades#17.desc"
+msgid "Break bonus chance +15%."
+msgstr "Probabilidad de bonificación por Desequilibrio +15%."
+
+#, fuzzy
+msgctxt "habilidades#18"
+msgid "Lost AGL"
+msgstr "Sin pérdida AGL"
+
+#, fuzzy
+msgctxt "habilidades#18.desc"
+msgid "Retain full Agility after casting Ether."
+msgstr "Mantiene toda la Agilidad tras usar un éter."
+
+#, fuzzy
+msgctxt "habilidades#19"
+msgid "Rapid Refresh"
+msgstr "Recarga rápida"
+
+#, fuzzy
+msgctxt "habilidades#19.desc"
+msgid "Regeneration x2 during reserve."
+msgstr "Regeneración x2 en la reserva."
+
+#, fuzzy
+msgctxt "habilidades#20"
+msgid "Experience Up 10"
+msgstr "Experiencia +10"
+
+#, fuzzy
+msgctxt "habilidades#20.desc"
+msgid "Experience Points +10%."
+msgstr "Puntos de experiencia +10%."
+
+#, fuzzy
+msgctxt "habilidades#21"
+msgid "Experience Up 15"
+msgstr "Experiencia +15"
+
+#, fuzzy
+msgctxt "habilidades#21.desc"
+msgid "Experience Points +15%."
+msgstr "Puntos de experiencia +15%."
+
+#, fuzzy
+msgctxt "habilidades#22"
+msgid "Skill Up 10"
+msgstr "Habilidad +10"
+
+#, fuzzy
+msgctxt "habilidades#22.desc"
+msgid "Skill Points +10%."
+msgstr "Puntos de habilidad +10%."
+
+#, fuzzy
+msgctxt "habilidades#23"
+msgid "Skill Up 15"
+msgstr "Habilidad +15"
+
+#, fuzzy
+msgctxt "habilidades#23.desc"
+msgid "Skill Points +15%."
+msgstr "Puntos de habilidad +15%."
+
+#, fuzzy
+msgctxt "habilidades#24"
+msgid "Guard"
+msgstr "Guardia"
+
+#, fuzzy
+msgctxt "habilidades#24.desc"
+msgid "Damage reduction +20% when guarding."
+msgstr "Reducción de daño +20% al protegerse."
+
+#, fuzzy
+msgctxt "habilidades#25"
+msgid "Focus 1"
+msgstr "Enfoque 1"
+
+#, fuzzy
+msgctxt "habilidades#25.desc"
+msgid "Recover 10% EP with the Stock command."
+msgstr "Recupera un 10% de EP con el comando Stock."
+
+#, fuzzy
+msgctxt "habilidades#26"
+msgid "Focus 2"
+msgstr "Enfoque 2"
+
+#, fuzzy
+msgctxt "habilidades#26.desc"
+msgid "Recover 15% EP with the Stock command."
+msgstr "Recupera un 15% de EP con el comando Stock."
+
+#, fuzzy
+msgctxt "habilidades#27"
+msgid "Inner Peace"
+msgstr "Paz interior"
+
+#, fuzzy
+msgctxt "habilidades#27.desc"
+msgid "Raise Evasion after using the Stock command."
+msgstr "Sube la Evasión tras usar el comando Stock."
+
+#, fuzzy
+msgctxt "habilidades#28"
+msgid "STR+2"
+msgstr "STR+2"
+
+#, fuzzy
+msgctxt "habilidades#28.desc"
+msgid ""
+"Str +2\n"
+"Increase Physical Attack."
+msgstr ""
+"Str +2\n"
+"Aumenta el Ataque físico."
+
+#, fuzzy
+msgctxt "habilidades#29"
+msgid "VIT+2"
+msgstr "VIT+2"
+
+#, fuzzy
+msgctxt "habilidades#29.desc"
+msgid ""
+"Vit +2\n"
+"Increase Physical Defense."
+msgstr ""
+"Vit +2\n"
+"Aumenta la Defensa física."
+
+#, fuzzy
+msgctxt "habilidades#30"
+msgid "DEX+2"
+msgstr "DEX+2"
+
+#, fuzzy
+msgctxt "habilidades#30.desc"
+msgid ""
+"Dex +2\n"
+"Increase Dexterity."
+msgstr ""
+"Dex +2\n"
+"Aumenta la Destreza."
+
+#, fuzzy
+msgctxt "habilidades#31"
+msgid "EVA+2"
+msgstr "EVA+2"
+
+#, fuzzy
+msgctxt "habilidades#31.desc"
+msgid ""
+"Eva +2\n"
+"Increase Evasion."
+msgstr ""
+"Eva +2\n"
+"Aumenta la Evasión."
+
+#, fuzzy
+msgctxt "habilidades#32"
+msgid "EATK+2"
+msgstr "EATK+2"
+
+#, fuzzy
+msgctxt "habilidades#32.desc"
+msgid ""
+"Eatk +2\n"
+"Increase Ether Attack."
+msgstr ""
+"Eatk +2\n"
+"Aumenta el Ataque de éter."
+
+#, fuzzy
+msgctxt "habilidades#33"
+msgid "EDEF+2"
+msgstr "EDEF+2"
+
+#, fuzzy
+msgctxt "habilidades#33.desc"
+msgid ""
+"Edef +2\n"
+"Increase Ether Defense."
+msgstr ""
+"Edef +2\n"
+"Aumenta la Defensa de éter."
+
+#, fuzzy
+msgctxt "habilidades#34"
+msgid "Limiter Up"
+msgstr "Límite +"
+
+#, fuzzy
+msgctxt "habilidades#34.desc"
+msgid "Increase max HP & EP 10%."
+msgstr "Aumenta un 10% los HP y EP máximos."
+
+#, fuzzy
+msgctxt "habilidades#35"
+msgid "Double Power"
+msgstr "Poder doble"
+
+#, fuzzy
+msgctxt "habilidades#35.desc"
+msgid "Double parameter effects of equipped skills."
+msgstr "Duplica el efecto en parámetros de habilidades equipadas."
+
+#, fuzzy
+msgctxt "habilidades#36"
+msgid "CRTC+5"
+msgstr "CRTC+5"
+
+#, fuzzy
+msgctxt "habilidades#36.desc"
+msgid ""
+"Critical +5%.\n"
+"Increases critical hit rate 5%."
+msgstr ""
+"Crítico +5%.\n"
+"Aumenta un 5% la probabilidad de golpe crítico."
+
+#, fuzzy
+msgctxt "habilidades#37"
+msgid "Rare+10"
+msgstr "Rare+10"
+
+#, fuzzy
+msgctxt "habilidades#37.desc"
+msgid "Rare item acquisition +10%."
+msgstr "Obtención de objetos raros +10%."
+
+#, fuzzy
+msgctxt "habilidades#38"
+msgid "Rare+30"
+msgstr "Rare+30"
+
+#, fuzzy
+msgctxt "habilidades#38.desc"
+msgid "Rare item acquisition +30%."
+msgstr "Obtención de objetos raros +30%."
+
+#, fuzzy
+msgctxt "habilidades#39"
+msgid "Damage-10"
+msgstr "Daño-10"
+
+#, fuzzy
+msgctxt "habilidades#39.desc"
+msgid "Lower all damage received by 10%."
+msgstr "Reduce un 10% todo el daño recibido."
+
+#, fuzzy
+msgctxt "habilidades#40"
+msgid "EP Half"
+msgstr "EP a la mitad"
+
+#, fuzzy
+msgctxt "habilidades#40.desc"
+msgid "EP consumption 1/2."
+msgstr "Consumo de EP 1/2."
+
+#, fuzzy
+msgctxt "habilidades#41"
+msgid "ST Double"
+msgstr "ST doble"
+
+#, fuzzy
+msgctxt "habilidades#41.desc"
+msgid "Duration of status effects x2."
+msgstr "Duración de los estados x2."
+
+#, fuzzy
+msgctxt "habilidades#42"
+msgid "Revenge Power"
+msgstr "Poder vengativo"
+
+#, fuzzy
+msgctxt "habilidades#42.desc"
+msgid ""
+"25% chance of Counterboost after taking a critical hit\n"
+"(only after enemy individual attack)."
+msgstr ""
+"25% de probabilidad de Counterboost al recibir un crítico\n"
+"(solo tras un ataque individual enemigo)."
+
+#, fuzzy
+msgctxt "habilidades#43"
+msgid "Combo Boost"
+msgstr "Combo Boost"
+
+#, fuzzy
+msgctxt "habilidades#43.desc"
+msgid ""
+"Boost possible even when\n"
+"character icon is showing."
+msgstr ""
+"Permite hacer Boost aunque se vea\n"
+"el ícono del personaje."
+
+#, fuzzy
+msgctxt "habilidades#44"
+msgid "EP Regen"
+msgstr "Regen. EP"
+
+#, fuzzy
+msgctxt "habilidades#44.desc"
+msgid "EP +2 every turn."
+msgstr "EP +2 en cada turno."
+
+#, fuzzy
+msgctxt "habilidades#45"
+msgid "Samurai Soul"
+msgstr "Alma samurái"
+
+#, fuzzy
+msgctxt "habilidades#45.desc"
+msgid "Increase attack when party member is knocked out."
+msgstr "Sube el ataque cuando cae un miembro del grupo."
+
+#, fuzzy
+msgctxt "habilidades#46"
+msgid "Knight Soul"
+msgstr "Alma de paladín"
+
+#, fuzzy
+msgctxt "habilidades#46.desc"
+msgid "Increase defense when party member is knocked out."
+msgstr "Sube la defensa cuando cae un miembro del grupo."
+
+#, fuzzy
+msgctxt "habilidades#47"
+msgid "Last Revenge"
+msgstr "Venganza final"
+
+#, fuzzy
+msgctxt "habilidades#47.desc"
+msgid ""
+"When knocked out, Counterboost with\n"
+"1 HP and full stock (1 time only)."
+msgstr ""
+"Al caer, hace Counterboost con\n"
+"1 HP y el Stock lleno (solo 1 vez)."
+
+#, fuzzy
+msgctxt "habilidades#48"
+msgid "Ether Burst"
+msgstr "Estallido de éter"
+
+#, fuzzy
+msgctxt "habilidades#48.desc"
+msgid ""
+"Doubles Ether attack damage, but\n"
+"also doubles EP consumption."
+msgstr ""
+"Duplica el daño de los ataques de éter, pero\n"
+"también duplica el consumo de EP."
+
+#, fuzzy
+msgctxt "habilidades#49"
+msgid "First Combo"
+msgstr "Primer combo"
+
+#, fuzzy
+msgctxt "habilidades#49.desc"
+msgid "Stock +1 when battle starts."
+msgstr "Stock +1 al empezar el combate."
+
+#, fuzzy
+msgctxt "habilidades#50"
+msgid "Rebound"
+msgstr "Rebote"
+
+#, fuzzy
+msgctxt "habilidades#50.desc"
+msgid ""
+"50% chance to Counterboost after guard or evasion\n"
+"when using the Stock command."
+msgstr ""
+"50% de probabilidad de Counterboost tras protegerse o\n"
+"esquivar usando el comando Stock."
+
+#, fuzzy
+msgctxt "habilidades#51"
+msgid "Overload"
+msgstr "Sobrecarga"
+
+#, fuzzy
+msgctxt "habilidades#51.desc"
+msgid ""
+"50% chance of stock +2\n"
+"when using the Stock command."
+msgstr ""
+"50% de probabilidad de Stock +2\n"
+"al usar el comando Stock."
+
+#, fuzzy
+msgctxt "habilidades#52"
+msgid "ST Resist 20"
+msgstr "ST Resist 20"
+
+#, fuzzy
+msgctxt "habilidades#52.desc"
+msgid "Status effect resistance +20%."
+msgstr "Resistencia a estados +20%."
+
+#, fuzzy
+msgctxt "habilidades#53"
+msgid "ST Resist 30"
+msgstr "ST Resist 30"
+
+#, fuzzy
+msgctxt "habilidades#53.desc"
+msgid "Status effect resistance +30%."
+msgstr "Resistencia a estados +30%."
+
+#, fuzzy
+msgctxt "habilidades#54"
+msgid "Flame Coat"
+msgstr "Manto ígneo"
+
+#, fuzzy
+msgctxt "habilidades#54.desc"
+msgid "Reduce fire damage 25%."
+msgstr "Reduce un 25% el daño de fuego."
+
+#, fuzzy
+msgctxt "habilidades#55"
+msgid "Ice Coat"
+msgstr "Manto gélido"
+
+#, fuzzy
+msgctxt "habilidades#55.desc"
+msgid "Reduce ice damage 25%."
+msgstr "Reduce un 25% el daño de hielo."
+
+#, fuzzy
+msgctxt "habilidades#56"
+msgid "Thunder Coat"
+msgstr "Manto de rayo"
+
+#, fuzzy
+msgctxt "habilidades#56.desc"
+msgid "Reduce thunder damage 25%."
+msgstr "Reduce un 25% el daño de rayo."
+
+#, fuzzy
+msgctxt "habilidades#57"
+msgid "Aura Coat"
+msgstr "Manto de aura"
+
+#, fuzzy
+msgctxt "habilidades#57.desc"
+msgid "Reduce aura damage 25%."
+msgstr "Reduce un 25% el daño de aura."
+
+#, fuzzy
+msgctxt "habilidades#58"
+msgid "Blade Coat"
+msgstr "Manto de filo"
+
+#, fuzzy
+msgctxt "habilidades#58.desc"
+msgid "Reduce slashing damage 25%."
+msgstr "Reduce un 25% el daño de corte."
+
+#, fuzzy
+msgctxt "habilidades#59"
+msgid "Spear Coat"
+msgstr "Manto de lanza"
+
+#, fuzzy
+msgctxt "habilidades#59.desc"
+msgid "Reduce piercing damage 25%."
+msgstr "Reduce un 25% el daño de perforación."
+
+#, fuzzy
+msgctxt "habilidades#60"
+msgid "Hammer Coat"
+msgstr "Manto de maza"
+
+#, fuzzy
+msgctxt "habilidades#60.desc"
+msgid "Reduce strike damage 25%."
+msgstr "Reduce un 25% el daño de golpe."
+
+#, fuzzy
+msgctxt "habilidades#61"
+msgid "Beam Coat"
+msgstr "Manto de haz"
+
+#, fuzzy
+msgctxt "habilidades#61.desc"
+msgid "Reduce beam damage 25%."
+msgstr "Reduce un 25% el daño de haz."
+
+#, fuzzy
+msgctxt "habilidades#62"
+msgid "Swimsuit"
+msgstr "Traje de baño"
+
+#, fuzzy
+msgctxt "habilidades#62.desc"
+msgid ""
+"Agl +1/Skill points +10%\n"
+"Additional 10-15% damage."
+msgstr ""
+"Agl +1/Puntos de habilidad +10%\n"
+"10-15% de daño adicional."
+
+#, fuzzy
+msgctxt "accesorios#0"
+msgid "Auxiliary Armor A"
+msgstr "Blindaje auxiliar A"
+
+#, fuzzy
+msgctxt "accesorios#0.desc"
+msgid ""
+"Arm +30\n"
+"Increase Physical Defense."
+msgstr ""
+"Arm +30\n"
+"Aumenta la Defensa física."
+
+#, fuzzy
+msgctxt "accesorios#1"
+msgid "Auxiliary Armor B"
+msgstr "Blindaje auxiliar B"
+
+#, fuzzy
+msgctxt "accesorios#1.desc"
+msgid ""
+"Arm +40\n"
+"Increase Physical Defense."
+msgstr ""
+"Arm +40\n"
+"Aumenta la Defensa física."
+
+#, fuzzy
+msgctxt "accesorios#5"
+msgid "EF Circuit A"
+msgstr "Circuito EF A"
+
+#, fuzzy
+msgctxt "accesorios#5.desc"
+msgid ""
+"Edef +20\n"
+"Increase Ether Defense."
+msgstr ""
+"Edef +20\n"
+"Aumenta la Defensa de éter."
+
+#, fuzzy
+msgctxt "accesorios#6"
+msgid "EF Circuit B"
+msgstr "Circuito EF B"
+
+#, fuzzy
+msgctxt "accesorios#6.desc"
+msgid ""
+"Edef +30\n"
+"Increase Ether Defense."
+msgstr ""
+"Edef +30\n"
+"Aumenta la Defensa de éter."
+
+#, fuzzy
+msgctxt "accesorios#10"
+msgid "Anti-Fire Armor"
+msgstr "Blindaje antifuego"
+
+#, fuzzy
+msgctxt "accesorios#10.desc"
+msgid "Lower fire damage 25%."
+msgstr "Reduce un 25% el daño de fuego."
+
+#, fuzzy
+msgctxt "accesorios#11"
+msgid "Anti-Ice Armor"
+msgstr "Blindaje antihielo"
+
+#, fuzzy
+msgctxt "accesorios#11.desc"
+msgid "Lower ice damage 25%."
+msgstr "Reduce un 25% el daño de hielo."
+
+#, fuzzy
+msgctxt "accesorios#12"
+msgid "Anti-Thunder Armor"
+msgstr "Blindaje antirrayo"
+
+#, fuzzy
+msgctxt "accesorios#12.desc"
+msgid "Lower thunder damage 25%."
+msgstr "Reduce un 25% el daño de rayo."
+
+#, fuzzy
+msgctxt "accesorios#13"
+msgid "Anti-Beam Armor"
+msgstr "Blindaje antihaz"
+
+#, fuzzy
+msgctxt "accesorios#13.desc"
+msgid "Lower beam damage 25%."
+msgstr "Reduce un 25% el daño de haz."
+
+#, fuzzy
+msgctxt "accesorios#14"
+msgid "Tuned Circuit"
+msgstr "Circuito afinado"
+
+#, fuzzy
+msgctxt "accesorios#14.desc"
+msgid "Agility +1."
+msgstr "Agilidad +1."
+
+#, fuzzy
+msgctxt "accesorios#15"
+msgid "Charge Boost"
+msgstr "Carga Boost"
+
+#, fuzzy
+msgctxt "accesorios#15.desc"
+msgid "Increase charge 25% by using the STOCK command."
+msgstr "Aumenta un 25% la carga al usar el comando STOCK."
+
+#, fuzzy
+msgctxt "accesorios#16"
+msgid "Charge Clean"
+msgstr "Carga limpia"
+
+#, fuzzy
+msgctxt "accesorios#16.desc"
+msgid "Clear all status effects by using the STOCK command."
+msgstr "Cura todos los estados al usar el comando STOCK."
+
+#, fuzzy
+msgctxt "accesorios#17"
+msgid "Charge Recover"
+msgstr "Carga curativa"
+
+#, fuzzy
+msgctxt "accesorios#17.desc"
+msgid ""
+"Recover 5% of maximum HP by\n"
+"using the STOCK command."
+msgstr ""
+"Recupera un 5% de los HP máximos\n"
+"al usar el comando STOCK."
+
+#, fuzzy
+msgctxt "accesorios#18"
+msgid "Power Shield"
+msgstr "Escudo de poder"
+
+#, fuzzy
+msgctxt "accesorios#18.desc"
+msgid "Damage reduction +20% when defending."
+msgstr "Reducción de daño +20% al defenderse."
+
+#, fuzzy
+msgctxt "accesorios#19"
+msgid "G Slow Guard"
+msgstr "G Antilentitud"
+
+#, fuzzy
+msgctxt "accesorios#19.desc"
+msgid "Slow resistance +25%."
+msgstr "Resistencia a Lentitud +25%."
+
+#, fuzzy
+msgctxt "accesorios#20"
+msgid "G Poison Guard"
+msgstr "G Antiveneno"
+
+#, fuzzy
+msgctxt "accesorios#20.desc"
+msgid "Poison resistance +25%."
+msgstr "Resistencia a Veneno +25%."
+
+#, fuzzy
+msgctxt "accesorios#21"
+msgid "G Blind Guard"
+msgstr "G Anticeguera"
+
+#, fuzzy
+msgctxt "accesorios#21.desc"
+msgid "Blind resistance +25%."
+msgstr "Resistencia a Ceguera +25%."
+
+#, fuzzy
+msgctxt "accesorios#22"
+msgid "G Heavy Guard"
+msgstr "G Antipesadez"
+
+#, fuzzy
+msgctxt "accesorios#22.desc"
+msgid "Heavy resistance +25%."
+msgstr "Resistencia a Pesadez +25%."
+
+#, fuzzy
+msgctxt "accesorios#23"
+msgid "G Weak Guard"
+msgstr "G Antidebilidad"
+
+#, fuzzy
+msgctxt "accesorios#23.desc"
+msgid "Weak resistance +25%."
+msgstr "Resistencia a Debilidad +25%."
+
+#, fuzzy
+msgctxt "accesorios#24"
+msgid "G Stun Guard"
+msgstr "G Antiaturdimiento"
+
+#, fuzzy
+msgctxt "accesorios#24.desc"
+msgid "Stun resistance +25%."
+msgstr "Resistencia a Aturdimiento +25%."
+
+#, fuzzy
+msgctxt "accesorios#25"
+msgid "G Ether PD Guard"
+msgstr "G Anti-Éter PD"
+
+#, fuzzy
+msgctxt "accesorios#25.desc"
+msgid "Ether PD resistance +25%."
+msgstr "Resistencia a Éter PD +25%."
+
+#, fuzzy
+msgctxt "accesorios#26"
+msgid "G Ether DD Guard"
+msgstr "G Anti-Éter DD"
+
+#, fuzzy
+msgctxt "accesorios#26.desc"
+msgid "Ether DD resistance +25%."
+msgstr "Resistencia a Éter DD +25%."
+
+#, fuzzy
+msgctxt "accesorios#27"
+msgid "G Bind Guard"
+msgstr "G Antiatadura"
+
+#, fuzzy
+msgctxt "accesorios#27.desc"
+msgid "Bind resistance +25%."
+msgstr "Resistencia a Atadura +25%."
+
+#, fuzzy
+msgctxt "accesorios#28"
+msgid "G Lost Guard"
+msgstr "G Antipérdida"
+
+#, fuzzy
+msgctxt "accesorios#28.desc"
+msgid "Lost resistance +25%."
+msgstr "Resistencia a Pérdida +25%."
+
+#, fuzzy
+msgctxt "accesorios#29"
+msgid "G Boost Guard"
+msgstr "G Anti-Boost"
+
+#, fuzzy
+msgctxt "accesorios#29.desc"
+msgid "Boost Lock resistance +25%."
+msgstr "Resistencia a Bloqueo de Boost +25%."
+
+#, fuzzy
+msgctxt "accesorios#30"
+msgid "G Poison EP Guard"
+msgstr "G Antiveneno EP"
+
+#, fuzzy
+msgctxt "accesorios#30.desc"
+msgid "Poison EP resistance +25%."
+msgstr "Resistencia a Veneno EP +25%."
+
+#, fuzzy
+msgctxt "accesorios#31"
+msgid "G Energy Guard"
+msgstr "G Antienergía"
+
+#, fuzzy
+msgctxt "accesorios#31.desc"
+msgid "Charge Down resistance +25%."
+msgstr "Resistencia a Menos carga +25%."
+
+#, fuzzy
+msgctxt "accesorios#32"
+msgid "G Power Charge"
+msgstr "G Carga de poder"
+
+#, fuzzy
+msgctxt "accesorios#32.desc"
+msgid "Resistance to all status effects +25%."
+msgstr "Resistencia a todos los estados +25%."
+
+#, fuzzy
+msgctxt "accesorios#33"
+msgid "G ST Double"
+msgstr "G ST doble"
+
+#, fuzzy
+msgctxt "accesorios#33.desc"
+msgid "Double duration of status effects."
+msgstr "Duplica la duración de los estados."
+
+#, fuzzy
+msgctxt "accesorios#34"
+msgid "Quick Charge"
+msgstr "Carga rápida"
+
+#, fuzzy
+msgctxt "accesorios#34.desc"
+msgid "EC is charged to 100 at the start of battle."
+msgstr "La EC se carga a 100 al empezar el combate."
+
+#, fuzzy
+msgctxt "accesorios#35"
+msgid "EMAX300"
+msgstr "EMAX300"
+
+#, fuzzy
+msgctxt "accesorios#35.desc"
+msgid "Make maximum charge 300."
+msgstr "La carga máxima pasa a ser 300."
+
+#, fuzzy
+msgctxt "accesorios#36"
+msgid "Auto Recover"
+msgstr "Autorrecuperación"
+
+#, fuzzy
+msgctxt "accesorios#36.desc"
+msgid "Recover 50% HP when incapacitated (once)."
+msgstr "Recupera un 50% de los HP al quedar fuera de combate (1 vez)."
+
+#, fuzzy
+msgctxt "objetos#0"
+msgid "Med Kit S"
+msgstr "Botiquín S"
+
+#, fuzzy
+msgctxt "objetos#0.desc"
+msgid "Recover 25% of MAX HP."
+msgstr "Recupera un 25% de los HP máximos."
+
+#, fuzzy
+msgctxt "objetos#1"
+msgid "Med Kit M"
+msgstr "Botiquín M"
+
+#, fuzzy
+msgctxt "objetos#1.desc"
+msgid "Recover 50% of MAX HP."
+msgstr "Recupera un 50% de los HP máximos."
+
+#, fuzzy
+msgctxt "objetos#2"
+msgid "Med Kit L"
+msgstr "Botiquín L"
+
+#, fuzzy
+msgctxt "objetos#2.desc"
+msgid "Recover 75% of MAX HP."
+msgstr "Recupera un 75% de los HP máximos."
+
+#, fuzzy
+msgctxt "objetos#3"
+msgid "Med Kit DX"
+msgstr "Botiquín DX"
+
+#, fuzzy
+msgctxt "objetos#3.desc"
+msgid "Recover all HP."
+msgstr "Recupera todos los HP."
+
+#, fuzzy
+msgctxt "objetos#4"
+msgid "Ether Pack S"
+msgstr "Kit de éter S"
+
+#, fuzzy
+msgctxt "objetos#4.desc"
+msgid "Recover 25% of MAX EP."
+msgstr "Recupera un 25% de los EP máximos."
+
+#, fuzzy
+msgctxt "objetos#5"
+msgid "Ether Pack M"
+msgstr "Kit de éter M"
+
+#, fuzzy
+msgctxt "objetos#5.desc"
+msgid "Recover 50% of MAX EP."
+msgstr "Recupera un 50% de los EP máximos."
+
+#, fuzzy
+msgctxt "objetos#6"
+msgid "Ether Pack DX"
+msgstr "Kit de éter DX"
+
+#, fuzzy
+msgctxt "objetos#6.desc"
+msgid "Recover all EP."
+msgstr "Recupera todos los EP."
+
+#, fuzzy
+msgctxt "objetos#7"
+msgid "Rejuvenator M"
+msgstr "Elixir M"
+
+#, fuzzy
+msgctxt "objetos#7.desc"
+msgid "Recover 50% of MAX HP and EP."
+msgstr "Recupera un 50% de los HP y EP máximos."
+
+#, fuzzy
+msgctxt "objetos#8"
+msgid "Rejuvenator DX"
+msgstr "Elixir DX"
+
+#, fuzzy
+msgctxt "objetos#8.desc"
+msgid "Recover all HP and EP."
+msgstr "Recupera todos los HP y EP."
+
+#, fuzzy
+msgctxt "objetos#9"
+msgid "Rejuvenator E"
+msgstr "Elixir E"
+
+#, fuzzy
+msgctxt "objetos#9.desc"
+msgid "Recover all HP and EP for all allies."
+msgstr "Recupera todos los HP y EP de todos los aliados."
+
+#, fuzzy
+msgctxt "objetos#10"
+msgid "Antidote L"
+msgstr "Antídoto L"
+
+#, fuzzy
+msgctxt "objetos#10.desc"
+msgid "Heal L-type status effects."
+msgstr "Cura los estados de tipo L."
+
+#, fuzzy
+msgctxt "objetos#11"
+msgid "Antidote H"
+msgstr "Antídoto H"
+
+#, fuzzy
+msgctxt "objetos#11.desc"
+msgid "Heal H-type status effects."
+msgstr "Cura los estados de tipo H."
+
+#, fuzzy
+msgctxt "objetos#12"
+msgid "Revive S"
+msgstr "Reanimador S"
+
+#, fuzzy
+msgctxt "objetos#12.desc"
+msgid "Revive & recover 25% of MAX HP."
+msgstr "Revive y recupera un 25% de los HP máximos."
+
+#, fuzzy
+msgctxt "objetos#13"
+msgid "Revive DX"
+msgstr "Reanimador DX"
+
+#, fuzzy
+msgctxt "objetos#13.desc"
+msgid "Revive & recover all HP."
+msgstr "Revive y recupera todos los HP."
+
+#, fuzzy
+msgctxt "objetos#14"
+msgid "Boost Max"
+msgstr "Boost máx."
+
+#, fuzzy
+msgctxt "objetos#14.desc"
+msgid "Boost Gauge maximum +1 (up to 5)."
+msgstr "Máximo de la barra de Boost +1 (hasta 5)."
+
+#, fuzzy
+msgctxt "objetos#15"
+msgid "CF Bomb"
+msgstr "Bomba CF"
+
+#, fuzzy
+msgctxt "objetos#15.desc"
+msgid "Disable an enemy's defense shield."
+msgstr "Desactiva el escudo defensivo de un enemigo."
+
+#, fuzzy
+msgctxt "objetos#16"
+msgid "Hemlock"
+msgstr "Cicuta"
+
+#, fuzzy
+msgctxt "objetos#16.desc"
+msgid "Set HP to 1."
+msgstr "Deja los HP en 1."
+
+#, fuzzy
+msgctxt "objetos#20"
+msgid "Bio Sphere"
+msgstr "Bioesfera"
+
+#, fuzzy
+msgctxt "objetos#20.desc"
+msgid "Recover all HP and EP (entire party)."
+msgstr "Recupera todos los HP y EP (todo el grupo)."
+
+#, fuzzy
+msgctxt "objetos#21"
+msgid "Skill Upgrade A"
+msgstr "Mejora hab. A"
+
+#, fuzzy
+msgctxt "objetos#21.desc"
+msgid "Skill Points +10."
+msgstr "Puntos de habilidad +10."
+
+#, fuzzy
+msgctxt "objetos#22"
+msgid "Skill Upgrade B"
+msgstr "Mejora hab. B"
+
+#, fuzzy
+msgctxt "objetos#22.desc"
+msgid "Skill Points +30."
+msgstr "Puntos de habilidad +30."
+
+#, fuzzy
+msgctxt "objetos#23"
+msgid "Skill Upgrade C"
+msgstr "Mejora hab. C"
+
+#, fuzzy
+msgctxt "objetos#23.desc"
+msgid "Skill Points +50."
+msgstr "Puntos de habilidad +50."
+
+#, fuzzy
+msgctxt "objetos#24"
+msgid "Skill Upgrade D"
+msgstr "Mejora hab. D"
+
+#, fuzzy
+msgctxt "objetos#24.desc"
+msgid "Skill Points +100."
+msgstr "Puntos de habilidad +100."
+
+#, fuzzy
+msgctxt "objetos#25"
+msgid "Skill Upgrade E"
+msgstr "Mejora hab. E"
+
+#, fuzzy
+msgctxt "objetos#25.desc"
+msgid "Skill Points +500."
+msgstr "Puntos de habilidad +500."
+
+#, fuzzy
+msgctxt "objetos#26"
+msgid "Class Upgrade A"
+msgstr "Mejora clase A"
+
+#, fuzzy
+msgctxt "objetos#26.desc"
+msgid "Class Points +10."
+msgstr "Puntos de clase +10."
+
+#, fuzzy
+msgctxt "objetos#27"
+msgid "Class Upgrade B"
+msgstr "Mejora clase B"
+
+#, fuzzy
+msgctxt "objetos#27.desc"
+msgid "Class Points +50."
+msgstr "Puntos de clase +50."
+
+#, fuzzy
+msgctxt "objetos#28"
+msgid "Class Upgrade C"
+msgstr "Mejora clase C"
+
+#, fuzzy
+msgctxt "objetos#28.desc"
+msgid "Class Points +100."
+msgstr "Puntos de clase +100."
+
+#, fuzzy
+msgctxt "objetos#29"
+msgid "Nano Repair A"
+msgstr "Nanorreparo A"
+
+#, fuzzy
+msgctxt "objetos#29.desc"
+msgid "Recover 25% of MAX HP and EP (E.S. only)."
+msgstr "Recupera un 25% de los HP y EP máximos (solo E.S.)."
+
+#, fuzzy
+msgctxt "objetos#30"
+msgid "Nano Repair Z"
+msgstr "Nanorreparo Z"
+
+#, fuzzy
+msgctxt "objetos#30.desc"
+msgid "Recover 50% of MAX HP and EP (E.S. only)."
+msgstr "Recupera un 50% de los HP y EP máximos (solo E.S.)."
+
+#, fuzzy
+msgctxt "objetos#31"
+msgid "Nano Sphere"
+msgstr "Nanoesfera"
+
+#, fuzzy
+msgctxt "objetos#31.desc"
+msgid "Recover all HP and EP of all crafts (E.S. only)."
+msgstr "Recupera todos los HP y EP de todas las naves (solo E.S.)."
+
+#, fuzzy
+msgctxt "objetos#32"
+msgid "Scrap Iron"
+msgstr "Chatarra"
+
+#, fuzzy
+msgctxt "objetos#32.desc"
+msgid "Remains of a machine."
+msgstr "Restos de una máquina."
+
+#, fuzzy
+msgctxt "objetos#33"
+msgid "Junked Circuit"
+msgstr "Circuito roto"
+
+#, fuzzy
+msgctxt "objetos#33.desc"
+msgid "A destroyed circuit."
+msgstr "Un circuito destruido."
+
+#, fuzzy
+msgctxt "objetos#34"
+msgid "Ether Core"
+msgstr "Núcleo de éter"
+
+#, fuzzy
+msgctxt "objetos#34.desc"
+msgid "A rare part used to fix broken Ether."
+msgstr "Una pieza rara que sirve para reparar éteres averiados."
+
+#, fuzzy
+msgctxt "objetos#36"
+msgid "Awakening I"
+msgstr "Despertar I"
+
+#, fuzzy
+msgctxt "objetos#36.desc"
+msgid "Double Attack for Jr. and MOMO."
+msgstr "Ataque Doble de Jr. y MOMO."
+
+#, fuzzy
+msgctxt "objetos#37"
+msgid "Awakening II"
+msgstr "Despertar II"
+
+#, fuzzy
+msgctxt "objetos#37.desc"
+msgid "Double Attack for Shion and KOS-MOS."
+msgstr "Ataque Doble de Shion y KOS-MOS."
+
+#, fuzzy
+msgctxt "objetos#38"
+msgid "Awakening III"
+msgstr "Despertar III"
+
+#, fuzzy
+msgctxt "objetos#38.desc"
+msgid "Double Attack for Jin and Shion."
+msgstr "Ataque Doble de Jin y Shion."
+
+#, fuzzy
+msgctxt "objetos#39"
+msgid "Awakening IV"
+msgstr "Despertar IV"
+
+#, fuzzy
+msgctxt "objetos#39.desc"
+msgid "Double Attack for chaos and MOMO."
+msgstr "Ataque Doble de chaos y MOMO."
+
+#, fuzzy
+msgctxt "llaves#0"
+msgid "Secret Key 1"
+msgstr "Llave Secreta 1"
+
+#, fuzzy
+msgctxt "llaves#0.desc"
+msgid "Key to open the Lv 1 Class H skill, Psycho Pocket."
+msgstr "Llave que abre la habilidad Hurto psíquico (nivel 1, clase H)."
+
+#, fuzzy
+msgctxt "llaves#1"
+msgid "Secret Key 2"
+msgstr "Llave Secreta 2"
+
+#, fuzzy
+msgctxt "llaves#1.desc"
+msgid "Key to open the Lv 1 Class H skill, Break B10."
+msgstr "Llave que abre la habilidad Desequilibrio B10 (nivel 1, clase H)."
+
+#, fuzzy
+msgctxt "llaves#2"
+msgid "Secret Key 3"
+msgstr "Llave Secreta 3"
+
+#, fuzzy
+msgctxt "llaves#2.desc"
+msgid "Key to open the Lv 1 Class H skill, Focus 1."
+msgstr "Llave que abre la habilidad Enfoque 1 (nivel 1, clase H)."
+
+#, fuzzy
+msgctxt "llaves#3"
+msgid "Secret Key 4"
+msgstr "Llave Secreta 4"
+
+#, fuzzy
+msgctxt "llaves#3.desc"
+msgid "Key to open the Lv 1 Class H skill, EP Regen."
+msgstr "Llave que abre la habilidad Regen. EP (nivel 1, clase H)."
+
+#, fuzzy
+msgctxt "llaves#4"
+msgid "Secret Key 5"
+msgstr "Llave Secreta 5"
+
+#, fuzzy
+msgctxt "llaves#4.desc"
+msgid "Key to open the Lv 2 Class D skill, Stock 1."
+msgstr "Llave que abre la habilidad Stock 1 (nivel 2, clase D)."
+
+#, fuzzy
+msgctxt "llaves#5"
+msgid "Secret Key 6"
+msgstr "Llave Secreta 6"
+
+#, fuzzy
+msgctxt "llaves#5.desc"
+msgid "Key to open the Lv 2 Class D skill, Rare+10."
+msgstr "Llave que abre la habilidad Rare+10 (nivel 2, clase D)."
+
+#, fuzzy
+msgctxt "llaves#6"
+msgid "Secret Key 7"
+msgstr "Llave Secreta 7"
+
+#, fuzzy
+msgctxt "llaves#6.desc"
+msgid "Key to open the Lv 2 Class F skill, Junk Beam."
+msgstr "Llave que abre la habilidad Haz chatarra (nivel 2, clase F)."
+
+#, fuzzy
+msgctxt "llaves#7"
+msgid "Secret Key 8"
+msgstr "Llave Secreta 8"
+
+#, fuzzy
+msgctxt "llaves#7.desc"
+msgid "Key to open the Lv 2 Class H skill, Boost 1."
+msgstr "Llave que abre la habilidad Boost 1 (nivel 2, clase H)."
+
+#, fuzzy
+msgctxt "llaves#8"
+msgid "Secret Key 9"
+msgstr "Llave Secreta 9"
+
+#, fuzzy
+msgctxt "llaves#8.desc"
+msgid "Key to open the Lv 2 Class H skill, Expansion Pack."
+msgstr "Llave que abre la habilidad Expansión (nivel 2, clase H)."
+
+#, fuzzy
+msgctxt "llaves#9"
+msgid "Secret Key 10"
+msgstr "Llave Secreta 10"
+
+#, fuzzy
+msgctxt "llaves#9.desc"
+msgid "Key to open the Lv 2 Class H skill, Inner Peace."
+msgstr "Llave que abre la habilidad Paz interior (nivel 2, clase H)."
+
+#, fuzzy
+msgctxt "llaves#10"
+msgid "Secret Key 11"
+msgstr "Llave Secreta 11"
+
+#, fuzzy
+msgctxt "llaves#10.desc"
+msgid "Key to open the Lv 2 Class H skill, ST Resist 20."
+msgstr "Llave que abre la habilidad ST Resist 20 (nivel 2, clase H)."
+
+#, fuzzy
+msgctxt "llaves#11"
+msgid "Secret Key 12"
+msgstr "Llave Secreta 12"
+
+#, fuzzy
+msgctxt "llaves#11.desc"
+msgid "Key to open the Lv 3 Class A skill, Safety Level."
+msgstr "Llave que abre la habilidad Nivel seguro (nivel 3, clase A)."
+
+#, fuzzy
+msgctxt "llaves#12"
+msgid "Secret Key 13"
+msgstr "Llave Secreta 13"
+
+#, fuzzy
+msgctxt "llaves#12.desc"
+msgid "Key to open the Lv 3 Class A skill, Limiter Up."
+msgstr "Llave que abre la habilidad Límite + (nivel 3, clase A)."
+
+#, fuzzy
+msgctxt "llaves#13"
+msgid "Secret Key 14"
+msgstr "Llave Secreta 14"
+
+#, fuzzy
+msgctxt "llaves#13.desc"
+msgid "Key to open the Lv 3 Class C skill, Rapid Refresh."
+msgstr "Llave que abre la habilidad Recarga rápida (nivel 3, clase C)."
+
+#, fuzzy
+msgctxt "llaves#14"
+msgid "Secret Key 15"
+msgstr "Llave Secreta 15"
+
+#, fuzzy
+msgctxt "llaves#14.desc"
+msgid "Key to open the Lv 3 Class C skill, Last Revenge."
+msgstr "Llave que abre la habilidad Venganza final (nivel 3, clase C)."
+
+#, fuzzy
+msgctxt "llaves#15"
+msgid "Secret Key 16"
+msgstr "Llave Secreta 16"
+
+#, fuzzy
+msgctxt "llaves#15.desc"
+msgid "Key to open the Lv 3 Class E skill, First Combo."
+msgstr "Llave que abre la habilidad Primer combo (nivel 3, clase E)."
+
+#, fuzzy
+msgctxt "llaves#16"
+msgid "Secret Key 17"
+msgstr "Llave Secreta 17"
+
+#, fuzzy
+msgctxt "llaves#16.desc"
+msgid "Key to open the Lv 3 Class F skill, Break B15."
+msgstr "Llave que abre la habilidad Desequilibrio B15 (nivel 3, clase F)."
+
+#, fuzzy
+msgctxt "llaves#17"
+msgid "Secret Key 18"
+msgstr "Llave Secreta 18"
+
+#, fuzzy
+msgctxt "llaves#17.desc"
+msgid "Key to open the Lv 3 Class F skill, Rare+30."
+msgstr "Llave que abre la habilidad Rare+30 (nivel 3, clase F)."
+
+#, fuzzy
+msgctxt "llaves#18"
+msgid "Secret Key 19"
+msgstr "Llave Secreta 19"
+
+#, fuzzy
+msgctxt "llaves#18.desc"
+msgid "Key to open the Lv 3 Class G skill, Ether Burst."
+msgstr "Llave que abre la habilidad Estallido de éter (nivel 3, clase G)."
+
+#, fuzzy
+msgctxt "llaves#19"
+msgid "Secret Key 20"
+msgstr "Llave Secreta 20"
+
+#, fuzzy
+msgctxt "llaves#19.desc"
+msgid "Key to open the Lv 3 Class H skill, Skill Up 10."
+msgstr "Llave que abre Habilidad +10 (nivel 3, clase H)."
+
+#, fuzzy
+msgctxt "llaves#20"
+msgid "Secret Key 21"
+msgstr "Llave Secreta 21"
+
+#, fuzzy
+msgctxt "llaves#20.desc"
+msgid "Key to open the Lv 3 Class H skill, Experience Up 10."
+msgstr "Llave que abre la habilidad Experiencia +10 (nivel 3, clase H)."
+
+#, fuzzy
+msgctxt "llaves#21"
+msgid "Secret Key 22"
+msgstr "Llave Secreta 22"
+
+#, fuzzy
+msgctxt "llaves#21.desc"
+msgid "Key to open the Lv 3 Class H skill, Combo Boost."
+msgstr "Llave que abre la habilidad Combo Boost (nivel 3, clase H)."
+
+#, fuzzy
+msgctxt "llaves#22"
+msgid "Secret Key 23"
+msgstr "Llave Secreta 23"
+
+#, fuzzy
+msgctxt "llaves#22.desc"
+msgid "Key to open the Lv 3 Class H skill, EP Half."
+msgstr "Llave que abre la habilidad EP a la mitad (nivel 3, clase H)."
+
+#, fuzzy
+msgctxt "llaves#23"
+msgid "Secret Key 24"
+msgstr "Llave Secreta 24"
+
+#, fuzzy
+msgctxt "llaves#23.desc"
+msgid "Key to open the Lv 4 Class A skill, Curse."
+msgstr "Llave que abre la habilidad Maldición (nivel 4, clase A)."
+
+#, fuzzy
+msgctxt "llaves#24"
+msgid "Secret Key 25"
+msgstr "Llave Secreta 25"
+
+#, fuzzy
+msgctxt "llaves#24.desc"
+msgid "Key to open the Lv 4 Class B skill, Focus 2."
+msgstr "Llave que abre la habilidad Enfoque 2 (nivel 4, clase B)."
+
+#, fuzzy
+msgctxt "llaves#25"
+msgid "Secret Key 26"
+msgstr "Llave Secreta 26"
+
+#, fuzzy
+msgctxt "llaves#25.desc"
+msgid "Key to open the Lv 4 Class C skill, Overload."
+msgstr "Llave que abre la habilidad Sobrecarga (nivel 4, clase C)."
+
+#, fuzzy
+msgctxt "llaves#26"
+msgid "Secret Key 27"
+msgstr "Llave Secreta 27"
+
+#, fuzzy
+msgctxt "llaves#26.desc"
+msgid "Key to open the Lv 4 Class C skill, ST Double."
+msgstr "Llave que abre la habilidad ST doble (nivel 4, clase C)."
+
+#, fuzzy
+msgctxt "llaves#27"
+msgid "Secret Key 28"
+msgstr "Llave Secreta 28"
+
+#, fuzzy
+msgctxt "llaves#27.desc"
+msgid "Key to open the Lv 4 Class D skill, Best Ally."
+msgstr "Llave que abre la habilidad Mejor aliado (nivel 4, clase D)."
+
+#, fuzzy
+msgctxt "llaves#28"
+msgid "Secret Key 29"
+msgstr "Llave Secreta 29"
+
+#, fuzzy
+msgctxt "llaves#28.desc"
+msgid "Key to open the Lv 4 Class D skill, Skill Up 15."
+msgstr "Llave que abre Habilidad +15 (nivel 4, clase D)."
+
+#, fuzzy
+msgctxt "llaves#29"
+msgid "Secret Key 30"
+msgstr "Llave Secreta 30"
+
+#, fuzzy
+msgctxt "llaves#29.desc"
+msgid "Key to open the Lv 4 Class D skill, Experience Up 15."
+msgstr "Llave que abre la habilidad Experiencia +15 (nivel 4, clase D)."
+
+#, fuzzy
+msgctxt "llaves#30"
+msgid "Secret Key 31"
+msgstr "Llave Secreta 31"
+
+#, fuzzy
+msgctxt "llaves#30.desc"
+msgid "Key to open the Lv 4 Class D skill, Rebound."
+msgstr "Llave que abre la habilidad Rebote (nivel 4, clase D)."
+
+#, fuzzy
+msgctxt "objetos_clave#0"
+msgid "Decoder 01"
+msgstr "Decodificador 01"
+
+#, fuzzy
+msgctxt "objetos_clave#0.desc"
+msgid "Decoder to unlock Segment Address No. 01."
+msgstr "Decodificador de la Dirección de Segmento n.º 01."
+
+#, fuzzy
+msgctxt "objetos_clave#1"
+msgid "Decoder 02"
+msgstr "Decodificador 02"
+
+#, fuzzy
+msgctxt "objetos_clave#1.desc"
+msgid "Decoder to unlock Segment Address No. 02."
+msgstr "Decodificador de la Dirección de Segmento n.º 02."
+
+#, fuzzy
+msgctxt "objetos_clave#2"
+msgid "Decoder 03"
+msgstr "Decodificador 03"
+
+#, fuzzy
+msgctxt "objetos_clave#2.desc"
+msgid "Decoder to unlock Segment Address No. 03."
+msgstr "Decodificador de la Dirección de Segmento n.º 03."
+
+#, fuzzy
+msgctxt "objetos_clave#3"
+msgid "Decoder 04"
+msgstr "Decodificador 04"
+
+#, fuzzy
+msgctxt "objetos_clave#3.desc"
+msgid "Decoder to unlock Segment Address No. 04."
+msgstr "Decodificador de la Dirección de Segmento n.º 04."
+
+#, fuzzy
+msgctxt "objetos_clave#4"
+msgid "Decoder 05"
+msgstr "Decodificador 05"
+
+#, fuzzy
+msgctxt "objetos_clave#4.desc"
+msgid "Decoder to unlock Segment Address No. 05."
+msgstr "Decodificador de la Dirección de Segmento n.º 05."
+
+#, fuzzy
+msgctxt "objetos_clave#5"
+msgid "Decoder 06"
+msgstr "Decodificador 06"
+
+#, fuzzy
+msgctxt "objetos_clave#5.desc"
+msgid "Decoder to unlock Segment Address No. 06."
+msgstr "Decodificador de la Dirección de Segmento n.º 06."
+
+#, fuzzy
+msgctxt "objetos_clave#6"
+msgid "Decoder 07"
+msgstr "Decodificador 07"
+
+#, fuzzy
+msgctxt "objetos_clave#6.desc"
+msgid "Decoder to unlock Segment Address No. 07."
+msgstr "Decodificador de la Dirección de Segmento n.º 07."
+
+#, fuzzy
+msgctxt "objetos_clave#7"
+msgid "Decoder 08"
+msgstr "Decodificador 08"
+
+#, fuzzy
+msgctxt "objetos_clave#7.desc"
+msgid "Decoder to unlock Segment Address No. 08."
+msgstr "Decodificador de la Dirección de Segmento n.º 08."
+
+#, fuzzy
+msgctxt "objetos_clave#8"
+msgid "Decoder 09"
+msgstr "Decodificador 09"
+
+#, fuzzy
+msgctxt "objetos_clave#8.desc"
+msgid "Decoder to unlock Segment Address No. 09."
+msgstr "Decodificador de la Dirección de Segmento n.º 09."
+
+#, fuzzy
+msgctxt "objetos_clave#9"
+msgid "Decoder 10"
+msgstr "Decodificador 10"
+
+#, fuzzy
+msgctxt "objetos_clave#9.desc"
+msgid "Decoder to unlock Segment Address No. 10."
+msgstr "Decodificador de la Dirección de Segmento n.º 10."
+
+#, fuzzy
+msgctxt "objetos_clave#10"
+msgid "Decoder 11"
+msgstr "Decodificador 11"
+
+#, fuzzy
+msgctxt "objetos_clave#10.desc"
+msgid "Decoder to unlock Segment Address No. 11."
+msgstr "Decodificador de la Dirección de Segmento n.º 11."
+
+#, fuzzy
+msgctxt "objetos_clave#11"
+msgid "Decoder 12"
+msgstr "Decodificador 12"
+
+#, fuzzy
+msgctxt "objetos_clave#11.desc"
+msgid "Decoder to unlock Segment Address No. 12."
+msgstr "Decodificador de la Dirección de Segmento n.º 12."
+
+#, fuzzy
+msgctxt "objetos_clave#12"
+msgid "Decoder 13"
+msgstr "Decodificador 13"
+
+#, fuzzy
+msgctxt "objetos_clave#12.desc"
+msgid "Decoder to unlock Segment Address No. 13."
+msgstr "Decodificador de la Dirección de Segmento n.º 13."
+
+#, fuzzy
+msgctxt "objetos_clave#13"
+msgid "Decoder 14"
+msgstr "Decodificador 14"
+
+#, fuzzy
+msgctxt "objetos_clave#13.desc"
+msgid "Decoder to unlock Segment Address No. 14."
+msgstr "Decodificador de la Dirección de Segmento n.º 14."
+
+#, fuzzy
+msgctxt "objetos_clave#14"
+msgid "Decoder 15"
+msgstr "Decodificador 15"
+
+#, fuzzy
+msgctxt "objetos_clave#14.desc"
+msgid "Decoder to unlock Segment Address No. 15."
+msgstr "Decodificador de la Dirección de Segmento n.º 15."
+
+#, fuzzy
+msgctxt "objetos_clave#15"
+msgid "Decoder 16"
+msgstr "Decodificador 16"
+
+#, fuzzy
+msgctxt "objetos_clave#15.desc"
+msgid "Decoder to unlock Segment Address No. 16."
+msgstr "Decodificador de la Dirección de Segmento n.º 16."
+
+#, fuzzy
+msgctxt "objetos_clave#16"
+msgid "Decoder 17"
+msgstr "Decodificador 17"
+
+#, fuzzy
+msgctxt "objetos_clave#16.desc"
+msgid "Decoder to unlock Segment Address No. 17."
+msgstr "Decodificador de la Dirección de Segmento n.º 17."
+
+#, fuzzy
+msgctxt "objetos_clave#17"
+msgid "Decoder 18"
+msgstr "Decodificador 18"
+
+#, fuzzy
+msgctxt "objetos_clave#17.desc"
+msgid "Decoder to unlock Segment Address No. 18."
+msgstr "Decodificador de la Dirección de Segmento n.º 18."
+
+#, fuzzy
+msgctxt "objetos_clave#18"
+msgid "Love Letter"
+msgstr "Carta de amor"
+
+#, fuzzy
+msgctxt "objetos_clave#18.desc"
+msgid "Love letter from Jacqueline to Sidney."
+msgstr "Carta de amor de Jacqueline para Sidney."
+
+#, fuzzy
+msgctxt "objetos_clave#19"
+msgid "ZAZA's Clue 1"
+msgstr "Pista de ZAZA 1"
+
+#, fuzzy
+msgctxt "objetos_clave#19.desc"
+msgid ""
+"A memo left by Elsa's robot ZAZA\n"
+"with the number 2 written on it."
+msgstr ""
+"Una nota que dejó ZAZA, el robot del Elsa,\n"
+"con el número 2 escrito."
+
+#, fuzzy
+msgctxt "objetos_clave#20"
+msgid "ZAZA's Clue 2"
+msgstr "Pista de ZAZA 2"
+
+#, fuzzy
+msgctxt "objetos_clave#20.desc"
+msgid ""
+"A memo left by Elsa's robot ZAZA\n"
+"with the number 5 written on it."
+msgstr ""
+"Una nota que dejó ZAZA, el robot del Elsa,\n"
+"con el número 5 escrito."
+
+#, fuzzy
+msgctxt "objetos_clave#21"
+msgid "ZAZA's Clue 3"
+msgstr "Pista de ZAZA 3"
+
+#, fuzzy
+msgctxt "objetos_clave#21.desc"
+msgid ""
+"A memo left by Elsa's robot ZAZA\n"
+"with the number 8 written on it."
+msgstr ""
+"Una nota que dejó ZAZA, el robot del Elsa,\n"
+"con el número 8 escrito."
+
+#, fuzzy
+msgctxt "objetos_clave#22"
+msgid "ZAZA's Clue 4"
+msgstr "Pista de ZAZA 4"
+
+#, fuzzy
+msgctxt "objetos_clave#22.desc"
+msgid ""
+"A memo left by Elsa's robot ZAZA\n"
+"with the number 7 written on it."
+msgstr ""
+"Una nota que dejó ZAZA, el robot del Elsa,\n"
+"con el número 7 escrito."
+
+#, fuzzy
+msgctxt "objetos_clave#23"
+msgid "ZAZA's Clue 5"
+msgstr "Pista de ZAZA 5"
+
+#, fuzzy
+msgctxt "objetos_clave#23.desc"
+msgid ""
+"A memo left by Elsa's robot ZAZA\n"
+"with the number 6 written on it."
+msgstr ""
+"Una nota que dejó ZAZA, el robot del Elsa,\n"
+"con el número 6 escrito."
+
+#, fuzzy
+msgctxt "objetos_clave#24"
+msgid "ZAZA's Clue 6"
+msgstr "Pista de ZAZA 6"
+
+#, fuzzy
+msgctxt "objetos_clave#24.desc"
+msgid ""
+"A memo left by Elsa's robot ZAZA\n"
+"with the number 4 written on it."
+msgstr ""
+"Una nota que dejó ZAZA, el robot del Elsa,\n"
+"con el número 4 escrito."
+
+#, fuzzy
+msgctxt "objetos_clave#25"
+msgid "ZAZA's Clue 7"
+msgstr "Pista de ZAZA 7"
+
+#, fuzzy
+msgctxt "objetos_clave#25.desc"
+msgid ""
+"A memo left by Elsa's robot ZAZA\n"
+"with the number 3 written on it."
+msgstr ""
+"Una nota que dejó ZAZA, el robot del Elsa,\n"
+"con el número 3 escrito."
+
+#, fuzzy
+msgctxt "objetos_clave#26"
+msgid "Spade Letter"
+msgstr "Carta de pica"
+
+#, fuzzy
+msgctxt "objetos_clave#26.desc"
+msgid ""
+"A letter shaped like a Spade which contains\n"
+"a mail-order catalog."
+msgstr ""
+"Una carta con forma de pica que contiene\n"
+"un catálogo de venta por correo."
+
+#, fuzzy
+msgctxt "objetos_clave#27"
+msgid "Heart Letter"
+msgstr "Carta de corazón"
+
+#, fuzzy
+msgctxt "objetos_clave#27.desc"
+msgid ""
+"A letter shaped like a Heart which contains\n"
+"work-related documents."
+msgstr ""
+"Una carta con forma de corazón que contiene\n"
+"documentos de trabajo."
+
+#, fuzzy
+msgctxt "objetos_clave#28"
+msgid "Club Letter"
+msgstr "Carta de trébol"
+
+#, fuzzy
+msgctxt "objetos_clave#28.desc"
+msgid ""
+"A letter shaped like a Club which appears to\n"
+"be from a niece to her aunt."
+msgstr ""
+"Una carta con forma de trébol que parece\n"
+"ser de una sobrina para su tía."
+
+#, fuzzy
+msgctxt "objetos_clave#29"
+msgid "Diamond Letter"
+msgstr "Carta de diamante"
+
+#, fuzzy
+msgctxt "objetos_clave#29.desc"
+msgid ""
+"A letter shaped like a Diamond which appears to be\n"
+"a description of days and nights on Second Miltia."
+msgstr ""
+"Una carta con forma de diamante que parece ser una\n"
+"descripción de los días y las noches en Segunda Miltia."
+
+#, fuzzy
+msgctxt "objetos_clave#30"
+msgid "Facility Key"
+msgstr "Llave de la central"
+
+#, fuzzy
+msgctxt "objetos_clave#30.desc"
+msgid "Key to the power distribution facility of Second Miltia."
+msgstr "Llave de la central eléctrica de Segunda Miltia."
+
+#, fuzzy
+msgctxt "objetos_clave#31"
+msgid "Stella's Shoes"
+msgstr "Zapatillas de Stella"
+
+#, fuzzy
+msgctxt "objetos_clave#31.desc"
+msgid "Stella's ballet shoes."
+msgstr "Las zapatillas de ballet de Stella."
+
+#, fuzzy
+msgctxt "objetos_clave#32"
+msgid "Stella's Hairpin"
+msgstr "Horquilla de Stella"
+
+#, fuzzy
+msgctxt "objetos_clave#32.desc"
+msgid "Stella's hairpin from her last performance."
+msgstr "La horquilla que Stella usó en su última función."
+
+#, fuzzy
+msgctxt "objetos_clave#33"
+msgid "Stella's Corset"
+msgstr "Corsé de Stella"
+
+#, fuzzy
+msgctxt "objetos_clave#33.desc"
+msgid "Stella's favorite stage costume."
+msgstr "El traje de escena favorito de Stella."
+
+#, fuzzy
+msgctxt "objetos_clave#34"
+msgid "Water Tank A Key"
+msgstr "Llave del tanque A"
+
+#, fuzzy
+msgctxt "objetos_clave#34.desc"
+msgid "Key to the Second Miltia Water Works' water tank A."
+msgstr "Llave del tanque A del Servicio de Aguas de Segunda Miltia."
+
+#, fuzzy
+msgctxt "objetos_clave#35"
+msgid "Water Tank B Key"
+msgstr "Llave del tanque B"
+
+#, fuzzy
+msgctxt "objetos_clave#35.desc"
+msgid "Key to the Second Miltia Water Works' water tank B."
+msgstr "Llave del tanque B del Servicio de Aguas de Segunda Miltia."
+
+#, fuzzy
+msgctxt "objetos_clave#36"
+msgid "Spring Seed"
+msgstr "Semilla de Primavera"
+
+#, fuzzy
+msgctxt "objetos_clave#36.desc"
+msgid "A radiant blue flower seed."
+msgstr "Una semilla de flor de un azul radiante."
+
+#, fuzzy
+msgctxt "objetos_clave#37"
+msgid "Summer Seed"
+msgstr "Semilla de Verano"
+
+#, fuzzy
+msgctxt "objetos_clave#37.desc"
+msgid "A beautiful flower seed."
+msgstr "Una hermosa semilla de flor."
+
+#, fuzzy
+msgctxt "objetos_clave#38"
+msgid "Autumn Seed"
+msgstr "Semilla de Otoño"
+
+#, fuzzy
+msgctxt "objetos_clave#38.desc"
+msgid "A seed for an unknown flower."
+msgstr "La semilla de una flor desconocida."
+
+#, fuzzy
+msgctxt "objetos_clave#39"
+msgid "Winter Seed"
+msgstr "Semilla de Invierno"
+
+#, fuzzy
+msgctxt "objetos_clave#39.desc"
+msgid "A flower seed emitting a suspicious aura."
+msgstr "Una semilla de flor que emite un aura sospechosa."
+
+#, fuzzy
+msgctxt "objetos_clave#40"
+msgid "Power Battery"
+msgstr "Batería de Energía"
+
+#, fuzzy
+msgctxt "objetos_clave#40.desc"
+msgid "A rechargeable battery made by Vector Industries."
+msgstr "Una batería recargable fabricada por Vector Industries."
+
+#, fuzzy
+msgctxt "objetos_clave#41"
+msgid "Sequencer A"
+msgstr "Secuenciador A"
+
+#, fuzzy
+msgctxt "objetos_clave#41.desc"
+msgid "Key to unlock the green Forbidden Device."
+msgstr "Llave que desbloquea el Dispositivo Prohibido verde."
+
+#, fuzzy
+msgctxt "objetos_clave#42"
+msgid "Sequencer B"
+msgstr "Secuenciador B"
+
+#, fuzzy
+msgctxt "objetos_clave#42.desc"
+msgid "Key to unlock the yellow Forbidden Device."
+msgstr "Llave que desbloquea el Dispositivo Prohibido amarillo."
+
+#, fuzzy
+msgctxt "objetos_clave#43"
+msgid "Sequencer C"
+msgstr "Secuenciador C"
+
+#, fuzzy
+msgctxt "objetos_clave#43.desc"
+msgid "Key to unlock the red Forbidden Device."
+msgstr "Llave que desbloquea el Dispositivo Prohibido rojo."
+
+#, fuzzy
+msgctxt "objetos_clave#44"
+msgid "Sequencer D"
+msgstr "Secuenciador D"
+
+#, fuzzy
+msgctxt "objetos_clave#44.desc"
+msgid "Key to unlock the final Forbidden Device."
+msgstr "Llave que desbloquea el último Dispositivo Prohibido."
+
+#, fuzzy
+msgctxt "objetos_clave#45"
+msgid "Wedding Ring"
+msgstr "Anillo de bodas"
+
+#, fuzzy
+msgctxt "objetos_clave#45.desc"
+msgid "A ring filled with love from Mickey to Mallory."
+msgstr "Un anillo lleno del amor de Mickey por Mallory."
+
+#, fuzzy
+msgctxt "objetos_clave#46"
+msgid "Engagement Ring"
+msgstr "Anillo de compromiso"
+
+#, fuzzy
+msgctxt "objetos_clave#46.desc"
+msgid "A ring someone lost."
+msgstr "Un anillo que alguien perdió."
+
+#, fuzzy
+msgctxt "objetos_clave#47"
+msgid "Hyper Fertilizer"
+msgstr "Hiperfertilizante"
+
+#, fuzzy
+msgctxt "objetos_clave#47.desc"
+msgid ""
+"Second Miltia's natural fertilizer that\n"
+"accelerates the growth of plants."
+msgstr ""
+"Fertilizante natural de Segunda Miltia que\n"
+"acelera el crecimiento de las plantas."
+
+#, fuzzy
+msgctxt "objetos_clave#48"
+msgid "Vault Key"
+msgstr "Llave de caja fuerte"
+
+#, fuzzy
+msgctxt "objetos_clave#48.desc"
+msgid ""
+"Key to Our Treasure's vault with\n"
+"the number 0813 written on it."
+msgstr ""
+"Llave de la caja fuerte de Our Treasure con\n"
+"el número 0813 escrito."
+
+#, fuzzy
+msgctxt "objetos_clave#49"
+msgid "Secret Box"
+msgstr "Caja secreta"
+
+#, fuzzy
+msgctxt "objetos_clave#49.desc"
+msgid ""
+"A box with 'Dominic' written on top and\n"
+"filled with receipts for mice."
+msgstr ""
+"Una caja con \"Dominic\" escrito encima y\n"
+"llena de recibos de compra de ratones."
+
+#, fuzzy
+msgctxt "objetos_clave#50"
+msgid "Curry Recipe"
+msgstr "Receta de curry"
+
+#, fuzzy
+msgctxt "objetos_clave#50.desc"
+msgid "Chop's ultimate curry recipe."
+msgstr "La receta definitiva de curry de Chop."
+
+#, fuzzy
+msgctxt "objetos_clave#51"
+msgid "Teddy Bear"
+msgstr "Osito de peluche"
+
+#, fuzzy
+msgctxt "objetos_clave#51.desc"
+msgid "Teddy bear Maple received from her father on her birthday."
+msgstr "El osito que Maple recibió de su padre en su cumpleaños."
+
+#, fuzzy
+msgctxt "objetos_clave#52"
+msgid "Memory Locket"
+msgstr "Relicario"
+
+#, fuzzy
+msgctxt "objetos_clave#52.desc"
+msgid "Locket with a picture of Kate and Rod."
+msgstr "Un relicario con una foto de Kate y Rod."
+
+#, fuzzy
+msgctxt "objetos_clave#53"
+msgid "Music Box"
+msgstr "Caja de música"
+
+#, fuzzy
+msgctxt "objetos_clave#53.desc"
+msgid "An old-fashioned music box with a nostalgic melody."
+msgstr "Una caja de música antigua con una melodía nostálgica."
+
+#, fuzzy
+msgctxt "objetos_clave#54"
+msgid "Entertainment Guide"
+msgstr "Guía de ocio"
+
+#, fuzzy
+msgctxt "objetos_clave#54.desc"
+msgid ""
+"A paper-based antique document\n"
+"filled with entertainment information."
+msgstr ""
+"Un documento antiguo en papel\n"
+"lleno de información sobre entretenimiento."
+
+#, fuzzy
+msgctxt "objetos_clave#55"
+msgid "Rules of High Society"
+msgstr "Manual de etiqueta"
+
+#, fuzzy
+msgctxt "objetos_clave#55.desc"
+msgid ""
+"A paper-based antique document\n"
+"filled with rules for high society living."
+msgstr ""
+"Un documento antiguo en papel lleno\n"
+"de reglas para vivir en la alta sociedad."
+
+#, fuzzy
+msgctxt "objetos_clave#56"
+msgid "Blue Maid Uniform"
+msgstr "Uniforme azul"
+
+#, fuzzy
+msgctxt "objetos_clave#56.desc"
+msgid "A cute blue waitress uniform."
+msgstr "Un lindo uniforme de sirvienta azul."
+
+#, fuzzy
+msgctxt "objetos_clave#57"
+msgid "Pink Maid Uniform"
+msgstr "Uniforme rosa"
+
+#, fuzzy
+msgctxt "objetos_clave#57.desc"
+msgid "A scandalous pink waitress uniform."
+msgstr "Un escandaloso uniforme de sirvienta rosa."
+
+#, fuzzy
+msgctxt "objetos_clave#58"
+msgid "Black Maid Uniform"
+msgstr "Uniforme negro"
+
+#, fuzzy
+msgctxt "objetos_clave#58.desc"
+msgid "A bewitching black waitress uniform."
+msgstr "Un seductor uniforme de sirvienta negro."
+
+#, fuzzy
+msgctxt "objetos_clave#59"
+msgid "Aqua Maid Uniform"
+msgstr "Uniforme celeste"
+
+#, fuzzy
+msgctxt "objetos_clave#59.desc"
+msgid "A pure aqua waitress uniform."
+msgstr "Un inocente uniforme de sirvienta celeste."
+
+#, fuzzy
+msgctxt "objetos_clave#60"
+msgid "Statue Blueprint"
+msgstr "Plano de la estatua"
+
+#, fuzzy
+msgctxt "objetos_clave#60.desc"
+msgid ""
+"Blueprint for the stone statue on\n"
+"the Foundation that Janet was looking for."
+msgstr ""
+"El plano de la estatua de piedra de\n"
+"la Fundación que buscaba Janet."
+
+#, fuzzy
+msgctxt "objetos_clave#61"
+msgid "Pink Book"
+msgstr "Libro rosa"
+
+#, fuzzy
+msgctxt "objetos_clave#61.desc"
+msgid "Book filled with memories of Roy's adolescence."
+msgstr "Un libro lleno de recuerdos de la adolescencia de Roy."
+
+#, fuzzy
+msgctxt "objetos_clave#62"
+msgid "Free Play Token"
+msgstr "Ficha de juego gratis"
+
+#, fuzzy
+msgctxt "objetos_clave#62.desc"
+msgid "Play the quiz game on the Foundation."
+msgstr "Vale por una partida del juego de preguntas de la Fundación."
+
+#, fuzzy
+msgctxt "objetos_clave#63"
+msgid "Toy Store Key"
+msgstr "Llave de la juguetería"
+
+#, fuzzy
+msgctxt "objetos_clave#63.desc"
+msgid ""
+"Key to Toy's Universe warehouse. Can only be used once.\n"
+"Pass code is '4949'."
+msgstr ""
+"Llave del depósito de Toy's Universe. Se usa una sola vez.\n"
+"La clave es \"4949\"."
+
+#, fuzzy
+msgctxt "objetos_clave#64"
+msgid "Red Eye Fish Print"
+msgstr "Grabado de Ojo Rojo"
+
+#, fuzzy
+msgctxt "objetos_clave#64.desc"
+msgid ""
+"Fish print of the giant fish that\n"
+"ravaged the Foundation's beaches."
+msgstr ""
+"Grabado del pez gigante que\n"
+"arrasó las playas de la Fundación."
+
+#, fuzzy
+msgctxt "objetos_clave#65"
+msgid "Iron 4 Sheet Music"
+msgstr "Partitura de Iron 4"
+
+#, fuzzy
+msgctxt "objetos_clave#65.desc"
+msgid ""
+"Sheet music of the Iron 4 theme song\n"
+"composed by Margoyles."
+msgstr ""
+"La partitura del tema de Iron 4\n"
+"compuesto por Margoyles."
+
+#, fuzzy
+msgctxt "objetos_clave#66"
+msgid "Unlock Code"
+msgstr "Código secreto"
+
+#, fuzzy
+msgctxt "objetos_clave#66.desc"
+msgid ""
+"Code that reveals the trick in the Foundation's stone statue.\n"
+"Number 3859 is written on it."
+msgstr ""
+"Código del truco de la estatua de piedra de la Fundación.\n"
+"Tiene escrito el número 3859."
+
+#, fuzzy
+msgctxt "objetos_clave#67"
+msgid "King's Key"
+msgstr "Llave de King"
+
+#, fuzzy
+msgctxt "objetos_clave#67.desc"
+msgid ""
+"Key to King's secret storage.\n"
+"Number 1857 is written on it."
+msgstr ""
+"Llave del depósito secreto de King.\n"
+"Tiene escrito el número 1857."
+
+#, fuzzy
+msgctxt "objetos_clave#68"
+msgid "Geriatric Swimsuit"
+msgstr "Traje geriátrico"
+
+#, fuzzy
+msgctxt "objetos_clave#68.desc"
+msgid ""
+"Swimsuit made from bio fibers to prevent drowning.\n"
+"The robot print on the back is amazing!"
+msgstr ""
+"Traje de baño de biofibras que evita ahogarse.\n"
+"¡El estampado de robot de la espalda es increíble!"
+
+#, fuzzy
+msgctxt "objetos_clave#69"
+msgid "Sidney's Letter"
+msgstr "Carta de Sidney"
+
+#, fuzzy
+msgctxt "objetos_clave#69.desc"
+msgid "A very embarrassing letter to Jacqueline."
+msgstr "Una carta muy vergonzosa para Jacqueline."
+
+#, fuzzy
+msgctxt "objetos_clave#70"
+msgid "Robot Part Right Arm"
+msgstr "Robot: brazo der."
+
+#, fuzzy
+msgctxt "objetos_clave#70.desc"
+msgid ""
+"The right arm of a giant robot.\n"
+"Take both arms to the Professor for an Ether skill!"
+msgstr ""
+"El brazo derecho de un robot gigante.\n"
+"¡Lleva los dos brazos al Profesor para obtener un éter!"
+
+#, fuzzy
+msgctxt "objetos_clave#71"
+msgid "Robot Part Left Arm"
+msgstr "Robot: brazo izq."
+
+#, fuzzy
+msgctxt "objetos_clave#71.desc"
+msgid ""
+"The left arm of a giant robot.\n"
+"Take both arms to the Professor for an Ether skill!"
+msgstr ""
+"El brazo izquierdo de un robot gigante.\n"
+"¡Lleva los dos brazos al Profesor para obtener un éter!"
+
+#, fuzzy
+msgctxt "objetos_clave#72"
+msgid "Robot Part Right Leg"
+msgstr "Robot: pierna der."
+
+#, fuzzy
+msgctxt "objetos_clave#72.desc"
+msgid ""
+"The right leg of a giant robot.\n"
+"Take both legs to the Professor for an Ether skill!"
+msgstr ""
+"La pierna derecha de un robot gigante.\n"
+"¡Lleva las dos piernas al Profesor para obtener un éter!"
+
+#, fuzzy
+msgctxt "objetos_clave#73"
+msgid "Robot Part Left Leg"
+msgstr "Robot: pierna izq."
+
+#, fuzzy
+msgctxt "objetos_clave#73.desc"
+msgid ""
+"The left leg of a giant robot.\n"
+"Take both legs to the Professor for an Ether skill!"
+msgstr ""
+"La pierna izquierda de un robot gigante.\n"
+"¡Lleva las dos piernas al Profesor para obtener un éter!"
+
+#, fuzzy
+msgctxt "objetos_clave#74"
+msgid "Robot Part Head"
+msgstr "Robot: cabeza"
+
+#, fuzzy
+msgctxt "objetos_clave#74.desc"
+msgid ""
+"The head of a giant robot.\n"
+"Take it to the Professor for an Ether skill!"
+msgstr ""
+"La cabeza de un robot gigante.\n"
+"¡Llévasela al Profesor para obtener un éter!"
+
+#, fuzzy
+msgctxt "objetos_clave#75"
+msgid "Robot Part Body"
+msgstr "Robot: cuerpo"
+
+#, fuzzy
+msgctxt "objetos_clave#75.desc"
+msgid ""
+"The body of a giant robot.\n"
+"Take it to the Professor for an Ether skill!"
+msgstr ""
+"El cuerpo de un robot gigante.\n"
+"¡Llévaselo al Profesor para obtener un éter!"
+
+#, fuzzy
+msgctxt "objetos_clave#76"
+msgid "Secret Key 1"
+msgstr "Llave Secreta 1"
+
+#, fuzzy
+msgctxt "objetos_clave#76.desc"
+msgid "Key to open the Level 1 Class H skill, Psycho Pocket."
+msgstr "Llave que abre la habilidad Hurto psíquico (nivel 1, clase H)."
+
+#, fuzzy
+msgctxt "objetos_clave#77"
+msgid "Secret Key 2"
+msgstr "Llave Secreta 2"
+
+#, fuzzy
+msgctxt "objetos_clave#77.desc"
+msgid "Key to open the Level 1 Class H skill, Break B10."
+msgstr "Llave que abre la habilidad Desequilibrio B10 (nivel 1, clase H)."
+
+#, fuzzy
+msgctxt "objetos_clave#78"
+msgid "Secret Key 3"
+msgstr "Llave Secreta 3"
+
+#, fuzzy
+msgctxt "objetos_clave#78.desc"
+msgid "Key to open the Level 1 Class H skill, Focus 1."
+msgstr "Llave que abre la habilidad Enfoque 1 (nivel 1, clase H)."
+
+#, fuzzy
+msgctxt "objetos_clave#79"
+msgid "Secret Key 4"
+msgstr "Llave Secreta 4"
+
+#, fuzzy
+msgctxt "objetos_clave#79.desc"
+msgid "Key to open the Level 1 Class H skill, EP Regen."
+msgstr "Llave que abre la habilidad Regen. EP (nivel 1, clase H)."
+
+#, fuzzy
+msgctxt "objetos_clave#80"
+msgid "Secret Key 5"
+msgstr "Llave Secreta 5"
+
+#, fuzzy
+msgctxt "objetos_clave#80.desc"
+msgid "Key to open the Level 2 Class D skill, Stock 1."
+msgstr "Llave que abre la habilidad Stock 1 (nivel 2, clase D)."
+
+#, fuzzy
+msgctxt "objetos_clave#81"
+msgid "Secret Key 6"
+msgstr "Llave Secreta 6"
+
+#, fuzzy
+msgctxt "objetos_clave#81.desc"
+msgid "Key to open the Level 2 Class D skill, Rare+10."
+msgstr "Llave que abre la habilidad Rare+10 (nivel 2, clase D)."
+
+#, fuzzy
+msgctxt "objetos_clave#82"
+msgid "Secret Key 7"
+msgstr "Llave Secreta 7"
+
+#, fuzzy
+msgctxt "objetos_clave#82.desc"
+msgid "Key to open the Level 2 Class F skill, Junk Beam."
+msgstr "Llave que abre la habilidad Haz chatarra (nivel 2, clase F)."
+
+#, fuzzy
+msgctxt "objetos_clave#83"
+msgid "Secret Key 8"
+msgstr "Llave Secreta 8"
+
+#, fuzzy
+msgctxt "objetos_clave#83.desc"
+msgid "Key to open the Level 2 Class H skill, Boost 1."
+msgstr "Llave que abre la habilidad Boost 1 (nivel 2, clase H)."
+
+#, fuzzy
+msgctxt "objetos_clave#84"
+msgid "Secret Key 9"
+msgstr "Llave Secreta 9"
+
+#, fuzzy
+msgctxt "objetos_clave#84.desc"
+msgid "Key to open the Level 2 Class H skill, Expansion Pack."
+msgstr "Llave que abre la habilidad Expansión (nivel 2, clase H)."
+
+#, fuzzy
+msgctxt "objetos_clave#85"
+msgid "Secret Key 10"
+msgstr "Llave Secreta 10"
+
+#, fuzzy
+msgctxt "objetos_clave#85.desc"
+msgid "Key to open the Level 2 Class H skill, Inner Peace."
+msgstr "Llave que abre la habilidad Paz interior (nivel 2, clase H)."
+
+#, fuzzy
+msgctxt "objetos_clave#86"
+msgid "Secret Key 11"
+msgstr "Llave Secreta 11"
+
+#, fuzzy
+msgctxt "objetos_clave#86.desc"
+msgid "Key to open the Level 2 Class H skill, ST Resist 20."
+msgstr "Llave que abre la habilidad ST Resist 20 (nivel 2, clase H)."
+
+#, fuzzy
+msgctxt "objetos_clave#87"
+msgid "Secret Key 12"
+msgstr "Llave Secreta 12"
+
+#, fuzzy
+msgctxt "objetos_clave#87.desc"
+msgid "Key to open the Level 3 Class A skill, Safety Level."
+msgstr "Llave que abre la habilidad Nivel seguro (nivel 3, clase A)."
+
+#, fuzzy
+msgctxt "objetos_clave#88"
+msgid "Secret Key 13"
+msgstr "Llave Secreta 13"
+
+#, fuzzy
+msgctxt "objetos_clave#88.desc"
+msgid "Key to open the Level 3 Class A skill, Limiter Up."
+msgstr "Llave que abre la habilidad Límite + (nivel 3, clase A)."
+
+#, fuzzy
+msgctxt "objetos_clave#89"
+msgid "Secret Key 14"
+msgstr "Llave Secreta 14"
+
+#, fuzzy
+msgctxt "objetos_clave#89.desc"
+msgid "Key to open the Level 3 Class C skill, Rapid Refresh."
+msgstr "Llave que abre la habilidad Recarga rápida (nivel 3, clase C)."
+
+#, fuzzy
+msgctxt "objetos_clave#90"
+msgid "Secret Key 15"
+msgstr "Llave Secreta 15"
+
+#, fuzzy
+msgctxt "objetos_clave#90.desc"
+msgid "Key to open the Level 3 Class C skill, Last Revenge."
+msgstr "Llave que abre la habilidad Venganza final (nivel 3, clase C)."
+
+#, fuzzy
+msgctxt "objetos_clave#91"
+msgid "Secret Key 16"
+msgstr "Llave Secreta 16"
+
+#, fuzzy
+msgctxt "objetos_clave#91.desc"
+msgid "Key to open the Level 3 Class E skill, First Combo."
+msgstr "Llave que abre la habilidad Primer combo (nivel 3, clase E)."
+
+#, fuzzy
+msgctxt "objetos_clave#92"
+msgid "Secret Key 17"
+msgstr "Llave Secreta 17"
+
+#, fuzzy
+msgctxt "objetos_clave#92.desc"
+msgid "Key to open the Level 3 Class F skill, Break B15."
+msgstr "Llave que abre la habilidad Desequilibrio B15 (nivel 3, clase F)."
+
+#, fuzzy
+msgctxt "objetos_clave#93"
+msgid "Secret Key 18"
+msgstr "Llave Secreta 18"
+
+#, fuzzy
+msgctxt "objetos_clave#93.desc"
+msgid "Key to open the Level 3 Class F skill, Rare+30."
+msgstr "Llave que abre la habilidad Rare+30 (nivel 3, clase F)."
+
+#, fuzzy
+msgctxt "objetos_clave#94"
+msgid "Secret Key 19"
+msgstr "Llave Secreta 19"
+
+#, fuzzy
+msgctxt "objetos_clave#94.desc"
+msgid "Key to open the Level 3 Class G skill, Ether Burst."
+msgstr "Llave que abre la habilidad Estallido de éter (nivel 3, clase G)."
+
+#, fuzzy
+msgctxt "objetos_clave#95"
+msgid "Secret Key 20"
+msgstr "Llave Secreta 20"
+
+#, fuzzy
+msgctxt "objetos_clave#95.desc"
+msgid "Key to open the Level 3 Class H skill, Skill Up 10."
+msgstr "Llave que abre Habilidad +10 (nivel 3, clase H)."
+
+#, fuzzy
+msgctxt "objetos_clave#96"
+msgid "Secret Key 21"
+msgstr "Llave Secreta 21"
+
+#, fuzzy
+msgctxt "objetos_clave#96.desc"
+msgid "Key to open the Level 3 Class H skill, Experience Up 10."
+msgstr "Llave que abre la habilidad Experiencia +10 (nivel 3, clase H)."
+
+#, fuzzy
+msgctxt "objetos_clave#97"
+msgid "Secret Key 22"
+msgstr "Llave Secreta 22"
+
+#, fuzzy
+msgctxt "objetos_clave#97.desc"
+msgid "Key to open the Level 3 Class H skill, Combo Boost."
+msgstr "Llave que abre la habilidad Combo Boost (nivel 3, clase H)."
+
+#, fuzzy
+msgctxt "objetos_clave#98"
+msgid "Secret Key 23"
+msgstr "Llave Secreta 23"
+
+#, fuzzy
+msgctxt "objetos_clave#98.desc"
+msgid "Key to open the Level 3 Class H skill, EP Half."
+msgstr "Llave que abre la habilidad EP a la mitad (nivel 3, clase H)."
+
+#, fuzzy
+msgctxt "objetos_clave#99"
+msgid "Secret Key 24"
+msgstr "Llave Secreta 24"
+
+#, fuzzy
+msgctxt "objetos_clave#99.desc"
+msgid "Key to open the Level 4 Class A skill, Curse."
+msgstr "Llave que abre la habilidad Maldición (nivel 4, clase A)."
+
+#, fuzzy
+msgctxt "objetos_clave#100"
+msgid "Secret Key 25"
+msgstr "Llave Secreta 25"
+
+#, fuzzy
+msgctxt "objetos_clave#100.desc"
+msgid "Key to open the Level 4 Class B skill, Focus 2."
+msgstr "Llave que abre la habilidad Enfoque 2 (nivel 4, clase B)."
+
+#, fuzzy
+msgctxt "objetos_clave#101"
+msgid "Secret Key 26"
+msgstr "Llave Secreta 26"
+
+#, fuzzy
+msgctxt "objetos_clave#101.desc"
+msgid "Key to open the Level 4 Class C skill, Overload."
+msgstr "Llave que abre la habilidad Sobrecarga (nivel 4, clase C)."
+
+#, fuzzy
+msgctxt "objetos_clave#102"
+msgid "Secret Key 27"
+msgstr "Llave Secreta 27"
+
+#, fuzzy
+msgctxt "objetos_clave#102.desc"
+msgid "Key to open the Level 4 Class C skill, ST Double."
+msgstr "Llave que abre la habilidad ST doble (nivel 4, clase C)."
+
+#, fuzzy
+msgctxt "objetos_clave#103"
+msgid "Secret Key 28"
+msgstr "Llave Secreta 28"
+
+#, fuzzy
+msgctxt "objetos_clave#103.desc"
+msgid "Key to open the Level 4 Class D skill, Best Ally."
+msgstr "Llave que abre la habilidad Mejor aliado (nivel 4, clase D)."
+
+#, fuzzy
+msgctxt "objetos_clave#104"
+msgid "Secret Key 29"
+msgstr "Llave Secreta 29"
+
+#, fuzzy
+msgctxt "objetos_clave#104.desc"
+msgid "Key to open the Level 4 Class D skill, Skill Up 15."
+msgstr "Llave que abre Habilidad +15 (nivel 4, clase D)."
+
+#, fuzzy
+msgctxt "objetos_clave#105"
+msgid "Secret Key 30"
+msgstr "Llave Secreta 30"
+
+#, fuzzy
+msgctxt "objetos_clave#105.desc"
+msgid "Key to open the Level 4 Class D skill, Experience Up 15."
+msgstr "Llave que abre la habilidad Experiencia +15 (nivel 4, clase D)."
+
+#, fuzzy
+msgctxt "objetos_clave#106"
+msgid "Secret Key 31"
+msgstr "Llave Secreta 31"
+
+#, fuzzy
+msgctxt "objetos_clave#106.desc"
+msgid "Key to open the Level 4 Class D skill, Rebound."
+msgstr "Llave que abre la habilidad Rebote (nivel 4, clase D)."
+
+#, fuzzy
+msgctxt "ataques_dobles#0"
+msgid "Ice Brand"
+msgstr "Filo glacial"
+
+#, fuzzy
+msgctxt "ataques_dobles#0.desc"
+msgid ""
+"Single enemy/P/Slash/Ice\n"
+"Ice sword slashes the enemy."
+msgstr ""
+"Un enemigo/F/Corte/Hielo\n"
+"Una espada de hielo corta al enemigo."
+
+#, fuzzy
+msgctxt "ataques_dobles#1"
+msgid "Burst Veil"
+msgstr "Velo potenciado"
+
+#, fuzzy
+msgctxt "ataques_dobles#1.desc"
+msgid ""
+"All allies/Support (Burst Veil)\n"
+"Doubles the effect of Veil Ether skills."
+msgstr ""
+"Todos los aliados/Apoyo (Velo potenciado)\n"
+"Duplica el efecto de los velos."
+
+#, fuzzy
+msgctxt "ataques_dobles#2"
+msgid "Elemental Nocturne"
+msgstr "Nocturno elemental"
+
+#, fuzzy
+msgctxt "ataques_dobles#2.desc"
+msgid ""
+"All enemies/E/Aura\n"
+"Double aura attack."
+msgstr ""
+"Todos los enemigos/E/Aura\n"
+"Doble ataque de aura."
+
+#, fuzzy
+msgctxt "ataques_dobles#3"
+msgid "Archangel's Requiem"
+msgstr "Réquiem del arcángel"
+
+#, fuzzy
+msgctxt "ataques_dobles#3.desc"
+msgid ""
+"All enemies/P/Pierce\n"
+"Piercing rain of angel feathers."
+msgstr ""
+"Todos los enemigos/F/Perforación\n"
+"Una lluvia punzante de plumas de ángel."
+
+#, fuzzy
+msgctxt "ataques_dobles#4"
+msgid "Dual Spell Ray"
+msgstr "Dual Spell Ray"
+
+#, fuzzy
+msgctxt "ataques_dobles#4.desc"
+msgid ""
+"Single enemy/E/Beam\n"
+"Reinforced Spell Ray."
+msgstr ""
+"Un enemigo/E/Haz\n"
+"Un Spell Ray reforzado."
+
+#, fuzzy
+msgctxt "ataques_dobles#5"
+msgid "Cross Fist"
+msgstr "Puño cruzado"
+
+#, fuzzy
+msgctxt "ataques_dobles#5.desc"
+msgid ""
+"Single enemy/P/Strike\n"
+"Power combination attack."
+msgstr ""
+"Un enemigo/F/Golpe\n"
+"Ataque combinado de fuerza."
+
+#, fuzzy
+msgctxt "ataques_dobles#6"
+msgid "Gravity Bomb"
+msgstr "Bomba gravitatoria"
+
+#, fuzzy
+msgctxt "ataques_dobles#6.desc"
+msgid ""
+"Single enemy/P/Strike (L Slow)\n"
+"Gravity strike."
+msgstr ""
+"Un enemigo/F/Golpe (Lentitud L)\n"
+"Golpe gravitatorio."
+
+#, fuzzy
+msgctxt "ataques_dobles#7"
+msgid "Silver Duet"
+msgstr "Dúo plateado"
+
+#, fuzzy
+msgctxt "ataques_dobles#7.desc"
+msgid ""
+"Single enemy/E/Non-elemental\n"
+"Chain of punishment."
+msgstr ""
+"Un enemigo/E/Sin elemento\n"
+"Cadena de castigo."
+
+#, fuzzy
+msgctxt "ataques_dobles#8"
+msgid "Power Strike"
+msgstr "Golpe poderoso"
+
+#, fuzzy
+msgctxt "ataques_dobles#8.desc"
+msgid ""
+"Single enemy/P/Strike/Fire\n"
+"Ziggy's self-sacrificing attack."
+msgstr ""
+"Un enemigo/F/Golpe/Fuego\n"
+"El ataque abnegado de Ziggy."
+
+#, fuzzy
+msgctxt "ataques_dobles#9"
+msgid "Lion Heart"
+msgstr "Corazón de león"
+
+#, fuzzy
+msgctxt "ataques_dobles#9.desc"
+msgid ""
+"Single enemy/P/Slash\n"
+"Exorcising sword."
+msgstr ""
+"Un enemigo/F/Corte\n"
+"Espada exorcista."
+
+#, fuzzy
+msgctxt "ataques_dobles#10"
+msgid "Cross Hilbert"
+msgstr "Cruz Hilbert"
+
+#, fuzzy
+msgctxt "ataques_dobles#10.desc"
+msgid ""
+"All enemies/Status (H Lost)\n"
+"Attack that uses the Hilbert Effect."
+msgstr ""
+"Todos los enemigos/Estado (Pérdida H)\n"
+"Ataque que usa el efecto Hilbert."
+
+#, fuzzy
+msgctxt "ataques_dobles#11"
+msgid "Blessed Miracle"
+msgstr "Milagro bendito"
+
+#, fuzzy
+msgctxt "ataques_dobles#11.desc"
+msgid ""
+"All allies/Support (Best Ally)\n"
+"Auto revive."
+msgstr ""
+"Todos los aliados/Apoyo (Mejor aliado)\n"
+"Reviven solos."
+
+#, fuzzy
+msgctxt "ataques_dobles#12"
+msgid "Twin Buster"
+msgstr "Cañón gemelo"
+
+#, fuzzy
+msgctxt "ataques_dobles#12.desc"
+msgid ""
+"Single enemy/E/Beam\n"
+"KOS-MOS buster cannon."
+msgstr ""
+"Un enemigo/E/Haz\n"
+"El cañón buster de KOS-MOS."
+
+#, fuzzy
+msgctxt "ataques_dobles#13"
+msgid "Grand Ronde "
+msgstr "Gran ronda"
+
+#, fuzzy
+msgctxt "ataques_dobles#13.desc"
+msgid ""
+"Single enemy/P/Strike\n"
+"Magnificent combination attack."
+msgstr ""
+"Un enemigo/F/Golpe\n"
+"Un magnífico ataque combinado."
+
+#, fuzzy
+msgctxt "ataques_dobles#14"
+msgid "Fiery Ritornelle"
+msgstr "Ritornelo ígneo"
+
+#, fuzzy
+msgctxt "ataques_dobles#14.desc"
+msgid ""
+"All enemies/P/Pierce/Fire\n"
+"Scorching rain of bullets."
+msgstr ""
+"Todos los enemigos/F/Perforación/Fuego\n"
+"Una lluvia abrasadora de balas."
+
+#, fuzzy
+msgctxt "ataques_dobles#15"
+msgid "Phoenix Blade"
+msgstr "Hoja fénix"
+
+#, fuzzy
+msgctxt "ataques_dobles#15.desc"
+msgid ""
+"Single enemy/E/Aura\n"
+"Sword dance."
+msgstr ""
+"Un enemigo/E/Aura\n"
+"Danza de espadas."
+
+#, fuzzy
+msgctxt "tecnicas#0"
+msgid "Spiral Fist"
+msgstr "Puño espiral"
+
+#, fuzzy
+msgctxt "tecnicas#0.desc"
+msgid ""
+"Single enemy/Long/P/Strike\n"
+"One-arm rocket punch."
+msgstr ""
+"Un enemigo/Lejos/F/Golpe\n"
+"Puñetazo cohete con un brazo."
+
+#, fuzzy
+msgctxt "tecnicas#1"
+msgid "Tornado Fist"
+msgstr "Puño tornado"
+
+#, fuzzy
+msgctxt "tecnicas#1.desc"
+msgid ""
+"Single enemy/Long/P/Thunder/Strike\n"
+"Two-arm rocket punch."
+msgstr ""
+"Un enemigo/Lejos/F/Rayo/Golpe\n"
+"Puñetazo cohete con los dos brazos."
+
+#, fuzzy
+msgctxt "tecnicas#2"
+msgid "Twin Dragons"
+msgstr "Dragón gemelo"
+
+#, fuzzy
+msgctxt "tecnicas#2.desc"
+msgid ""
+"Single enemy/Short/P/Slash\n"
+"Slash enemy like a rising dragon."
+msgstr ""
+"Un enemigo/Cerca/F/Corte\n"
+"Corta al enemigo como un dragón que se eleva."
+
+#, fuzzy
+msgctxt "tecnicas#3"
+msgid "Chained Blast"
+msgstr "Cadena de aura"
+
+#, fuzzy
+msgctxt "tecnicas#3.desc"
+msgid ""
+"Single enemy/Short/P/Aura/Strike\n"
+"Hit enemy with aura energy."
+msgstr ""
+"Un enemigo/Cerca/F/Aura/Golpe\n"
+"Golpea al enemigo con energía de aura."
+
+#, fuzzy
+msgctxt "tecnicas#4"
+msgid "Meteor Storm"
+msgstr "Lluvia de fuego"
+
+#, fuzzy
+msgctxt "tecnicas#4.desc"
+msgid ""
+"Single enemy/Long/E/Fire\n"
+"Concentrated fireball attack."
+msgstr ""
+"Un enemigo/Lejos/E/Fuego\n"
+"Ataque concentrado de bolas de fuego."
+
+#, fuzzy
+msgctxt "tecnicas#5"
+msgid "X-BUSTER"
+msgstr "X-BUSTER"
+
+#, fuzzy
+msgctxt "tecnicas#5.desc"
+msgid ""
+"All enemies/Long/E/Beam\n"
+"Spread beam attack."
+msgstr ""
+"Todos los enemigos/Lejos/E/Haz\n"
+"Ataque de haz disperso."
+
+#, fuzzy
+msgctxt "tecnicas#6"
+msgid "Iron Blade"
+msgstr "Hoja de hierro"
+
+#, fuzzy
+msgctxt "tecnicas#6.desc"
+msgid ""
+"Single enemy/Long/P/Aura/Slash\n"
+"Cut metal without even touching."
+msgstr ""
+"Un enemigo/Lejos/F/Aura/Corte\n"
+"Corta el metal sin siquiera tocarlo."
+
+#, fuzzy
+msgctxt "tecnicas#7"
+msgid "Rain Arrow"
+msgstr "Flechas de luz"
+
+#, fuzzy
+msgctxt "tecnicas#7.desc"
+msgid ""
+"All enemies/Long/E/Pierce\n"
+"Arrows of light rain from the sky."
+msgstr ""
+"Todos los enemigos/Lejos/E/Perforación\n"
+"Flechas de luz llueven del cielo."
+
+#, fuzzy
+msgctxt "tecnicas#8"
+msgid "Starlight Arrow"
+msgstr "Flecha estelar"
+
+#, fuzzy
+msgctxt "tecnicas#8.desc"
+msgid ""
+"Single enemy/Long/E/Pierce\n"
+"Attack of light like a shooting star."
+msgstr ""
+"Un enemigo/Lejos/E/Perforación\n"
+"Un ataque de luz como una estrella fugaz."
+
+#, fuzzy
+msgctxt "tecnicas#9"
+msgid "Golden Bow"
+msgstr "Arco dorado"
+
+#, fuzzy
+msgctxt "tecnicas#9.desc"
+msgid ""
+"Single enemy/Long/E/Aura/Pierce\n"
+"Divine arrow attack that also clears status effects."
+msgstr ""
+"Un enemigo/Lejos/E/Aura/Perforación\n"
+"Una flecha divina que además cura los estados."
+
+#, fuzzy
+msgctxt "tecnicas#10"
+msgid "Ice Rondo"
+msgstr "Rondó de hielo"
+
+#, fuzzy
+msgctxt "tecnicas#10.desc"
+msgid ""
+"Single enemy/Short/P/Ice/Slash\n"
+"Freezing kicks with the leg blades."
+msgstr ""
+"Un enemigo/Cerca/F/Hielo/Corte\n"
+"Patadas congelantes con las cuchillas de las piernas."
+
+#, fuzzy
+msgctxt "tecnicas#11"
+msgid "Power Kick"
+msgstr "Patada feroz"
+
+#, fuzzy
+msgctxt "tecnicas#11.desc"
+msgid ""
+"Single enemy/Short/P/Fire/Strike\n"
+"Furious rapid-fire attack."
+msgstr ""
+"Un enemigo/Cerca/F/Fuego/Golpe\n"
+"Un furioso ataque de golpes rápidos."
+
+#, fuzzy
+msgctxt "tecnicas#12"
+msgid "Aird"
+msgstr "Aird"
+
+#, fuzzy
+msgctxt "tecnicas#12.desc"
+msgid ""
+"All enemies/Long/E/Beam\n"
+"Scatter beam attack."
+msgstr ""
+"Todos los enemigos/Lejos/E/Haz\n"
+"Ataque de haz disperso."
+
+#, fuzzy
+msgctxt "tecnicas#13"
+msgid "Meteor Blast"
+msgstr "Gran meteoro"
+
+#, fuzzy
+msgctxt "tecnicas#13.desc"
+msgid ""
+"Single enemy/Long/E/Fire\n"
+"Giant meteor attack."
+msgstr ""
+"Un enemigo/Lejos/E/Fuego\n"
+"Ataque con un meteoro gigante."
+
+#, fuzzy
+msgctxt "tecnicas#14"
+msgid "Shot Buster"
+msgstr "Cañón lanza"
+
+#, fuzzy
+msgctxt "tecnicas#14.desc"
+msgid ""
+"Single enemy/Long/E/Beam\n"
+"Fire a spear-like beam."
+msgstr ""
+"Un enemigo/Lejos/E/Haz\n"
+"Dispara un haz con forma de lanza."
+
+#, fuzzy
+msgctxt "tecnicas#15"
+msgid "Gatling Blast"
+msgstr "Ráfaga Gatling"
+
+#, fuzzy
+msgctxt "tecnicas#15.desc"
+msgid ""
+"Single enemy/Long/P/Pierce\n"
+"Rapid-fire annihilation."
+msgstr ""
+"Un enemigo/Lejos/F/Perforación\n"
+"Aniquilación con fuego rápido."
+
+#, fuzzy
+msgctxt "tecnicas#16"
+msgid "Wings of Light"
+msgstr "Alas de luz"
+
+#, fuzzy
+msgctxt "tecnicas#16.desc"
+msgid ""
+"Single enemy/Short/P/Aura/Slash\n"
+"Two beams of light slash enemy."
+msgstr ""
+"Un enemigo/Cerca/F/Aura/Corte\n"
+"Dos haces de luz cortan al enemigo."
+
+#, fuzzy
+msgctxt "tecnicas#17"
+msgid "Ice Storm"
+msgstr "Ventisca"
+
+#, fuzzy
+msgctxt "tecnicas#17.desc"
+msgid ""
+"Single enemy/Long/E/Ice\n"
+"A blast of ice and wind."
+msgstr ""
+"Un enemigo/Lejos/E/Hielo\n"
+"Una ráfaga de hielo y viento."
+
+#, fuzzy
+msgctxt "tecnicas#18"
+msgid "Corona Buster"
+msgstr "Cañón corona"
+
+#, fuzzy
+msgctxt "tecnicas#18.desc"
+msgid ""
+"Single enemy/Long/E/Fire\n"
+"A red-hot cannon shot from above."
+msgstr ""
+"Un enemigo/Lejos/E/Fuego\n"
+"Un disparo de cañón al rojo vivo desde arriba."
+
+#, fuzzy
+msgctxt "tecnicas#19"
+msgid "Odin Buster"
+msgstr "Cañón Odín"
+
+#, fuzzy
+msgctxt "tecnicas#19.desc"
+msgid ""
+"Single enemy/Long/E/Beam\n"
+"Shot synchronized to attacker's mind."
+msgstr ""
+"Un enemigo/Lejos/E/Haz\n"
+"Disparo sincronizado con la mente del atacante."
+
+#, fuzzy
+msgctxt "tecnicas#20"
+msgid "Moonlight Blade"
+msgstr "Hoja lunar"
+
+#, fuzzy
+msgctxt "tecnicas#20.desc"
+msgid ""
+"All enemies/Long/E/Aura\n"
+"A blast like moonlight flashing off a drawn sword."
+msgstr ""
+"Todos los enemigos/Lejos/E/Aura\n"
+"Un destello de luna en el filo de una espada desenvainada."
+
+#, fuzzy
+msgctxt "armas_es#0"
+msgid "MINIGUN"
+msgstr "MINIGUN"
+
+#, fuzzy
+msgctxt "armas_es#0.desc"
+msgid ""
+"Single enemy/Long/P/Pierce\n"
+"Improved rapid-fire gatling gun."
+msgstr ""
+"Un enemigo/Lejos/F/Perforación\n"
+"Ametralladora Gatling de fuego rápido mejorada."
+
+#, fuzzy
+msgctxt "armas_es#1"
+msgid "MICRO MISSILE"
+msgstr "MICROMISILES"
+
+#, fuzzy
+msgctxt "armas_es#1.desc"
+msgid ""
+"All enemies/Long/P/Strike\n"
+"Fire small missiles from both arms."
+msgstr ""
+"Todos los enemigos/Lejos/F/Golpe\n"
+"Dispara pequeños misiles desde ambos brazos."
+
+#, fuzzy
+msgctxt "armas_es#2"
+msgid "DRAGON BLADE"
+msgstr "HOJA DRAGÓN"
+
+#, fuzzy
+msgctxt "armas_es#2.desc"
+msgid ""
+"Single enemy/Long/E/Beam\n"
+"Fire energy beam from rifle mode."
+msgstr ""
+"Un enemigo/Lejos/E/Haz\n"
+"Dispara un haz de energía en modo rifle."
+
+#, fuzzy
+msgctxt "armas_es#3"
+msgid "X-BUSTER"
+msgstr "X-BUSTER"
+
+#, fuzzy
+msgctxt "armas_es#3.desc"
+msgid ""
+"All enemies in 120 deg. arc/Long/E/Beam\n"
+"Abdominal spread beam weapon."
+msgstr ""
+"Enemigos en un arco de 120°/Lejos/E/Haz\n"
+"Arma de haz disperso abdominal."
+
+#, fuzzy
+msgctxt "mensajes#0"
+msgid "Acquired "
+msgstr "Obtenido:"
+
+#, fuzzy
+msgctxt "mensajes#1"
+msgid "Stole "
+msgstr "Robado:"
+
+#, fuzzy
+msgctxt "mensajes#2"
+msgid "Couldn't steal anything!"
+msgstr "¡No robaste nada!"
+
+#, fuzzy
+msgctxt "mensajes#3"
+msgid "L Slow"
+msgstr "Lentitud L"
+
+#, fuzzy
+msgctxt "mensajes#4"
+msgid "L Poison"
+msgstr "Veneno L"
+
+#, fuzzy
+msgctxt "mensajes#5"
+msgid "L Blind"
+msgstr "Ceguera L"
+
+#, fuzzy
+msgctxt "mensajes#6"
+msgid "L Heavy"
+msgstr "Pesadez L"
+
+#, fuzzy
+msgctxt "mensajes#7"
+msgid "L Weak"
+msgstr "Debilidad L"
+
+#, fuzzy
+msgctxt "mensajes#8"
+msgid "L Slow"
+msgstr "Lentitud L"
+
+#, fuzzy
+msgctxt "mensajes#9"
+msgid "L Ether PD"
+msgstr "Éter PD L"
+
+#, fuzzy
+msgctxt "mensajes#10"
+msgid "L Ether DD"
+msgstr "Éter DD L"
+
+#, fuzzy
+msgctxt "mensajes#11"
+msgid "L Poison EP"
+msgstr "Veneno EP L"
+
+#, fuzzy
+msgctxt "mensajes#12"
+msgid "L Resistance D"
+msgstr "Resistencia D L"
+
+#, fuzzy
+msgctxt "mensajes#13"
+msgid "L Junk"
+msgstr "Chatarra L"
+
+#, fuzzy
+msgctxt "mensajes#14"
+msgid "L Charge Down"
+msgstr "Menos carga L"
+
+#, fuzzy
+msgctxt "mensajes#15"
+msgid "H Stop"
+msgstr "Inmovilidad H"
+
+#, fuzzy
+msgctxt "mensajes#16"
+msgid "H Poison"
+msgstr "Veneno H"
+
+#, fuzzy
+msgctxt "mensajes#17"
+msgid "H Blind"
+msgstr "Ceguera H"
+
+#, fuzzy
+msgctxt "mensajes#18"
+msgid "H Heavy"
+msgstr "Pesadez H"
+
+#, fuzzy
+msgctxt "mensajes#19"
+msgid "H Weak"
+msgstr "Debilidad H"
+
+#, fuzzy
+msgctxt "mensajes#20"
+msgid "H Slow"
+msgstr "Lentitud H"
+
+#, fuzzy
+msgctxt "mensajes#21"
+msgid "H Ether PD"
+msgstr "Éter PD H"
+
+#, fuzzy
+msgctxt "mensajes#22"
+msgid "H Ether DD"
+msgstr "Éter DD H"
+
+#, fuzzy
+msgctxt "mensajes#23"
+msgid "H Poison EP"
+msgstr "Veneno EP H"
+
+#, fuzzy
+msgctxt "mensajes#24"
+msgid "H Bind"
+msgstr "Atadura H"
+
+#, fuzzy
+msgctxt "mensajes#25"
+msgid "H Lost"
+msgstr "Pérdida H"
+
+#, fuzzy
+msgctxt "mensajes#26"
+msgid "H Boost Lock"
+msgstr "Bloqueo de Boost H"
+
+#, fuzzy
+msgctxt "mensajes#27"
+msgid "Curse"
+msgstr "Maldición"
+
+#, fuzzy
+msgctxt "mensajes#28"
+msgid "H Charge Down"
+msgstr "Menos carga H"
+
+#, fuzzy
+msgctxt "mensajes#29"
+msgid "Beam Sword"
+msgstr "Espada de haz"
+
+#, fuzzy
+msgctxt "mensajes#30"
+msgid "Aura Sword"
+msgstr "Espada de aura"
+
+#, fuzzy
+msgctxt "mensajes#31"
+msgid "Thunder Sword"
+msgstr "Espada de rayo"
+
+#, fuzzy
+msgctxt "mensajes#32"
+msgid "Flame Sword"
+msgstr "Espada de llamas"
+
+#, fuzzy
+msgctxt "mensajes#33"
+msgid "Ice Sword"
+msgstr "Espada de hielo"
+
+#, fuzzy
+msgctxt "mensajes#34"
+msgid "Vaccine"
+msgstr "Vacuna"
+
+#, fuzzy
+msgctxt "mensajes#35"
+msgid "Speed +25%"
+msgstr "Velocidad +25%"
+
+#, fuzzy
+msgctxt "mensajes#36"
+msgid "Speed +50%"
+msgstr "Velocidad +50%"
+
+#, fuzzy
+msgctxt "mensajes#37"
+msgid "Charge Time"
+msgstr "Tiempo de carga"
+
+#, fuzzy
+msgctxt "mensajes#38"
+msgid "Curse"
+msgstr "Maldición"
+
+#, fuzzy
+msgctxt "mensajes#39"
+msgid "Safety Level"
+msgstr "Nivel seguro"
+
+#, fuzzy
+msgctxt "mensajes#40"
+msgid "Best Ally"
+msgstr "Mejor aliado"
+
+#, fuzzy
+msgctxt "mensajes#41"
+msgid "EP Auto Recover"
+msgstr "Recup. auto. de EP"
+
+#, fuzzy
+msgctxt "mensajes#42"
+msgid "Auto Reflect"
+msgstr "Reflejo automático"
+
+#, fuzzy
+msgctxt "mensajes#43"
+msgid "Aura Veil"
+msgstr "Velo de aura"
+
+#, fuzzy
+msgctxt "mensajes#44"
+msgid "Aura Veil"
+msgstr "Velo de aura"
+
+#, fuzzy
+msgctxt "mensajes#45"
+msgid "Thunder Veil"
+msgstr "Velo de rayo"
+
+#, fuzzy
+msgctxt "mensajes#46"
+msgid "Flame Veil"
+msgstr "Velo de llamas"
+
+#, fuzzy
+msgctxt "mensajes#47"
+msgid "Ice Veil"
+msgstr "Velo de hielo"
+
+#, fuzzy
+msgctxt "mensajes#48"
+msgid "Burst Veil"
+msgstr "Velo potenciado"
+
+#, fuzzy
+msgctxt "mensajes#49"
+msgid "Ether Shield"
+msgstr "Escudo de éter"
+
+#, fuzzy
+msgctxt "mensajes#50"
+msgid "Ether Spear"
+msgstr "Lanza de éter"
+
+#, fuzzy
+msgctxt "mensajes#51"
+msgid "Defender"
+msgstr "Defensor"
+
+#, fuzzy
+msgctxt "mensajes#52"
+msgid "Attacker"
+msgstr "Atacante"
+
+#, fuzzy
+msgctxt "mensajes#53"
+msgid "D Field"
+msgstr "Campo D"

@@ -1,0 +1,69 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Xenosaga Episode II - traducción al español\n"
+"Language: es_419\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Xeno-Source: 0:cf/en/sc1060.sbl\n"
+
+#, fuzzy
+msgctxt "#4"
+msgid ""
+"Product Deliveries Only\n"
+"Unauthorized personnel prohibited\n"
+"-Toy's Universe Product Management Division"
+msgstr ""
+"Solo entrega de productos\n"
+"Prohibido el paso a personal no autorizado\n"
+"-Gestión de Productos de Toy's Universe"
+
+#, fuzzy
+msgctxt "#5"
+msgid "The passcode has been changed from the inside. Please re-enter the key and confirm the code."
+msgstr "La contraseña fue cambiada desde adentro. Vuelva a insertar la llave y confirme el código."
+
+#, fuzzy
+msgctxt "#6"
+msgid "If you use the Toy Store Key, you will be unable to use it anywhere else. Do you want to use the key?"
+msgstr "Si usas la Llave de la juguetería, no podrás usarla en ningún otro lugar. ¿Quieres usar la llave?"
+
+#. Opciones: una por línea. Mantener 2 líneas en el mismo orden.
+#, fuzzy
+msgctxt "#7"
+msgid ""
+"Yes\n"
+"No"
+msgstr ""
+"Sí\n"
+"No"
+
+#, fuzzy
+msgctxt "#8"
+msgid "Please enter the passcode."
+msgstr "Ingrese la contraseña."
+
+#, fuzzy
+msgctxt "#9"
+msgid "Passcode confirmed. Unlocking the product delivery entrance."
+msgstr "Contraseña confirmada. Desbloqueando la entrada de entrega de productos."
+
+#, fuzzy
+msgctxt "#10"
+msgid "Invalid passcode. Please enter the correct code."
+msgstr "Contraseña no válida. Ingrese el código correcto."
+
+#, fuzzy
+msgctxt "#11"
+msgid "Cancelled the use of the Toy Store Key."
+msgstr "Se canceló el uso de la Llave de la juguetería."
+
+#, fuzzy
+msgctxt "#12"
+msgid "The Toy Store Key has already been used."
+msgstr "La Llave de la juguetería ya se usó."
+
+#, fuzzy
+msgctxt "#13"
+msgid "The passcode has been changed. Lock release denied."
+msgstr "La contraseña fue cambiada. Desbloqueo denegado."

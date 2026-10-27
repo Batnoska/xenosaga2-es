@@ -1,0 +1,71 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Xenosaga Episode II - traducción al español\n"
+"Language: es_419\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Xeno-Source: 0:cf/en/sc5070.sbl\n"
+
+#. habla: 【A.M.W.S. Elevator Lock Release Switch】
+#, fuzzy
+msgctxt "#4"
+msgid "Release the elevator's lock bar?"
+msgstr "¿Liberar la barra de bloqueo del ascensor?"
+
+#. Opciones: una por línea. Mantener 2 líneas en el mismo orden.
+#, fuzzy
+msgctxt "#5"
+msgid ""
+"Yes\n"
+"No"
+msgstr ""
+"Sí\n"
+"No"
+
+#. habla: 【A.M.W.S. Elevator Lock Release Switch】
+#, fuzzy
+msgctxt "#6"
+msgid "You released all the elevator lock bars."
+msgstr "Liberaste todas las barras de bloqueo del ascensor."
+
+#, fuzzy
+msgctxt "#7"
+msgid ""
+"When activating the A.M.W.S. elevator, please remove the lock bars.\n"
+"Note: The lock bars will return to their default positions after a set period of time."
+msgstr ""
+"Antes de activar el ascensor de A.M.W.S., retira las barras de bloqueo.\n"
+"Nota: Las barras de bloqueo vuelven a su posición inicial al cabo de un tiempo."
+
+#. habla: 【A.M.W.S. Elevator Operation Switch】
+#, fuzzy
+msgctxt "#8"
+msgid "Start the A.M.W.S. elevator?"
+msgstr "¿Poner en marcha el ascensor de A.M.W.S.?"
+
+#. habla: 【A.M.W.S. Elevator Operation Switch】
+#, fuzzy
+msgctxt "#9"
+msgid ""
+"This A.M.W.S. elevator does not have sufficient power. To proceed, activate the power switch located on the lower levels.\n"
+"...\n"
+"...\n"
+"...\n"
+"(If we use this elevator, it looks like we can keep going a little further in the E.S.)"
+msgstr ""
+"Este ascensor de A.M.W.S. no tiene suficiente energía. Para continuar, activa el interruptor de energía de los niveles inferiores.\n"
+"...\n"
+"...\n"
+"...\n"
+"(Si usamos este ascensor, parece que podemos seguir avanzando un poco más con el E.S.)"
+
+#, fuzzy
+msgctxt "#10"
+msgid "Use the elevator?"
+msgstr "¿Usar el ascensor?"
+
+#, fuzzy
+msgctxt "#11"
+msgid "This door is locked while the A.M.W.S. elevator is in operation."
+msgstr "Esta puerta queda bloqueada mientras el ascensor de A.M.W.S. está en funcionamiento."

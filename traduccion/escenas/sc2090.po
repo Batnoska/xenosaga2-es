@@ -1,0 +1,32 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Xenosaga Episode II - traducción al español\n"
+"Language: es_419\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Xeno-Source: 0:cf/en/sc2090.sbl\n"
+
+#. habla: Ugo
+#, fuzzy
+msgctxt "#0"
+msgid "Is it those three again?"
+msgstr "¿Otra vez esos tres?"
+
+#. habla: Ugo
+#, fuzzy
+msgctxt "#1"
+msgid "Those guys in charge are just crazy, telling us to make an U-DO simulator. How are we supposed to simulate something we don't have any data for?"
+msgstr "Los que están a cargo están locos, mira que pedirnos que hagamos un simulador de U-DO. ¿Cómo vamos a simular algo de lo que no tenemos ningún dato?"
+
+#. habla: Ornella
+#, fuzzy
+msgctxt "#2"
+msgid "It feels like someone's watching me."
+msgstr "Siento que alguien me observa."
+
+#. habla: Ornella
+#, fuzzy
+msgctxt "#3"
+msgid "The original idea for the U.R.T.V. project, as well as the data regarding U-DO, are both from Dr. Yuriev's research. Why is he so obsessed with U-DO?"
+msgstr "Tanto la idea original del proyecto U.R.T.V. como los datos sobre U-DO salen de las investigaciones del doctor Yuriev. ¿Por qué estará tan obsesionado con U-DO?"

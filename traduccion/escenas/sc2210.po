@@ -1,0 +1,14 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Xenosaga Episode II - traducción al español\n"
+"Language: es_419\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Xeno-Source: 0:cf/en/sc2210.sbl\n"
+
+#. habla: Rubedo
+#, fuzzy
+msgctxt "#6"
+msgid "Just like last time, the target point for this mission is the beach. Albedo, Nigredo, let's go!"
+msgstr "Igual que la última vez, el punto objetivo de esta misión es la playa. ¡Albedo, Nigredo, vamos!"

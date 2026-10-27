@@ -1,0 +1,50 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Xenosaga Episode II - traducción al español\n"
+"Language: es_419\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Xeno-Source: 0:cf/en/sc4620.sbl\n"
+
+#, fuzzy
+msgctxt "#3"
+msgid "Push the button?"
+msgstr "¿Presionar el botón?"
+
+#. Opciones: una por línea. Mantener 2 líneas en el mismo orden.
+#, fuzzy
+msgctxt "#4"
+msgid ""
+"Yes\n"
+"No"
+msgstr ""
+"Sí\n"
+"No"
+
+#, fuzzy
+msgctxt "#5"
+msgid "There is a button with instructions."
+msgstr "Hay un botón con instrucciones."
+
+#. Opciones: una por línea. Mantener 3 líneas en el mismo orden.
+#, fuzzy
+msgctxt "#6"
+msgid ""
+"Read the instructions.\n"
+"Reset the water level.\n"
+"Don't do anything."
+msgstr ""
+"Leer las instrucciones.\n"
+"Reiniciar el nivel de agua.\n"
+"No hacer nada."
+
+#. habla: 【Water Level Adjustment Room】
+#, fuzzy
+msgctxt "#7"
+msgid ""
+"In order to proceed to the next area, please adjust the water level to 0.\n"
+"Warning: If the water level exceeds 4 (-4) it will return to its default level of 3 (-3)."
+msgstr ""
+"Para pasar a la siguiente zona, ajuste el nivel de agua a 0.\n"
+"Advertencia: si el nivel de agua supera 4 (-4), volverá a su nivel predeterminado de 3 (-3)."

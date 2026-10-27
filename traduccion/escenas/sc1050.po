@@ -1,0 +1,33 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Xenosaga Episode II - traducción al español\n"
+"Language: es_419\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Xeno-Source: 0:cf/en/sc1050.sbl\n"
+
+#, fuzzy
+msgctxt "#2"
+msgid "You obtained the Memory Locket!"
+msgstr "¡Obtuviste el Relicario de los Recuerdos!"
+
+#, fuzzy
+msgctxt "#3"
+msgid "Push the button?"
+msgstr "¿Presionar el botón?"
+
+#. Opciones: una por línea. Mantener 2 líneas en el mismo orden.
+#, fuzzy
+msgctxt "#4"
+msgid ""
+"Yes\n"
+"No"
+msgstr ""
+"Sí\n"
+"No"
+
+#, fuzzy
+msgctxt "#5"
+msgid "It won't open from this side."
+msgstr "No se abre desde este lado."

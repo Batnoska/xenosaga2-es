@@ -1,0 +1,60 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Xenosaga Episode II - traducción al español\n"
+"Language: es_419\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Xeno-Source: 0:cf/en/sc2130.sbl\n"
+
+#, fuzzy
+msgctxt "#5"
+msgid "You unlocked Protection 06!"
+msgstr "¡Desbloqueaste la Protección 06!"
+
+#. habla: Hugo's Memo
+#, fuzzy
+msgctxt "#6"
+msgid "Heh, not bad! And I was pretty confident about that protection, too. Well, let's go to the next one! The next protection is set \"inside the rotten tree.\" You can unlock trap protection 07 there!"
+msgstr "Je, ¡nada mal! Y eso que tenía mucha confianza en esa protección. Bueno, ¡vamos a la siguiente! La siguiente protección está \"dentro del árbol podrido\". ¡Ahí puedes desbloquear la protección de trampa 07!"
+
+#. habla: Hugo's Memo
+#, fuzzy
+msgctxt "#7"
+msgid "The next protection is set \"inside the rotten tree.\" You can unlock trap protection 07 there!"
+msgstr "La siguiente protección está \"dentro del árbol podrido\". ¡Ahí puedes desbloquear la protección de trampa 07!"
+
+#, fuzzy
+msgctxt "#9"
+msgid "\"Forbidden Device\"...It appears to be an Encephalon dive device."
+msgstr "\"Dispositivo Prohibido\"... Parece ser un dispositivo de inmersión en el Encéfalo."
+
+#, fuzzy
+msgctxt "#10"
+msgid "\"Forbidden Device\" initialization complete. Commence Encephalon dive?"
+msgstr "Inicialización del \"Dispositivo Prohibido\" completa. ¿Comenzar la inmersión en el Encéfalo?"
+
+#. Opciones: una por línea. Mantener 2 líneas en el mismo orden.
+#, fuzzy
+msgctxt "#11"
+msgid ""
+"Yes\n"
+"No"
+msgstr ""
+"Sí\n"
+"No"
+
+#, fuzzy
+msgctxt "#12"
+msgid "Commencing Encephalon dive."
+msgstr "Comenzando la inmersión en el Encéfalo."
+
+#, fuzzy
+msgctxt "#14"
+msgid "Canceling Encephalon dive."
+msgstr "Se canceló la inmersión en el Encéfalo."
+
+#, fuzzy
+msgctxt "#15"
+msgid "Commence Encephalon dive?"
+msgstr "¿Comenzar la inmersión en el Encéfalo?"

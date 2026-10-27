@@ -1,0 +1,68 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Xenosaga Episode II - traducción al español\n"
+"Language: es_419\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Xeno-Source: 0:cf/en/sc2080.sbl\n"
+
+#. habla: No. 451
+#, fuzzy
+msgctxt "#0"
+msgid "I can feel No. 666's wavelength."
+msgstr "Siento la longitud de onda del N.º 666."
+
+#. habla: No. 451
+#, fuzzy
+msgctxt "#1"
+msgid "We were made here, based on Dr. Yuriev's DNA. This is where we were calibrated for anti-U-DO use."
+msgstr "Nos hicieron aquí, a partir del ADN del doctor Yuriev. Aquí nos calibraron para usarnos contra U-DO."
+
+#. habla: No. 552
+#, fuzzy
+msgctxt "#2"
+msgid "I sense a variant-unit's wave."
+msgstr "Percibo la onda de una unidad variante."
+
+#. habla: No. 552
+#, fuzzy
+msgctxt "#3"
+msgid "Emotion...we have no individual emotions."
+msgstr "Emociones... no tenemos emociones individuales."
+
+#. habla: No. 552
+#, fuzzy
+msgctxt "#4"
+msgid "The only ones with emotions are those after 665. Only those monsters..."
+msgstr "Los únicos que tienen emociones son los posteriores al 665. Solo esos monstruos..."
+
+#. habla: No. 360
+#, fuzzy
+msgctxt "#5"
+msgid "This feeling...that monster..."
+msgstr "Esta sensación... ese monstruo..."
+
+#. habla: No. 360
+#, fuzzy
+msgctxt "#6"
+msgid "No. 669 isn't like us. He doesn't react to U-DO's waves. He can't defeat U-DO."
+msgstr "El N.º 669 no es como nosotros. No reacciona a las ondas de U-DO. No puede vencer a U-DO."
+
+#. habla: No. 360
+#, fuzzy
+msgctxt "#7"
+msgid "Why does he go on missions with us?"
+msgstr "¿Por qué va a las misiones con nosotros?"
+
+#. habla: Oswald
+#, fuzzy
+msgctxt "#8"
+msgid "Hmm? What was that?"
+msgstr "¿Hmm? ¿Qué fue eso?"
+
+#. habla: Oswald
+#, fuzzy
+msgctxt "#9"
+msgid "Production up to No. 669 is complete. We're now done with the U.R.T.V. production based on Dr. Yuriev's DNA."
+msgstr "Se completó la producción hasta el N.º 669. Ya terminamos la producción de U.R.T.V. a partir del ADN del doctor Yuriev."

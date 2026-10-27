@@ -1,0 +1,45 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Xenosaga Episode II - traducción al español\n"
+"Language: es_419\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Xeno-Source: 0:cf/en/sc3120.sbl\n"
+
+#, fuzzy
+msgctxt "#0"
+msgid "Use the elevator?"
+msgstr "¿Usar el ascensor?"
+
+#. Opciones: una por línea. Mantener 2 líneas en el mismo orden.
+#, fuzzy
+msgctxt "#1"
+msgid ""
+"Yes\n"
+"No"
+msgstr ""
+"Sí\n"
+"No"
+
+#. habla: Shion
+#, fuzzy
+msgctxt "#2"
+msgid "I think the craft we're after is below us in the Research Block of the Restricted Area, on the AA Rank Private Dock. The security here is reinforced at night, so there will be robot sentries all around. Well, let's go have some fun, Allen!"
+msgstr "Creo que la nave que buscamos está abajo, en el Bloque de Investigación de la Zona restringida, en el Muelle privado de rango AA. De noche refuerzan la seguridad, así que habrá robots centinela por todos lados. Bueno, ¡vamos a divertirnos un rato, Allen!"
+
+#. habla: Allen
+#, fuzzy
+msgctxt "#3"
+msgid ""
+"Ch...chief. Is it me, or are you a bit too excited about this?\n"
+"...\n"
+"...\n"
+"...\n"
+"(Did I hand her a stimulant instead of a sedative?)"
+msgstr ""
+"Je... jefa. ¿Soy yo, o estás demasiado entusiasmada con esto?\n"
+"...\n"
+"...\n"
+"...\n"
+"(¿Le habré dado un estimulante en vez de un sedante?)"

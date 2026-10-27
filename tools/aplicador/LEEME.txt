@@ -1,0 +1,101 @@
+XENOSAGA EPISODE II EN ESPAÑOL
+Versión {version} ({fecha})
+==============================
+
+Traducción al español latinoamericano neutro de "Xenosaga Episode II:
+Jenseits von Gut und Böse" para PlayStation 2.
+
+Está traducido todo el texto del juego: diálogos, subtítulos de los videos, menús,
+combate, tutorial, la Ruta SG y el Archivo de Segmento. También están traducidos los
+gráficos con texto: menú del título, carteles del combate, pantalla de controles,
+"La historia hasta ahora" y otros.
+
+Esta es una versión beta. El juego se puede jugar completo en español, pero puede
+quedar algún texto cortado o algún error. Si encuentras uno, avísanos (ver "Reportar
+errores").
+
+Las versiones nuevas se publican en:
+  https://github.com/Batnoska/xenosaga2-es/releases
+
+
+QUÉ NECESITAS
+-------------
+- Las ISO de tu copia de Xenosaga Episode II en versión americana (NTSC-U):
+  disco 1 (SLUS-20892) y disco 2 (SLUS-21133). También sirven las ISO con undub
+  (voces en japonés) hechas a partir de esa versión.
+- Unos 4,7 GB libres por cada disco.
+- Windows 7 o posterior. Para Linux, Mac o Steam Deck, mira "Otros sistemas".
+
+El parche no incluye el juego: necesitas tus propias ISO. Si tu copia está en otro
+formato (CHD, CSO, BIN/CUE), conviértela primero a ISO.
+
+
+CÓMO APLICARLO EN WINDOWS
+-------------------------
+1. Abre "Aplicar parche.exe".
+2. Elige las ISO originales. Puedes elegir los dos discos a la vez.
+   También puedes arrastrar las ISO sobre "Aplicar parche.exe".
+3. Espera a que termine (unos minutos por disco).
+
+Junto a cada ISO se crea otra con " (Español)" al final del nombre. Las originales
+no se modifican.
+
+Antes de escribir nada, el programa comprueba que cada archivo que va a reemplazar
+sea el del juego original. Si no lo es (otra versión del juego, o una ISO que ya
+tiene otro parche), avisa y no modifica nada. Al terminar, verifica la ISO creada.
+
+Si Windows muestra "Windows protegió su PC", haz clic en "Más información" y luego
+en "Ejecutar de todas formas". Ese aviso sale con cualquier programa que no tenga
+firma digital.
+
+
+OTROS SISTEMAS (LINUX, MAC, STEAM DECK)
+---------------------------------------
+Necesitas Python 3. Abre una terminal en la carpeta "Otros sistemas (Python)" y
+ejecuta este comando para cada disco, cambiando los nombres de los archivos:
+
+  python3 parche.py aplicar xenosaga2_es.zip "Disco 1.iso" "Disco 1 (Español).iso"
+
+Hace exactamente lo mismo que el programa de Windows.
+
+
+CÓMO JUGAR
+----------
+Carga las ISO nuevas en PCSX2 como cualquier otro juego. Al llegar al final del
+disco 1, cambia a la ISO nueva del disco 2.
+
+Se probó en PCSX2. En una PS2 real no se probó todavía.
+
+
+QUÉ QUEDA EN INGLÉS
+-------------------
+- Los nombres propios y los términos de la saga que no tienen traducción oficial
+  (KOS-MOS, U.R.T.V., Zohar, E.S., Boost, Stock...).
+- Algunos rótulos dibujados: CURRENT, -SELECT- y LEVEL UP!, y Room, Standby,
+  MainPilot y Copilot en la pantalla de los E.S. Su letra no tiene los caracteres
+  necesarios o no hay espacio.
+- Las voces: en inglés, o en japonés si usas una ISO con undub.
+
+
+REPORTAR ERRORES
+----------------
+Saca una captura de pantalla, anota dónde estabas y qué pasó, y envíala por
+alguna de estas vías:
+- En GitHub: https://github.com/Batnoska/xenosaga2-es/issues
+- Por Discord a @argolla.
+
+
+CRÉDITOS
+--------
+Batnoska: traducción, revisión, gráficos y herramientas.
+Con la ayuda de Claude (Anthropic), un asistente de inteligencia artificial.
+
+Xenosaga es una marca de Bandai Namco Entertainment. El juego fue desarrollado por
+Monolith Soft. Esta traducción la hicieron fans, sin fines de lucro y sin relación
+con esas empresas. No se distribuye ningún archivo del juego, solo las diferencias
+que aplica el parche.
+
+
+HISTORIAL
+---------
+{version} ({fecha}): primera versión pública.

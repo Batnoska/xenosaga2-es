@@ -1,0 +1,528 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Xenosaga Episode II - traducción al español\n"
+"Language: es_419\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Xeno-Source: 0:model/map/en/E2_SYD01.sbl\n"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#1"
+msgid "$zoom13;Memory of Time"
+msgstr "$zoom13;Recuerdo del tiempo"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#2"
+msgid "$zoom15;$col7AF9FB;The end is here!"
+msgstr "$zoom15;$col7AF9FB;¡Llegó el final!"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#3"
+msgid "$zoom15;$col7AF9FB;Jammed weapon."
+msgstr "$zoom15;$col7AF9FB;El arma se trabó."
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#4"
+msgid "$zoom13;Alone in the Dark (Pierce/L Blind)"
+msgstr "$zoom13;Solo en la oscuridad (Perforación/Ceguera L)"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#5"
+msgid "$zoom13;Chilling Wind (Pierce/Ice/L Slow)"
+msgstr "$zoom13;Viento helado (Perforación/Hielo/Lentitud L)"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#6"
+msgid "$zoom13;Immolation (Fire)"
+msgstr "$zoom13;Inmolación (Fuego)"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#7"
+msgid "$zoom15;$col7AF9FB;The end has come! There is no escape!"
+msgstr "$zoom15;$col7AF9FB;¡Llegó el final! ¡No hay escapatoria!"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#8"
+msgid "$zoom13;Buried Alive (Strike)"
+msgstr "$zoom13;Enterrado vivo (Golpe)"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#9"
+msgid "$zoom13;Rotting Flesh (Pierce/HP Drain/L Weak)"
+msgstr "$zoom13;Carne podrida (Perforación/Drenar HP/Debilidad L)"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#10"
+msgid "$zoom15;$col7AF9FB;Checking how many rounds are left..."
+msgstr "$zoom15;$col7AF9FB;Revisando cuántas balas quedan..."
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#11"
+msgid "$zoom21;$col7AF9FB;   1"
+msgstr "$zoom21;$col7AF9FB;   1"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#12"
+msgid "$zoom21;$col7AF9FB;   2"
+msgstr "$zoom21;$col7AF9FB;   2"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#13"
+msgid "$zoom21;$col7AF9FB;   3"
+msgstr "$zoom21;$col7AF9FB;   3"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#14"
+msgid "$zoom21;$col7AF9FB;   4"
+msgstr "$zoom21;$col7AF9FB;   4"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#15"
+msgid "$zoom21;$col7AF9FB;   5"
+msgstr "$zoom21;$col7AF9FB;   5"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#16"
+msgid "$zoom21;$col7AF9FB;   6"
+msgstr "$zoom21;$col7AF9FB;   6"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#17"
+msgid "$zoom21;$col7AF9FB;   7"
+msgstr "$zoom21;$col7AF9FB;   7"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#18"
+msgid "$zoom21;$col7AF9FB;   8"
+msgstr "$zoom21;$col7AF9FB;   8"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#19"
+msgid "$zoom21;$col7AF9FB;   9"
+msgstr "$zoom21;$col7AF9FB;   9"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#20"
+msgid "$zoom15;$col7AF9FB;Magazine empty."
+msgstr "$zoom15;$col7AF9FB;Cargador vacío."
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#21"
+msgid "$zoom13;Horror"
+msgstr "$zoom13;Horror"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#22"
+msgid ""
+"$zoom15;$colFAB2AA;Fear - Level 1\n"
+"$col7AF9FB;The smell of fear strengthens his offense.$colc0c0c0;"
+msgstr ""
+"$zoom15;$colFAB2AA;Miedo - Nivel 1\n"
+"$col7AF9FB;El olor del miedo fortalece su ataque.$colc0c0c0;"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#23"
+msgid ""
+"$zoom15;$colFAB2AA;Fear - Level 2\n"
+"$col7AF9FB;The smell of fear strengthens his offense.$colc0c0c0;"
+msgstr ""
+"$zoom15;$colFAB2AA;Miedo - Nivel 2\n"
+"$col7AF9FB;El olor del miedo fortalece su ataque.$colc0c0c0;"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#24"
+msgid ""
+"$zoom15;$colFAB2AA;Fear - Level 3\n"
+"$col7AF9FB;The smell of fear strengthens his offense.$colc0c0c0;"
+msgstr ""
+"$zoom15;$colFAB2AA;Miedo - Nivel 3\n"
+"$col7AF9FB;El olor del miedo fortalece su ataque.$colc0c0c0;"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#25"
+msgid ""
+"$zoom15;$colFAB2AA;Fear - Level 4\n"
+"$col7AF9FB;The smell of fear strengthens his offense.$colc0c0c0;"
+msgstr ""
+"$zoom15;$colFAB2AA;Miedo - Nivel 4\n"
+"$col7AF9FB;El olor del miedo fortalece su ataque.$colc0c0c0;"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#26"
+msgid ""
+"$zoom15;$colFAB2AA;Fear - Level 5\n"
+"$col7AF9FB;The smell of fear strengthens his offense.$colc0c0c0;"
+msgstr ""
+"$zoom15;$colFAB2AA;Miedo - Nivel 5\n"
+"$col7AF9FB;El olor del miedo fortalece su ataque.$colc0c0c0;"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#27"
+msgid "$zoom13;Terror"
+msgstr "$zoom13;Terror"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#28"
+msgid ""
+"$zoom15;$colFAB2AA;Fear - Level 1\n"
+"$col7AF9FB;The smell of fear improves his dexterity.$colc0c0c0;"
+msgstr ""
+"$zoom15;$colFAB2AA;Miedo - Nivel 1\n"
+"$col7AF9FB;El olor del miedo mejora su destreza.$colc0c0c0;"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#29"
+msgid ""
+"$zoom15;$colFAB2AA;Fear - Level 2\n"
+"$col7AF9FB;The smell of fear improves his dexterity.$colc0c0c0;"
+msgstr ""
+"$zoom15;$colFAB2AA;Miedo - Nivel 2\n"
+"$col7AF9FB;El olor del miedo mejora su destreza.$colc0c0c0;"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#30"
+msgid ""
+"$zoom15;$colFAB2AA;Fear - Level 3\n"
+"$col7AF9FB;The smell of fear improves his dexterity.$colc0c0c0;"
+msgstr ""
+"$zoom15;$colFAB2AA;Miedo - Nivel 3\n"
+"$col7AF9FB;El olor del miedo mejora su destreza.$colc0c0c0;"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#31"
+msgid ""
+"$zoom15;$colFAB2AA;Fear - Level 4\n"
+"$col7AF9FB;The smell of fear improves his dexterity.$colc0c0c0;"
+msgstr ""
+"$zoom15;$colFAB2AA;Miedo - Nivel 4\n"
+"$col7AF9FB;El olor del miedo mejora su destreza.$colc0c0c0;"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#32"
+msgid ""
+"$zoom15;$colFAB2AA;Fear - Level 5\n"
+"$col7AF9FB;The smell of fear improves his dexterity.$colc0c0c0;"
+msgstr ""
+"$zoom15;$colFAB2AA;Miedo - Nivel 5\n"
+"$col7AF9FB;El olor del miedo mejora su destreza.$colc0c0c0;"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#33"
+msgid "$zoom13;Panic"
+msgstr "$zoom13;Pánico"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#34"
+msgid ""
+"$zoom15;$colFAB2AA;Fear - Level 1\n"
+"$col7AF9FB;The smell of fear increases his speed.$colc0c0c0;"
+msgstr ""
+"$zoom15;$colFAB2AA;Miedo - Nivel 1\n"
+"$col7AF9FB;El olor del miedo aumenta su velocidad.$colc0c0c0;"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#35"
+msgid ""
+"$zoom15;$colFAB2AA;Fear - Level 2\n"
+"$col7AF9FB;The smell of fear increases his speed.$colc0c0c0;"
+msgstr ""
+"$zoom15;$colFAB2AA;Miedo - Nivel 2\n"
+"$col7AF9FB;El olor del miedo aumenta su velocidad.$colc0c0c0;"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#36"
+msgid ""
+"$zoom15;$colFAB2AA;Fear - Level 3\n"
+"$col7AF9FB;The smell of fear increases his speed.$colc0c0c0;"
+msgstr ""
+"$zoom15;$colFAB2AA;Miedo - Nivel 3\n"
+"$col7AF9FB;El olor del miedo aumenta su velocidad.$colc0c0c0;"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#37"
+msgid ""
+"$zoom15;$colFAB2AA;Fear - Level 4\n"
+"$col7AF9FB;The smell of fear increases his speed.$colc0c0c0;"
+msgstr ""
+"$zoom15;$colFAB2AA;Miedo - Nivel 4\n"
+"$col7AF9FB;El olor del miedo aumenta su velocidad.$colc0c0c0;"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#38"
+msgid ""
+"$zoom15;$colFAB2AA;Fear - Level 5\n"
+"$col7AF9FB;The smell of fear increases his speed.$colc0c0c0;"
+msgstr ""
+"$zoom15;$colFAB2AA;Miedo - Nivel 5\n"
+"$col7AF9FB;El olor del miedo aumenta su velocidad.$colc0c0c0;"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#39"
+msgid "$zoom13;Frenzy"
+msgstr "$zoom13;Frenesí"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#40"
+msgid ""
+"$zoom15;$colFAB2AA;Fear - Level 1\n"
+"$col7AF9FB;Now impervious to any frontal attack!$colc0c0c0;"
+msgstr ""
+"$zoom15;$colFAB2AA;Miedo - Nivel 1\n"
+"$col7AF9FB;¡Inmune a los ataques frontales!$colc0c0c0;"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#41"
+msgid ""
+"$zoom15;$colFAB2AA;Fear - Level 2\n"
+"$col7AF9FB;Now impervious to any frontal attack!$colc0c0c0;"
+msgstr ""
+"$zoom15;$colFAB2AA;Miedo - Nivel 2\n"
+"$col7AF9FB;¡Inmune a los ataques frontales!$colc0c0c0;"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#42"
+msgid ""
+"$zoom15;$colFAB2AA;Fear - Level 3\n"
+"$col7AF9FB;Now impervious to any frontal attack!$colc0c0c0;"
+msgstr ""
+"$zoom15;$colFAB2AA;Miedo - Nivel 3\n"
+"$col7AF9FB;¡Inmune a los ataques frontales!$colc0c0c0;"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#43"
+msgid ""
+"$zoom15;$colFAB2AA;Fear - Level 4\n"
+"$col7AF9FB;Now impervious to any frontal attack!$colc0c0c0;"
+msgstr ""
+"$zoom15;$colFAB2AA;Miedo - Nivel 4\n"
+"$col7AF9FB;¡Inmune a los ataques frontales!$colc0c0c0;"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#44"
+msgid ""
+"$zoom15;$colFAB2AA;Fear - Level 5\n"
+"$col7AF9FB;Now impervious to any frontal attack!$colc0c0c0;"
+msgstr ""
+"$zoom15;$colFAB2AA;Miedo - Nivel 5\n"
+"$col7AF9FB;¡Inmune a los ataques frontales!$colc0c0c0;"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#45"
+msgid "$zoom13;Soothing Words"
+msgstr "$zoom13;Palabras tranquilizadoras"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#46"
+msgid ""
+"$zoom15;$colc0c0c0;The smell of fear has worn off\n"
+"and he has returned to normal.$colc0c0c0;"
+msgstr ""
+"$zoom15;$colc0c0c0;El olor del miedo se disipó\n"
+"y volvió a la normalidad.$colc0c0c0;"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#47"
+msgid ""
+"$zoom15;$colFAB2AA;Fear - Maximum\n"
+"$col0fd0e0;He is overwhelmed!$colc0c0c0;\n"
+"Frenzy has worn off!$colc0c0c0;"
+msgstr ""
+"$zoom15;$colFAB2AA;Miedo - Máximo\n"
+"$col0fd0e0;¡Está abrumado!$colc0c0c0;\n"
+"¡Se le pasó el frenesí!$colc0c0c0;"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#48"
+msgid ""
+"$zoom15;$colFAB2AA;Fear - Maximum\n"
+"$col0fd0e0;He is overwhelmed!$colc0c0c0;"
+msgstr ""
+"$zoom15;$colFAB2AA;Miedo - Máximo\n"
+"$col0fd0e0;¡Está abrumado!$colc0c0c0;"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#49"
+msgid "$zoom13;Reload >> Despair"
+msgstr "$zoom13;Recargar >> Desesperación"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#50"
+msgid "$zoom13;Reload >> Misery"
+msgstr "$zoom13;Recargar >> Miseria"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#51"
+msgid "$zoom13;Reload >> Sorrow"
+msgstr "$zoom13;Recargar >> Pena"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#52"
+msgid "$zoom13;Reload >> Woe"
+msgstr "$zoom13;Recargar >> Desdicha"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#53"
+msgid "$zoom13;Single Shot (Pierce)"
+msgstr "$zoom13;Disparo único (Perforación)"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#54"
+msgid "$zoom13;Single Shot I (Pierce)"
+msgstr "$zoom13;Disparo único I (Perforación)"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#55"
+msgid "$zoom13;Single Shot II (Pierce)"
+msgstr "$zoom13;Disparo único II (Perforación)"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#56"
+msgid "$zoom13;Single Shot III (Pierce)"
+msgstr "$zoom13;Disparo único III (Perforación)"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#57"
+msgid "$zoom13;Single Shot IV (Pierce)"
+msgstr "$zoom13;Disparo único IV (Perforación)"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#58"
+msgid "$zoom13;Single Shot V (Pierce)"
+msgstr "$zoom13;Disparo único V (Perforación)"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#59"
+msgid "$zoom13;Single Shot VI (Pierce)"
+msgstr "$zoom13;Disparo único VI (Perforación)"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#60"
+msgid "$zoom13;Single Shot VII (Pierce)"
+msgstr "$zoom13;Disparo único VII (Perforación)"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#61"
+msgid "$zoom13;Single Shot VIII (Pierce)"
+msgstr "$zoom13;Disparo único VIII (Perforación)"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#62"
+msgid "$zoom13;Single Shot IX (Pierce)"
+msgstr "$zoom13;Disparo único IX (Perforación)"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#63"
+msgid "$zoom13;Rapid Fire I (Pierce)"
+msgstr "$zoom13;Fuego rápido I (Perforación)"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#64"
+msgid "$zoom13;Rapid Fire II (Pierce)"
+msgstr "$zoom13;Fuego rápido II (Perforación)"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#65"
+msgid "$zoom13;Rapid Fire III (Pierce)"
+msgstr "$zoom13;Fuego rápido III (Perforación)"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#66"
+msgid "$zoom13;Rapid Fire IV (Pierce)"
+msgstr "$zoom13;Fuego rápido IV (Perforación)"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#67"
+msgid "$zoom13;Rapid Fire V (Pierce)"
+msgstr "$zoom13;Fuego rápido V (Perforación)"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#68"
+msgid "$zoom13;Rapid Fire VI (Pierce)"
+msgstr "$zoom13;Fuego rápido VI (Perforación)"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#69"
+msgid "$zoom13;Rapid Fire VII (Pierce)"
+msgstr "$zoom13;Fuego rápido VII (Perforación)"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#70"
+msgid "$zoom13;Rapid Fire VIII (Pierce)"
+msgstr "$zoom13;Fuego rápido VIII (Perforación)"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#71"
+msgid "$zoom13;Rapid Fire - Final (Pierce)"
+msgstr "$zoom13;Fuego rápido - Final (Perforación)"

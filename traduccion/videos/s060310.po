@@ -1,0 +1,58 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Xenosaga Episode II - traducción al español\n"
+"Language: es_419\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Xeno-Source: 2:movie/en/s060310.txt\n"
+
+#. tiempo 00:17:25
+#. Subtítulo: un tramo de la frase, sincronizado con la voz. Máximo 2 líneas.
+#, fuzzy
+msgctxt "L24"
+msgid ""
+"We're losing it, Captain.\n"
+"We can't get away!"
+msgstr ""
+"¡Perdemos el control, capitán!\n"
+"¡No podemos escapar!"
+
+#. tiempo 00:20:00
+#. Subtítulo: un tramo de la frase, sincronizado con la voz. Máximo 2 líneas.
+#, fuzzy
+msgctxt "L25"
+msgid ""
+"At this rate, we're not\n"
+"gonna last another minute!"
+msgstr ""
+"¡A este ritmo, no vamos a\n"
+"aguantar ni un minuto más!"
+
+#. tiempo 00:29:23
+#. Subtítulo: un tramo de la frase, sincronizado con la voz. Máximo 2 líneas.
+#, fuzzy
+msgctxt "L27"
+msgid "Damn. So this is it, huh..."
+msgstr "Maldición. Así que hasta aquí llegamos..."
+
+#. tiempo 00:41:00
+#. Subtítulo: un tramo de la frase, sincronizado con la voz. Máximo 2 líneas.
+#, fuzzy
+msgctxt "L29"
+msgid "Hey, what the hell's goin' on?"
+msgstr "Oigan, ¿qué diablos está pasando?"
+
+#. tiempo 00:43:15
+#. Subtítulo: un tramo de la frase, sincronizado con la voz. Máximo 2 líneas.
+#, fuzzy
+msgctxt "L32"
+msgid "Captain, look!"
+msgstr "¡Capitán, mire!"
+
+#. tiempo 00:49:03
+#. Subtítulo: un tramo de la frase, sincronizado con la voz. Máximo 2 líneas.
+#, fuzzy
+msgctxt "L35"
+msgid "It's the Durandal!"
+msgstr "¡Es el Durandal!"

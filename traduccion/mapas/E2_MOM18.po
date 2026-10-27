@@ -1,0 +1,138 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Xenosaga Episode II - traducción al español\n"
+"Language: es_419\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Xeno-Source: 0:model/map/en/E2_MOM18.sbl\n"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#0"
+msgid "$zoom15;Level 4's cerebral functions offline."
+msgstr "$zoom15;Funciones cerebrales del Nivel 4 desconectadas."
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#1"
+msgid "$zoom13;Armed Bug Now (Strike)"
+msgstr "$zoom13;Armed Bug Now (Golpe)"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#2"
+msgid "$zoom15;$colc0c0c0;Absorbing body fluid.$colc0c0c0;"
+msgstr "$zoom15;$colc0c0c0;Absorbiendo fluidos corporales.$colc0c0c0;"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#3"
+msgid "$zoom13;Alchemy"
+msgstr "$zoom13;Alquimia"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#4"
+msgid "$zoom15;$colc0c0c0;Level 4's ultrasonic waves reverberate!"
+msgstr "$zoom15;$colc0c0c0;¡Resuenan las ondas ultrasónicas del Nivel 4!"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#5"
+msgid ""
+"$zoom15;$colc0c0c0;System 40% recovered.\n"
+"$col7AF9FB;Cellular program activated.$colc0c0c0;"
+msgstr ""
+"$zoom15;$colc0c0c0;Sistema recuperado al 40%.\n"
+"$col7AF9FB;Programa celular activado.$colc0c0c0;"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#6"
+msgid ""
+"$zoom15;$colc0c0c0;System 70% recovered.\n"
+"$col7AF9FB;Neural program activated.$colc0c0c0;"
+msgstr ""
+"$zoom15;$colc0c0c0;Sistema recuperado al 70%.\n"
+"$col7AF9FB;Programa neural activado.$colc0c0c0;"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#7"
+msgid ""
+"$zoom15;$colc0c0c0;System 100% recovered.\n"
+"$col7AF9FB;Regained full strength.$colc0c0c0;"
+msgstr ""
+"$zoom15;$colc0c0c0;Sistema recuperado al 100%.\n"
+"$col7AF9FB;Recuperó toda su fuerza.$colc0c0c0;"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#8"
+msgid ""
+"$zoom15;$colc0c0c0;Activating unlimited program.\n"
+"$col7AF9FB;All powers surpassing maximum limit!$colc0c0c0;"
+msgstr ""
+"$zoom15;$colc0c0c0;Activando el programa ilimitado.\n"
+"$col7AF9FB;¡Todos sus poderes superan el límite!$colc0c0c0;"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#9"
+msgid "$zoom13;Armed Bug Now (Strike)"
+msgstr "$zoom13;Armed Bug Now (Golpe)"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#10"
+msgid "$zoom13;ESW Output 20% (Strike/L Heavy)"
+msgstr "$zoom13;Potencia ESW 20% (Golpe/Pesadez L)"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#11"
+msgid "$zoom13;ESW Output 50% (Strike/L Poison)"
+msgstr "$zoom13;Potencia ESW 50% (Golpe/Veneno L)"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#12"
+msgid "$zoom13;ESW Output 100% (Strike)"
+msgstr "$zoom13;Potencia ESW 100% (Golpe)"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#13"
+msgid "$zoom13;Cannibalism (Strike/Drain HP)"
+msgstr "$zoom13;Canibalismo (Golpe/Drenar HP)"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#14"
+msgid "$zoom13;Central Dogma Repair Program"
+msgstr "$zoom13;Programa de reparación Central Dogma"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#15"
+msgid "$zoom15;$col7AF9FB;Level 4's cerebral functions stimulated!"
+msgstr "$zoom15;$col7AF9FB;¡Se estimularon las funciones cerebrales del Nivel 4!"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#16"
+msgid "$zoom13;Unlimited Program"
+msgstr "$zoom13;Programa ilimitado"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#17"
+msgid "$zoom13;Leap Attack (Slash)"
+msgstr "$zoom13;Ataque en salto (Corte)"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#18"
+msgid "$zoom13;Charge (Strike)"
+msgstr "$zoom13;Embestida (Golpe)"

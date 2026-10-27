@@ -1,0 +1,34 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Xenosaga Episode II - traducción al español\n"
+"Language: es_419\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Xeno-Source: 0:cf/en/sc4310.sbl\n"
+
+#, fuzzy
+msgctxt "#3"
+msgid "Return to the Elsa?"
+msgstr "¿Volver al Elsa?"
+
+#. Opciones: una por línea. Mantener 2 líneas en el mismo orden.
+#, fuzzy
+msgctxt "#4"
+msgid ""
+"Yes\n"
+"No"
+msgstr ""
+"Sí\n"
+"No"
+
+#, fuzzy
+msgctxt "#5"
+msgid "Returning to the Elsa."
+msgstr "Volviendo al Elsa."
+
+#. habla: Jr.
+#, fuzzy
+msgctxt "#6"
+msgid "Old Miltia. It looks like this is as close to Labyrinthos as the Elsa can get. All right, let's get moving."
+msgstr "La Antigua Miltia. Parece que el Elsa no puede acercarse más a Labyrinthos. Muy bien, pongámonos en marcha."

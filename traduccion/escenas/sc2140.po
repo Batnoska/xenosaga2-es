@@ -1,0 +1,41 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Xenosaga Episode II - traducción al español\n"
+"Language: es_419\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Xeno-Source: 0:cf/en/sc2140.sbl\n"
+
+#, fuzzy
+msgctxt "#5"
+msgid "You unlocked Protection 03!"
+msgstr "¡Desbloqueaste la Protección 03!"
+
+#. habla: Hugo's Memo
+#, fuzzy
+msgctxt "#6"
+msgid "I guess you've gotten pretty used to unlocking the protection by now. But there are still more layers of the great genius Bravo Hugo's trap protection left! The next protection is set on the \"wall by the hole where water flows.\" You can unlock trap protection 04 there!"
+msgstr "Supongo que a esta altura ya te acostumbraste a desbloquear las protecciones. ¡Pero todavía quedan más capas de protección de trampa del gran genio Bravo Hugo! La siguiente protección está en la \"pared junto al agujero por donde corre el agua\". ¡Ahí puedes desbloquear la protección de trampa 04!"
+
+#. habla: Hugo's Memo
+#, fuzzy
+msgctxt "#7"
+msgid "The next protection is set on the \"wall by the hole where water flows.\" You can unlock trap protection 04 there!"
+msgstr "La siguiente protección está en la \"pared junto al agujero por donde corre el agua\". ¡Ahí puedes desbloquear la protección de trampa 04!"
+
+#, fuzzy
+msgctxt "#9"
+msgid "You unlocked the final protection!"
+msgstr "¡Desbloqueaste la protección final!"
+
+#. habla: Hugo
+#, fuzzy
+msgctxt "#11"
+msgid "Unbelievable! Super, super, super, super bravo to you! You've unlocked the protection on all the traps I set! But if you're here, that must mean the me in the real world is depressed somewhere. Well, I'll do something good for you, so cheer me up if you see me!"
+msgstr "¡Increíble! ¡Súper, súper, súper, súper bravo! ¡Desbloqueaste la protección de todas las trampas que puse! Pero si estás aquí, eso significa que el yo del mundo real debe estar deprimido en algún lado. Bueno, te voy a dar algo bueno, ¡así que si me ves, levántame el ánimo!"
+
+#, fuzzy
+msgctxt "#12"
+msgid "You obtained Secret Key 18! This key opens the Level 3 Class F skill \"Rare +30.\""
+msgstr "¡Obtuviste la Llave Secreta 18! Esta llave desbloquea la habilidad de Clase F de nivel 3 \"Rare +30\"."

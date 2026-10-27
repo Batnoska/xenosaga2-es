@@ -1,0 +1,626 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Xenosaga Episode II - traducción al español\n"
+"Language: es_419\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Xeno-Source: 0:cf/en/sc1540.sbl\n"
+
+#. habla: Miguel
+#, fuzzy
+msgctxt "#0"
+msgid "This is Area 40, Second Miltia's largest advertising and publishing agency. I am the branch supervisor, Miguel. "
+msgstr "Esto es Area 40, la agencia de publicidad y edición más grande de Segunda Miltia. Soy el supervisor de la sucursal, Miguel."
+
+#. habla: Miguel
+#, fuzzy
+msgctxt "#1"
+msgid "Rather, I wish I was. I'm actually just a warehouse clerk. I wonder if there's anyone who'd be nice enough to do my job for me."
+msgstr "Bueno, ojalá lo fuera. En realidad, solo soy empleado del depósito. Me pregunto si habrá alguien tan amable como para hacer mi trabajo por mí."
+
+#. habla: Miguel
+#, fuzzy
+msgctxt "#2"
+msgid "Looks like you're not done with the posters yet! Is there something you want to ask?"
+msgstr "¡Parece que todavía no terminaste con los pósteres! ¿Quieres preguntar algo?"
+
+#. Opciones: una por línea. Mantener 2 líneas en el mismo orden.
+#, fuzzy
+msgctxt "#3"
+msgid ""
+"The secrets of poster hanging\n"
+"The number of posters remaining"
+msgstr ""
+"Secretos para poner pósteres\n"
+"Pósteres restantes"
+
+#. habla: Miguel
+#, fuzzy
+msgctxt "#4"
+msgid "The secret to hanging posters is to find a space for them! When you walk around the city, you see open spaces, right? When you find a space like that, act on it immediately! You're bound to find a space to put up a poster!"
+msgstr "¡El secreto para poner pósteres es encontrar dónde ponerlos! Cuando caminas por la ciudad, ves espacios libres, ¿no? Cuando encuentres un espacio así, ¡actúa de inmediato! ¡Seguro que encuentras dónde poner un póster!"
+
+#. habla: Miguel
+#, fuzzy
+msgctxt "#5"
+msgid "There're still 20 left. Good luck! "
+msgstr "Todavía quedan 20. ¡Buena suerte!"
+
+#. habla: Miguel
+#, fuzzy
+msgctxt "#6"
+msgid "There're 19 left. You're just getting started!"
+msgstr "Quedan 19. ¡Apenas estás empezando!"
+
+#. habla: Miguel
+#, fuzzy
+msgctxt "#7"
+msgid "There're 18 left. You're kidding, right? "
+msgstr "Quedan 18. Estás bromeando, ¿no?"
+
+#. habla: Miguel
+#, fuzzy
+msgctxt "#8"
+msgid "There're 17 left. Are you getting the hang of it?"
+msgstr "Quedan 17. ¿Ya le estás tomando el ritmo?"
+
+#. habla: Miguel
+#, fuzzy
+msgctxt "#9"
+msgid "There're 16 left. Hang in there! "
+msgstr "Quedan 16. ¡Aguanta!"
+
+#. habla: Miguel
+#, fuzzy
+msgctxt "#10"
+msgid "There're 15 left. Not bad!"
+msgstr "Quedan 15. ¡Nada mal!"
+
+#. habla: Miguel
+#, fuzzy
+msgctxt "#11"
+msgid "There're 14 left. Have you thought about working here full time?"
+msgstr "Quedan 14. ¿Pensaste en trabajar aquí a tiempo completo?"
+
+#. habla: Miguel
+#, fuzzy
+msgctxt "#12"
+msgid "There're 13 left. Lookin' good!"
+msgstr "Quedan 13. ¡Vas muy bien!"
+
+#. habla: Miguel
+#, fuzzy
+msgctxt "#13"
+msgid "There're 12 left. Almost halfway there."
+msgstr "Quedan 12. Ya casi vas por la mitad."
+
+#. habla: Miguel
+#, fuzzy
+msgctxt "#14"
+msgid "There're 11 left. Keep it up!"
+msgstr "Quedan 11. ¡Sigue así!"
+
+#. habla: Miguel
+#, fuzzy
+msgctxt "#15"
+msgid "There're 10 left. You're at the half-way point!"
+msgstr "Quedan 10. ¡Llegaste a la mitad!"
+
+#. habla: Miguel
+#, fuzzy
+msgctxt "#16"
+msgid "There're 9 left. Are you having trouble finding places to put them?"
+msgstr "Quedan 9. ¿Te cuesta encontrar dónde ponerlos?"
+
+#. habla: Miguel
+#, fuzzy
+msgctxt "#17"
+msgid "There're 8 left. Are you starting to run out of places to put them up?"
+msgstr "Quedan 8. ¿Se te están acabando los lugares?"
+
+#. habla: Miguel
+#, fuzzy
+msgctxt "#18"
+msgid "There're 7 left. If you get them all up, I'll worship you!"
+msgstr "Quedan 7. ¡Si los pones todos, te voy a adorar!"
+
+#. habla: Miguel
+#, fuzzy
+msgctxt "#19"
+msgid "There're 6 left. All right! Just a few more!"
+msgstr "Quedan 6. ¡Muy bien! ¡Solo unos pocos más!"
+
+#. habla: Miguel
+#, fuzzy
+msgctxt "#20"
+msgid "There're 5 left. You're so close!"
+msgstr "Quedan 5. ¡Estás muy cerca!"
+
+#. habla: Miguel
+#, fuzzy
+msgctxt "#21"
+msgid "There're 4 left. You're almost there!"
+msgstr "Quedan 4. ¡Ya casi!"
+
+#. habla: Miguel
+#, fuzzy
+msgctxt "#22"
+msgid "There're 3 left. Hang on just a little longer!"
+msgstr "Quedan 3. ¡Aguanta un poquito más!"
+
+#. habla: Miguel
+#, fuzzy
+msgctxt "#23"
+msgid "There're 2 left. So close!"
+msgstr "Quedan 2. ¡Falta muy poco!"
+
+#. habla: Miguel
+#, fuzzy
+msgctxt "#24"
+msgid "There's 1 left. Just one to go!"
+msgstr "Queda 1. ¡Solo uno más!"
+
+#. habla: Miguel
+#, fuzzy
+msgctxt "#25"
+msgid "Oh, it's you! Well, if anything comes up again, I'll be sure to ask you for help!"
+msgstr "¡Ah, eres tú! Bueno, si surge algo más, ¡seguro que te pido ayuda!"
+
+#. habla: Miguel
+#, fuzzy
+msgctxt "#26"
+msgid "Since you put up those posters, my job has been so much easier!"
+msgstr "¡Desde que pusiste esos pósteres, mi trabajo es mucho más fácil!"
+
+#. habla: Lorraine
+#, fuzzy
+msgctxt "#27"
+msgid "What am I going to do?! I came here to make posters for my band's concert! You're supposed to use this console to make a sample, but something's broken."
+msgstr "¡¿Qué voy a hacer?! ¡Vine a hacer pósteres para el concierto de mi banda! Se supone que con esta consola se hace una muestra, pero algo está roto."
+
+#. habla: Lorraine
+#, fuzzy
+msgctxt "#28"
+msgid "How can they call themselves the number one publishing agency on Miltia when they've got broken equipment lying around! Why don't they have a repair droid on site?"
+msgstr "¡¿Cómo pueden decir que son la mejor agencia editorial de Miltia si tienen equipos rotos por ahí?! ¿Por qué no tienen un droide de reparación aquí mismo?"
+
+#. habla: Lorraine
+#, fuzzy
+msgctxt "#29"
+msgid "Oh, it's you! The computer is fine now. A droid came by and fixed it a little while ago. It was a weird droid, though! When I tried to thank it, it told me not to worry about it and gave me this thing! I don't have any use for it, so I'll give it to you!"
+msgstr "¡Ah, eres tú! La computadora ya funciona. Hace un rato vino un droide y la arregló. ¡Aunque era un droide raro! Cuando quise darle las gracias, me dijo que no me preocupara ¡y me dio esta cosa! No me sirve para nada, ¡así que te la doy!"
+
+#, fuzzy
+msgctxt "#30"
+msgid "You obtained ZAZA's Clue 3!"
+msgstr "¡Obtuviste la Pista de ZAZA 3!"
+
+#. habla: Lorraine
+#, fuzzy
+msgctxt "#31"
+msgid "It said it wanted to go somewhere with a nice view and ran off!"
+msgstr "¡Dijo que quería ir a algún lugar con buena vista y salió corriendo!"
+
+#. habla: Lorraine
+#, fuzzy
+msgctxt "#32"
+msgid "I don't think it belonged to this publishing agency."
+msgstr "No creo que fuera de esta agencia."
+
+#. habla: Lorraine
+#, fuzzy
+msgctxt "#33"
+msgid "It said it wanted to go to a place with a nice view. Let's see...the best view that I can think of is the Durandal's Observation Garden."
+msgstr "Dijo que quería ir a un lugar con buena vista. A ver... la mejor vista que se me ocurre es la del Jardín de Observación del Durandal."
+
+#. habla: Lorraine
+#, fuzzy
+msgctxt "#34"
+msgid "What? A weird droid? No, I haven't seen it."
+msgstr "¿Qué? ¿Un droide raro? No, no lo vi."
+
+#. habla: Lorraine
+#, fuzzy
+msgctxt "#35"
+msgid "Oh, the promotional poster for our band? Thanks to that droid, it turned out great! "
+msgstr "¿Ah, el póster de promoción de nuestra banda? ¡Gracias a ese droide, quedó genial!"
+
+#. habla: Lorraine
+#, fuzzy
+msgctxt "#36"
+msgid "If you're going to get a droid, it's definitely best to get a reliable one! "
+msgstr "¡Si vas a comprarte un droide, sin duda lo mejor es uno confiable!"
+
+#. habla: Hammond
+#, fuzzy
+msgctxt "#37"
+msgid "I got a flower seed from the man in front of this building!"
+msgstr "¡El hombre que está frente a este edificio me dio una semilla de flor!"
+
+#. habla: Hammond
+#, fuzzy
+msgctxt "#38"
+msgid "I'm no good at gardening, so I really don't have any use for this seed. Though, now that I think about it, Luty at the medical facility was looking for flower seeds. Maybe I'll give it to her when I see her."
+msgstr "La jardinería no es lo mío, así que esta semilla no me sirve para nada. Aunque, ahora que lo pienso, Luty, la del centro médico, buscaba semillas de flores. Quizá se la dé cuando la vea."
+
+#. habla: Hammond
+#, fuzzy
+msgctxt "#39"
+msgid "What? Luty is looking for flower seeds? Then go ahead and give this to her!"
+msgstr "¿Qué? ¿Luty busca semillas de flores? ¡Entonces dásela tú!"
+
+#, fuzzy
+msgctxt "#40"
+msgid "You obtained the Winter Seed!"
+msgstr "¡Obtuviste la Semilla de Invierno!"
+
+#. habla: Hammond
+#, fuzzy
+msgctxt "#41"
+msgid "Don't worry about it! I wasn't going to do anything with it anyway!"
+msgstr "¡No te preocupes! ¡Igual no iba a hacer nada con ella!"
+
+#. habla: Hammond
+#, fuzzy
+msgctxt "#42"
+msgid "Say hi to Luty for me!"
+msgstr "¡Salúdame a Luty!"
+
+#. habla: Hammond
+#, fuzzy
+msgctxt "#43"
+msgid "How's Luty doing?"
+msgstr "¿Cómo está Luty?"
+
+#. habla: Hammond
+#, fuzzy
+msgctxt "#44"
+msgid "If you see her, wish her good luck on her flowers!"
+msgstr "Si la ves, ¡deséale suerte con sus flores!"
+
+#. habla: Hammond
+#, fuzzy
+msgctxt "#45"
+msgid "Hmm? Flower seeds? Sorry, I already gave the one I had to someone!"
+msgstr "¿Hmm? ¿Semillas de flores? Lo siento, ¡ya le di la que tenía a alguien!"
+
+#. habla: Kiku
+#, fuzzy
+msgctxt "#46"
+msgid "What?! Excuse me, but I don't know you!"
+msgstr "¡¿Qué?! ¡Disculpe, pero no nos conocemos!"
+
+#. habla: Kiku
+#, fuzzy
+msgctxt "#47"
+msgid "Paper books? Well, yes, I do love old books! \"Entertainment Guide\"? Please! A conservative, high-society lady like me certainly has no need for something like that!"
+msgstr "¿Libros de papel? Bueno, sí, ¡me encantan los libros viejos! ¿\"Guía de ocio\"? ¡Por favor! ¡Una dama conservadora y de alta sociedad como yo no tiene ninguna necesidad de algo así!"
+
+#. habla: Kiku
+#, fuzzy
+msgctxt "#48"
+msgid "Oh, hello, Dr. Uzuki! Have you gotten any new books lately?"
+msgstr "¡Ah, hola, doctor Uzuki! ¿Consiguió libros nuevos últimamente?"
+
+#. habla: Kiku
+#, fuzzy
+msgctxt "#49"
+msgid "You're the only one who manages to find books that suit me perfectly! I'm counting on you!"
+msgstr "¡Usted es el único que encuentra libros que me quedan perfectos! ¡Cuento con usted!"
+
+#. habla: Kiku
+#, fuzzy
+msgctxt "#50"
+msgid "What? \"Entertainment Guide\"? That's that old book Nikolai brought me, right? I didn't want it, so I gave it back!"
+msgstr "¿Qué? ¿\"Guía de ocio\"? Es ese libro viejo que me trajo Nikolai, ¿no? ¡No lo quería, así que se lo devolví!"
+
+#. habla: Kiku
+#, fuzzy
+msgctxt "#51"
+msgid "That boy Nikolai is so rude! He should've learned by now what kind of books a lady like me would enjoy."
+msgstr "¡Ese chico, Nikolai, es un maleducado! A esta altura ya debería saber qué libros le gustan a una dama como yo."
+
+#. habla: Augusta
+#, fuzzy
+msgctxt "#52"
+msgid "Me? I'm Augusta Hanson. I may not look it, but I'm a photographer!"
+msgstr "¿Yo? Soy Augusta Hanson. Quizá no lo parezca, ¡pero soy fotógrafa!"
+
+#. habla: Augusta
+#, fuzzy
+msgctxt "#53"
+msgid "I capture people's happiness. I especially like to take pictures of the various expressions during the birth of a new life. ♪ I want to help preserve the image of people who are going to be raising that new life!"
+msgstr "Capturo la felicidad de la gente. Me gusta especialmente fotografiar las distintas expresiones durante el nacimiento de una nueva vida. ♪ ¡Quiero ayudar a conservar la imagen de quienes van a criar esa nueva vida!"
+
+#. habla: Augusta
+#, fuzzy
+msgctxt "#54"
+msgid "Yes, I'm Augusta, the photographer. Do you need something?"
+msgstr "Sí, soy Augusta, la fotógrafa. ¿Necesitas algo?"
+
+#. habla: Augusta
+#, fuzzy
+msgctxt "#55"
+msgid "I came here to make the program guide for my next exhibition, but I just can't find the right photo."
+msgstr "Vine a hacer el programa de mi próxima exposición, pero no encuentro la foto adecuada."
+
+#. habla: Augusta
+#, fuzzy
+msgctxt "#56"
+msgid "I took a photo of a family from the Foundation during their trip to Second Miltia about eight years ago!"
+msgstr "¡Hace unos ocho años tomé una foto de una familia de la Fundación que estaba de viaje en Segunda Miltia!"
+
+#. habla: Augusta
+#, fuzzy
+msgctxt "#57"
+msgid "They looked so happy! That baby must be all grown up now. ♪"
+msgstr "¡Se los veía tan felices! Ese bebé ya debe ser grande. ♪"
+
+#. habla: Augusta
+#, fuzzy
+msgctxt "#58"
+msgid "A photo of a family I took about eight years ago? Oh, I took it at the space port! Why do you want to know that? What?! The baby in that picture...Oh the poor thing. Please give her my regards!"
+msgstr "¿Una foto de una familia que tomé hace unos ocho años? ¡Ah, la tomé en el puerto espacial! ¿Por qué quieres saberlo? ¡¿Qué?! El bebé de esa foto... Ay, pobrecita. ¡Por favor, dale mis saludos!"
+
+#. habla: Augusta
+#, fuzzy
+msgctxt "#59"
+msgid "Oh that poor little girl...Please give her my regards."
+msgstr "Ay, pobre chiquita... Por favor, dale mis saludos."
+
+#. habla: Augusta
+#, fuzzy
+msgctxt "#60"
+msgid "I took that photo at the Second Miltia space port. They were such a lovely family that I just had to take a picture of them!"
+msgstr "Tomé esa foto en el puerto espacial de Segunda Miltia. ¡Eran una familia tan linda que tuve que fotografiarlos!"
+
+#. habla: Agnese
+#, fuzzy
+msgctxt "#61"
+msgid "I came here today to see the pet shop's adoption posters!"
+msgstr "¡Hoy vine a ver los carteles de adopción de la tienda de mascotas!"
+
+#. habla: Agnese
+#, fuzzy
+msgctxt "#62"
+msgid "I want a kitten, but I'm having a hard time finding a cute one! I want one that is really cuddly."
+msgstr "Quiero un gatito, ¡pero me cuesta encontrar uno lindo! Quiero uno que sea muy mimoso."
+
+#. habla: Agnese
+#, fuzzy
+msgctxt "#63"
+msgid "What? You'll give me a kitten?! All right!"
+msgstr "¿Qué? ¡¿Me vas a dar un gatito?! ¡Genial!"
+
+#, fuzzy
+msgctxt "#64"
+msgid "You found an owner for Newt!"
+msgstr "¡Encontraste dueña para Newt!"
+
+#. habla: Agnese
+#, fuzzy
+msgctxt "#65"
+msgid "Newt is so cute! He looks so sad when I'm not around!"
+msgstr "¡Newt es tan lindo! ¡Se pone muy triste cuando no estoy!"
+
+#. habla: Agnese
+#, fuzzy
+msgctxt "#66"
+msgid "I'm going to be Newt's big sister!"
+msgstr "¡Voy a ser la hermana mayor de Newt!"
+
+#. habla: Enrico
+#, fuzzy
+msgctxt "#67"
+msgid "Ahem! I'm here waiting for a spade letter!"
+msgstr "¡Ejem! ¡Estoy aquí esperando una carta de pica!"
+
+#. habla: Enrico
+#, fuzzy
+msgctxt "#68"
+msgid "I'm in charge of promotion for a mail-order company, and I hired Area 40 for a direct-mail marketing job! I had them create letters shaped like spades just like our company logo. I sent out the finished direct-mail letters at once, but we've seen absolutely no results whatsoever! I thought maybe there was a problem with the direct-mail itself, so in order to confirm the impression it has on the receiver, I sent one to Area 40. But I've been waiting for a while and no spade letter has arrived yet. I know I had it sent by Sincere Deliveries, so what's going on?!"
+msgstr "¡Me encargo de la promoción de una empresa de venta por correo y contraté a Area 40 para una campaña de correo directo! Les pedí que hicieran cartas con forma de pica, como el logo de nuestra empresa. Mandé todas las cartas de una vez, ¡pero no tuvimos ningún resultado! Pensé que quizá el problema era el correo en sí, así que, para comprobar qué impresión le causa a quien lo recibe, le mandé una a Area 40. Pero hace rato que espero y la carta de pica todavía no llegó. ¡Sé que la mandé con Sincere Deliveries, así que ¿qué está pasando?!"
+
+#. habla: Enrico
+#, fuzzy
+msgctxt "#69"
+msgid "I've been waiting for you! Hmm? Are you a new part-time employee? Isn't the delivery late? Hurry up and give me that spade letter!"
+msgstr "¡Te estaba esperando! ¿Hmm? ¿Eres del personal nuevo de medio tiempo? ¿No se atrasó la entrega? ¡Dame rápido esa carta de pica!"
+
+#. Opciones: una por línea. Mantener 2 líneas en el mismo orden.
+#, fuzzy
+msgctxt "#70"
+msgid ""
+"Give it to him.\n"
+"Don't give it to him."
+msgstr ""
+"Dársela.\n"
+"No dársela."
+
+#. habla: Enrico
+#, fuzzy
+msgctxt "#71"
+msgid "Okay! Now I can lay a claim against them!"
+msgstr "¡Muy bien! ¡Ahora puedo presentarles un reclamo!"
+
+#. habla: Enrico
+#, fuzzy
+msgctxt "#72"
+msgid "What? I've got the wrong person?! My apologies!"
+msgstr "¿Qué? ¡¿Me equivoqué de persona?! ¡Mis disculpas!"
+
+#. habla: Enrico
+#, fuzzy
+msgctxt "#73"
+msgid "Hello! Good job on the delivery!"
+msgstr "¡Hola! ¡Buen trabajo con la entrega!"
+
+#. habla: Enrico
+#, fuzzy
+msgctxt "#74"
+msgid "Grrr! I should never have used Sincere Deliveries!"
+msgstr "¡Grrr! ¡Nunca debí usar Sincere Deliveries!"
+
+#. habla: Regnal
+#, fuzzy
+msgctxt "#75"
+msgid "I don't know what to do about this man. He's saying that the direct-mail letters that we made are hurting his sales!"
+msgstr "No sé qué hacer con este hombre. ¡Dice que las cartas de correo directo que hicimos le están arruinando las ventas!"
+
+#. habla: Regnal
+#, fuzzy
+msgctxt "#76"
+msgid "I'm the one that designed those spade letters, so it's insulting!"
+msgstr "Yo diseñé esas cartas de pica, ¡así que es un insulto!"
+
+#. habla: Regnal
+#, fuzzy
+msgctxt "#77"
+msgid "You may already know this, but this place is really just our front office. Our main business is event planning, but lately we've turned into mere sign-makers. I think that's what's been keeping Miguel up at night."
+msgstr "Quizá ya lo sepas, pero este lugar es en realidad solo nuestra oficina de atención. Nuestro negocio principal es organizar eventos, pero últimamente nos convertimos en simples fabricantes de carteles. Creo que eso es lo que le quita el sueño a Miguel."
+
+#. habla: Regnal
+#, fuzzy
+msgctxt "#78"
+msgid "What? Miguel's not an assistant who is pretending to be the branch supervisor! He's the one who built this company with his own hands! He's a legendary event planner! He's really high up, but he still does little things himself. The only problem I have with him is that he's sometimes a bit rude."
+msgstr "¿Qué? ¡Miguel no es un asistente que finge ser el supervisor de la sucursal! ¡Él construyó esta empresa con sus propias manos! ¡Es un organizador de eventos legendario! Tiene un cargo muy alto, pero igual hace las cosas pequeñas él mismo. Lo único que no me gusta de él es que a veces es un poco grosero."
+
+#. habla: Regnal
+#, fuzzy
+msgctxt "#79"
+msgid "Did you see those holo-displays? They're my best work!"
+msgstr "¿Viste esos holoexhibidores? ¡Son mi mejor trabajo!"
+
+#. habla: Regnal
+#, fuzzy
+msgctxt "#80"
+msgid "I always pour my heart and soul into each display, making sure that the client's message will properly reach the consumer. This man here just doesn't understand that!"
+msgstr "Siempre pongo todo mi corazón en cada exhibidor para que el mensaje del cliente le llegue bien al consumidor. ¡Este hombre no lo entiende!"
+
+#. habla: Newt
+#, fuzzy
+msgctxt "#81"
+msgid "Meow!"
+msgstr "¡Miau!"
+
+#. habla: Miguel
+#, fuzzy
+msgctxt "#82"
+msgid "The Miss Miltia Contest is going to take place very soon and our company is handling the promotion! Hey, are you listening?! So, now that we've made posters, we have to put them up around the city. But we're really short on people! I'm looking for someone that can do the job. Want to give it a try?"
+msgstr "¡Dentro de muy poco se hace el concurso Miss Miltia y nuestra empresa se encarga de la promoción! Oye, ¡¿me estás escuchando?! Bueno, ahora que hicimos los pósteres, hay que ponerlos por toda la ciudad. ¡Pero nos falta muchísima gente! Busco a alguien que pueda hacer el trabajo. ¿Quieres intentarlo?"
+
+#. Opciones: una por línea. Mantener 2 líneas en el mismo orden.
+#, fuzzy
+msgctxt "#83"
+msgid ""
+"Sure, I'll do it!\n"
+"I think I'll pass."
+msgstr ""
+"¡Claro, lo hago!\n"
+"Creo que paso."
+
+#. habla: Miguel
+#, fuzzy
+msgctxt "#84"
+msgid "Really?! Thanks a lot!"
+msgstr "¡¿De verdad?! ¡Muchas gracias!"
+
+#. habla: Miguel
+#, fuzzy
+msgctxt "#86"
+msgid "You can't just put the posters up anywhere. You'll need to carefully search the city and find places where you can put them! Good luck!"
+msgstr "No puedes poner los pósteres en cualquier lado. ¡Tendrás que recorrer la ciudad con cuidado y encontrar lugares donde ponerlos! ¡Buena suerte!"
+
+#. habla: Miguel
+#, fuzzy
+msgctxt "#87"
+msgid "Oh no! I knew I shouldn't have gotten my hopes up!"
+msgstr "¡Oh, no! ¡Sabía que no tenía que hacerme ilusiones!"
+
+#. habla: Miguel
+#, fuzzy
+msgctxt "#88"
+msgid "What?! You put up all the posters?! Amazing!"
+msgstr "¡¿Qué?! ¡¿Pusiste todos los pósteres?! ¡Increíble!"
+
+#. habla: Miguel
+#, fuzzy
+msgctxt "#90"
+msgid "Of course, I didn't expect you to do it for free! Here's your pay."
+msgstr "¡Claro que no esperaba que lo hicieras gratis! Aquí tienes tu paga."
+
+#, fuzzy
+msgctxt "#91"
+msgid "You obtained Skill Upgrade D x3!"
+msgstr "¡Obtuviste Mejora de Habilidad D x3!"
+
+#. habla: Miguel
+#, fuzzy
+msgctxt "#92"
+msgid "If anything else comes up, I'll be sure to ask for your help!"
+msgstr "¡Si surge algo más, seguro que te pido ayuda!"
+
+#. habla: Miguel
+#, fuzzy
+msgctxt "#93"
+msgid "Whoops, I almost forgot to give you this! They're campaign promotional goods and we got some left over. Go ahead and take them!"
+msgstr "¡Uy, casi me olvido de darte esto! Son productos promocionales de la campaña y nos sobraron algunos. ¡Llévatelos!"
+
+#, fuzzy
+msgctxt "#94"
+msgid "You obtained MOMO's Swimsuit!"
+msgstr "¡Obtuviste el Traje de baño de MOMO!"
+
+#, fuzzy
+msgctxt "#95"
+msgid "You obtained Jr.'s Swimsuit!"
+msgstr "¡Obtuviste el Traje de baño de Jr.!"
+
+#, fuzzy
+msgctxt "#96"
+msgid "System Kitchen's \"Triple S\" will boost your free time! Enjoy life!"
+msgstr "¡El \"Triple S\" de System Kitchen te dará más tiempo libre! ¡Disfruta la vida!"
+
+#, fuzzy
+msgctxt "#97"
+msgid "Space Cocktail \"Fire Drink,\" now featuring milk flavor!"
+msgstr "¡Cóctel espacial \"Fire Drink\", ahora con sabor a leche!"
+
+#, fuzzy
+msgctxt "#98"
+msgid ""
+"Never forget your precious memories...\n"
+"\"Memorize\" holographs.\n"
+"Over 1,000 types of media available!"
+msgstr ""
+"Nunca olvides tus valiosos recuerdos...\n"
+"Hologramas \"Memorize\".\n"
+"¡Más de 1.000 tipos de soportes!"
+
+#, fuzzy
+msgctxt "#99"
+msgid ""
+"\"Beat Shower,\" the playland of Second Miltia.\n"
+"Seven types of attractions to blow your mind!"
+msgstr ""
+"\"Beat Shower\", diversión en Segunda Miltia.\n"
+"¡Siete atracciones que te volarán la cabeza!"
+
+#, fuzzy
+msgctxt "#100"
+msgid ""
+"If you're looking for discount space travel tickets, look no further than CTC.\n"
+"Today only, tickets to Miltian space are 30%% OFF!"
+msgstr ""
+"Si buscas pasajes espaciales con descuento, CTC es tu lugar.\n"
+"¡Solo hoy, pasajes al espacio de Miltia con 30%% de descuento!"
+
+#, fuzzy
+msgctxt "#101"
+msgid ""
+"Lavare Cleaners! The dirt-removal pros!\n"
+"Our main branch on the Foundation also rents costumes!"
+msgstr ""
+"¡Tintorería Lavare! ¡Los profesionales de la limpieza!\n"
+"¡La casa central en la Fundación alquila disfraces!"

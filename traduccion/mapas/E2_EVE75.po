@@ -1,0 +1,86 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Xenosaga Episode II - traducción al español\n"
+"Language: es_419\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Xeno-Source: 0:model/map/en/E2_EVE75.sbl\n"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#0"
+msgid "$zoom15;$colc0c0c0;Analyzing drained body fluid.$colc0c0c0;"
+msgstr "$zoom15;$colc0c0c0;Analizando los fluidos corporales drenados.$colc0c0c0;"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#1"
+msgid "$zoom15;$colc0c0c0;Failed genome analysis.$colc0c0c0;"
+msgstr "$zoom15;$colc0c0c0;Falló el análisis del genoma.$colc0c0c0;"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#2"
+msgid "$zoom15;$colc0c0c0;Completed genome analysis.$colc0c0c0;"
+msgstr "$zoom15;$colc0c0c0;Análisis del genoma completo.$colc0c0c0;"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#3"
+msgid "$col7AF9FB;$zoom15;The body becomes slightly tougher."
+msgstr "$col7AF9FB;$zoom15;El cuerpo se vuelve un poco más resistente."
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#4"
+msgid "$zoom13;Horizontal Strike (Strike)"
+msgstr "$zoom13;Golpe horizontal (Golpe)"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#5"
+msgid "$zoom13;Scoop Up (Strike)"
+msgstr "$zoom13;Levantar (Golpe)"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#6"
+msgid "$zoom13;Quick"
+msgstr "$zoom13;Rapidez"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#7"
+msgid "$zoom13;Down Force (L Heavy)"
+msgstr "$zoom13;Bajar Fuerza (Pesadez L)"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#8"
+msgid "$zoom13;Drain Fluids"
+msgstr "$zoom13;Drenar fluidos"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#9"
+msgid "$zoom13;Boost 1"
+msgstr "$zoom13;Boost 1"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#10"
+msgid "$zoom13;Almighty Calus"
+msgstr "$zoom13;Almighty Calus"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#11"
+msgid "$zoom13;Drain Fluids (Drain HP)"
+msgstr "$zoom13;Drenar fluidos (Drenar HP)"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#12"
+msgid "$zoom13;Drain Spirit (Drain EP)"
+msgstr "$zoom13;Drenar espíritu (Drenar EP)"

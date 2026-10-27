@@ -1,0 +1,161 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Xenosaga Episode II - traducción al español\n"
+"Language: es_419\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Xeno-Source: 0:cf/en/sc8020.sbl\n"
+"X-Xeno-Tipo: cinematica\n"
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#. Opciones: una por línea. Mantener 2 líneas en el mismo orden.
+#, fuzzy
+msgctxt "#7"
+msgid ""
+"Oh, and as for Pleroma, I\n"
+"went ahead and had it destroyed."
+msgstr ""
+"Ah, y en cuanto a Pleroma,\n"
+"me adelanté y mandé destruirla."
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#8"
+msgid ""
+"I realize that the fortress was named\n"
+"after the immigration ship from Earth."
+msgstr ""
+"Sé que la fortaleza llevaba el nombre\n"
+"de la nave de inmigración de la Tierra."
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#9"
+msgid ""
+"However, we simply can't let something tainted by\n"
+"the Federation just float around out there."
+msgstr ""
+"Sin embargo, no podemos dejar algo manchado\n"
+"por la Federación flotando por ahí."
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#10"
+msgid "It's not a good policy."
+msgstr "No es una buena política."
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#11"
+msgid ""
+"I suppose next time I could\n"
+"consider your feelings before\n"
+"eliminating such an historical relic."
+msgstr ""
+"Supongo que la próxima vez podría\n"
+"tener en cuenta tus sentimientos antes\n"
+"de eliminar una reliquia histórica así."
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#12"
+msgid "Don't be absurd, Sellers."
+msgstr "No digas tonterías, Sellers."
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#. Opciones: una por línea. Mantener 2 líneas en el mismo orden.
+#, fuzzy
+msgctxt "#13"
+msgid ""
+"Our current Patriarch chose\n"
+"that name in his madness."
+msgstr ""
+"Nuestro actual Patriarca eligió\n"
+"ese nombre en su locura."
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#14"
+msgid "As for my feelings, I couldn't possibly care less."
+msgstr ""
+"En cuanto a mis sentimientos,\n"
+"no podrían importarme menos."
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#15"
+msgid ""
+"The Patriarch's madness?\n"
+"That sounds like something you'd say."
+msgstr ""
+"¿La locura del Patriarca?\n"
+"Muy propio de ti decir algo así."
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#16"
+msgid "Margulis. What do you need?"
+msgstr "Margulis. ¿Qué necesitas?"
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#17"
+msgid "Pellegri."
+msgstr "Pellegri."
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#18"
+msgid "Soon, Albedo will break Old Miltia's seal,"
+msgstr "Pronto, Albedo romperá el sello de la Antigua Miltia,"
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#19"
+msgid ""
+"and the Patriarch will order the\n"
+"Immigrant Fleet to begin its invasion."
+msgstr ""
+"y el Patriarca ordenará a la Flota\n"
+"de Inmigrantes que comience la invasión."
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#20"
+msgid "All of this, in order to secure the original Zohar."
+msgstr "Todo esto para asegurar el Zohar original."
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#21"
+msgid "And you want me to act as point? "
+msgstr "¿Y quiere que vaya a la vanguardia?"
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#22"
+msgid ""
+"No. You will operate on your own.\n"
+"The commander and I both desire this of you."
+msgstr ""
+"No. Actuarás por tu cuenta.\n"
+"Es lo que el comandante y yo queremos de ti."
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#23"
+msgid "Don't forget to tell Richard and Hermann..."
+msgstr "No olvides avisarles a Richard y a Hermann..."
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#24"
+msgid "You three had better not fail me again."
+msgstr "Más les vale no volver a fallarme."
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#25"
+msgid "Yes, sir."
+msgstr "Sí, señor."

@@ -1,0 +1,52 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Xenosaga Episode II - traducción al español\n"
+"Language: es_419\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Xeno-Source: 0:cf/en/sc4390.sbl\n"
+
+#, fuzzy
+msgctxt "#0"
+msgid "Board the E.S.?"
+msgstr "¿Subir al E.S.?"
+
+#. Opciones: una por línea. Mantener 2 líneas en el mismo orden.
+#, fuzzy
+msgctxt "#1"
+msgid ""
+"Yes\n"
+"No"
+msgstr ""
+"Sí\n"
+"No"
+
+#, fuzzy
+msgctxt "#2"
+msgid "Exit the E.S.?"
+msgstr "¿Bajar del E.S.?"
+
+#. habla: Shion
+#, fuzzy
+msgctxt "#6"
+msgid "Look. It's the Labyrinthos tower."
+msgstr "Miren. Es la torre de Labyrinthos."
+
+#. habla: Jr.
+#, fuzzy
+msgctxt "#7"
+msgid "Yeah, we're pretty close now. Better get ready."
+msgstr "Sí, ya estamos bastante cerca. Mejor preparémonos."
+
+#. habla: MOMO
+#, fuzzy
+msgctxt "#8"
+msgid "But it doesn't look like we'll be able to go there in our E.S.s."
+msgstr "Pero no parece que podamos llegar allí con nuestros E.S."
+
+#. habla: chaos
+#, fuzzy
+msgctxt "#9"
+msgid "Let's look for another entrance. There should be a small gap somewhere."
+msgstr "Busquemos otra entrada. Debería haber una pequeña abertura en algún lado."

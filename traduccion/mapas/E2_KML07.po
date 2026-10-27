@@ -1,0 +1,276 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Xenosaga Episode II - traducción al español\n"
+"Language: es_419\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Xeno-Source: 0:model/map/en/E2_KML07.sbl\n"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#0"
+msgid ""
+"$zoom15;$colFAB2AA;The time of annihilation has\n"
+"come and the curse is lifted.\n"
+"$col0fd0e0;You are now free to move!$colc0c0c0;"
+msgstr ""
+"$zoom15;$colFAB2AA;Llegó la hora de la aniquilación\n"
+"y se levanta la maldición.\n"
+"$col0fd0e0;¡Ya puedes moverte!$colc0c0c0;"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#1"
+msgid "$zoom15;$colc0c0c0;He grimaces at your $col7AF9FB;piercing attack$colc0c0c0;."
+msgstr "$zoom15;$colc0c0c0;Hace una mueca ante tu $col7AF9FB;ataque perforante$colc0c0c0;."
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#2"
+msgid "$zoom15;$colc0c0c0;He hates your $col7AF9FB;piercing attacks$colc0c0c0;!"
+msgstr "$zoom15;$colc0c0c0;¡Odia tus $col7AF9FB;ataques perforantes$colc0c0c0;!"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#3"
+msgid ""
+"$zoom15;$colc0c0c0;Enough of your measly piercing attacks!\n"
+"$col7AF9FB;He is furious and relaxes his defense.$colc0c0c0;"
+msgstr ""
+"$zoom15;$colc0c0c0;¡Basta de míseros ataques perforantes!\n"
+"$col7AF9FB;Se enfurece y baja la guardia.$colc0c0c0;"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#4"
+msgid "$zoom15;$colc0c0c0;He grimaces at your $col7AF9FB;striking attack$colc0c0c0;."
+msgstr "$zoom15;$colc0c0c0;Hace una mueca ante tu $col7AF9FB;ataque de golpe$colc0c0c0;."
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#5"
+msgid "$zoom15;$colc0c0c0;He hates your $col7AF9FB;striking attacks$colc0c0c0;!"
+msgstr "$zoom15;$colc0c0c0;¡Odia tus $col7AF9FB;ataques de golpe$colc0c0c0;!"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#6"
+msgid ""
+"$zoom15;$colc0c0c0;Enough of your measly striking attacks!\n"
+"$col7AF9FB;He is furious and relaxes his defense.$colc0c0c0;"
+msgstr ""
+"$zoom15;$colc0c0c0;¡Basta de tus míseros ataques de golpe!\n"
+"$col7AF9FB;Se enfurece y baja la guardia.$colc0c0c0;"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#7"
+msgid "$zoom13;Heca Strike (Slash/Strike/Thunder)"
+msgstr "$zoom13;Heca Strike (Corte/Golpe/Rayo)"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#8"
+msgid "$zoom13;Hedge Smash (Slash/Strike/Fire)"
+msgstr "$zoom13;Hedge Smash (Corte/Golpe/Fuego)"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#9"
+msgid "$zoom13;Baten Kaitos (Strike/Fire)"
+msgstr "$zoom13;Baten Kaitos (Golpe/Fuego)"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#10"
+msgid "$zoom15;$colc0c0c0;Baal Zebul is amassing his bile.$colc0c0c0;"
+msgstr "$zoom15;$colc0c0c0;Baal Zebul está acumulando bilis.$colc0c0c0;"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#11"
+msgid ""
+"$zoom15;$colc0c0c0;Baal Zebul is amassing his bile.\n"
+"$colc0c0c0;He focuses and hardens his defense!$colc0c0c0;"
+msgstr ""
+"$zoom15;$colc0c0c0;Baal Zebul está acumulando bilis.\n"
+"$colc0c0c0;¡Se concentra y endurece su defensa!$colc0c0c0;"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#12"
+msgid "$zoom13;Aqua Regia"
+msgstr "$zoom13;Aqua Regia"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#13"
+msgid "$zoom15;$colc0c0c0;Baal Zebul has spewed his bile!$colc0c0c0;"
+msgstr "$zoom15;$colc0c0c0;¡Baal Zebul escupió su bilis!$colc0c0c0;"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#14"
+msgid "$zoom13;Aqua Regia (L Poison)"
+msgstr "$zoom13;Aqua Regia (Veneno L)"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#16"
+msgid "$zoom13;Baal's Wrath (Thunder/H Bind)"
+msgstr "$zoom13;Ira de Baal (Rayo/Atadura H)"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#17"
+msgid "$zoom13;The Cycle of Destruction at Great Cost"
+msgstr "$zoom13;El ciclo de la destrucción a gran costo"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#18"
+msgid "$zoom13;The Price of Gluttony"
+msgstr "$zoom13;El precio de la gula"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#19"
+msgid "$zoom15;$col7AF9FB;He is amassing bloody bile..."
+msgstr "$zoom15;$col7AF9FB;Está acumulando bilis sangrienta..."
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#20"
+msgid "$zoom13;Triple Aqua Regia"
+msgstr "$zoom13;Aqua Regia triple"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#21"
+msgid ""
+"$zoom15;$colc0c0c0;Baal Zebul has spewed his bile for the first time!\n"
+"$col7AF9FB;He is amassing his bile for the second time!$colc0c0c0;"
+msgstr ""
+"$zoom15;$colc0c0c0;¡Baal Zebul escupió su bilis por primera vez!\n"
+"$col7AF9FB;¡Está acumulando bilis por segunda vez!$colc0c0c0;"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#22"
+msgid ""
+"$zoom15;$colc0c0c0;Baal Zebul has spewed his bile for the second time!\n"
+"$col7AF9FB;He is amassing his bile for the third time!$colc0c0c0;"
+msgstr ""
+"$zoom15;$colc0c0c0;¡Baal Zebul escupió su bilis por segunda vez!\n"
+"$col7AF9FB;¡Está acumulando bilis por tercera vez!$colc0c0c0;"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#23"
+msgid ""
+"$zoom15;$colc0c0c0;Baal Zebul has spewed his bile for the last time!\n"
+"$col7AF9FB;It forms a parabola and circles in the air!$colc0c0c0;"
+msgstr ""
+"$zoom15;$colc0c0c0;¡Baal Zebul escupió su bilis por última vez!\n"
+"$col7AF9FB;¡Traza una parábola y gira en el aire!$colc0c0c0;"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#24"
+msgid "$zoom13;The God of Dung"
+msgstr "$zoom13;El dios del estiércol"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#25"
+msgid ""
+"$zoom15;$colc0c0c0;He has used his own HP\n"
+"to raise his Boost count!$colc0c0c0;"
+msgstr ""
+"$zoom15;$colc0c0c0;¡Usó sus propios HP\n"
+"para subir su cuenta de Boost!$colc0c0c0;"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#26"
+msgid "$zoom13;Destruction at Great Cost"
+msgstr "$zoom13;Destrucción a gran costo"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#27"
+msgid ""
+"$zoom15;$colc0c0c0;He wounds himself and amasses his bile to change\n"
+"his body! Baal Zebul's eyes darken to$col0fd0e0; pitch black$colc0c0c0;!$colc0c0c0;"
+msgstr ""
+"$zoom15;$colc0c0c0;¡Se hiere y acumula bilis para transformarse!\n"
+"¡Los ojos de Baal Zebul se ponen$col0fd0e0; negros$colc0c0c0;!$colc0c0c0;"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#28"
+msgid ""
+"$zoom15;$colc0c0c0;He wounds himself and amasses his bile to change\n"
+"his body! Baal Zebul's eyes shine$col0fd0e0; emerald green$colc0c0c0;!$colc0c0c0;"
+msgstr ""
+"$zoom15;$colc0c0c0;¡Se hiere y acumula bilis para transformarse!\n"
+"¡Los ojos de Baal Zebul brillan en$col0fd0e0; verde esmeralda$colc0c0c0;!$colc0c0c0;"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#29"
+msgid ""
+"$zoom15;$colc0c0c0;He wounds himself and amasses his bile to change\n"
+"his body! Baal Zebul's eyes return to$col0fd0e0; a mix of colors$colc0c0c0;!$colc0c0c0;"
+msgstr ""
+"$zoom15;$colc0c0c0;¡Se hiere y acumula bilis para transformarse!\n"
+"¡Los ojos de Baal Zebul vuelven a$col0fd0e0; mezclar colores$colc0c0c0;!$colc0c0c0;"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#30"
+msgid "$zoom13;Baal's Curse"
+msgstr "$zoom13;Maldición de Baal"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#31"
+msgid ""
+"$zoom15;$colc0c0c0;Baal chants a curse and forbids movement$colc0c0c0;!\n"
+"$colc0c0c0;You cannot move until $col0fd0e0;the time of annihilation$colc0c0c0;!"
+msgstr ""
+"$zoom15;$colc0c0c0;¡Baal recita una maldición que impide moverse$colc0c0c0;!\n"
+"$colc0c0c0;¡Nadie se moverá hasta $col0fd0e0;la aniquilación$colc0c0c0;!"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#32"
+msgid "$zoom13;Baal's Curse ― Casting"
+msgstr "$zoom13;Maldición de Baal ― Invocación"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#33"
+msgid ""
+"$zoom15;$colc0c0c0;Baal's curse has forbidden movement!\n"
+"$col0fd0e0;The time of annihilation$colc0c0c0; has not come!$colc0c0c0;"
+msgstr ""
+"$zoom15;$colc0c0c0;¡La maldición de Baal impide moverse!\n"
+"¡$col0fd0e0;La hora de la aniquilación$colc0c0c0; no llegó!$colc0c0c0;"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#34"
+msgid "$zoom13;Baal's Curse ― Release"
+msgstr "$zoom13;Maldición de Baal ― Liberación"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#35"
+msgid ""
+"$zoom15;$colc0c0c0;Baal's curse has worn off, and you are free to move!\n"
+"The curse turns on the caster and wounds him!$colc0c0c0;"
+msgstr ""
+"$zoom15;$colc0c0c0;¡La maldición de Baal se disipó: ya puedes moverte!\n"
+"¡La maldición se vuelve contra Baal y lo hiere!$colc0c0c0;"

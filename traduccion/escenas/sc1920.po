@@ -1,0 +1,392 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Xenosaga Episode II - traducción al español\n"
+"Language: es_419\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Xeno-Source: 0:cf/en/sc1920.sbl\n"
+
+#. habla: Bertram
+#, fuzzy
+msgctxt "#0"
+msgid "Combat cyborgs are rare these days. Whose equipment are you?"
+msgstr "Hoy en día los cíborgs de combate son poco comunes. ¿A quién pertenece usted?"
+
+#. habla: Bertram
+#, fuzzy
+msgctxt "#1"
+msgid "You look a lot tougher than those tiny weapons-grade Realians. You have any interest in becoming our property instead?"
+msgstr "Se ve mucho más resistente que esos Realians de combate tan pequeños. ¿No le interesaría ser propiedad nuestra?"
+
+#. habla: Bertram
+#, fuzzy
+msgctxt "#2"
+msgid "Data sent through the U.M.N. is managed in this room."
+msgstr "En esta sala se administran los datos que se envían por la U.M.N."
+
+#. habla: Bertram
+#, fuzzy
+msgctxt "#3"
+msgid "The data flow of everything from high school students' mail to military operation plans can be observed from here."
+msgstr "Desde aquí se puede observar el flujo de datos de todo, desde el correo de estudiantes de secundaria hasta planes de operaciones militares."
+
+#. habla: Bertram
+#, fuzzy
+msgctxt "#4"
+msgid "Are you the 100-Series Prototype's guardian? No? Dr. Mizrahi is? I didn't know she was good with children."
+msgstr "¿Es usted el tutor del prototipo de la Serie 100? ¿No? ¿Es la doctora Mizrahi? No sabía que se le daban bien los niños."
+
+#. habla: Bertram
+#, fuzzy
+msgctxt "#5"
+msgid "Do you know that orange-haired Realian? Supposedly, he works for Representative Helmer."
+msgstr "¿Conoce a ese Realian de pelo naranja? Se supone que trabaja para el representante Helmer."
+
+#. habla: Bertram
+#, fuzzy
+msgctxt "#6"
+msgid "He seems to be a specially customized weapons-grade Realian. I've never seen one that customized before."
+msgstr "Parece ser un Realian de combate personalizado especialmente. Nunca había visto uno tan personalizado."
+
+#. habla: Bertram
+#, fuzzy
+msgctxt "#7"
+msgid "It's hard to believe that this child is the 100-Series Prototype."
+msgstr "Cuesta creer que esta niña sea el prototipo de la Serie 100."
+
+#. habla: Bertram
+#, fuzzy
+msgctxt "#8"
+msgid "I guess you can't judge a book by its cover."
+msgstr "Supongo que no hay que juzgar un libro por su portada."
+
+#. habla: Bertram
+#, fuzzy
+msgctxt "#9"
+msgid "I heard the analysis failed. Well, don't get too depressed about it."
+msgstr "Escuché que el análisis falló. Bueno, no te deprimas demasiado."
+
+#. habla: Bertram
+#, fuzzy
+msgctxt "#10"
+msgid "Is the 100-Series Prototype doing well? Could you bring her here sometime? I'd like to observe her special functions."
+msgstr "¿Cómo está el prototipo de la Serie 100? ¿Podría traerla alguna vez? Me gustaría observar sus funciones especiales."
+
+#. habla: Bertram
+#, fuzzy
+msgctxt "#11"
+msgid "Juli Mizrahi. She's very famous among neural psychologists. I never imagined I'd get to meet her."
+msgstr "Juli Mizrahi. Es muy famosa entre los neuropsicólogos. Nunca imaginé que llegaría a conocerla."
+
+#. habla: Bertram
+#, fuzzy
+msgctxt "#12"
+msgid "Juli Mizrahi was involved in the outbreak of Realian violence fourteen years ago. I wonder what she thinks about it now."
+msgstr "Juli Mizrahi estuvo involucrada en el estallido de violencia de los Realians de hace catorce años. Me pregunto qué pensará de eso ahora."
+
+#. habla: Bertram
+#, fuzzy
+msgctxt "#13"
+msgid "The 100-Series Prototype is quite advanced. It even has artificial emotion functions."
+msgstr "El prototipo de la Serie 100 es bastante avanzado. Hasta tiene funciones de emociones artificiales."
+
+#. habla: Bertram
+#, fuzzy
+msgctxt "#14"
+msgid "I'd like to speak with Dr. Juli Mizrahi when I have the opportunity. I'm very interested to know why it was necessary to add such functionality to an observational device."
+msgstr "Me gustaría hablar con la doctora Juli Mizrahi cuando tenga la oportunidad. Me interesa mucho saber por qué fue necesario agregarle esas funciones a un dispositivo de observación."
+
+#. habla: Bertram
+#, fuzzy
+msgctxt "#15"
+msgid "A combat cyborg. You must be a victim of the Life Recycling Act. I bet you've had a rough life."
+msgstr "Un cíborg de combate. Debe ser una víctima de la Ley de Reciclaje de Vidas. Seguro que tuvo una vida difícil."
+
+#. habla: Bertram
+#, fuzzy
+msgctxt "#16"
+msgid "I heard about Miltia. Its reappearance seems to be linked to the failed analysis of the 100-Series."
+msgstr "Supe lo de Miltia. Parece que su reaparición está ligada al análisis fallido de la Serie 100."
+
+#. habla: Bertram
+#, fuzzy
+msgctxt "#17"
+msgid "Old Miltia. I never thought I'd gaze on that planet again."
+msgstr "La Antigua Miltia. Nunca pensé que volvería a contemplar ese planeta."
+
+#. habla: Bertram
+#, fuzzy
+msgctxt "#18"
+msgid "I wonder if the government knows what that giant mass floating in Old Miltian space really is."
+msgstr "Me pregunto si el gobierno sabe qué es en realidad esa masa gigante que flota en el espacio de la Antigua Miltia."
+
+#. habla: Phyllis
+#, fuzzy
+msgctxt "#19"
+msgid "Well, aren't we the charmer? It'd be a little nicer if your body wasn't a machine, though."
+msgstr "Vaya, qué encantador. Aunque estaría un poco mejor si su cuerpo no fuera una máquina."
+
+#. habla: Phyllis
+#, fuzzy
+msgctxt "#20"
+msgid "You have such an attractive face! You should really get your body replaced with organic parts as well. You'd be even more handsome."
+msgstr "¡Tiene una cara tan atractiva! Debería reemplazar su cuerpo por partes orgánicas también. Sería todavía más apuesto."
+
+#. habla: Phyllis
+#, fuzzy
+msgctxt "#21"
+msgid "I wonder who decided on the look of the 100-Series. I don't see why they couldn't have looked like adults. Was it the creator's personal taste?"
+msgstr "Me pregunto quién decidió el aspecto de la Serie 100. No entiendo por qué no podían parecer adultos. ¿Habrá sido el gusto personal de su creador?"
+
+#. habla: Phyllis
+#, fuzzy
+msgctxt "#22"
+msgid "That young guy over there is cool, too, but I still love an austere gentleman like you."
+msgstr "Ese joven de allá también es atractivo, pero a mí me siguen encantando los caballeros serios como usted."
+
+#. habla: Phyllis
+#, fuzzy
+msgctxt "#23"
+msgid "Why did you turn your body into a machine? Did something bad happen to you?"
+msgstr "¿Por qué convirtió su cuerpo en una máquina? ¿Le pasó algo malo?"
+
+#. habla: Phyllis
+#, fuzzy
+msgctxt "#24"
+msgid "My friend in the analysis team is super busy. It sounds like they're working on something really dangerous."
+msgstr "Una amiga mía del equipo de análisis está ocupadísima. Parece que están trabajando en algo muy peligroso."
+
+#. habla: Phyllis
+#, fuzzy
+msgctxt "#25"
+msgid "A 100-Series with pink hair? You're the prototype everyone is talking about, aren't you? You're kind of cute!"
+msgstr "¿Una Serie 100 de pelo rosa? Eres el prototipo del que todos hablan, ¿no? ¡Eres muy linda!"
+
+#. habla: Phyllis
+#, fuzzy
+msgctxt "#26"
+msgid "You should have yourself upgraded to look like that cool Realian named Canaan. You'd be so popular with the ladies."
+msgstr "Debería hacerse una mejora para parecerse a ese Realian tan atractivo que se llama Canaan. Tendría mucho éxito con las mujeres."
+
+#. habla: Phyllis
+#, fuzzy
+msgctxt "#27"
+msgid "Between you and that Realian named Canaan, it's starting to bug me how much cooler looking you all are than real humans."
+msgstr "Entre usted y ese Realian llamado Canaan, me empieza a molestar lo mucho más atractivos que son que los humanos de verdad."
+
+#. habla: Phyllis
+#, fuzzy
+msgctxt "#28"
+msgid "Supposedly, there're people coming from Vector to help. Do they think we can't handle it ourselves? I can't say I appreciate that very much."
+msgstr "Se supone que viene gente de Vector a ayudar. ¿Creen que no podemos arreglarnos solos? No puedo decir que me guste mucho."
+
+#. habla: Phyllis
+#, fuzzy
+msgctxt "#29"
+msgid "They say it's hard to get into Vector, but I think it's a bit weird to have a company that hires only the best of the best."
+msgstr "Dicen que es difícil entrar a Vector, pero me parece un poco raro que una empresa solo contrate a los mejores de los mejores."
+
+#. habla: Phyllis
+#, fuzzy
+msgctxt "#30"
+msgid "You probably already know this since you're the 100-Series Prototype, but the Federation fleet is monopolizing the transmission bandwidth. We're having a really tough time. If you're free, could you give us a hand?"
+msgstr "Seguramente ya lo sabes, porque eres el prototipo de la Serie 100, pero la flota de la Federación está acaparando el ancho de banda de transmisión. La estamos pasando muy mal. Si tienes tiempo, ¿nos darías una mano?"
+
+#. habla: Phyllis
+#, fuzzy
+msgctxt "#31"
+msgid "Aren't you with the Federation, sir? The fleet has been deployed, hasn't it? Is it okay for you to be hanging out here?"
+msgstr "¿Usted no es de la Federación, señor? La flota ya se desplegó, ¿no? ¿Está bien que ande por aquí?"
+
+#. habla: Phyllis
+#, fuzzy
+msgctxt "#32"
+msgid "I heard the Immigrant Fleet headed for Miltia. The Immigrant Fleet is a religious group, right? I have a bad feeling about them."
+msgstr "Escuché que la Flota de Inmigrantes se dirigió a Miltia. La Flota de Inmigrantes es un grupo religioso, ¿no? Me dan mala espina."
+
+#. habla: Phyllis
+#, fuzzy
+msgctxt "#33"
+msgid "I can't believe they blew up Miltia. What are those Immigrant Fleet people thinking? I knew they were just some evil cult!"
+msgstr "No puedo creer que hayan volado Miltia. ¿En qué está pensando esa gente de la Flota de Inmigrantes? ¡Sabía que no eran más que una secta malvada!"
+
+#. habla: Enid
+#, fuzzy
+msgctxt "#34"
+msgid "I'm sorry, you're in the way. This is not the cyborg maintenance room."
+msgstr "Lo siento, está estorbando. Esta no es la sala de mantenimiento de cíborgs."
+
+#. habla: Enid
+#, fuzzy
+msgctxt "#35"
+msgid "The director of the Kukai Foundation is named Gaignun, correct? He must have given a lot of money to the government to be able to use our facility however he pleases."
+msgstr "El director de la Fundación Kukai se llama Gaignun, ¿correcto? Debe haberle dado mucho dinero al gobierno para poder usar nuestras instalaciones como se le antoja."
+
+#. habla: Enid
+#, fuzzy
+msgctxt "#36"
+msgid "I guess that's what you call a rich man's hobby."
+msgstr "Supongo que a eso se le llama un capricho de ricos."
+
+#. habla: Enid
+#, fuzzy
+msgctxt "#37"
+msgid "Hey! Don't touch that!"
+msgstr "¡Oye! ¡No toques eso!"
+
+#. habla: Enid
+#, fuzzy
+msgctxt "#38"
+msgid "We're engaged in final preparations for the analysis."
+msgstr "Estamos con los preparativos finales para el análisis."
+
+#. habla: Enid
+#, fuzzy
+msgctxt "#39"
+msgid "A few days ago, a satellite called Proto Merkabah appeared in Miltian orbit, right? Well that actually seems to be the place where the 100-Series was created."
+msgstr "Hace unos días apareció en la órbita de Miltia un satélite llamado Proto Merkabah, ¿no? Bueno, parece que en realidad es el lugar donde se creó la Serie 100."
+
+#. habla: Enid
+#, fuzzy
+msgctxt "#40"
+msgid "Oh, so you're the 100-Series Prototype. Would you let me examine you a little? Oh, I won't do anything weird. I'm just a little interested in that body."
+msgstr "Ah, así que tú eres el prototipo de la Serie 100. ¿Me dejarías examinarte un poquito? Ay, no voy a hacer nada raro. Solo me interesa un poco ese cuerpo."
+
+#. habla: Enid
+#, fuzzy
+msgctxt "#41"
+msgid "I heard that cyborg maintenance is very expensive."
+msgstr "Escuché que el mantenimiento de un cíborg es muy caro."
+
+#. habla: Enid
+#, fuzzy
+msgctxt "#42"
+msgid "Even just replacing parts costs money for the parts, labor, commission, maintenance equipment rental...I don't even like thinking about it."
+msgstr "Solo cambiar piezas ya cuesta las piezas, la mano de obra, la comisión, el alquiler del equipo de mantenimiento... No me gusta ni pensarlo."
+
+#. habla: Enid
+#, fuzzy
+msgctxt "#43"
+msgid "Say, what's your relationship to Director Gaignun?"
+msgstr "Oye, ¿qué relación tienes con el director Gaignun?"
+
+#. habla: Enid
+#, fuzzy
+msgctxt "#44"
+msgid "Do you ever wonder about that red-haired boy who's with Director Gaignun?"
+msgstr "¿Nunca te preguntaste por ese chico pelirrojo que anda con el director Gaignun?"
+
+#. habla: Enid
+#, fuzzy
+msgctxt "#45"
+msgid "A long time ago, I saw some secret files from the Old Miltian government, and there were lots of children that looked just like that red-haired boy."
+msgstr "Hace mucho vi unos archivos secretos del gobierno de la Antigua Miltia, y había muchos niños iguales a ese chico pelirrojo."
+
+#. habla: Enid
+#, fuzzy
+msgctxt "#46"
+msgid "Dr. Juli Mizrahi is your mother, right? You're lucky to have such a nice mother."
+msgstr "La doctora Juli Mizrahi es tu madre, ¿no? Tienes suerte de tener una madre tan buena."
+
+#. habla: Enid
+#, fuzzy
+msgctxt "#47"
+msgid "Do cyborgs have a long lifespan?"
+msgstr "¿Los cíborgs viven mucho tiempo?"
+
+#. habla: Enid
+#, fuzzy
+msgctxt "#48"
+msgid "How old are you? Are you worth a lot as an antique now?"
+msgstr "¿Cuántos años tiene? ¿A esta altura vale mucho como antigüedad?"
+
+#. habla: Enid
+#, fuzzy
+msgctxt "#49"
+msgid "My father is actually an officer in the Federation fleet...He's currently deployed to Old Miltian space."
+msgstr "En realidad, mi padre es oficial de la flota de la Federación... Ahora está desplegado en el espacio de la Antigua Miltia."
+
+#. habla: Enid
+#, fuzzy
+msgctxt "#50"
+msgid "I hope he comes back safely."
+msgstr "Espero que vuelva sano y salvo."
+
+#. habla: Enid
+#, fuzzy
+msgctxt "#51"
+msgid "My father...my father's fleet was caught in the destruction of Miltia."
+msgstr "Mi padre... la flota de mi padre quedó atrapada en la destrucción de Miltia."
+
+#. habla: Enid
+#, fuzzy
+msgctxt "#52"
+msgid "I'm sorry. Please leave me alone."
+msgstr "Lo siento. Por favor, déjeme sola."
+
+#. habla: Canaan
+#, fuzzy
+msgctxt "#53"
+msgid "It's about time for the analysis of the 100-Series Prototype to begin. I assume you didn't come here to play around. How about getting ready?"
+msgstr "Ya casi es hora de que empiece el análisis del prototipo de la Serie 100. Supongo que no viniste a jugar. ¿Qué tal si te preparas?"
+
+#. habla: Canaan
+#, fuzzy
+msgctxt "#54"
+msgid "I don't think we've heard the last of Albedo."
+msgstr "Dudo que hayamos terminado con Albedo."
+
+#. habla: Canaan
+#, fuzzy
+msgctxt "#55"
+msgid "Perhaps I'm worrying too much."
+msgstr "Quizá me preocupo demasiado."
+
+#. habla: Juli
+#, fuzzy
+msgctxt "#56"
+msgid "I'm sorry. Please take care of MOMO."
+msgstr "Lo siento. Por favor, cuida de MOMO."
+
+#. habla: Juli
+#, fuzzy
+msgctxt "#57"
+msgid "Your job must be hard. Make sure you protect everyone. Be strong."
+msgstr "Tu trabajo debe ser duro. Asegúrate de proteger a todos. Sé fuerte."
+
+#. habla: Juli
+#, fuzzy
+msgctxt "#58"
+msgid "I feel awful that there's nothing I can do for you at a time like this."
+msgstr "Me siento muy mal por no poder hacer nada por ti en un momento así."
+
+#. habla: Juli
+#, fuzzy
+msgctxt "#59"
+msgid "I've heard that the Immigrant Fleet has already headed for Miltia. Their objective is probably the U-TIC Organization's central tower, Labyrinthos. That is where Joachim was studying the original Zohar fourteen years ago."
+msgstr "Supe que la Flota de Inmigrantes ya se dirigió a Miltia. Su objetivo es probablemente la torre central de la Organización U-TIC, Labyrinthos. Allí es donde Joachim estudiaba el Zohar original hace catorce años."
+
+#. habla: Juli
+#, fuzzy
+msgctxt "#60"
+msgid "We don't have much time. If they obtain the Zohar, there will be unimaginable tragedy."
+msgstr "No tenemos mucho tiempo. Si consiguen el Zohar, habrá una tragedia inimaginable."
+
+#. habla: Juli
+#, fuzzy
+msgctxt "#61"
+msgid "MOMO, are you all right? This incident may already be more than you can handle."
+msgstr "MOMO, ¿estás bien? Quizá este incidente ya sea más de lo que puedes soportar."
+
+#. habla: Juli
+#, fuzzy
+msgctxt "#62"
+msgid "But you mustn't give up. There is always a way. Believe in each other and do your best."
+msgstr "Pero no debes rendirte. Siempre hay una salida. Confíen unos en otros y den lo mejor de sí."
+
+#. habla: Juli
+#, fuzzy
+msgctxt "#63"
+msgid "There's no data on that object, even in Joachim's research files. We have no idea what that object is."
+msgstr "No hay datos sobre ese objeto, ni siquiera en los archivos de investigación de Joachim. No tenemos idea de qué es."

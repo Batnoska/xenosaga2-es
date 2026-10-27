@@ -1,0 +1,745 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Xenosaga Episode II - traducción al español\n"
+"Language: es_419\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Xeno-Source: 0:cf/en/sc4040.sbl\n"
+
+#. habla: Mallory
+#, fuzzy
+msgctxt "#0"
+msgid "Oh, my, Jr.! Um, uh...I'm so sorry for causing you so much trouble the other day with my missing engagement ring!"
+msgstr "¡Ay, Jr.! Eh, bueno... ¡Perdón por todas las molestias que te causé el otro día cuando perdí mi anillo de compromiso!"
+
+#. habla: Mallory
+#, fuzzy
+msgctxt "#1"
+msgid "Thanks to you, I was able to marry my beloved Mickey!"
+msgstr "¡Gracias a ti, pude casarme con mi amado Mickey!"
+
+#. habla: Mallory
+#, fuzzy
+msgctxt "#2"
+msgid "Now we're here on the Foundation for our honeymoon! See, here's my wedding ring! Isn't it pretty?"
+msgstr "¡Ahora estamos en la Fundación de luna de miel! Mira, este es mi anillo de bodas. ¿No es precioso?"
+
+#. habla: Mallory
+#, fuzzy
+msgctxt "#3"
+msgid "Hehehe, do I look happy?"
+msgstr "Jejeje, ¿me veo feliz?"
+
+#. Opciones: una por línea. Mantener 2 líneas en el mismo orden.
+#, fuzzy
+msgctxt "#4"
+msgid ""
+"You look very happy!\n"
+"Uh...it's hard for me to say."
+msgstr ""
+"¡Te ves muy feliz!\n"
+"Eh... me cuesta decirlo."
+
+#. habla: Mallory
+#, fuzzy
+msgctxt "#5"
+msgid "Hehehe. Of course! ♪ Mickey and I are madly in love! We're always going to be doing so much stuff...Today, tomorrow, the next day and the next day after that and the next..."
+msgstr "Jejeje. ¡Claro! ♪ ¡Mickey y yo estamos locamente enamorados! Vamos a hacer siempre tantas cosas... Hoy, mañana, pasado mañana, y el día siguiente, y el siguiente..."
+
+#. habla: Mallory
+#, fuzzy
+msgctxt "#6"
+msgid "What?! You're just jealous!"
+msgstr "¡¿Qué?! ¡Lo que pasa es que tienes envidia!"
+
+#. habla: Mallory
+#, fuzzy
+msgctxt "#7"
+msgid "Can you understand this happiness? I'm just wrapped up in Mickey's love!"
+msgstr "¿Entiendes esta felicidad? ¡Estoy envuelta en el amor de Mickey!"
+
+#. habla: Mallory
+#, fuzzy
+msgctxt "#8"
+msgid "I mean, Mickey gave me such a wonderful ring! It's the newest vibration ring!"
+msgstr "¡Es que Mickey me regaló un anillo maravilloso! ¡Es el anillo vibratorio más nuevo!"
+
+#. habla: Mallory
+#, fuzzy
+msgctxt "#9"
+msgid "This ring is the proof of our love!"
+msgstr "¡Este anillo es la prueba de nuestro amor!"
+
+#. habla: Mallory
+#, fuzzy
+msgctxt "#10"
+msgid "Do you want me to tell you how to search for the wedding ring?"
+msgstr "¿Quieres que te explique cómo buscar el anillo de bodas?"
+
+#. Opciones: una por línea. Mantener 2 líneas en el mismo orden.
+#, fuzzy
+msgctxt "#11"
+msgid ""
+"Yes\n"
+"No"
+msgstr ""
+"Sí\n"
+"No"
+
+#. habla: Mallory
+#, fuzzy
+msgctxt "#12"
+msgid "What do you want to ask about?"
+msgstr "¿Sobre qué quieres preguntar?"
+
+#. Opciones: una por línea. Mantener 3 líneas en el mismo orden.
+#, fuzzy
+msgctxt "#13"
+msgid ""
+"About the vibration ring.\n"
+"About the vibration checker.\n"
+"About the vibration pattern."
+msgstr ""
+"Sobre el anillo vibratorio.\n"
+"Sobre el detector de vibraciones.\n"
+"Sobre el patrón de vibración."
+
+#. habla: Mallory
+#, fuzzy
+msgctxt "#14"
+msgid "It's a ring that's really popular on the Foundation right now! It actually vibrates! You can set a personal vibration pattern, so you can find it even if you lose it!"
+msgstr "¡Es un anillo que ahora está muy de moda en la Fundación! ¡Vibra de verdad! Puedes configurarle un patrón de vibración personal, ¡así lo encuentras aunque lo pierdas!"
+
+#. habla: Mallory
+#, fuzzy
+msgctxt "#15"
+msgid "You can check for the vibration ring over and over again, but you can only make the selection for the matching ring once. Be careful when setting the matching ring!"
+msgstr "Puedes revisar los anillos vibratorios todas las veces que quieras, pero el anillo que coincide solo lo puedes marcar una vez. ¡Ten cuidado al marcarlo!"
+
+#. habla: Mallory
+#, fuzzy
+msgctxt "#16"
+msgid "The vibration pattern I set feels like that. Good luck, and thank you!"
+msgstr "El patrón de vibración que configuré se siente así. ¡Buena suerte, y gracias!"
+
+#. habla: Mallory
+#, fuzzy
+msgctxt "#17"
+msgid "I'm sure it's hard to find a tiny ring, but keep trying! Please, for me!"
+msgstr "Seguro que es difícil encontrar un anillo tan chiquito, ¡pero no te rindas! ¡Por favor, hazlo por mí!"
+
+#. habla: Mallory
+#, fuzzy
+msgctxt "#18"
+msgid "You found my lost ring for me again!"
+msgstr "¡Otra vez encontraste mi anillo perdido!"
+
+#. habla: Mallory
+#, fuzzy
+msgctxt "#19"
+msgid "I'm so happy! Thanks to you, I don't have to lie to Mickey. ♪"
+msgstr "¡Qué feliz estoy! Gracias a ti, no tengo que mentirle a Mickey. ♪"
+
+#. habla: Mallory
+#, fuzzy
+msgctxt "#20"
+msgid "I had to secretly buy an identical ring because you couldn't do the job right."
+msgstr "Tuve que comprar a escondidas un anillo idéntico porque no pudiste hacer bien el trabajo."
+
+#. habla: Mallory
+#, fuzzy
+msgctxt "#21"
+msgid "But Mickey said to me, he loves me even though I'm scatterbrained, so we're so perfect for each other!"
+msgstr "Pero Mickey me dijo que me ama aunque sea despistada, ¡así que somos perfectos el uno para el otro!"
+
+#. habla: Margoyles
+#, fuzzy
+msgctxt "#22"
+msgid "Yes, I am indeed Margoyles, composer of the Iron series theme songs! "
+msgstr "¡Así es, soy Margoyles en persona, compositor de los temas musicales de la serie Iron!"
+
+#. habla: Margoyles
+#, fuzzy
+msgctxt "#23"
+msgid "I'm in a bit of a slump right now. Could you please leave me alone?"
+msgstr "Ahora mismo estoy pasando por una crisis creativa. ¿Podrían dejarme en paz, por favor?"
+
+#. habla: Margoyles
+#, fuzzy
+msgctxt "#24"
+msgid "I'm a musician! I've come to the Foundation in secret! Why? To get inspiration for a new song!"
+msgstr "¡Soy músico! ¡Vine a la Fundación en secreto! ¿Por qué? ¡Para encontrar inspiración para una canción nueva!"
+
+#. habla: Margoyles
+#, fuzzy
+msgctxt "#25"
+msgid "Hmm, I know! If you give me the inspiration for a new song, I'll give you an incredible present!"
+msgstr "Hmm, ¡ya sé! ¡Si me das la inspiración para una canción nueva, te hago un regalo increíble!"
+
+#. habla: Margoyles
+#, fuzzy
+msgctxt "#26"
+msgid "What? I look just like the musician, Margoyles?"
+msgstr "¿Qué? ¿Que me parezco al músico Margoyles?"
+
+#. habla: Margoyles
+#, fuzzy
+msgctxt "#27"
+msgid "I am indeed! I've come here to get out of my slump! The music box I bought on the Foundation ten years ago had been the driving force behind my works, but it broke! Since then, I've had no luck composing new songs!"
+msgstr "¡Es que lo soy! ¡Vine aquí para salir de mi crisis creativa! La caja de música que compré en la Fundación hace diez años era la fuerza que impulsaba mis obras, ¡pero se rompió! ¡Desde entonces no logro componer canciones nuevas!"
+
+#. habla: Margoyles
+#, fuzzy
+msgctxt "#28"
+msgid "I'm just a tourist!"
+msgstr "¡Solo soy un turista!"
+
+#. habla: Margoyles
+#, fuzzy
+msgctxt "#29"
+msgid "Thank you for agreeing to find that music box!"
+msgstr "¡Gracias por aceptar buscar esa caja de música!"
+
+#. habla: Margoyles
+#, fuzzy
+msgctxt "#30"
+msgid "If I have that, I'll be able to put my whole heart into my new songs!"
+msgstr "¡Si la tengo, voy a poder poner todo mi corazón en mis canciones nuevas!"
+
+#. habla: Margoyles
+#, fuzzy
+msgctxt "#31"
+msgid "I can't believe you found a music box just like the one from my memories! I'm so glad I came to the Foundation!"
+msgstr "¡No puedo creer que hayas encontrado una caja de música igual a la de mis recuerdos! ¡Qué suerte que vine a la Fundación!"
+
+#. habla: Margoyles
+#, fuzzy
+msgctxt "#32"
+msgid "Thanks to this, I've gotten out of my slump! Next up, the Iron 5 theme song!"
+msgstr "¡Gracias a esto, salí de la crisis! ¡Lo próximo: el tema musical de Iron 5!"
+
+#. habla: Kramer
+#, fuzzy
+msgctxt "#33"
+msgid "Oh, Little Master! Hmm, what am I doing, you ask? I got a job!"
+msgstr "¡Oh, joven amo! Hmm, ¿qué estoy haciendo, me pregunta? ¡Conseguí trabajo!"
+
+#, fuzzy
+msgctxt "#34"
+msgid ""
+"A job? I heard you were helping for free!\n"
+"You sure look like you're working hard!"
+msgstr ""
+"¿Trabajo? ¡Escuché que ayudabas gratis!\n"
+"¡Parece que estás trabajando duro!"
+
+#. habla: Kramer
+#, fuzzy
+msgctxt "#35"
+msgid "What? Picket? You mean Layla's friend Picket? Don't tell me he told Layla I was working for free, too?"
+msgstr "¿Qué? ¿Pickett? ¿Pickett, el amigo de Layla? ¿No me diga que también le contó a Layla que trabajo gratis?"
+
+#. Opciones: una por línea. Mantener 2 líneas en el mismo orden.
+#, fuzzy
+msgctxt "#36"
+msgid ""
+"Yeah, probably.\n"
+"Beats me."
+msgstr ""
+"Sí, seguramente.\n"
+"Ni idea."
+
+#. habla: Kramer
+#, fuzzy
+msgctxt "#37"
+msgid "Oh, no! I was doing this so I could earn the money for that Seraphim Sisters ticket!"
+msgstr "¡Ay, no! ¡Hacía esto para juntar el dinero de la entrada de las Seraphim Sisters!"
+
+#. habla: Kramer
+#, fuzzy
+msgctxt "#38"
+msgid "I guess I can't really take money from Layla with how things are going for her."
+msgstr "Supongo que no puedo aceptarle dinero a Layla, con lo que está pasando."
+
+#. habla: Kramer
+#, fuzzy
+msgctxt "#39"
+msgid "Of course! It's so I can get tickets to the Seraphim Sisters concert next year!"
+msgstr "¡Claro! ¡Es para conseguir entradas para el concierto de las Seraphim Sisters del año que viene!"
+
+#. habla: Kramer
+#, fuzzy
+msgctxt "#40"
+msgid "Hmm, what's up? Did you come to help me with my job?"
+msgstr "Hmm, ¿qué pasa? ¿Vino a ayudarme con mi trabajo?"
+
+#. Opciones: una por línea. Mantener 2 líneas en el mismo orden.
+#, fuzzy
+msgctxt "#41"
+msgid ""
+"A job? I'd love to try!\n"
+"I'm kind of busy right now."
+msgstr ""
+"¿Trabajo? ¡Me encantaría probar!\n"
+"Ahora no tengo tiempo."
+
+#. habla: Kramer
+#, fuzzy
+msgctxt "#42"
+msgid "Hahaha! Too bad! We have enough people right now! Come back again later, if you like!"
+msgstr "¡Jajaja! ¡Qué lástima! ¡Ahora tenemos suficiente gente! ¡Vuelva más tarde, si quiere!"
+
+#. habla: Kramer
+#, fuzzy
+msgctxt "#43"
+msgid "I see. Well, come back again later, if you like!"
+msgstr "Ya veo. Bueno, ¡vuelva más tarde, si quiere!"
+
+#. habla: Kramer
+#, fuzzy
+msgctxt "#44"
+msgid "You want to go past here? Well that's not going to happen! That's my workplace past here! It's my sanctuary!"
+msgstr "¿Quiere pasar por aquí? ¡Pues eso no va a pasar! ¡Más allá está mi lugar de trabajo! ¡Es mi santuario!"
+
+#. habla: Kramer
+#, fuzzy
+msgctxt "#45"
+msgid "What do I do there? I guess you could call it my private battle to protect the beautiful Foundation."
+msgstr "¿Qué hago ahí? Supongo que se podría decir que es mi batalla personal para proteger la hermosa Fundación."
+
+#. habla: Kramer
+#, fuzzy
+msgctxt "#46"
+msgid "The work I do there requires great delicacy. It may be a bit weird for me to say this, considering I'm a guy, but I think it's a job men aren't very good at..."
+msgstr "El trabajo que hago ahí requiere muchísima delicadeza. Quizá sea un poco raro que lo diga yo, siendo hombre, pero creo que es un trabajo en el que los hombres no son muy buenos..."
+
+#. habla: Kramer
+#, fuzzy
+msgctxt "#47"
+msgid "Wiping windows is a very delicate job. I don't think men are suited for it."
+msgstr "Limpiar ventanas es un trabajo muy delicado. No creo que los hombres sirvan para eso."
+
+#. habla: Kramer
+#, fuzzy
+msgctxt "#48"
+msgid "Let's start wiping windows! Are you ready?"
+msgstr "¡Empecemos a limpiar ventanas! ¿Listos?"
+
+#. habla: Kramer
+#, fuzzy
+msgctxt "#49"
+msgid "When you get next to a window, listen to what I say carefully before you begin!"
+msgstr "¡Cuando estén al lado de una ventana, escuchen bien lo que digo antes de empezar!"
+
+#. habla: Kramer
+#, fuzzy
+msgctxt "#50"
+msgid "Okay. Let me know when you're ready!"
+msgstr "Bueno. ¡Avísenme cuando estén listos!"
+
+#. habla: Kramer
+#, fuzzy
+msgctxt "#51"
+msgid "My job requires great delicacy. I'm afraid I can't let even you do it, Little Master."
+msgstr "Mi trabajo requiere muchísima delicadeza. Me temo que ni siquiera a usted puedo dejárselo hacer, joven amo."
+
+#. habla: Kramer
+#, fuzzy
+msgctxt "#52"
+msgid "I have to say, the girls you know are all amazing! They easily topped my skills! Me! A three-year window-wiping veteran!"
+msgstr "¡Tengo que decirlo, las chicas que conoce son todas increíbles! ¡Me superaron sin esfuerzo! ¡A mí! ¡Un veterano con tres años limpiando ventanas!"
+
+#. habla: Kramer
+#, fuzzy
+msgctxt "#53"
+msgid "Hmm? Sorry, there's no more cleaning work here for you! If you all started doing this, I'd be out of a job!"
+msgstr "¿Hmm? ¡Perdón, aquí ya no queda trabajo de limpieza para ustedes! ¡Si se pusieran todos a hacer esto, me quedaría sin trabajo!"
+
+#. habla: Kramer
+#, fuzzy
+msgctxt "#54"
+msgid "There might be other people looking for help!"
+msgstr "¡Quizá haya otra gente que busque ayuda!"
+
+#. habla: Kramer
+#, fuzzy
+msgctxt "#55"
+msgid "Did you use the key to King's safe?"
+msgstr "¿Usaron la llave de la caja fuerte de King?"
+
+#. habla: Kramer
+#, fuzzy
+msgctxt "#56"
+msgid "Wow! I won't ask what was in it."
+msgstr "¡Vaya! No voy a preguntar qué había adentro."
+
+#. habla: Kramer
+#, fuzzy
+msgctxt "#57"
+msgid "Haha! So, even you don't have the guts to look inside, huh?"
+msgstr "¡Jaja! ¿Así que ni siquiera ustedes se animan a mirar adentro, eh?"
+
+#. habla: Monique
+#, fuzzy
+msgctxt "#58"
+msgid "Hey, Little Master! You know what? I won first place in the race the other day!"
+msgstr "¡Oiga, joven amo! ¿Sabe qué? ¡El otro día gané el primer puesto en la carrera!"
+
+#. habla: Monique
+#, fuzzy
+msgctxt "#59"
+msgid "Hey, you're supposed to say \"Congratulations!\""
+msgstr "¡Oiga, se supone que tiene que decir \"¡Felicitaciones!\"!"
+
+#. habla: Monique
+#, fuzzy
+msgctxt "#60"
+msgid "You know that quiz game downstairs? Simon's always playing it, but he says he's mad because he can't beat it. ♪"
+msgstr "¿Conoce ese juego de preguntas de abajo? Simon siempre juega, pero dice que está enojado porque no puede ganarle. ♪"
+
+#. habla: Monique
+#, fuzzy
+msgctxt "#61"
+msgid "Simon was saying there's no way anyone could beat that game!"
+msgstr "¡Simon decía que es imposible que alguien le gane a ese juego!"
+
+#. habla: Monique
+#, fuzzy
+msgctxt "#62"
+msgid "Do you know Simon, the Foundation expert?"
+msgstr "¿Conoce a Simon, el experto en la Fundación?"
+
+#. Opciones: una por línea. Mantener 2 líneas en el mismo orden.
+#, fuzzy
+msgctxt "#63"
+msgid ""
+"Who?\n"
+"Yes, I do."
+msgstr ""
+"¿A quién?\n"
+"Sí, lo conozco."
+
+#. habla: Monique
+#, fuzzy
+msgctxt "#64"
+msgid "He's usually at the launch boarding area at this time of day! He seems sad because he can't beat that quiz game."
+msgstr "¡A esta hora suele estar en la zona de embarque de lanzaderas! Parece triste porque no puede ganarle a ese juego de preguntas."
+
+#. habla: Monique
+#, fuzzy
+msgctxt "#65"
+msgid "Oh, you know a lot too. ♪"
+msgstr "Ah, usted también sabe mucho. ♪"
+
+#. habla: Kino
+#, fuzzy
+msgctxt "#66"
+msgid "Oh, Little Master. Are you looking for something?"
+msgstr "Ah, joven amo. ¿Busca algo?"
+
+#, fuzzy
+msgctxt "#67"
+msgid ""
+"Not really.\n"
+"Does it look like I'm looking for something?"
+msgstr ""
+"No, nada en especial.\n"
+"¿Parece que estoy buscando algo?"
+
+#. habla: Kino
+#, fuzzy
+msgctxt "#68"
+msgid "I'm always cleaning this room, so there isn't a single thing lying around! Oh, I found a flower seed the other day. When I asked Layla about it, she said it wasn't hers! It'd be a waste to throw it away, so I've been hanging on to it since."
+msgstr "¡Siempre limpio esta habitación, así que no hay ni una cosa tirada! Ah, el otro día encontré una semilla de flor. ¡Cuando le pregunté a Layla, dijo que no era suya! Sería un desperdicio tirarla, así que desde entonces la guardo."
+
+#. habla: Kino
+#, fuzzy
+msgctxt "#69"
+msgid "Oh, no, nothing like that. It's just that you came all the way up here, so I thought maybe you were looking for something."
+msgstr "Ah, no, nada de eso. Es que subió hasta aquí, así que pensé que quizá buscaba algo."
+
+#. habla: Kino
+#, fuzzy
+msgctxt "#70"
+msgid "Are you interested in flowers, little lady?"
+msgstr "¿Te interesan las flores, pequeña?"
+
+#, fuzzy
+msgctxt "#71"
+msgid ""
+"I love flowers!\n"
+"I like all kinds of pretty things, not just flowers."
+msgstr ""
+"¡Me encantan las flores!\n"
+"Me gusta todo lo bonito, no solo las flores."
+
+#. habla: Kino
+#, fuzzy
+msgctxt "#72"
+msgid "Well, then! I found a flower seed the other day! If you want it, come see me."
+msgstr "¡Muy bien! ¡El otro día encontré una semilla de flor! Si la quieres, ven a verme."
+
+#. habla: Kino
+#, fuzzy
+msgctxt "#73"
+msgid "Yes, looking at pretty things cleanses our hearts."
+msgstr "Sí, mirar cosas bonitas nos limpia el corazón."
+
+#. habla: Kino
+#, fuzzy
+msgctxt "#74"
+msgid "What do you think of growing plants?"
+msgstr "¿Qué te parece cultivar plantas?"
+
+#, fuzzy
+msgctxt "#75"
+msgid ""
+"It's hard work to care for a living thing.\n"
+"I'm not sure how to answer a question like that."
+msgstr ""
+"Cuidar un ser vivo es mucho trabajo.\n"
+"No sé bien cómo responder a una pregunta así."
+
+#. habla: Kino
+#, fuzzy
+msgctxt "#76"
+msgid "Yes, it is. There are many things we can learn when taking care of something alive. Helping something else to grow means helping oneself to grow."
+msgstr "Así es. Al cuidar algo vivo se aprenden muchas cosas. Ayudar a crecer a otro es ayudarse a crecer a uno mismo."
+
+#. habla: Kino
+#, fuzzy
+msgctxt "#77"
+msgid "Well, we can learn many important things about our own lives from plants. I recently obtained a flower seed, so if you're interested, come see me again. I'll give it to you."
+msgstr "Bueno, de las plantas podemos aprender muchas cosas importantes sobre nuestra propia vida. Hace poco conseguí una semilla de flor, así que, si te interesa, vuelve a verme. Te la voy a dar."
+
+#. habla: Kino
+#, fuzzy
+msgctxt "#78"
+msgid "Do you want that flower seed? Relax, it's not going anywhere!"
+msgstr "¿Quieres esa semilla de flor? ¡Tranquila, no se va a ir a ningún lado!"
+
+#, fuzzy
+msgctxt "#79"
+msgid "You obtained an Autumn Seed!"
+msgstr "¡Obtuviste una Semilla de Otoño!"
+
+#. habla: Kino
+#, fuzzy
+msgctxt "#80"
+msgid "Flowers are alive like us, do you understand? You must treat them gently!"
+msgstr "Las flores están vivas como nosotros, ¿entiendes? ¡Tienes que tratarlas con cariño!"
+
+#. habla: Kino
+#, fuzzy
+msgctxt "#81"
+msgid "There's a young person trying to grow flowers? I'd love to help."
+msgstr "¿Alguien tan joven quiere cultivar flores? Me encantaría ayudar."
+
+#. habla: Kino
+#, fuzzy
+msgctxt "#82"
+msgid "Is your flower growing well?"
+msgstr "¿Tu flor está creciendo bien?"
+
+#. habla: Kino
+#, fuzzy
+msgctxt "#83"
+msgid "That's good to hear. Be sure to learn as much as you can from your gardening."
+msgstr "Me alegra oírlo. No dejes de aprender todo lo que puedas de la jardinería."
+
+#. habla: Kino
+#, fuzzy
+msgctxt "#84"
+msgid "The key to successful flower growing is frequently checking up on them and giving them generous amounts of fertilizer. If you do that I'm sure the flowers will be happy."
+msgstr "La clave para cultivar flores con éxito es revisarlas a menudo y darles abundante fertilizante. Si haces eso, seguro que las flores van a estar felices."
+
+#. habla: Kino
+#, fuzzy
+msgctxt "#85"
+msgid "The flower seed? I don't have it anymore."
+msgstr "¿La semilla de flor? Ya no la tengo."
+
+#, fuzzy
+msgctxt "#86"
+msgid "There's something written. \"Surrounded by her loving Mommy and Daddy.\""
+msgstr "Hay algo escrito: \"Rodeada del cariño de mamá y papá\"."
+
+#, fuzzy
+msgctxt "#87"
+msgid ""
+"There's something written. \"Surrounded by her loving Mommy and Daddy.\"\n"
+"There's something written below that as well. \"Photographer: Augusta Hanson\""
+msgstr ""
+"Hay algo escrito: \"Rodeada del cariño de mamá y papá\".\n"
+"Abajo también hay algo escrito: \"Fotógrafa: Augusta Hanson\"."
+
+#. habla: Kramer
+#, fuzzy
+msgctxt "#88"
+msgid "Hahaha! Looks like you still aren't up to my level! I'll hang on to your pay until you can beat my time!"
+msgstr "¡Jajaja! ¡Parece que todavía no están a mi nivel! ¡Me quedo con su paga hasta que puedan superar mi tiempo!"
+
+#. habla: Margoyles
+#, fuzzy
+msgctxt "#89"
+msgid "Oh, it's you again. You're pretty strange to come see this old man over and over again. Fine, I'll tell you what's troubling me! Ten years ago, I was an unpopular musician. No matter how many songs I released, none of them became a hit, and I thought about quitting. Then, I happened to pick up a music box on a trip to the Foundation. Its sound was noble yet affectionate, healing the heart of all its ills. Touched by that sound, I began to write a new song! After that, every song I wrote became a big hit and that music box had been the energy powering my creativity. Unfortunately, it broke the other day. Do you think you could find a music box just like it for me?"
+msgstr "Ah, eres tú otra vez. Qué curioso que vengas una y otra vez a ver a este viejo. ¡Está bien, te cuento lo que me preocupa! Hace diez años, yo era un músico sin éxito. Por más canciones que sacara, ninguna pegaba, y pensé en dejarlo. Entonces, en un viaje a la Fundación, encontré por casualidad una caja de música. Su sonido era noble y a la vez cariñoso, y sanaba todos los males del corazón. Conmovido por ese sonido, empecé a escribir una canción nueva. ¡Desde entonces, cada canción que escribía era un gran éxito, y esa caja de música era la energía que impulsaba mi creatividad! Lamentablemente, el otro día se rompió. ¿Crees que podrías encontrarme una caja de música igual?"
+
+#. habla: Margoyles
+#, fuzzy
+msgctxt "#90"
+msgid "Thank you!"
+msgstr "¡Gracias!"
+
+#. habla: Margoyles
+#, fuzzy
+msgctxt "#92"
+msgid "I entrust the search for the music box of my memories to you!"
+msgstr "¡Te confío la búsqueda de la caja de música de mis recuerdos!"
+
+#. habla: Margoyles
+#, fuzzy
+msgctxt "#93"
+msgid "Oh. I suppose it's just the ramblings of an old man. I'm sorry, forget I even asked."
+msgstr "Ah. Supongo que solo son los desvaríos de un viejo. Perdón, olvida que te lo pedí."
+
+#. habla: Margoyles
+#, fuzzy
+msgctxt "#94"
+msgid "Oh! You found one! This is just like the music box I had! Thank you!"
+msgstr "¡Oh! ¡Encontraste una! ¡Es igual a la caja de música que tenía! ¡Gracias!"
+
+#. habla: Margoyles
+#, fuzzy
+msgctxt "#96"
+msgid "With this, I'll be able to create beautiful music again! I know it's not much, but please take this!"
+msgstr "¡Con esto voy a poder volver a crear música hermosa! Sé que no es mucho, ¡pero acepta esto, por favor!"
+
+#, fuzzy
+msgctxt "#97"
+msgid "You obtained the Iron 4 Sheet Music!"
+msgstr "¡Obtuviste la Partitura de Iron 4!"
+
+#. habla: Margoyles
+#, fuzzy
+msgctxt "#98"
+msgid "Now, now, no time to lose! I must begin composing at once!"
+msgstr "¡Vamos, vamos, no hay tiempo que perder! ¡Tengo que empezar a componer ya mismo!"
+
+#. habla: Kramer
+#, fuzzy
+msgctxt "#99"
+msgid "Oh! You've come at a good time! My shoulders are all worn out from wiping windows. How about doing a little window wiping? You'll get paid, of course!"
+msgstr "¡Oh! ¡Llegaron justo a tiempo! Tengo los hombros destrozados de limpiar ventanas. ¿Qué tal si limpian unas ventanas? ¡Por supuesto, se les paga!"
+
+#. habla: Kramer
+#, fuzzy
+msgctxt "#100"
+msgid "Accepting the job of window wiping means challenging my record!"
+msgstr "¡Aceptar el trabajo de limpiar ventanas significa desafiar mi récord!"
+
+#. habla: Kramer
+#, fuzzy
+msgctxt "#101"
+msgid "It takes me about two minutes to clean nine windows! So, I'm going to place the same time limit on you! Let me know when you're ready!"
+msgstr "¡A mí me lleva unos dos minutos limpiar nueve ventanas! Así que les pongo el mismo tiempo límite. ¡Avísenme cuando estén listos!"
+
+#. habla: Kramer
+#, fuzzy
+msgctxt "#102"
+msgid "Well, I'm always here, so if you decide to help me out, let me know any time!"
+msgstr "Bueno, siempre estoy aquí, así que si deciden ayudarme, ¡avísenme cuando quieran!"
+
+#. habla: Kramer
+#, fuzzy
+msgctxt "#103"
+msgid "Okay! Good work!"
+msgstr "¡Muy bien! ¡Buen trabajo!"
+
+#. habla: Kramer
+#, fuzzy
+msgctxt "#104"
+msgid "I have to say, I'm impressed! Many have challenged me at window wiping, but no one ever broke the two-minute mark! I promised I'd pay you, so here you are! I picked it up when I went to King's hideout. I didn't have the courage to use it, though. Hehehe!"
+msgstr "¡Tengo que decirlo, estoy impresionado! Muchos me desafiaron limpiando ventanas, ¡pero nadie había bajado de los dos minutos! Les prometí que les pagaría, ¡así que aquí tienen! Lo recogí cuando fui a la guarida de King. Aunque no me animé a usarlo. ¡Jejeje!"
+
+#, fuzzy
+msgctxt "#105"
+msgid "You obtained King's Key!"
+msgstr "¡Obtuviste la Llave de King!"
+
+#. habla: Kramer
+#, fuzzy
+msgctxt "#106"
+msgid "I'm going to try and beat your record, now!"
+msgstr "¡Ahora voy a intentar superar su récord!"
+
+#. habla: Mallory
+#, fuzzy
+msgctxt "#107"
+msgid "Oh, no! I did it again! I lost my wedding ring that Mickey gave me! Normally, I'd panic, but this time, things are going to be okay because that ring is the newest kind of vibration ring! That means I can find it easily by using my vibration checker! The problem with that is Mickey would find out that I lost the ring! Please help me! Can you find my wedding ring for me while I keep Mickey distracted?"
+msgstr "¡Ay, no! ¡Otra vez lo hice! ¡Perdí el anillo de bodas que me regaló Mickey! Normalmente entraría en pánico, pero esta vez todo va a salir bien, ¡porque ese anillo es del tipo vibratorio más nuevo! ¡O sea que puedo encontrarlo fácil con mi detector de vibraciones! El problema es que Mickey se daría cuenta de que lo perdí. ¡Por favor, ayúdame! ¿Puedes encontrar mi anillo de bodas mientras yo distraigo a Mickey?"
+
+#. habla: Mallory
+#, fuzzy
+msgctxt "#108"
+msgid "Oh, I knew you would!"
+msgstr "¡Ay, sabía que lo harías!"
+
+#. habla: Mallory
+#, fuzzy
+msgctxt "#109"
+msgid "Please find the ring while I keep Mickey distracted, okay?"
+msgstr "Encuentra el anillo mientras yo distraigo a Mickey, ¿sí?"
+
+#, fuzzy
+msgctxt "#110"
+msgid "You can now check for ring vibrations!"
+msgstr "¡Ahora puedes detectar las vibraciones de los anillos!"
+
+#. habla: Mallory
+#, fuzzy
+msgctxt "#111"
+msgid "There're some things you need to be careful about when searching for the ring. First, vibration rings are really popular right now, so there are lots of people who have them here on the Foundation! Naturally, there're a lot of people like me who lose things, so the vibration rings dropped by those people are all over the city! Don't bring me someone else's ring by mistake! Next, the vibration checker is a device to check the vibrations that rings put out. Once you've used the vibration checker and marked a ring as a match, you can't use that vibration checker again. Finally, each vibration ring is set with a unique vibration pattern. Naturally, mine has my own pattern. In other words, I want you to use the vibration checker to find my ring, set it as a match, and then bring it to me. Thanks!"
+msgstr "Hay algunas cosas que tienes que tener en cuenta al buscar el anillo. Primero, los anillos vibratorios están muy de moda, ¡así que aquí en la Fundación mucha gente los tiene! Naturalmente, hay mucha gente como yo que pierde cosas, ¡así que hay anillos vibratorios perdidos por toda la ciudad! ¡No me traigas por error el anillo de otra persona! Segundo, el detector de vibraciones es un dispositivo para revisar las vibraciones que emiten los anillos. Una vez que uses el detector y marques un anillo como el que coincide, no vas a poder volver a usar ese detector. Por último, cada anillo vibratorio tiene configurado un patrón de vibración único. Naturalmente, el mío tiene mi propio patrón. O sea, quiero que uses el detector de vibraciones para encontrar mi anillo, lo marques como el que coincide y me lo traigas. ¡Gracias!"
+
+#. habla: Warning
+#, fuzzy
+msgctxt "#112"
+msgid "It is recommended to use the analog controller's vibration function when searching for the lost ring. To fully enjoy the ring hunt, please set the analog controller's vibration function to ON."
+msgstr "Se recomienda usar la función de vibración del control analógico al buscar el anillo perdido. Para disfrutar al máximo de la búsqueda del anillo, activa la función de vibración del control analógico."
+
+#. habla: Mallory
+#, fuzzy
+msgctxt "#113"
+msgid "*Sob* I guess it is a selfish request."
+msgstr "*Snif* Supongo que es un pedido egoísta."
+
+#. habla: Mallory
+#, fuzzy
+msgctxt "#114"
+msgid "Oh, yes! That's it! The proof of our love!"
+msgstr "¡Oh, sí! ¡Ese es! ¡La prueba de nuestro amor!"
+
+#. habla: Mallory
+#, fuzzy
+msgctxt "#115"
+msgid "Thank you! I'm afraid this is all I have to give you in return, though."
+msgstr "¡Gracias! Aunque me temo que esto es todo lo que puedo darte a cambio."
+
+#, fuzzy
+msgctxt "#116"
+msgid "You obtained Secret Key 17! This key opens the Level 3 Class F skill \"Break B15.\""
+msgstr "¡Obtuviste la Llave Secreta 17! Esta llave desbloquea la habilidad de Clase F de nivel 3 \"Desequilibrio B15\"."
+
+#. habla: Mallory
+#, fuzzy
+msgctxt "#117"
+msgid "What is this thing?! This isn't our wedding ring!"
+msgstr "¡¿Qué es esta cosa?! ¡Este no es nuestro anillo de bodas!"
+
+#. habla: Mallory
+#, fuzzy
+msgctxt "#119"
+msgid "Well, I have to thank you for helping me, anyway! Here you go!"
+msgstr "¡Bueno, igual tengo que agradecerte por ayudarme! ¡Aquí tienes!"

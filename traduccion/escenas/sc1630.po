@@ -1,0 +1,260 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Xenosaga Episode II - traducción al español\n"
+"Language: es_419\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Xeno-Source: 0:cf/en/sc1630.sbl\n"
+
+#. habla: Glenn
+#, fuzzy
+msgctxt "#6"
+msgid "Oh, I just heard from Ciaran! He said you're going to be our assistant. You need to know what to do, right?"
+msgstr "¡Ah, Ciaran me acaba de avisar! Dijo que vas a ser nuestro ayudante. Necesitas saber qué hacer, ¿no?"
+
+#. Opciones: una por línea. Mantener 2 líneas en el mismo orden.
+#, fuzzy
+msgctxt "#7"
+msgid ""
+"Yes\n"
+"No"
+msgstr ""
+"Sí\n"
+"No"
+
+#. habla: Glenn
+#, fuzzy
+msgctxt "#8"
+msgid "Okay! Then let me explain! There are 84 water conditioning nanomachine dispenser units in this room and several of them have gone haywire. They're actually supposed to self-destruct when their life cycle ends, but since they didn't, we want you to destroy the broken ones! Do you want a more detailed explanation?"
+msgstr "¡Muy bien! ¡Entonces te explico! En esta sala hay 84 dispensadores de nanomáquinas de acondicionamiento del agua, y varios se volvieron locos. En realidad, se supone que se autodestruyen cuando termina su vida útil, pero como no lo hicieron, ¡queremos que destruyas los averiados! ¿Quieres una explicación más detallada?"
+
+#. habla: Glenn
+#, fuzzy
+msgctxt "#9"
+msgid "You can't tell the difference between a normal dispenser and a broken dispenser just by looking at them. That's where the eight control consoles in this room come in handy. If you activate the consoles, the consumption lights on the dispensers will light up. A green light means normal operation, and a red light shows that it's busted. So, you just need to destroy all the dispensers that have red lights! Good luck!"
+msgstr "A simple vista no se distingue un dispensador normal de uno averiado. Para eso sirven las ocho consolas de control de esta sala. Si activas las consolas, se encienden las luces de consumo de los dispensadores. Una luz verde indica que funciona normal, y una roja, que está roto. ¡Así que solo tienes que destruir todos los dispensadores con luz roja! ¡Buena suerte!"
+
+#. habla: Glenn
+#, fuzzy
+msgctxt "#10"
+msgid "Okay! Good luck!"
+msgstr "¡Muy bien! ¡Buena suerte!"
+
+#. habla: Glenn
+#, fuzzy
+msgctxt "#11"
+msgid "The nanomachine dispensers are situated in eight different sections. By using the consoles, you can determine the consumption level for an individual section. Actually, Water Works Bureau staff are assigned portable devices that can check the consumption level. I wish I could lend it to you, but if they found out, I'd be out of a job. But it's not right for me to just ask you to do everything, so let me sneak you information about the sections. Do you want some information?"
+msgstr "Los dispensadores de nanomáquinas están repartidos en ocho secciones distintas. Con las consolas puedes ver el nivel de consumo de cada sección. En realidad, al personal del Servicio de Aguas le dan dispositivos portátiles que miden el nivel de consumo. Me gustaría prestarte uno, pero si se enteran, me quedo sin trabajo. Igual no está bien que te pida que hagas todo, así que déjame pasarte información sobre las secciones a escondidas. ¿Quieres información?"
+
+#. habla: Glenn
+#, fuzzy
+msgctxt "#12"
+msgid "Which section would you like to check?"
+msgstr "¿Qué sección quieres revisar?"
+
+#. Opciones: una por línea. Mantener 9 líneas en el mismo orden.
+#, fuzzy
+msgctxt "#13"
+msgid ""
+"Area A\n"
+"Area B\n"
+"Area C\n"
+"Area D\n"
+"Area E\n"
+"Area F\n"
+"Area G\n"
+"Area H\n"
+"Never mind"
+msgstr ""
+"Área A\n"
+"Área B\n"
+"Área C\n"
+"Área D\n"
+"Área E\n"
+"Área F\n"
+"Área G\n"
+"Área H\n"
+"No importa"
+
+#. habla: Glenn
+#, fuzzy
+msgctxt "#14"
+msgid "What are you doing here?! Get on up there and tell Ciaran everything worked out!"
+msgstr "¡¿Qué haces aquí?! ¡Sube y dile a Ciaran que todo salió bien!"
+
+#. habla: Glenn
+#, fuzzy
+msgctxt "#15"
+msgid "Hmm, we're done eliminating the buggy dispensers, but we can't relax just yet. We may need to do a thorough check of the entire facility."
+msgstr "Hmm, terminamos de eliminar los dispensadores averiados, pero todavía no podemos relajarnos. Quizá tengamos que revisar a fondo toda la instalación."
+
+#. habla: Glenn
+#, fuzzy
+msgctxt "#16"
+msgid "I knew there was still something wrong! Don't worry. I know you can handle it! I'm counting on you!"
+msgstr "¡Sabía que todavía había algo mal! No te preocupes. ¡Sé que puedes con esto! ¡Cuento contigo!"
+
+#. habla: Glenn
+#, fuzzy
+msgctxt "#17"
+msgid "Continuing inspection!"
+msgstr "¡Seguimos con la inspección!"
+
+#. habla: Glenn
+#, fuzzy
+msgctxt "#18"
+msgid "Water conditioning tank B is in the southeast section of the floor below!"
+msgstr "¡El tanque de acondicionamiento B está en la sección sudeste del piso de abajo!"
+
+#. habla: Glenn
+#, fuzzy
+msgctxt "#19"
+msgid "I wonder what's going on in that room...I have a bad feeling about this. Be careful!"
+msgstr "Me pregunto qué pasará en esa sala... Tengo un mal presentimiento. ¡Ten cuidado!"
+
+#. habla: Glenn
+#, fuzzy
+msgctxt "#20"
+msgid "I can't believe the people of Second Miltia were in danger, and we didn't even realize it."
+msgstr "No puedo creer que la gente de Segunda Miltia estuviera en peligro y ni nos diéramos cuenta."
+
+#. habla: Glenn
+#, fuzzy
+msgctxt "#21"
+msgid "We need to come up with a plan quick to make sure something like this never happens again!"
+msgstr "¡Tenemos que idear un plan rápido para que algo así no vuelva a pasar nunca!"
+
+#, fuzzy
+msgctxt "#22"
+msgid "Checking nanomachine dispenser batteries. Which area do you wish to check?"
+msgstr "Revisando las baterías de los dispensadores de nanomáquinas. ¿Qué área quieres revisar?"
+
+#. Opciones: una por línea. Mantener 9 líneas en el mismo orden.
+#, fuzzy
+msgctxt "#23"
+msgid ""
+"Area A\n"
+"Area B\n"
+"Area C\n"
+"Area D\n"
+"Area E\n"
+"Area F\n"
+"Area G\n"
+"Area H\n"
+"Cancel"
+msgstr ""
+"Área A\n"
+"Área B\n"
+"Área C\n"
+"Área D\n"
+"Área E\n"
+"Área F\n"
+"Área G\n"
+"Área H\n"
+"Cancelar"
+
+#. habla: Glenn
+#, fuzzy
+msgctxt "#24"
+msgid "You probably already know this, but lately, there's been one weird thing after another going on in the water conditioning tanks! We've looked into the cause, and it seems like something is wrong in water conditioning tank B. Sometimes you hear loud noises coming from the room, and nobody wants to get close to it! Will you check it out for me?"
+msgstr "Seguramente ya lo sabes, pero últimamente pasa una cosa rara tras otra en los tanques de acondicionamiento. Investigamos la causa y parece que algo anda mal en el tanque de acondicionamiento B. A veces se oyen ruidos fuertes que vienen de esa sala, ¡y nadie quiere acercarse! ¿Puedes ir a revisarlo por mí?"
+
+#. habla: Glenn
+#, fuzzy
+msgctxt "#25"
+msgid "Thanks a lot!"
+msgstr "¡Muchas gracias!"
+
+#. habla: Glenn
+#, fuzzy
+msgctxt "#27"
+msgid "Here, take this!"
+msgstr "¡Toma esto!"
+
+#, fuzzy
+msgctxt "#28"
+msgid "You obtained the Water Conditioning Tank B Key!"
+msgstr "¡Obtuviste la Llave del tanque B!"
+
+#. habla: Glenn
+#, fuzzy
+msgctxt "#29"
+msgid "Water conditioning tank B is in the southeast section of the floor below. I wonder what's going on in that room. I have a bad feeling about this, so be careful!"
+msgstr "El tanque de acondicionamiento B está en la sección sudeste del piso de abajo. Me pregunto qué pasará en esa sala. Tengo un mal presentimiento, ¡así que ten cuidado!"
+
+#. habla: Glenn
+#, fuzzy
+msgctxt "#30"
+msgid "We need your help! We'd really like you to go down there and find out what's going on."
+msgstr "¡Necesitamos tu ayuda! Nos gustaría mucho que bajaras a averiguar qué pasa."
+
+#. habla: Glenn
+#, fuzzy
+msgctxt "#31"
+msgid "What?! The water conditioning nanomachines went out of control and attacked you?! I've heard rumors about things like that, but I never thought it would happen here!"
+msgstr "¡¿Qué?! ¡¿Las nanomáquinas de acondicionamiento se descontrolaron y te atacaron?! Había oído rumores de cosas así, ¡pero nunca pensé que pasaría aquí!"
+
+#. habla: Glenn
+#, fuzzy
+msgctxt "#33"
+msgid "At any rate, we've really caused some trouble for you! This really isn't enough to express our thanks, but go ahead and take it!"
+msgstr "En fin, ¡de verdad te causamos problemas! Esto no alcanza para expresar nuestro agradecimiento, ¡pero acéptalo!"
+
+#, fuzzy
+msgctxt "#34"
+msgid "You obtained Decoder 08!"
+msgstr "¡Obtuviste el Decodificador 08!"
+
+#. habla: Glenn
+#, fuzzy
+msgctxt "#35"
+msgid "You know, we humans think we can completely control these machines, but suddenly they turn on you. It's kind of scary that this sort of thing could happen to any of us at any time."
+msgstr "¿Sabes? Los humanos creemos que podemos controlar por completo estas máquinas, pero de repente se vuelven en tu contra. Da un poco de miedo que algo así le pueda pasar a cualquiera en cualquier momento."
+
+#, fuzzy
+msgctxt "#36"
+msgid "Canceling the water conditioning nanomachine dispenser battery check."
+msgstr "Se canceló la revisión de las baterías de los dispensadores de nanomáquinas."
+
+#, fuzzy
+msgctxt "#37"
+msgid "Currently all water conditioning nanomachine dispensers are functioning normally."
+msgstr "En este momento, todos los dispensadores de nanomáquinas de acondicionamiento funcionan con normalidad."
+
+#. habla: Second Miltia Water Works
+#, fuzzy
+msgctxt "#38"
+msgid "A release key is required to open the partition to the elevator to water conditioning tank A."
+msgstr "Para abrir la división del ascensor al tanque de acondicionamiento A, se necesita una llave de liberación."
+
+#, fuzzy
+msgctxt "#39"
+msgid "Use the Water Tank A Key?"
+msgstr "¿Usar la Llave del tanque A?"
+
+#, fuzzy
+msgctxt "#41"
+msgid "Unable to destroy target!"
+msgstr "¡No se puede destruir el objetivo!"
+
+#, fuzzy
+msgctxt "#42"
+msgid "Target destroyed!"
+msgstr "¡Objetivo destruido!"
+
+#, fuzzy
+msgctxt "#43"
+msgid "Go down to B2?"
+msgstr "¿Bajar a B2?"
+
+#, fuzzy
+msgctxt "#44"
+msgid "Going down to B2."
+msgstr "Bajando a B2."
+
+#. habla: Glenn
+#, fuzzy
+msgctxt "#45"
+msgid "Wow, I'm really impressed! The removal of the buggy dispensers is complete! Now, I need to take care of the remaining details here, so please go tell Ciaran that the operation was a success! Thanks!"
+msgstr "¡Vaya, estoy impresionado! ¡Terminó la eliminación de los dispensadores averiados! Ahora tengo que encargarme de los detalles que quedan, así que por favor ve a decirle a Ciaran que la operación fue un éxito. ¡Gracias!"

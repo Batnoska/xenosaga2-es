@@ -1,0 +1,106 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Xenosaga Episode II - traducción al español\n"
+"Language: es_419\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Xeno-Source: 0:cf/en/sc8058.sbl\n"
+"X-Xeno-Tipo: cinematica\n"
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#10"
+msgid "Well, we finally made it."
+msgstr "Bueno, por fin llegamos."
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#. Opciones: una por línea. Mantener 2 líneas en el mismo orden.
+#, fuzzy
+msgctxt "#11"
+msgid ""
+"At last, we can set you free\n"
+"from your curse, Canaan."
+msgstr ""
+"Por fin podemos liberarte\n"
+"de tu maldición, Canaan."
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#12"
+msgid "I'd appreciate it if you could hurry."
+msgstr "Te agradecería que te apuraras."
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#13"
+msgid ""
+"I really don't want something like this\n"
+"in my head any longer than I need to."
+msgstr ""
+"La verdad, no quiero tener algo así en\n"
+"la cabeza más tiempo del necesario."
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#. Opciones: una por línea. Mantener 2 líneas en el mismo orden.
+#, fuzzy
+msgctxt "#14"
+msgid ""
+"Hey, just what is the data\n"
+"inside of Canaan, anyway?"
+msgstr ""
+"Oigan, ¿qué son exactamente los\n"
+"datos que Canaan lleva dentro?"
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#15"
+msgid ""
+"Put simply, it contains the identity of\n"
+"the mastermind behind the Miltian Conflict."
+msgstr ""
+"En pocas palabras, contienen la identidad\n"
+"del cerebro detrás del Conflicto de Miltia."
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#. Opciones: una por línea. Mantener 2 líneas en el mismo orden.
+#, fuzzy
+msgctxt "#16"
+msgid ""
+"Hold on a second. The mastermind\n"
+"behind the Conflict was..."
+msgstr ""
+"Un momento. El cerebro detrás\n"
+"del Conflicto fue..."
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#17"
+msgid ""
+"The madman, Joachim Mizrahi.\n"
+"At least that's what everyone thinks."
+msgstr ""
+"El loco Joachim Mizrahi.\n"
+"Al menos eso es lo que todos creen."
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#18"
+msgid ""
+"But just because most people believe something,\n"
+"doesn't necessarily mean that it's true."
+msgstr ""
+"Pero que la mayoría crea algo no\n"
+"significa necesariamente que sea cierto."
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#19"
+msgid "Wait, what do you mean?"
+msgstr "Espera, ¿qué quieres decir?"
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#20"
+msgid "You're about to find out."
+msgstr "Ya lo vas a ver."

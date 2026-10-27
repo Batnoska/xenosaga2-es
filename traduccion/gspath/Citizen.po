@@ -1,0 +1,1674 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Xenosaga Episode II - traducción al español\n"
+"Language: es_419\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Xeno-Source: 0:iwase/Citizen.txt\n"
+
+#. máximo 16 caracteres; 1 línea(s) de hasta 137 píxeles
+msgctxt "No.1/Name"
+msgid "Sikes"
+msgstr ""
+
+#. máximo 6 caracteres; 1 línea(s) de hasta 59 píxeles
+#, fuzzy
+msgctxt "No.1/Sex"
+msgid "Male"
+msgstr "Varón"
+
+#. máximo 16 caracteres; 1 línea(s) de hasta 106 píxeles
+#, fuzzy
+msgctxt "No.1/Age"
+msgid "28 years old"
+msgstr "28 años"
+
+#. máximo 22 caracteres; 1 línea(s) de hasta 194 píxeles
+#, fuzzy
+msgctxt "No.1/Hobby"
+msgid "Visiting hot springs"
+msgstr "Ir a aguas termales"
+
+#. máximo 150 caracteres; 3 línea(s) de hasta 422 píxeles
+#, fuzzy
+msgctxt "No.1/Profile"
+msgid ""
+"A nice man who works for Sincere Deliveries. He\n"
+"strives day and night to hand deliver sincerity\n"
+"throughout Miltia."
+msgstr ""
+"Un hombre amable que trabaja en Sincere\n"
+"Deliveries. Se esfuerza día y noche para entregar\n"
+"la sinceridad en mano por toda Miltia."
+
+#. máximo 16 caracteres; 1 línea(s) de hasta 137 píxeles
+msgctxt "No.2/Name"
+msgid "Jacqueline"
+msgstr ""
+
+#. máximo 6 caracteres; 1 línea(s) de hasta 59 píxeles
+#, fuzzy
+msgctxt "No.2/Sex"
+msgid "Female"
+msgstr "Mujer"
+
+#. máximo 16 caracteres; 1 línea(s) de hasta 106 píxeles
+#, fuzzy
+msgctxt "No.2/Age"
+msgid "16 years old"
+msgstr "16 años"
+
+#. máximo 22 caracteres; 1 línea(s) de hasta 194 píxeles
+#, fuzzy
+msgctxt "No.2/Hobby"
+msgid "Astrology"
+msgstr "Astrología"
+
+#. máximo 150 caracteres; 3 línea(s) de hasta 422 píxeles
+#, fuzzy
+msgctxt "No.2/Profile"
+msgid ""
+"This young girl fell for the drifter Sidney at first\n"
+"sight. Her motto is \"I love to love.\""
+msgstr ""
+"Esta jovencita se enamoró a primera vista del\n"
+"vagabundo Sidney. Su lema es \"Me encanta\n"
+"enamorarme\"."
+
+#. máximo 16 caracteres; 1 línea(s) de hasta 137 píxeles
+msgctxt "No.3/Name"
+msgid "Sheila"
+msgstr ""
+
+#. máximo 6 caracteres; 1 línea(s) de hasta 59 píxeles
+#, fuzzy
+msgctxt "No.3/Sex"
+msgid "Female"
+msgstr "Mujer"
+
+#. máximo 16 caracteres; 1 línea(s) de hasta 106 píxeles
+#, fuzzy
+msgctxt "No.3/Age"
+msgid "35 years old"
+msgstr "35 años"
+
+#. máximo 22 caracteres; 1 línea(s) de hasta 194 píxeles
+#, fuzzy
+msgctxt "No.3/Hobby"
+msgid "Cooking and cleaning"
+msgstr "Cocinar y limpiar"
+
+#. máximo 150 caracteres; 3 línea(s) de hasta 422 píxeles
+#, fuzzy
+msgctxt "No.3/Profile"
+msgid ""
+"The woman who runs the Lavare cleaners. Her\n"
+"workers always worry about Dominic's pranks."
+msgstr ""
+"La dueña de la tintorería Lavare. Sus empleados\n"
+"siempre temen las travesuras de Dominic."
+
+#. máximo 16 caracteres; 1 línea(s) de hasta 137 píxeles
+msgctxt "No.4/Name"
+msgid "Dominic"
+msgstr ""
+
+#. máximo 6 caracteres; 1 línea(s) de hasta 59 píxeles
+#, fuzzy
+msgctxt "No.4/Sex"
+msgid "Male"
+msgstr "Varón"
+
+#. máximo 16 caracteres; 1 línea(s) de hasta 106 píxeles
+#, fuzzy
+msgctxt "No.4/Age"
+msgid "8 years old"
+msgstr "8 años"
+
+#. máximo 22 caracteres; 1 línea(s) de hasta 194 píxeles
+#, fuzzy
+msgctxt "No.4/Hobby"
+msgid "Climbing trees"
+msgstr "Trepar árboles"
+
+#. máximo 150 caracteres; 3 línea(s) de hasta 422 píxeles
+#, fuzzy
+msgctxt "No.4/Profile"
+msgid ""
+"The Foundation's most infamous brat. He's sad\n"
+"because his mom is too busy to play."
+msgstr ""
+"El mocoso más temido de la Fundación. Está\n"
+"triste porque su mamá está demasiado ocupada\n"
+"para jugar."
+
+#. máximo 16 caracteres; 1 línea(s) de hasta 137 píxeles
+msgctxt "No.5/Name"
+msgid "Miguel"
+msgstr ""
+
+#. máximo 6 caracteres; 1 línea(s) de hasta 59 píxeles
+#, fuzzy
+msgctxt "No.5/Sex"
+msgid "Male"
+msgstr "Varón"
+
+#. máximo 16 caracteres; 1 línea(s) de hasta 106 píxeles
+#, fuzzy
+msgctxt "No.5/Age"
+msgid "47 years old"
+msgstr "47 años"
+
+#. máximo 22 caracteres; 1 línea(s) de hasta 194 píxeles
+#, fuzzy
+msgctxt "No.5/Hobby"
+msgid "Photography"
+msgstr "Fotografía"
+
+#. máximo 150 caracteres; 3 línea(s) de hasta 422 píxeles
+#, fuzzy
+msgctxt "No.5/Profile"
+msgid ""
+"Boss of the publishing and advertising agency\n"
+"Area 40. He tends to make promises that he\n"
+"can't keep."
+msgstr ""
+"Jefe de la agencia editorial y publicitaria Area\n"
+"40. Suele hacer promesas que no puede cumplir."
+
+#. máximo 16 caracteres; 1 línea(s) de hasta 137 píxeles
+msgctxt "No.6/Name"
+msgid "Lizzy"
+msgstr ""
+
+#. máximo 6 caracteres; 1 línea(s) de hasta 59 píxeles
+#, fuzzy
+msgctxt "No.6/Sex"
+msgid "Male"
+msgstr "Varón"
+
+#. máximo 16 caracteres; 1 línea(s) de hasta 106 píxeles
+#, fuzzy
+msgctxt "No.6/Age"
+msgid "26 years old"
+msgstr "26 años"
+
+#. máximo 22 caracteres; 1 línea(s) de hasta 194 píxeles
+#, fuzzy
+msgctxt "No.6/Hobby"
+msgid "Martial arts"
+msgstr "Artes marciales"
+
+#. máximo 150 caracteres; 3 línea(s) de hasta 422 píxeles
+#, fuzzy
+msgctxt "No.6/Profile"
+msgid ""
+"He knows every last wire of the Miltian electrical\n"
+"system, but still can't even change a lightbulb."
+msgstr ""
+"Conoce cada cable del sistema eléctrico de\n"
+"Miltia, pero ni siquiera sabe cambiar una\n"
+"bombilla."
+
+#. máximo 16 caracteres; 1 línea(s) de hasta 137 píxeles
+#, fuzzy
+msgctxt "No.7/Name"
+msgid "Professor"
+msgstr "Profesor"
+
+#. máximo 6 caracteres; 1 línea(s) de hasta 59 píxeles
+#, fuzzy
+msgctxt "No.7/Sex"
+msgid "Male"
+msgstr "Varón"
+
+#. máximo 16 caracteres; 1 línea(s) de hasta 106 píxeles
+#, fuzzy
+msgctxt "No.7/Age"
+msgid "64 years old"
+msgstr "64 años"
+
+#. máximo 22 caracteres; 1 línea(s) de hasta 194 píxeles
+#, fuzzy
+msgctxt "No.7/Hobby"
+msgid "Fiddling with machines"
+msgstr "Toquetear máquinas"
+
+#. máximo 150 caracteres; 3 línea(s) de hasta 422 píxeles
+#, fuzzy
+msgctxt "No.7/Profile"
+msgid ""
+"The superhero we all know and love, tirelessly\n"
+"fighting to rid the universe of evil!"
+msgstr ""
+"¡El superhéroe que todos conocemos y queremos,\n"
+"que lucha sin descanso para librar al universo del\n"
+"mal!"
+
+#. máximo 16 caracteres; 1 línea(s) de hasta 137 píxeles
+msgctxt "No.8/Name"
+msgid "Maple"
+msgstr ""
+
+#. máximo 6 caracteres; 1 línea(s) de hasta 59 píxeles
+#, fuzzy
+msgctxt "No.8/Sex"
+msgid "Female"
+msgstr "Mujer"
+
+#. máximo 16 caracteres; 1 línea(s) de hasta 106 píxeles
+#, fuzzy
+msgctxt "No.8/Age"
+msgid "6 years old"
+msgstr "6 años"
+
+#. máximo 22 caracteres; 1 línea(s) de hasta 194 píxeles
+#, fuzzy
+msgctxt "No.8/Hobby"
+msgid "Playing in the bath"
+msgstr "Jugar en la bañera"
+
+#. máximo 150 caracteres; 3 línea(s) de hasta 422 píxeles
+#, fuzzy
+msgctxt "No.8/Profile"
+msgid ""
+"A precocious little girl from Second Miltia who\n"
+"loves the teddy bear her dad gave her."
+msgstr ""
+"Una niña precoz de Segunda Miltia que adora el\n"
+"osito de peluche que le regaló su papá."
+
+#. máximo 16 caracteres; 1 línea(s) de hasta 137 píxeles
+msgctxt "No.9/Name"
+msgid "Ciaran"
+msgstr ""
+
+#. máximo 6 caracteres; 1 línea(s) de hasta 59 píxeles
+#, fuzzy
+msgctxt "No.9/Sex"
+msgid "Male"
+msgstr "Varón"
+
+#. máximo 16 caracteres; 1 línea(s) de hasta 106 píxeles
+#, fuzzy
+msgctxt "No.9/Age"
+msgid "39 years old"
+msgstr "39 años"
+
+#. máximo 22 caracteres; 1 línea(s) de hasta 194 píxeles
+#, fuzzy
+msgctxt "No.9/Hobby"
+msgid "Nightlife"
+msgstr "Vida nocturna"
+
+#. máximo 150 caracteres; 3 línea(s) de hasta 422 píxeles
+#, fuzzy
+msgctxt "No.9/Profile"
+msgid ""
+"A Water Works plumber who came to Second\n"
+"Miltia without his wife and is loving every minute\n"
+"of it."
+msgstr ""
+"Un plomero del Servicio de Aguas que vino a\n"
+"Segunda Miltia sin su esposa y disfruta cada\n"
+"minuto."
+
+#. máximo 16 caracteres; 1 línea(s) de hasta 137 píxeles
+msgctxt "No.10/Name"
+msgid "King"
+msgstr ""
+
+#. máximo 6 caracteres; 1 línea(s) de hasta 59 píxeles
+#, fuzzy
+msgctxt "No.10/Sex"
+msgid "Male"
+msgstr "Varón"
+
+#. máximo 16 caracteres; 1 línea(s) de hasta 106 píxeles
+#, fuzzy
+msgctxt "No.10/Age"
+msgid "34 years old"
+msgstr "34 años"
+
+#. máximo 22 caracteres; 1 línea(s) de hasta 194 píxeles
+#, fuzzy
+msgctxt "No.10/Hobby"
+msgid "Playing with his cat"
+msgstr "Jugar con su gato"
+
+#. máximo 150 caracteres; 3 línea(s) de hasta 422 píxeles
+#, fuzzy
+msgctxt "No.10/Profile"
+msgid ""
+"The Foundation's gangland boss. He loves his cat\n"
+"Josephine, and he's just a big pussy at heart."
+msgstr ""
+"El jefe de la pandilla de la Fundación. Adora a su\n"
+"gato Josephine y en el fondo es un blandito."
+
+#. máximo 16 caracteres; 1 línea(s) de hasta 137 píxeles
+msgctxt "No.11/Name"
+msgid "Jun"
+msgstr ""
+
+#. máximo 6 caracteres; 1 línea(s) de hasta 59 píxeles
+#, fuzzy
+msgctxt "No.11/Sex"
+msgid "Male"
+msgstr "Varón"
+
+#. máximo 16 caracteres; 1 línea(s) de hasta 106 píxeles
+#, fuzzy
+msgctxt "No.11/Age"
+msgid "19 years old"
+msgstr "19 años"
+
+#. máximo 22 caracteres; 1 línea(s) de hasta 194 píxeles
+#, fuzzy
+msgctxt "No.11/Hobby"
+msgid "Studying"
+msgstr "Estudiar"
+
+#. máximo 150 caracteres; 3 línea(s) de hasta 422 píxeles
+#, fuzzy
+msgctxt "No.11/Profile"
+msgid ""
+"Real name: Jun Uzaki. A young man who moved\n"
+"to the city to be with his idol, Jin Uzuki."
+msgstr ""
+"Nombre real: Jun Uzaki. Un joven que se mudó a\n"
+"la ciudad para estar cerca de su ídolo, Jin Uzuki."
+
+#. máximo 16 caracteres; 1 línea(s) de hasta 137 píxeles
+msgctxt "No.12/Name"
+msgid "Stella"
+msgstr ""
+
+#. máximo 6 caracteres; 1 línea(s) de hasta 59 píxeles
+#, fuzzy
+msgctxt "No.12/Sex"
+msgid "Female"
+msgstr "Mujer"
+
+#. máximo 16 caracteres; 1 línea(s) de hasta 106 píxeles
+#, fuzzy
+msgctxt "No.12/Age"
+msgid "67 years old"
+msgstr "67 años"
+
+#. máximo 22 caracteres; 1 línea(s) de hasta 194 píxeles
+#, fuzzy
+msgctxt "No.12/Hobby"
+msgid "Antique art"
+msgstr "Arte antiguo"
+
+#. máximo 150 caracteres; 3 línea(s) de hasta 422 píxeles
+#, fuzzy
+msgctxt "No.12/Profile"
+msgid ""
+"A once famous ballerina, now living out a quiet\n"
+"retirement on Second Miltia. Enjoys talking with\n"
+"the former singer Kate."
+msgstr ""
+"Una bailarina antes famosa que ahora vive un\n"
+"retiro tranquilo en Segunda Miltia. Le gusta\n"
+"charlar con Kate, la ex cantante."
+
+#. máximo 16 caracteres; 1 línea(s) de hasta 137 píxeles
+msgctxt "No.13/Name"
+msgid "Bonny"
+msgstr ""
+
+#. máximo 6 caracteres; 1 línea(s) de hasta 59 píxeles
+#, fuzzy
+msgctxt "No.13/Sex"
+msgid "Female"
+msgstr "Mujer"
+
+#. máximo 16 caracteres; 1 línea(s) de hasta 106 píxeles
+#, fuzzy
+msgctxt "No.13/Age"
+msgid "28 years old"
+msgstr "28 años"
+
+#. máximo 22 caracteres; 1 línea(s) de hasta 194 píxeles
+#, fuzzy
+msgctxt "No.13/Hobby"
+msgid "Stealing things"
+msgstr "Robar cosas"
+
+#. máximo 150 caracteres; 3 línea(s) de hasta 422 píxeles
+#, fuzzy
+msgctxt "No.13/Profile"
+msgid ""
+"Master thief of Miltian space. Contrary to\n"
+"popular belief, she's actually pretty careless."
+msgstr ""
+"La gran ladrona del espacio de Miltia. Aunque\n"
+"nadie lo cree, en realidad es bastante\n"
+"descuidada."
+
+#. máximo 16 caracteres; 1 línea(s) de hasta 137 píxeles
+msgctxt "No.14/Name"
+msgid "Hirad"
+msgstr ""
+
+#. máximo 6 caracteres; 1 línea(s) de hasta 59 píxeles
+#, fuzzy
+msgctxt "No.14/Sex"
+msgid "Male"
+msgstr "Varón"
+
+#. máximo 16 caracteres; 1 línea(s) de hasta 106 píxeles
+#, fuzzy
+msgctxt "No.14/Age"
+msgid "36 years old"
+msgstr "36 años"
+
+#. máximo 22 caracteres; 1 línea(s) de hasta 194 píxeles
+#, fuzzy
+msgctxt "No.14/Hobby"
+msgid "Taking long drives"
+msgstr "Viajes largos en auto"
+
+#. máximo 150 caracteres; 3 línea(s) de hasta 422 píxeles
+#, fuzzy
+msgctxt "No.14/Profile"
+msgid ""
+"A doctor on Second Miltia who just chats with\n"
+"the elderly. He is also an avid botanist."
+msgstr ""
+"Un médico de Segunda Miltia que solo charla con\n"
+"los ancianos. También es un botánico\n"
+"apasionado."
+
+#. máximo 16 caracteres; 1 línea(s) de hasta 137 píxeles
+msgctxt "No.15/Name"
+msgid "Kramer"
+msgstr ""
+
+#. máximo 6 caracteres; 1 línea(s) de hasta 59 píxeles
+#, fuzzy
+msgctxt "No.15/Sex"
+msgid "Male"
+msgstr "Varón"
+
+#. máximo 16 caracteres; 1 línea(s) de hasta 106 píxeles
+#, fuzzy
+msgctxt "No.15/Age"
+msgid "26 years old"
+msgstr "26 años"
+
+#. máximo 22 caracteres; 1 línea(s) de hasta 194 píxeles
+#, fuzzy
+msgctxt "No.15/Hobby"
+msgid "Listening to music"
+msgstr "Escuchar música"
+
+#. máximo 150 caracteres; 3 línea(s) de hasta 422 píxeles
+#, fuzzy
+msgctxt "No.15/Profile"
+msgid ""
+"He works day and night so he can follow the\n"
+"Seraphim Sisters around on tour."
+msgstr ""
+"Trabaja día y noche para poder seguir a las\n"
+"Seraphim Sisters en sus giras."
+
+#. máximo 16 caracteres; 1 línea(s) de hasta 137 píxeles
+msgctxt "No.16/Name"
+msgid "Pickett"
+msgstr ""
+
+#. máximo 6 caracteres; 1 línea(s) de hasta 59 píxeles
+#, fuzzy
+msgctxt "No.16/Sex"
+msgid "Male"
+msgstr "Varón"
+
+#. máximo 16 caracteres; 1 línea(s) de hasta 106 píxeles
+#, fuzzy
+msgctxt "No.16/Age"
+msgid "12 years old"
+msgstr "12 años"
+
+#. máximo 22 caracteres; 1 línea(s) de hasta 194 píxeles
+#, fuzzy
+msgctxt "No.16/Hobby"
+msgid "Reading"
+msgstr "Leer"
+
+#. máximo 150 caracteres; 3 línea(s) de hasta 422 píxeles
+#, fuzzy
+msgctxt "No.16/Profile"
+msgid ""
+"He's too nice for his own good. He thinks Kramer\n"
+"is his friend, but Kramer has other ideas..."
+msgstr ""
+"Es demasiado bueno para su propio bien. Cree\n"
+"que Kramer es su amigo, pero Kramer tiene otros\n"
+"planes..."
+
+#. máximo 16 caracteres; 1 línea(s) de hasta 137 píxeles
+msgctxt "No.17/Name"
+msgid "Punch"
+msgstr ""
+
+#. máximo 6 caracteres; 1 línea(s) de hasta 59 píxeles
+#, fuzzy
+msgctxt "No.17/Sex"
+msgid "Male"
+msgstr "Varón"
+
+#. máximo 16 caracteres; 1 línea(s) de hasta 106 píxeles
+#, fuzzy
+msgctxt "No.17/Age"
+msgid "49 years old"
+msgstr "49 años"
+
+#. máximo 22 caracteres; 1 línea(s) de hasta 194 píxeles
+#, fuzzy
+msgctxt "No.17/Hobby"
+msgid "Devotion to food"
+msgstr "Gastronomía"
+
+#. máximo 150 caracteres; 3 línea(s) de hasta 422 píxeles
+#, fuzzy
+msgctxt "No.17/Profile"
+msgid ""
+"A disciple of delicacies. Once a master chef, he\n"
+"now seeks the taste of truth at the Ironman."
+msgstr ""
+"Discípulo de los manjares. Fue un gran chef y\n"
+"ahora busca el sabor de la verdad en el Ironman."
+
+#. máximo 16 caracteres; 1 línea(s) de hasta 137 píxeles
+msgctxt "No.18/Name"
+msgid "ADONIS"
+msgstr ""
+
+#. máximo 16 caracteres; 1 línea(s) de hasta 106 píxeles
+#, fuzzy
+msgctxt "No.18/Age"
+msgid "23 days old"
+msgstr "23 días"
+
+#. máximo 22 caracteres; 1 línea(s) de hasta 194 píxeles
+#, fuzzy
+msgctxt "No.18/Hobby"
+msgid "Karaoke"
+msgstr "Karaoke"
+
+#. máximo 150 caracteres; 3 línea(s) de hasta 422 píxeles
+#, fuzzy
+msgctxt "No.18/Profile"
+msgid ""
+"Elsa's self-proclaimed \"cool\" bartender, still\n"
+"worried about Matthews' next binge."
+msgstr ""
+"El barman \"cool\" autoproclamado del Elsa,\n"
+"siempre preocupado por la próxima borrachera\n"
+"de Matthews."
+
+#. máximo 16 caracteres; 1 línea(s) de hasta 137 píxeles
+msgctxt "No.19/Name"
+msgid "Clive"
+msgstr ""
+
+#. máximo 6 caracteres; 1 línea(s) de hasta 59 píxeles
+#, fuzzy
+msgctxt "No.19/Sex"
+msgid "Male"
+msgstr "Varón"
+
+#. máximo 16 caracteres; 1 línea(s) de hasta 106 píxeles
+#, fuzzy
+msgctxt "No.19/Age"
+msgid "18 years old"
+msgstr "18 años"
+
+#. máximo 22 caracteres; 1 línea(s) de hasta 194 píxeles
+#, fuzzy
+msgctxt "No.19/Hobby"
+msgid "Fishing"
+msgstr "Pescar"
+
+#. máximo 150 caracteres; 3 línea(s) de hasta 422 píxeles
+#, fuzzy
+msgctxt "No.19/Profile"
+msgid ""
+"King's new lackey. In King's eyes, Clive ranks\n"
+"under Josephine."
+msgstr ""
+"El nuevo lacayo de King. Para King, Clive está\n"
+"por debajo de Josephine."
+
+#. máximo 16 caracteres; 1 línea(s) de hasta 137 píxeles
+msgctxt "No.20/Name"
+msgid "Johnny"
+msgstr ""
+
+#. máximo 6 caracteres; 1 línea(s) de hasta 59 píxeles
+#, fuzzy
+msgctxt "No.20/Sex"
+msgid "Male"
+msgstr "Varón"
+
+#. máximo 16 caracteres; 1 línea(s) de hasta 106 píxeles
+#, fuzzy
+msgctxt "No.20/Age"
+msgid "25 years old"
+msgstr "25 años"
+
+#. máximo 22 caracteres; 1 línea(s) de hasta 194 píxeles
+#, fuzzy
+msgctxt "No.20/Hobby"
+msgid "Inventing things"
+msgstr "Inventar cosas"
+
+#. máximo 150 caracteres; 3 línea(s) de hasta 422 píxeles
+#, fuzzy
+msgctxt "No.20/Profile"
+msgid ""
+"King's former henchman. He is thinking up crazy\n"
+"ideas to make the Smile Bakery a success."
+msgstr ""
+"Ex secuaz de King. Piensa ideas locas para que la\n"
+"Panadería Smile sea un éxito."
+
+#. máximo 16 caracteres; 1 línea(s) de hasta 137 píxeles
+msgctxt "No.21/Name"
+msgid "Pitt"
+msgstr ""
+
+#. máximo 6 caracteres; 1 línea(s) de hasta 59 píxeles
+#, fuzzy
+msgctxt "No.21/Sex"
+msgid "Male"
+msgstr "Varón"
+
+#. máximo 16 caracteres; 1 línea(s) de hasta 106 píxeles
+#, fuzzy
+msgctxt "No.21/Age"
+msgid "36 years old"
+msgstr "36 años"
+
+#. máximo 22 caracteres; 1 línea(s) de hasta 194 píxeles
+#, fuzzy
+msgctxt "No.21/Hobby"
+msgid "Playing with his kid"
+msgstr "Jugar con su hijo"
+
+#. máximo 150 caracteres; 3 línea(s) de hasta 422 píxeles
+#, fuzzy
+msgctxt "No.21/Profile"
+msgid ""
+"A Vector Second Division engineer who wants to\n"
+"show his son what he does at work."
+msgstr ""
+"Un ingeniero de la Segunda División de Vector\n"
+"que quiere mostrarle a su hijo lo que hace en el\n"
+"trabajo."
+
+#. máximo 16 caracteres; 1 línea(s) de hasta 137 píxeles
+msgctxt "No.22/Name"
+msgid "Mina"
+msgstr ""
+
+#. máximo 6 caracteres; 1 línea(s) de hasta 59 píxeles
+#, fuzzy
+msgctxt "No.22/Sex"
+msgid "Female"
+msgstr "Mujer"
+
+#. máximo 16 caracteres; 1 línea(s) de hasta 106 píxeles
+#, fuzzy
+msgctxt "No.22/Age"
+msgid "18 years old"
+msgstr "18 años"
+
+#. máximo 22 caracteres; 1 línea(s) de hasta 194 píxeles
+#, fuzzy
+msgctxt "No.22/Hobby"
+msgid "Being nosy"
+msgstr "Chismear"
+
+#. máximo 150 caracteres; 3 línea(s) de hasta 422 píxeles
+#, fuzzy
+msgctxt "No.22/Profile"
+msgid ""
+"Smile Bakery's main attraction. She seems to\n"
+"have problems with Johnny, but no one\n"
+"understands him better."
+msgstr ""
+"La estrella de la Panadería Smile. Parece tener\n"
+"problemas con Johnny, pero nadie lo entiende\n"
+"mejor que ella."
+
+#. máximo 16 caracteres; 1 línea(s) de hasta 137 píxeles
+msgctxt "No.23/Name"
+msgid "Farouk"
+msgstr ""
+
+#. máximo 6 caracteres; 1 línea(s) de hasta 59 píxeles
+#, fuzzy
+msgctxt "No.23/Sex"
+msgid "Male"
+msgstr "Varón"
+
+#. máximo 16 caracteres; 1 línea(s) de hasta 106 píxeles
+#, fuzzy
+msgctxt "No.23/Age"
+msgid "49 years old"
+msgstr "49 años"
+
+#. máximo 22 caracteres; 1 línea(s) de hasta 194 píxeles
+#, fuzzy
+msgctxt "No.23/Hobby"
+msgid "Making new breads"
+msgstr "Inventar panes"
+
+#. máximo 150 caracteres; 3 línea(s) de hasta 422 píxeles
+#, fuzzy
+msgctxt "No.23/Profile"
+msgid ""
+"Mina's father and the owner of Smile Bakery.\n"
+"He's impressed by Johnny's tireless devotion."
+msgstr ""
+"El padre de Mina y dueño de la Panadería Smile.\n"
+"Le impresiona la dedicación incansable de\n"
+"Johnny."
+
+#. máximo 16 caracteres; 1 línea(s) de hasta 137 píxeles
+msgctxt "No.24/Name"
+msgid "Camille"
+msgstr ""
+
+#. máximo 6 caracteres; 1 línea(s) de hasta 59 píxeles
+#, fuzzy
+msgctxt "No.24/Sex"
+msgid "Female"
+msgstr "Mujer"
+
+#. máximo 16 caracteres; 1 línea(s) de hasta 106 píxeles
+#, fuzzy
+msgctxt "No.24/Age"
+msgid "34 years old"
+msgstr "34 años"
+
+#. máximo 22 caracteres; 1 línea(s) de hasta 194 píxeles
+#, fuzzy
+msgctxt "No.24/Hobby"
+msgid "Gardening"
+msgstr "Jardinería"
+
+#. máximo 150 caracteres; 3 línea(s) de hasta 422 píxeles
+#, fuzzy
+msgctxt "No.24/Profile"
+msgid ""
+"Supposedly helps repair roofs. Notorious in the\n"
+"Foundation for being a nosy old bag."
+msgstr ""
+"Supuestamente ayuda a reparar techos. Famosa\n"
+"en la Fundación por ser una vieja chismosa."
+
+#. máximo 16 caracteres; 1 línea(s) de hasta 137 píxeles
+#, fuzzy
+msgctxt "No.25/Name"
+msgid "Other Professor"
+msgstr "El Otro Profesor"
+
+#. máximo 6 caracteres; 1 línea(s) de hasta 59 píxeles
+#, fuzzy
+msgctxt "No.25/Sex"
+msgid "Male"
+msgstr "Varón"
+
+#. máximo 16 caracteres; 1 línea(s) de hasta 106 píxeles
+#, fuzzy
+msgctxt "No.25/Age"
+msgid "64 years old"
+msgstr "64 años"
+
+#. máximo 22 caracteres; 1 línea(s) de hasta 194 píxeles
+#, fuzzy
+msgctxt "No.25/Hobby"
+msgid "Research"
+msgstr "Investigar"
+
+#. máximo 150 caracteres; 3 línea(s) de hasta 422 píxeles
+#, fuzzy
+msgctxt "No.25/Profile"
+msgid ""
+"Busy researching the Forbidden Device. Once\n"
+"experimented with biological transport using the\n"
+"U.M.N."
+msgstr ""
+"Investiga el Dispositivo Prohibido. Una vez\n"
+"experimentó con el transporte biológico a\n"
+"través de la U.M.N."
+
+#. máximo 16 caracteres; 1 línea(s) de hasta 137 píxeles
+msgctxt "No.26/Name"
+msgid "Margoyles"
+msgstr ""
+
+#. máximo 6 caracteres; 1 línea(s) de hasta 59 píxeles
+#, fuzzy
+msgctxt "No.26/Sex"
+msgid "Male"
+msgstr "Varón"
+
+#. máximo 16 caracteres; 1 línea(s) de hasta 106 píxeles
+#, fuzzy
+msgctxt "No.26/Age"
+msgid "65 years old"
+msgstr "65 años"
+
+#. máximo 22 caracteres; 1 línea(s) de hasta 194 píxeles
+#, fuzzy
+msgctxt "No.26/Hobby"
+msgid "Art appreciation"
+msgstr "Apreciar el arte"
+
+#. máximo 150 caracteres; 3 línea(s) de hasta 422 píxeles
+#, fuzzy
+msgctxt "No.26/Profile"
+msgid ""
+"Composer for the Iron series who is relaxing at\n"
+"the Foundation to get over a recent slump."
+msgstr ""
+"Compositor de la serie Iron que descansa en la\n"
+"Fundación para superar una crisis creativa."
+
+#. máximo 16 caracteres; 1 línea(s) de hasta 137 píxeles
+msgctxt "No.27/Name"
+msgid "SPUMONI"
+msgstr ""
+
+#. máximo 16 caracteres; 1 línea(s) de hasta 106 píxeles
+#, fuzzy
+msgctxt "No.27/Age"
+msgid "18 days old"
+msgstr "18 días"
+
+#. máximo 22 caracteres; 1 línea(s) de hasta 194 píxeles
+#, fuzzy
+msgctxt "No.27/Hobby"
+msgid "Fixing machines"
+msgstr "Arreglar máquinas"
+
+#. máximo 150 caracteres; 3 línea(s) de hasta 422 píxeles
+#, fuzzy
+msgctxt "No.27/Profile"
+msgid ""
+"ZAZA's best friend and the second nicest droid\n"
+"on the Elsa. The nicest is ZAZA."
+msgstr ""
+"El mejor amigo de ZAZA y el segundo droide más\n"
+"amable del Elsa. El más amable es ZAZA."
+
+#. máximo 16 caracteres; 1 línea(s) de hasta 137 píxeles
+msgctxt "No.28/Name"
+msgid "Layla"
+msgstr ""
+
+#. máximo 6 caracteres; 1 línea(s) de hasta 59 píxeles
+#, fuzzy
+msgctxt "No.28/Sex"
+msgid "Female"
+msgstr "Mujer"
+
+#. máximo 16 caracteres; 1 línea(s) de hasta 106 píxeles
+#, fuzzy
+msgctxt "No.28/Age"
+msgid "8 years old"
+msgstr "8 años"
+
+#. máximo 22 caracteres; 1 línea(s) de hasta 194 píxeles
+#, fuzzy
+msgctxt "No.28/Hobby"
+msgid "Cleaning"
+msgstr "Limpiar"
+
+#. máximo 150 caracteres; 3 línea(s) de hasta 422 píxeles
+#, fuzzy
+msgctxt "No.28/Profile"
+msgid ""
+"She has been single-handedly running OUR\n"
+"TREASURE since the Gnosis killed her parents."
+msgstr ""
+"Lleva Our Treasure ella sola desde que los Gnosis\n"
+"mataron a sus padres."
+
+#. máximo 16 caracteres; 1 línea(s) de hasta 137 píxeles
+msgctxt "No.29/Name"
+msgid "Janet"
+msgstr ""
+
+#. máximo 6 caracteres; 1 línea(s) de hasta 59 píxeles
+#, fuzzy
+msgctxt "No.29/Sex"
+msgid "Female"
+msgstr "Mujer"
+
+#. máximo 16 caracteres; 1 línea(s) de hasta 106 píxeles
+#, fuzzy
+msgctxt "No.29/Age"
+msgid "24 years old"
+msgstr "24 años"
+
+#. máximo 22 caracteres; 1 línea(s) de hasta 194 píxeles
+#, fuzzy
+msgctxt "No.29/Hobby"
+msgid "Traveling"
+msgstr "Viajar"
+
+#. máximo 150 caracteres; 3 línea(s) de hasta 422 píxeles
+#, fuzzy
+msgctxt "No.29/Profile"
+msgid ""
+"Runaway daughter of the previous mayor of the\n"
+"Foundation. She is now the Other Professor's\n"
+"research assistant."
+msgstr ""
+"Hija fugitiva del anterior alcalde de la\n"
+"Fundación. Ahora es la asistente de\n"
+"investigación del Otro Profesor."
+
+#. máximo 16 caracteres; 1 línea(s) de hasta 137 píxeles
+msgctxt "No.30/Name"
+msgid "Sidney"
+msgstr ""
+
+#. máximo 6 caracteres; 1 línea(s) de hasta 59 píxeles
+#, fuzzy
+msgctxt "No.30/Sex"
+msgid "Male"
+msgstr "Varón"
+
+#. máximo 16 caracteres; 1 línea(s) de hasta 106 píxeles
+#, fuzzy
+msgctxt "No.30/Age"
+msgid "21 years old"
+msgstr "21 años"
+
+#. máximo 22 caracteres; 1 línea(s) de hasta 194 píxeles
+#, fuzzy
+msgctxt "No.30/Hobby"
+msgid "Picking up women"
+msgstr "Conquistar mujeres"
+
+#. máximo 150 caracteres; 3 línea(s) de hasta 422 píxeles
+#, fuzzy
+msgctxt "No.30/Profile"
+msgid ""
+"A lonely drifter. He fell for Jacqueline on Second\n"
+"Miltia, but left without saying a word."
+msgstr ""
+"Un vagabundo solitario. Se enamoró de\n"
+"Jacqueline en Segunda Miltia, pero se fue sin\n"
+"decir nada."
+
+#. máximo 16 caracteres; 1 línea(s) de hasta 137 píxeles
+msgctxt "No.31/Name"
+msgid "Glenn"
+msgstr ""
+
+#. máximo 6 caracteres; 1 línea(s) de hasta 59 píxeles
+#, fuzzy
+msgctxt "No.31/Sex"
+msgid "Male"
+msgstr "Varón"
+
+#. máximo 16 caracteres; 1 línea(s) de hasta 106 píxeles
+#, fuzzy
+msgctxt "No.31/Age"
+msgid "30 years old"
+msgstr "30 años"
+
+#. máximo 22 caracteres; 1 línea(s) de hasta 194 píxeles
+#, fuzzy
+msgctxt "No.31/Hobby"
+msgid "Going for drives"
+msgstr "Salir a manejar"
+
+#. máximo 150 caracteres; 3 línea(s) de hasta 422 píxeles
+#, fuzzy
+msgctxt "No.31/Profile"
+msgid ""
+"A nanomachine engineer at the Water Works.\n"
+"He knows all there is about water filtration."
+msgstr ""
+"Un ingeniero de nanomáquinas del Servicio de\n"
+"Aguas. Sabe todo sobre la filtración del agua."
+
+#. máximo 16 caracteres; 1 línea(s) de hasta 137 píxeles
+msgctxt "No.32/Name"
+msgid "Emelia"
+msgstr ""
+
+#. máximo 6 caracteres; 1 línea(s) de hasta 59 píxeles
+#, fuzzy
+msgctxt "No.32/Sex"
+msgid "Female"
+msgstr "Mujer"
+
+#. máximo 16 caracteres; 1 línea(s) de hasta 106 píxeles
+#, fuzzy
+msgctxt "No.32/Age"
+msgid "16 years old"
+msgstr "16 años"
+
+#. máximo 22 caracteres; 1 línea(s) de hasta 194 píxeles
+#, fuzzy
+msgctxt "No.32/Hobby"
+msgid "Finding date spots"
+msgstr "Lugares para citas"
+
+#. máximo 150 caracteres; 3 línea(s) de hasta 422 píxeles
+#, fuzzy
+msgctxt "No.32/Profile"
+msgid ""
+"A young girl from Second Miltia who has found\n"
+"every romantic spot in Miltian space."
+msgstr ""
+"Una jovencita de Segunda Miltia que conoce\n"
+"cada lugar romántico del espacio de Miltia."
+
+#. máximo 16 caracteres; 1 línea(s) de hasta 137 píxeles
+msgctxt "No.33/Name"
+msgid "Roy"
+msgstr ""
+
+#. máximo 6 caracteres; 1 línea(s) de hasta 59 píxeles
+#, fuzzy
+msgctxt "No.33/Sex"
+msgid "Male"
+msgstr "Varón"
+
+#. máximo 16 caracteres; 1 línea(s) de hasta 106 píxeles
+#, fuzzy
+msgctxt "No.33/Age"
+msgid "85 years old"
+msgstr "85 años"
+
+#. máximo 22 caracteres; 1 línea(s) de hasta 194 píxeles
+#, fuzzy
+msgctxt "No.33/Hobby"
+msgid "Lecturing people"
+msgstr "Dar sermones"
+
+#. máximo 150 caracteres; 3 línea(s) de hasta 422 píxeles
+#, fuzzy
+msgctxt "No.33/Profile"
+msgid ""
+"An old man who randomly yells out math\n"
+"problems at people on the street. Some think\n"
+"they hold a hidden meaning."
+msgstr ""
+"Un viejo que les grita problemas de matemáticas\n"
+"a los que pasan por la calle. Algunos creen que\n"
+"esconden un sentido oculto."
+
+#. máximo 16 caracteres; 1 línea(s) de hasta 137 píxeles
+#, fuzzy
+msgctxt "No.34/Name"
+msgid "Assistant Scott"
+msgstr "Asistente Scott"
+
+#. máximo 6 caracteres; 1 línea(s) de hasta 59 píxeles
+#, fuzzy
+msgctxt "No.34/Sex"
+msgid "Male"
+msgstr "Varón"
+
+#. máximo 16 caracteres; 1 línea(s) de hasta 106 píxeles
+#, fuzzy
+msgctxt "No.34/Age"
+msgid "27 years old"
+msgstr "27 años"
+
+#. máximo 22 caracteres; 1 línea(s) de hasta 194 píxeles
+#, fuzzy
+msgctxt "No.34/Hobby"
+msgid "Enjoying good drinks"
+msgstr "Los buenos tragos"
+
+#. máximo 150 caracteres; 3 línea(s) de hasta 422 píxeles
+#, fuzzy
+msgctxt "No.34/Profile"
+msgid ""
+"While caught up in the schemes of the Professor,\n"
+"he somehow joined the crew of the Elsa."
+msgstr ""
+"Por enredarse en los planes del Profesor, terminó\n"
+"de algún modo en la tripulación del Elsa."
+
+#. máximo 16 caracteres; 1 línea(s) de hasta 137 píxeles
+msgctxt "No.35/Name"
+msgid "Caito"
+msgstr ""
+
+#. máximo 6 caracteres; 1 línea(s) de hasta 59 píxeles
+#, fuzzy
+msgctxt "No.35/Sex"
+msgid "Male"
+msgstr "Varón"
+
+#. máximo 16 caracteres; 1 línea(s) de hasta 106 píxeles
+#, fuzzy
+msgctxt "No.35/Age"
+msgid "41 years old"
+msgstr "41 años"
+
+#. máximo 22 caracteres; 1 línea(s) de hasta 194 píxeles
+#, fuzzy
+msgctxt "No.35/Hobby"
+msgid "Sleeping"
+msgstr "Dormir"
+
+#. máximo 150 caracteres; 3 línea(s) de hasta 422 píxeles
+#, fuzzy
+msgctxt "No.35/Profile"
+msgid ""
+"The owner of the Ironman Bar. Macho, romantic,\n"
+"and has one heck of a maid fetish."
+msgstr ""
+"El dueño del bar Ironman. Macho, romántico y\n"
+"con un fetiche tremendo por las sirvientas."
+
+#. máximo 16 caracteres; 1 línea(s) de hasta 137 píxeles
+msgctxt "No.36/Name"
+msgid "Etsuko"
+msgstr ""
+
+#. máximo 6 caracteres; 1 línea(s) de hasta 59 píxeles
+#, fuzzy
+msgctxt "No.36/Sex"
+msgid "Female"
+msgstr "Mujer"
+
+#. máximo 16 caracteres; 1 línea(s) de hasta 106 píxeles
+#, fuzzy
+msgctxt "No.36/Age"
+msgid "34 years old"
+msgstr "34 años"
+
+#. máximo 22 caracteres; 1 línea(s) de hasta 194 píxeles
+#, fuzzy
+msgctxt "No.36/Hobby"
+msgid "Cooking"
+msgstr "Cocinar"
+
+#. máximo 150 caracteres; 3 línea(s) de hasta 422 píxeles
+#, fuzzy
+msgctxt "No.36/Profile"
+msgid ""
+"Butch's realistic better half is always yelling at\n"
+"him, but she loves him with all her heart."
+msgstr ""
+"La realista media naranja de Butch. Siempre le\n"
+"está gritando, pero lo ama con todo su corazón."
+
+#. máximo 16 caracteres; 1 línea(s) de hasta 137 píxeles
+msgctxt "No.37/Name"
+msgid "Simon"
+msgstr ""
+
+#. máximo 6 caracteres; 1 línea(s) de hasta 59 píxeles
+#, fuzzy
+msgctxt "No.37/Sex"
+msgid "Male"
+msgstr "Varón"
+
+#. máximo 16 caracteres; 1 línea(s) de hasta 106 píxeles
+#, fuzzy
+msgctxt "No.37/Age"
+msgid "12 years old"
+msgstr "12 años"
+
+#. máximo 22 caracteres; 1 línea(s) de hasta 194 píxeles
+#, fuzzy
+msgctxt "No.37/Hobby"
+msgid "Solving riddles"
+msgstr "Resolver acertijos"
+
+#. máximo 150 caracteres; 3 línea(s) de hasta 422 píxeles
+#, fuzzy
+msgctxt "No.37/Profile"
+msgid ""
+"This trivia master was stumped by the\n"
+"Foundation's quiz game, so he's looking for some\n"
+"help."
+msgstr ""
+"Este maestro del saber no pudo con el juego de\n"
+"preguntas de la Fundación, así que busca ayuda."
+
+#. máximo 16 caracteres; 1 línea(s) de hasta 137 píxeles
+msgctxt "No.38/Name"
+msgid "KAMIKAZE"
+msgstr ""
+
+#. máximo 16 caracteres; 1 línea(s) de hasta 106 píxeles
+#, fuzzy
+msgctxt "No.38/Age"
+msgid "18 days old"
+msgstr "18 días"
+
+#. máximo 22 caracteres; 1 línea(s) de hasta 194 píxeles
+#, fuzzy
+msgctxt "No.38/Hobby"
+msgid "Picking up trash"
+msgstr "Juntar basura"
+
+#. máximo 150 caracteres; 3 línea(s) de hasta 422 píxeles
+#, fuzzy
+msgctxt "No.38/Profile"
+msgid ""
+"Wants to open a shop on the Elsa, even though\n"
+"only a few crew members ever come on board."
+msgstr ""
+"Quiere abrir una tienda en el Elsa, aunque casi\n"
+"ningún tripulante sube a bordo."
+
+#. máximo 16 caracteres; 1 línea(s) de hasta 137 píxeles
+#, fuzzy
+msgctxt "No.39/Name"
+msgid "Boss"
+msgstr "Jefe"
+
+#. máximo 6 caracteres; 1 línea(s) de hasta 59 píxeles
+#, fuzzy
+msgctxt "No.39/Sex"
+msgid "Male"
+msgstr "Varón"
+
+#. máximo 16 caracteres; 1 línea(s) de hasta 106 píxeles
+#, fuzzy
+msgctxt "No.39/Age"
+msgid "41 years old"
+msgstr "41 años"
+
+#. máximo 22 caracteres; 1 línea(s) de hasta 194 píxeles
+#, fuzzy
+msgctxt "No.39/Hobby"
+msgid "Playing guitar"
+msgstr "Tocar la guitarra"
+
+#. máximo 150 caracteres; 3 línea(s) de hasta 422 píxeles
+#, fuzzy
+msgctxt "No.39/Profile"
+msgid ""
+"The owner of Moby Dick's Café and master of\n"
+"curry. He taught Shion everything she knows."
+msgstr ""
+"El dueño del Moby Dick's Café y maestro del\n"
+"curry. Le enseñó a Shion todo lo que sabe."
+
+#. máximo 16 caracteres; 1 línea(s) de hasta 137 píxeles
+msgctxt "No.40/Name"
+msgid "Winona"
+msgstr ""
+
+#. máximo 6 caracteres; 1 línea(s) de hasta 59 píxeles
+#, fuzzy
+msgctxt "No.40/Sex"
+msgid "Female"
+msgstr "Mujer"
+
+#. máximo 16 caracteres; 1 línea(s) de hasta 106 píxeles
+#, fuzzy
+msgctxt "No.40/Age"
+msgid "34 years old"
+msgstr "34 años"
+
+#. máximo 22 caracteres; 1 línea(s) de hasta 194 píxeles
+#, fuzzy
+msgctxt "No.40/Hobby"
+msgid "Skin care"
+msgstr "Cuidar su piel"
+
+#. máximo 150 caracteres; 3 línea(s) de hasta 422 píxeles
+#, fuzzy
+msgctxt "No.40/Profile"
+msgid ""
+"A wannabe beauty queen past her prime who\n"
+"thinks she can win the title of Miss Miltia. The\n"
+"only person standing in her way is Shion."
+msgstr ""
+"Una aspirante a reina de belleza ya pasada de\n"
+"edad que cree que puede ganar Miss Miltia. Su\n"
+"única rival es Shion."
+
+#. máximo 16 caracteres; 1 línea(s) de hasta 137 píxeles
+msgctxt "No.41/Name"
+msgid "Carlos"
+msgstr ""
+
+#. máximo 6 caracteres; 1 línea(s) de hasta 59 píxeles
+#, fuzzy
+msgctxt "No.41/Sex"
+msgid "Male"
+msgstr "Varón"
+
+#. máximo 16 caracteres; 1 línea(s) de hasta 106 píxeles
+#, fuzzy
+msgctxt "No.41/Age"
+msgid "18 years old"
+msgstr "18 años"
+
+#. máximo 22 caracteres; 1 línea(s) de hasta 194 píxeles
+#, fuzzy
+msgctxt "No.41/Hobby"
+msgid "Swimming"
+msgstr "Nadar"
+
+#. máximo 150 caracteres; 3 línea(s) de hasta 422 píxeles
+#, fuzzy
+msgctxt "No.41/Profile"
+msgid ""
+"A struggling comic. He can never get a date\n"
+"because the girls see right through him."
+msgstr ""
+"Un comediante con pocos éxitos. Nunca\n"
+"consigue citas porque las chicas lo descubren\n"
+"enseguida."
+
+#. máximo 16 caracteres; 1 línea(s) de hasta 137 píxeles
+msgctxt "No.42/Name"
+msgid "Mickey"
+msgstr ""
+
+#. máximo 6 caracteres; 1 línea(s) de hasta 59 píxeles
+#, fuzzy
+msgctxt "No.42/Sex"
+msgid "Male"
+msgstr "Varón"
+
+#. máximo 16 caracteres; 1 línea(s) de hasta 106 píxeles
+#, fuzzy
+msgctxt "No.42/Age"
+msgid "34 years old"
+msgstr "34 años"
+
+#. máximo 22 caracteres; 1 línea(s) de hasta 194 píxeles
+#, fuzzy
+msgctxt "No.42/Hobby"
+msgid "Paper craft"
+msgstr "Papiroflexia"
+
+#. máximo 150 caracteres; 3 línea(s) de hasta 422 píxeles
+#, fuzzy
+msgctxt "No.42/Profile"
+msgid ""
+"Mallory's husband. He thinks his wife is\n"
+"absent-minded, but he's not too sharp himself."
+msgstr ""
+"El esposo de Mallory. Cree que su esposa es\n"
+"distraída, pero él tampoco es muy listo."
+
+#. máximo 16 caracteres; 1 línea(s) de hasta 137 píxeles
+msgctxt "No.43/Name"
+msgid "Luty"
+msgstr ""
+
+#. máximo 6 caracteres; 1 línea(s) de hasta 59 píxeles
+#, fuzzy
+msgctxt "No.43/Sex"
+msgid "Female"
+msgstr "Mujer"
+
+#. máximo 16 caracteres; 1 línea(s) de hasta 106 píxeles
+#, fuzzy
+msgctxt "No.43/Age"
+msgid "12 years old"
+msgstr "12 años"
+
+#. máximo 22 caracteres; 1 línea(s) de hasta 194 píxeles
+#, fuzzy
+msgctxt "No.43/Hobby"
+msgid "Pressed flowers"
+msgstr "Flores prensadas"
+
+#. máximo 150 caracteres; 3 línea(s) de hasta 422 píxeles
+#, fuzzy
+msgctxt "No.43/Profile"
+msgid ""
+"Luty spoke only after seeing the Ariadne Flower.\n"
+"Now she is a little nurse on Second Miltia."
+msgstr ""
+"Luty volvió a hablar después de ver la Flor de\n"
+"Ariadne. Ahora es una pequeña enfermera de\n"
+"Segunda Miltia."
+
+#. máximo 16 caracteres; 1 línea(s) de hasta 137 píxeles
+msgctxt "No.44/Name"
+msgid "Chop"
+msgstr ""
+
+#. máximo 6 caracteres; 1 línea(s) de hasta 59 píxeles
+#, fuzzy
+msgctxt "No.44/Sex"
+msgid "Male"
+msgstr "Varón"
+
+#. máximo 16 caracteres; 1 línea(s) de hasta 106 píxeles
+#, fuzzy
+msgctxt "No.44/Age"
+msgid "24 years old"
+msgstr "24 años"
+
+#. máximo 22 caracteres; 1 línea(s) de hasta 194 píxeles
+#, fuzzy
+msgctxt "No.44/Hobby"
+msgid "Devotion to food"
+msgstr "Gastronomía"
+
+#. máximo 150 caracteres; 3 línea(s) de hasta 422 píxeles
+#, fuzzy
+msgctxt "No.44/Profile"
+msgid ""
+"Punch's former apprentice. Currently deepening\n"
+"his devotion so he can once again work with his\n"
+"teacher."
+msgstr ""
+"Ex aprendiz de Punch. Ahora profundiza su\n"
+"devoción para volver a trabajar con su maestro."
+
+#. máximo 16 caracteres; 1 línea(s) de hasta 137 píxeles
+msgctxt "No.45/Name"
+msgid "Butch"
+msgstr ""
+
+#. máximo 6 caracteres; 1 línea(s) de hasta 59 píxeles
+#, fuzzy
+msgctxt "No.45/Sex"
+msgid "Male"
+msgstr "Varón"
+
+#. máximo 16 caracteres; 1 línea(s) de hasta 106 píxeles
+#, fuzzy
+msgctxt "No.45/Age"
+msgid "30 years old"
+msgstr "30 años"
+
+#. máximo 22 caracteres; 1 línea(s) de hasta 194 píxeles
+#, fuzzy
+msgctxt "No.45/Hobby"
+msgid "Salvaging scrap"
+msgstr "Rescatar chatarra"
+
+#. máximo 150 caracteres; 3 línea(s) de hasta 422 píxeles
+#, fuzzy
+msgctxt "No.45/Profile"
+msgid ""
+"A dreamer who loves the sea. He believes that\n"
+"even man-made oceans hold sunken treasure."
+msgstr ""
+"Un soñador que ama el mar. Cree que hasta los\n"
+"océanos artificiales esconden tesoros hundidos."
+
+#. máximo 16 caracteres; 1 línea(s) de hasta 137 píxeles
+msgctxt "No.46/Name"
+msgid "Ray"
+msgstr ""
+
+#. máximo 6 caracteres; 1 línea(s) de hasta 59 píxeles
+#, fuzzy
+msgctxt "No.46/Sex"
+msgid "Male"
+msgstr "Varón"
+
+#. máximo 16 caracteres; 1 línea(s) de hasta 106 píxeles
+#, fuzzy
+msgctxt "No.46/Age"
+msgid "27 years old"
+msgstr "27 años"
+
+#. máximo 22 caracteres; 1 línea(s) de hasta 194 píxeles
+#, fuzzy
+msgctxt "No.46/Hobby"
+msgid "Jogging"
+msgstr "Trotar"
+
+#. máximo 150 caracteres; 3 línea(s) de hasta 422 píxeles
+#, fuzzy
+msgctxt "No.46/Profile"
+msgid ""
+"Ciaran's troublemaking friend. Section manager\n"
+"for filtration services at the Water Works."
+msgstr ""
+"El amigo problemático de Ciaran. Jefe de la\n"
+"sección de filtración del Servicio de Aguas."
+
+#. máximo 16 caracteres; 1 línea(s) de hasta 137 píxeles
+msgctxt "No.47/Name"
+msgid "Kate"
+msgstr ""
+
+#. máximo 6 caracteres; 1 línea(s) de hasta 59 píxeles
+#, fuzzy
+msgctxt "No.47/Sex"
+msgid "Female"
+msgstr "Mujer"
+
+#. máximo 16 caracteres; 1 línea(s) de hasta 106 píxeles
+#, fuzzy
+msgctxt "No.47/Age"
+msgid "32 years old"
+msgstr "32 años"
+
+#. máximo 22 caracteres; 1 línea(s) de hasta 194 píxeles
+#, fuzzy
+msgctxt "No.47/Hobby"
+msgid "Cleaning"
+msgstr "Limpiar"
+
+#. máximo 150 caracteres; 3 línea(s) de hasta 422 píxeles
+#, fuzzy
+msgctxt "No.47/Profile"
+msgid ""
+"A singer who stopped performing after she lost\n"
+"her brother in the conflict 14 years ago. She\n"
+"takes care of Stella now."
+msgstr ""
+"Una cantante que dejó de actuar tras perder a\n"
+"su hermano en el conflicto de hace 14 años.\n"
+"Ahora cuida a Stella."
+
+#. máximo 16 caracteres; 1 línea(s) de hasta 137 píxeles
+msgctxt "No.48/Name"
+msgid "PANACHE"
+msgstr ""
+
+#. máximo 16 caracteres; 1 línea(s) de hasta 106 píxeles
+#, fuzzy
+msgctxt "No.48/Age"
+msgid "24 days old"
+msgstr "24 días"
+
+#. máximo 22 caracteres; 1 línea(s) de hasta 194 píxeles
+#, fuzzy
+msgctxt "No.48/Hobby"
+msgid "Droid analysis"
+msgstr "Analizar droides"
+
+#. máximo 150 caracteres; 3 línea(s) de hasta 422 píxeles
+#, fuzzy
+msgctxt "No.48/Profile"
+msgid ""
+"A droid specially made to tune other droids. He is\n"
+"rallying people to help GIMLET."
+msgstr ""
+"Un droide hecho especialmente para ajustar a\n"
+"otros droides. Está reuniendo gente para ayudar\n"
+"a GIMLET."
+
+#. máximo 16 caracteres; 1 línea(s) de hasta 137 píxeles
+msgctxt "No.49/Name"
+msgid "Hugo"
+msgstr ""
+
+#. máximo 6 caracteres; 1 línea(s) de hasta 59 píxeles
+#, fuzzy
+msgctxt "No.49/Sex"
+msgid "Male"
+msgstr "Varón"
+
+#. máximo 16 caracteres; 1 línea(s) de hasta 106 píxeles
+#, fuzzy
+msgctxt "No.49/Age"
+msgid "46 years old"
+msgstr "46 años"
+
+#. máximo 22 caracteres; 1 línea(s) de hasta 194 píxeles
+#, fuzzy
+msgctxt "No.49/Hobby"
+msgid "Knitting"
+msgstr "Tejer"
+
+#. máximo 150 caracteres; 3 línea(s) de hasta 422 píxeles
+#, fuzzy
+msgctxt "No.49/Profile"
+msgid ""
+"Ex-Encephalon engineer. His license was revoked\n"
+"for playing with the Encephalon too much."
+msgstr ""
+"Ex ingeniero del Encéfalo. Le quitaron la licencia\n"
+"por jugar demasiado con el Encéfalo."
+
+#. máximo 16 caracteres; 1 línea(s) de hasta 137 píxeles
+msgctxt "No.50/Name"
+msgid "Mallory"
+msgstr ""
+
+#. máximo 6 caracteres; 1 línea(s) de hasta 59 píxeles
+#, fuzzy
+msgctxt "No.50/Sex"
+msgid "Female"
+msgstr "Mujer"
+
+#. máximo 16 caracteres; 1 línea(s) de hasta 106 píxeles
+#, fuzzy
+msgctxt "No.50/Age"
+msgid "25 years old"
+msgstr "25 años"
+
+#. máximo 22 caracteres; 1 línea(s) de hasta 194 píxeles
+#, fuzzy
+msgctxt "No.50/Hobby"
+msgid "Collecting rings"
+msgstr "Juntar anillos"
+
+#. máximo 150 caracteres; 3 línea(s) de hasta 422 píxeles
+#, fuzzy
+msgctxt "No.50/Profile"
+msgid ""
+"A newlywed airhead. She always loses precious\n"
+"things like her wedding ring from Mickey."
+msgstr ""
+"Una recién casada distraída. Siempre pierde\n"
+"cosas valiosas, como el anillo de bodas que le dio\n"
+"Mickey."

@@ -1,0 +1,783 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Xenosaga Episode II - traducción al español\n"
+"Language: es_419\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Xeno-Source: 0:cf/en/sc4050.sbl\n"
+
+#. habla: Sidney
+#, fuzzy
+msgctxt "#2"
+msgid "What a dump! Aren't there any hot chicks around?"
+msgstr "¡Qué antro! ¿No hay chicas lindas por aquí?"
+
+#. habla: Sidney
+#, fuzzy
+msgctxt "#3"
+msgid "I've always just fooled around, you know. But now even I have found my true love! Oh, Jacqueline...I'd do anything to see you again!"
+msgstr "Siempre fui un mujeriego, ¿sabes? ¡Pero ahora hasta yo encontré a mi verdadero amor! Ay, Jacqueline... ¡Haría cualquier cosa por volver a verte!"
+
+#. habla: Sidney
+#, fuzzy
+msgctxt "#4"
+msgid "What? A letter for me? Oh! It's from Jackie! I don't know why you have a letter from Jackie, but thank you! I've got no time to lose! I'm off to Miltia as soon as I'm ready! Could you let her know that I'm going to see her?"
+msgstr "¿Qué? ¿Una carta para mí? ¡Oh! ¡Es de Jackie! No sé por qué tienes una carta de Jackie, ¡pero gracias! ¡No tengo tiempo que perder! ¡En cuanto esté listo me voy a Miltia! ¿Podrías avisarle que voy a verla?"
+
+#, fuzzy
+msgctxt "#5"
+msgid "You obtained Sidney's Letter!"
+msgstr "¡Obtuviste la Carta de Sidney!"
+
+#. habla: Sidney
+#, fuzzy
+msgctxt "#6"
+msgid "Wait for me, Jackie! Sidney's coming for you!"
+msgstr "¡Espérame, Jackie! ¡Sidney va por ti!"
+
+#. habla: Punch
+#, fuzzy
+msgctxt "#7"
+msgid "Hmm? What, you want to be my apprentice?"
+msgstr "¿Hmm? ¿Qué, quieres ser mi aprendiz?"
+
+#. habla: Punch
+#, fuzzy
+msgctxt "#8"
+msgid "I follow the lonely path of the gourmet. I don't take on apprentices. As soon as you're done eating, get out of here!"
+msgstr "Yo sigo el camino solitario del gourmet. No tomo aprendices. ¡En cuanto termines de comer, vete de aquí!"
+
+#. habla: Punch
+#, fuzzy
+msgctxt "#9"
+msgid "What?! You've brought a recipe from Chop? Show it to me! Hmmm."
+msgstr "¡¿Qué?! ¿Trajiste una receta de Chop? ¡Muéstramela! Hmmm."
+
+#. habla: Punch
+#, fuzzy
+msgctxt "#10"
+msgid "That Chop...I never thought he'd improve this much. Oh, wait! No, this isn't Chop's doing at all! That café owner taught him this. Well, he certainly has some impressive ability!"
+msgstr "Ese Chop... Nunca pensé que mejoraría tanto. ¡Oh, un momento! No, esto no es obra de Chop para nada. Se lo enseñó el dueño de ese café. ¡Bueno, sin duda tiene un talento impresionante!"
+
+#. habla: Punch
+#, fuzzy
+msgctxt "#11"
+msgid "(But, damn, that Chop...he sure got better since the last time I saw him. It's enough to bring a tear to my eye!)"
+msgstr "(Pero, caramba, ese Chop... sí que mejoró desde la última vez que lo vi. ¡Me dan ganas de llorar!)"
+
+#. habla: Alexey
+#, fuzzy
+msgctxt "#12"
+msgid "I've been waiting here for days for a letter to arrive!"
+msgstr "¡Hace días que espero aquí que llegue una carta!"
+
+#. habla: Alexey
+#, fuzzy
+msgctxt "#13"
+msgid "What kind of letter? It's a message from a friend I met through our mutual interest in music."
+msgstr "¿Qué tipo de carta? Es un mensaje de un amigo que conocí porque a los dos nos gusta la música."
+
+#. habla: Alexey
+#, fuzzy
+msgctxt "#14"
+msgid "He said it was a diamond-shaped letter, but nobody uses letters these days. Now I wonder if I've been tricked."
+msgstr "Dijo que era una carta con forma de diamante, pero hoy en día nadie usa cartas. Ahora me pregunto si me engañaron."
+
+#. habla: Alexey
+#, fuzzy
+msgctxt "#15"
+msgid "Hey, a diamond-shaped letter. Is that addressed to me by any chance? If so, please give it to me."
+msgstr "Oye, una carta con forma de diamante. ¿Por casualidad es para mí? Si es así, dámela, por favor."
+
+#. Opciones: una por línea. Mantener 2 líneas en el mismo orden.
+#, fuzzy
+msgctxt "#16"
+msgid ""
+"Hand it over.\n"
+"Don't hand it over."
+msgstr ""
+"Dársela.\n"
+"No dársela."
+
+#. habla: Alexey
+#, fuzzy
+msgctxt "#17"
+msgid "Oh, I knew it! Friendship is such a wonderful thing. ♪"
+msgstr "¡Oh, lo sabía! La amistad es algo maravilloso. ♪"
+
+#. habla: Alexey
+#, fuzzy
+msgctxt "#18"
+msgid "Oh, it's not for me?"
+msgstr "Ah, ¿no es para mí?"
+
+#. habla: Alexey
+#, fuzzy
+msgctxt "#19"
+msgid "That letter you gave me wasn't for me."
+msgstr "Esa carta que me diste no era para mí."
+
+#. habla: Alexey
+#, fuzzy
+msgctxt "#20"
+msgid "That diamond-shaped letter still hasn't come. I guess it was a practical joke."
+msgstr "Esa carta con forma de diamante todavía no llega. Supongo que fue una broma."
+
+#. habla: Nastya
+#, fuzzy
+msgctxt "#21"
+msgid "Yeah, you tell him! The best kind of cat is a cuddly one!"
+msgstr "¡Sí, díselo! ¡Los mejores gatos son los mimosos!"
+
+#. habla: Nastya
+#, fuzzy
+msgctxt "#22"
+msgid "The two of us decided to get a cat, but he keeps insisting on a loner and won't listen to me!"
+msgstr "Los dos decidimos tener un gato, ¡pero él insiste en uno independiente y no me escucha!"
+
+#. habla: Nastya
+#, fuzzy
+msgctxt "#23"
+msgid "Please, you tell Grisham, too! The best kind of cat is a cuddly one!"
+msgstr "¡Por favor, díselo tú también a Grisham! ¡Los mejores gatos son los mimosos!"
+
+#. habla: Nastya
+#, fuzzy
+msgctxt "#24"
+msgid "The two of us decided to get a cat, but he keeps insisting on a loner and won't listen to me!"
+msgstr "Los dos decidimos tener un gato, ¡pero él insiste en uno independiente y no me escucha!"
+
+#. habla: Nastya
+#, fuzzy
+msgctxt "#25"
+msgid "What? You want me to adopt a kitten? Of course I will!"
+msgstr "¿Qué? ¿Quieres que adopte un gatito? ¡Claro que sí!"
+
+#, fuzzy
+msgctxt "#26"
+msgid "You found an owner for Walker!"
+msgstr "¡Encontraste dueños para Walker!"
+
+#. habla: Nastya
+#, fuzzy
+msgctxt "#27"
+msgid "Ahh, I said I wanted a cuddly cat, but I think this one goes a bit overboard."
+msgstr "Ay, dije que quería un gato mimoso, pero creo que este se pasa un poco."
+
+#. habla: Nastya
+#, fuzzy
+msgctxt "#28"
+msgid "But if I said I wanted a loner now, it'd be like I lost to Grisham!"
+msgstr "¡Pero si ahora dijera que quiero uno independiente, sería como perder contra Grisham!"
+
+#. habla: Althea
+#, fuzzy
+msgctxt "#29"
+msgid "I'm a promotional agent for a plant growth enhancer! Don't worry, it's nothing that violates the Species Preservation Act!"
+msgstr "¡Soy promotora de un potenciador de crecimiento para plantas! ¡No te preocupes, no es nada que viole la Ley de Preservación de Especies!"
+
+#. habla: Althea
+#, fuzzy
+msgctxt "#30"
+msgid "The name of this new plant growth enhancer is Hyper Fertilizer! But the market response has been poor due to its cheesy name."
+msgstr "¡El nombre de este nuevo potenciador de crecimiento es Hiperfertilizante! Pero la respuesta del mercado fue mala por lo ridículo del nombre."
+
+#. habla: Althea
+#, fuzzy
+msgctxt "#31"
+msgid "What's that? You want some Hyper Fertilizer Z? By the way, the \"Z\" is my own variation on the name! Well, you're in luck! Here's a free sample!"
+msgstr "¿Qué dices? ¿Quieres un poco de Hiperfertilizante Z? Por cierto, ¡la \"Z\" es una variación mía del nombre! Bueno, ¡estás de suerte! ¡Aquí tienes una muestra gratis!"
+
+#, fuzzy
+msgctxt "#32"
+msgid "You obtained Hyper Fertilizer!"
+msgstr "¡Obtuviste Hiperfertilizante!"
+
+#. habla: Althea
+#, fuzzy
+msgctxt "#33"
+msgid "Make good use of it! ♪"
+msgstr "¡Aprovéchalo bien! ♪"
+
+#. habla: Althea
+#, fuzzy
+msgctxt "#34"
+msgid "I'm sorry. I can't give you any more samples."
+msgstr "Lo siento. No puedo darte más muestras."
+
+#. habla: Althea
+#, fuzzy
+msgctxt "#35"
+msgid "How's that Hyper Fertilizer working? It's actually pretty effective, in spite of its name, right?"
+msgstr "¿Qué tal funciona el Hiperfertilizante? En realidad es bastante eficaz, a pesar del nombre, ¿no?"
+
+#. habla: Althea
+#, fuzzy
+msgctxt "#36"
+msgid ""
+"Let me say this just in case: make sure you don't use it on a human! If you did, they'd grow five meters overnight!\n"
+"...\n"
+"...\n"
+"...\n"
+"Just kidding! "
+msgstr ""
+"Te lo digo por si acaso: ¡no lo uses en un humano! ¡Si lo hicieras, crecería cinco metros de un día para el otro!\n"
+"...\n"
+"...\n"
+"...\n"
+"¡Es broma!"
+
+#. habla: Vimala
+#, fuzzy
+msgctxt "#37"
+msgid "Well, hello, Little Master! What? Janet? Yeah, I know her! She's like a daughter to me!"
+msgstr "¡Vaya, hola, joven amo! ¿Qué? ¿Janet? ¡Sí, la conozco! ¡Es como una hija para mí!"
+
+#. habla: Vimala
+#, fuzzy
+msgctxt "#38"
+msgid "She's a nice girl. It's so sad. I'm sure she wanted to see the mayor again before he died."
+msgstr "Es una buena chica. Es tan triste. Seguro que quería volver a ver al alcalde antes de que muriera."
+
+#. habla: Vimala
+#, fuzzy
+msgctxt "#39"
+msgid "You know that Sidney guy over there? He's been hitting on all the girls in this place! You'd better be careful, too! He doesn't seem to care how old you are!"
+msgstr "¿Ves a ese tal Sidney de allá? ¡Les coquetea a todas las chicas de este lugar! ¡Tú también ten cuidado! ¡Parece que no le importa la edad!"
+
+#. habla: Vimala
+#, fuzzy
+msgctxt "#40"
+msgid "Actually, Sidney hit on me, too. It's been decades since a man talked to me like that. I'm actually kind of flattered. Hey, stop making me talk about things like this!"
+msgstr "Es más, Sidney también me coqueteó a mí. Hacía décadas que un hombre no me hablaba así. Y bueno, me siento un poco halagada. ¡Oye, deja de hacerme hablar de estas cosas!"
+
+#. habla: Vimala
+#, fuzzy
+msgctxt "#41"
+msgid "I heard that the architect who designed the mayor's statue abandoned the project without removing a secret feature!"
+msgstr "¡Escuché que el arquitecto que diseñó la estatua del alcalde abandonó el proyecto sin quitarle una función secreta!"
+
+#. habla: Vimala
+#, fuzzy
+msgctxt "#42"
+msgid "It looks like a normal statue, but I heard it's got some sort of weird trick to it!"
+msgstr "Parece una estatua normal, ¡pero escuché que tiene algún truco raro!"
+
+#. habla: Vimala
+#, fuzzy
+msgctxt "#43"
+msgid "Oh! So, you're looking for that missing architect for Janet!"
+msgstr "¡Oh! ¡Así que están buscando a ese arquitecto desaparecido para ayudar a Janet!"
+
+#. habla: Vimala
+#, fuzzy
+msgctxt "#44"
+msgid "I heard that the architect is hiding out in the next district! He keeps away from the public during the day!"
+msgstr "¡Escuché que el arquitecto se esconde en el distrito de al lado! ¡De día se mantiene lejos de la gente!"
+
+#. habla: Vimala
+#, fuzzy
+msgctxt "#45"
+msgid "Did you find the architect? Well then, you should hurry back to Janet, shouldn't you!"
+msgstr "¿Encontraron al arquitecto? Bueno, entonces deberían volver rápido con Janet, ¿no?"
+
+#. habla: Vimala
+#, fuzzy
+msgctxt "#46"
+msgid "Is Janet feeling better now?"
+msgstr "¿Janet ya se siente mejor?"
+
+#. habla: Adelaide
+#, fuzzy
+msgctxt "#47"
+msgid "What's that? You have a book called the \"Entertainment Guide\"? Haha, are you suggesting I need it?"
+msgstr "¿Qué dices? ¿Tienes un libro que se llama \"Guía de ocio\"? Jaja, ¿insinúas que lo necesito?"
+
+#. habla: Adelaide
+#, fuzzy
+msgctxt "#48"
+msgid "What? You want the book I have?"
+msgstr "¿Qué? ¿Quieres el libro que tengo?"
+
+#. Opciones: una por línea. Mantener 2 líneas en el mismo orden.
+#, fuzzy
+msgctxt "#49"
+msgid ""
+"Yes\n"
+"No"
+msgstr ""
+"Sí\n"
+"No"
+
+#. habla: Adelaide
+#, fuzzy
+msgctxt "#50"
+msgid "Well, it was a bit over my head, anyway. Here, you can have it!"
+msgstr "Bueno, igual era un poco difícil para mí. ¡Toma, te lo regalo!"
+
+#, fuzzy
+msgctxt "#51"
+msgid "You obtained \"Rules of High Society\"!"
+msgstr "¡Obtuviste \"Manual de etiqueta\"!"
+
+#. habla: Adelaide
+#, fuzzy
+msgctxt "#52"
+msgid "Hmm. I'm not sure if I want to keep it or not! If you want it, come back any time!"
+msgstr "Hmm. No sé si quiero quedármelo o no. Si lo quieres, ¡vuelve cuando quieras!"
+
+#. habla: Adelaide
+#, fuzzy
+msgctxt "#53"
+msgid "Are you learning to read books? "
+msgstr "¿Estás aprendiendo a leer libros?"
+
+#. habla: Adelaide
+#, fuzzy
+msgctxt "#54"
+msgid "What?! You're going to give it away to someone?! What a waste!"
+msgstr "¡¿Qué?! ¡¿Se lo vas a regalar a alguien?! ¡Qué desperdicio!"
+
+#. habla: Adelaide
+#, fuzzy
+msgctxt "#55"
+msgid "Oh, Little Master! The other day, I got a book from school!"
+msgstr "¡Oh, joven amo! ¡El otro día me dieron un libro en la escuela!"
+
+#. Opciones: una por línea. Mantener 2 líneas en el mismo orden.
+#, fuzzy
+msgctxt "#56"
+msgid ""
+"That's nice! What kind of book?\n"
+"Sorry, I'm in a bit of a hurry!"
+msgstr ""
+"¡Qué bien! ¿Qué libro es?\n"
+"¡Perdón, tengo un poco de prisa!"
+
+#. habla: Adelaide
+#, fuzzy
+msgctxt "#57"
+msgid "Well, it's called, \"Rules of High Society.\" I tried reading it, but I didn't understand it at all! I think I'll give it to someone else."
+msgstr "Bueno, se llama \"Manual de etiqueta\". Intenté leerlo, ¡pero no entendí nada! Creo que se lo voy a regalar a alguien."
+
+#. habla: Adelaide
+#, fuzzy
+msgctxt "#58"
+msgid "Aw, you're always busy, Little Master!"
+msgstr "¡Ay, usted siempre está ocupado, joven amo!"
+
+#. habla: Adelaide
+#, fuzzy
+msgctxt "#59"
+msgid "Can you read books? I'm learning, but there're so many big words I can't read!"
+msgstr "¿Sabe leer libros? Yo estoy aprendiendo, ¡pero hay tantas palabras difíciles que no puedo leer!"
+
+#. habla: Adelaide
+#, fuzzy
+msgctxt "#60"
+msgid "I hope I can learn to read books soon."
+msgstr "Ojalá pueda aprender a leer libros pronto."
+
+#. habla: Adelaide
+#, fuzzy
+msgctxt "#61"
+msgid "Guess what! Guess what! I'm learning how to read books!"
+msgstr "¡Adivine qué! ¡Adivine qué! ¡Estoy aprendiendo a leer libros!"
+
+#. habla: Adelaide
+#, fuzzy
+msgctxt "#62"
+msgid "This book is called, \"Rules of High Society.\" Cool, huh?"
+msgstr "Este libro se llama \"Manual de etiqueta\". Genial, ¿no?"
+
+#. habla: Cody
+#, fuzzy
+msgctxt "#63"
+msgid "Hi! Did you come for a drink, too, Little Master?"
+msgstr "¡Hola! ¿Usted también vino a tomar algo, joven amo?"
+
+#. Opciones: una por línea. Mantener 2 líneas en el mismo orden.
+#, fuzzy
+msgctxt "#64"
+msgid ""
+"Something like that...\n"
+"I don't have time to drink now!"
+msgstr ""
+"Algo así...\n"
+"¡No tengo tiempo para tomar ahora!"
+
+#. habla: Cody
+#, fuzzy
+msgctxt "#65"
+msgid "Haha! You'll never get any bigger if you keep drinking that way while you're young!"
+msgstr "¡Jaja! ¡Nunca va a crecer si sigue tomando así de joven!"
+
+#. habla: Cody
+#, fuzzy
+msgctxt "#66"
+msgid "Oh, now, don't tell me you can't have a drink, Little Master! No matter how busy you are, you always need to save time for a drink! Well, that's what I think, anyway."
+msgstr "¡Oh, vamos, no me diga que no puede tomar algo, joven amo! Por más ocupado que esté, ¡siempre hay que hacerse un tiempo para un trago! Bueno, eso pienso yo, al menos."
+
+#. habla: Cody
+#, fuzzy
+msgctxt "#67"
+msgid "What the?! A girl like you doesn't belong in a place like this by herself!"
+msgstr "¡¿Qué?! ¡Una chica como tú no debería estar sola en un lugar así!"
+
+#. habla: Cody
+#, fuzzy
+msgctxt "#68"
+msgid "Although, this place is holy ground for followers of the Iron series."
+msgstr "Aunque este lugar es tierra sagrada para los seguidores de la serie Iron."
+
+#. habla: Cody
+#, fuzzy
+msgctxt "#69"
+msgid "Have you been to the publishing agency called Area 40 on Second Miltia?"
+msgstr "¿Fuiste a la agencia editorial Area 40, en Segunda Miltia?"
+
+#. habla: Cody
+#, fuzzy
+msgctxt "#70"
+msgid "I heard they're really busy right now promoting the Miss Miltia campaign."
+msgstr "Escuché que ahora están muy ocupados promocionando la campaña de Miss Miltia."
+
+#. habla: Cody
+#, fuzzy
+msgctxt "#71"
+msgid "From what I heard, they can print all sorts of different posters for you! If you need a poster made, you should check them out!"
+msgstr "¡Por lo que escuché, te pueden imprimir todo tipo de pósteres! Si necesitas un póster, ¡deberías ir a verlos!"
+
+#. habla: Grisham
+#, fuzzy
+msgctxt "#72"
+msgid "Have you ever had a pet cat? It's their cool, detached attitude that makes cats so great, you know?"
+msgstr "¿Alguna vez tuviste un gato? Lo genial de los gatos es esa actitud distante y fría, ¿sabes?"
+
+#. habla: Grisham
+#, fuzzy
+msgctxt "#73"
+msgid "But Nastya doesn't understand what's good about cats at all!"
+msgstr "¡Pero Nastya no entiende para nada lo bueno de los gatos!"
+
+#. habla: Grisham
+#, fuzzy
+msgctxt "#74"
+msgid "Hmm, actually, cuddly cats are pretty nice, too! But I can't admit that, or it'd be like I lost to Nastya!"
+msgstr "Hmm, en realidad, los gatos mimosos también son bastante lindos. ¡Pero no puedo admitirlo, o sería como perder contra Nastya!"
+
+#. habla: Grisham
+#, fuzzy
+msgctxt "#75"
+msgid "Leave Walker to me! But first, I've got to settle this with Nastya!"
+msgstr "¡Déjenme a Walker a mí! ¡Pero primero tengo que resolver esto con Nastya!"
+
+#. habla: Bonny
+#, fuzzy
+msgctxt "#76"
+msgid "Oh, it's you. My dream is to become a waitress at the Ironman! Want to know the secret of becoming a waitress at the Ironman?"
+msgstr "Ah, eres tú. ¡Mi sueño es ser camarera en el Ironman! ¿Quieres saber el secreto para ser camarera en el Ironman?"
+
+#. habla: Bonny
+#, fuzzy
+msgctxt "#77"
+msgid "What do you want to know about?"
+msgstr "¿Qué quieres saber?"
+
+#, fuzzy
+msgctxt "#78"
+msgid ""
+"What do you have to do to get accepted?\n"
+"Where can I find books?\n"
+"Where can I get clothes?\n"
+"Nothing."
+msgstr ""
+"¿Qué hay que hacer para que te acepten?\n"
+"¿Dónde consigo libros?\n"
+"¿Dónde consigo ropa?\n"
+"Nada."
+
+#. habla: Bonny
+#, fuzzy
+msgctxt "#79"
+msgid "My investigation revealed that the key to being hired is knowledge and style! In other words, to gain knowledge, you need to read books. And as for style, hmm, I guess some cute clothes would be good."
+msgstr "¡Mi investigación reveló que la clave para que te contraten es el conocimiento y el estilo! O sea, para tener conocimiento, hay que leer libros. Y en cuanto al estilo, hmm, supongo que algo de ropa linda vendría bien."
+
+#. habla: Bonny
+#, fuzzy
+msgctxt "#80"
+msgid "There're a couple of old books that are popular these days! One of them is called the \"Entertainment Guide,\" and the other is \"Rules of High Society.\" I don't know which would suit the Ironman's owner's taste. What? How do you get the books? Beats me! Look for them yourself!"
+msgstr "¡Hay un par de libros viejos que están de moda! Uno se llama \"Guía de ocio\", y el otro, \"Manual de etiqueta\". No sé cuál le gustará más al dueño del Ironman. ¿Qué? ¿Cómo se consiguen los libros? ¡Ni idea! ¡Búscalos tú!"
+
+#. habla: Bonny
+#, fuzzy
+msgctxt "#81"
+msgid "Cute clothes? I've never had to worry about that before. Oh, I know! I heard that the cleaners in the next district started a rental service! You might be able to rent some there! What? What kind of clothes does the bar owner like? How should I know?! "
+msgstr "¿Ropa linda? Nunca tuve que preocuparme por eso. ¡Ah, ya sé! ¡Escuché que la tintorería del distrito de al lado empezó un servicio de alquiler! ¡Quizá puedas alquilar algo ahí! ¿Qué? ¿Qué tipo de ropa le gusta al dueño del bar? ¡¿Y yo cómo voy a saber?!"
+
+#. habla: Bonny
+#, fuzzy
+msgctxt "#82"
+msgid "Go out there and get the things I need!"
+msgstr "¡Sal ahí y consígueme lo que necesito!"
+
+#. habla: Bonny
+#, fuzzy
+msgctxt "#83"
+msgid "Ah! Thanks, pal! Um, I mean, thank you very much! ♪ But I gotta say, the skirt just feels wrong. It doesn't match my style, ya know?  Ah, um, I mean, perhaps the skirt doesn't suit me, teehee. ♪"
+msgstr "¡Ah! ¡Gracias, socio! Eh, digo, ¡muchísimas gracias! ♪ Pero, la verdad, esta falda me tiene incómoda. No es lo mío, ¿me entiendes? Ah, eh, digo, quizá la falda no me quede muy bien, jiji. ♪"
+
+#. habla: Bonny
+#, fuzzy
+msgctxt "#84"
+msgid "When there's no one around, my eyes can't help but wander over to the cash register. ♪ D...don't worry! I ain't like my old self anymore, you got that? Um, I mean, I wouldn't do such a thing anymore, so it's okay. ♪"
+msgstr "Cuando no hay nadie, los ojos se me van solos a la caja registradora. ♪ ¡N-no te preocupes! ¡Ya no soy la de antes! ¿Te quedó claro? Eh, digo, ya no haría algo así, así que no hay de qué preocuparse. ♪"
+
+#. habla: Walker
+#, fuzzy
+msgctxt "#85"
+msgid "Meow meow."
+msgstr "Miau miau."
+
+#, fuzzy
+msgctxt "#86"
+msgid "Legendary diva Kate Blondel breaks her fourteen years of silence and returns to the limelight!"
+msgstr "¡La legendaria diva Kate Blondel rompe catorce años de silencio y vuelve a los escenarios!"
+
+#, fuzzy
+msgctxt "#87"
+msgid "Legendary super-thief Dreamy Bonny appears on the Foundation? "
+msgstr "¿La legendaria superladrona Dreamy Bonny, vista en la Fundación?"
+
+#, fuzzy
+msgctxt "#88"
+msgid "The vibration checker is reacting. What would you like to do?"
+msgstr "El detector de vibraciones está reaccionando. ¿Qué quieres hacer?"
+
+#, fuzzy
+msgctxt "#89"
+msgid ""
+"Check the reaction again.\n"
+"Leave it alone.\n"
+"Register it as the matching ring and pick it up."
+msgstr ""
+"Volver a revisar la reacción.\n"
+"Dejarlo.\n"
+"Registrarlo como el anillo correcto y recogerlo."
+
+#, fuzzy
+msgctxt "#90"
+msgid "Reaction check complete."
+msgstr "Revisión de la reacción completa."
+
+#, fuzzy
+msgctxt "#91"
+msgid "You left the ring alone."
+msgstr "Dejaste el anillo."
+
+#, fuzzy
+msgctxt "#92"
+msgid "Once you pick up a ring, the vibration checker will cease functioning. You will not be able to search for rings anymore. Are you sure?"
+msgstr "Una vez que recojas un anillo, el detector de vibraciones dejará de funcionar. Ya no podrás buscar anillos. ¿Continuar?"
+
+#. Opciones: una por línea. Mantener 2 líneas en el mismo orden.
+#, fuzzy
+msgctxt "#93"
+msgid ""
+"Yes.\n"
+"No, don't pick it up."
+msgstr ""
+"Sí.\n"
+"No, no recogerlo."
+
+#, fuzzy
+msgctxt "#94"
+msgid "You obtained an Engagement Ring!"
+msgstr "¡Obtuviste un Anillo de compromiso!"
+
+#. habla: Caito
+#, fuzzy
+msgctxt "#95"
+msgid "Did you see the last episode of Iron 3, Little Master? I can't believe that ending!"
+msgstr "¿Vio el último episodio de Iron 3, joven amo? ¡No puedo creer ese final!"
+
+#. habla: Caito
+#, fuzzy
+msgctxt "#96"
+msgid "How could the invincible Iron 3 be defeated? I mean, yeah, I know it's supposed to lead into Iron 4, but still, how could they just get defeated so easily by a Gnosis?!"
+msgstr "¿Cómo pudieron derrotar a los invencibles Iron 3? O sea, sí, sé que es para dar paso a Iron 4, pero igual, ¡¿cómo pudo derrotarlos tan fácil un Gnosis?!"
+
+#. habla: Caito
+#, fuzzy
+msgctxt "#97"
+msgid "Hmm? You want to work in my bar, little lady? Hahaha! Well, yeah, we are short on people, but I'm not so desperate that I'd hire a kid like you!"
+msgstr "¿Hmm? ¿Quieres trabajar en mi bar, pequeña? ¡Jajaja! Bueno, sí, nos falta gente, ¡pero no estoy tan desesperado como para contratar a una niña como tú!"
+
+#. habla: Caito
+#, fuzzy
+msgctxt "#98"
+msgid "What's that? You heard I like maids? Hey, who told you that?! That's top secret!"
+msgstr "¿Qué dices? ¿Que escuchaste que me gustan las sirvientas? Oye, ¡¿quién te dijo eso?! ¡Es ultrasecreto!"
+
+#. habla: Caito
+#, fuzzy
+msgctxt "#99"
+msgid "What? Am I short on employees?"
+msgstr "¿Qué? ¿Si me faltan empleados?"
+
+#. habla: Caito
+#, fuzzy
+msgctxt "#100"
+msgid "Don't worry! I'm going to start looking real soon."
+msgstr "¡No te preocupes! Muy pronto voy a empezar a buscar."
+
+#. habla: Caito
+#, fuzzy
+msgctxt "#101"
+msgid "Yo! Hiring people? Yeah, I've started! Anybody applying needs to be smart and cute!"
+msgstr "¡Ey! ¿Contratar gente? ¡Sí, ya empecé! ¡Quien se postule tiene que ser lista y linda!"
+
+#. habla: Caito
+#, fuzzy
+msgctxt "#102"
+msgid "But keep it a secret that I like maids, okay? Especially the bit about me liking maids in simple pink outfits!"
+msgstr "Pero que quede en secreto que me gustan las sirvientas, ¿sí? ¡Sobre todo lo de que me gustan las sirvientas con uniformes rosas sencillos!"
+
+#. habla: Caito
+#, fuzzy
+msgctxt "#103"
+msgid "Hey there! Where did you find that girl? She's great!"
+msgstr "¡Hola! ¿Dónde encontraste a esa chica? ¡Es genial!"
+
+#. habla: Caito
+#, fuzzy
+msgctxt "#104"
+msgid "But sometimes she rummages through the cash register! What the heck is she doing?"
+msgstr "¡Pero a veces revuelve la caja registradora! ¿Qué demonios está haciendo?"
+
+#. habla: Caito
+#, fuzzy
+msgctxt "#105"
+msgid "Even now, Mad Skelter and his Bone Empire are surely out there somewhere, plotting, waiting for the chance to revive their empire!"
+msgstr "¡Incluso ahora, Mad Skelter y su Imperio de los Huesos siguen en algún lado, conspirando y esperando la oportunidad de revivir su imperio!"
+
+#. habla: Caito
+#, fuzzy
+msgctxt "#106"
+msgid "The location of Mad Skelter? How should I know?! But the fight in the final episode looked like it took place in some garden in the sky!"
+msgstr "¿Dónde está Mad Skelter? ¡¿Y yo cómo voy a saber?! ¡Pero la pelea del último episodio parecía ser en una especie de jardín en el cielo!"
+
+#. habla: Caito
+#, fuzzy
+msgctxt "#107"
+msgid "Yo! I can't believe you defeated Mad Skelter! Now I can sleep at night!"
+msgstr "¡Ey! ¡No puedo creer que hayan derrotado a Mad Skelter! ¡Ahora voy a poder dormir tranquilo!"
+
+#. habla: Caito
+#, fuzzy
+msgctxt "#108"
+msgid "But if you defeated Mad Skelter, Little Master, then who are the Iron 4 going to fight against?"
+msgstr "Pero si usted derrotó a Mad Skelter, joven amo, ¿contra quién van a pelear los Iron 4?"
+
+#. habla: Caito
+#, fuzzy
+msgctxt "#109"
+msgid "But if you defeated Mad Skelter, then who are Iron 4 going to fight against?"
+msgstr "Pero si derrotaron a Mad Skelter, ¿contra quién van a pelear los Iron 4?"
+
+#. habla: Caito
+#, fuzzy
+msgctxt "#110"
+msgid "I just don't get that last episode of Iron 3! The final boss, Mad Skelter, got away after that intense battle with the Iron 3! The Iron 3 didn't really defeat him! I bet Mad Skelter is out there somewhere right now, plotting the return of the Bone Empire! Some day, they're going to begin their assault on Muscle Paradise! Of course, the Iron 4 are fighting every day to prevent that from happening, but I'd really like to get rid of that Mad Skelter! How about it? Will you go out there and take down Mad Skelter?"
+msgstr "¡No entiendo para nada ese último episodio de Iron 3! ¡El jefe final, Mad Skelter, escapó después de esa batalla intensa con los Iron 3! ¡Los Iron 3 no lo derrotaron de verdad! ¡Seguro que Mad Skelter está en algún lado ahora mismo, planeando el regreso del Imperio de los Huesos! ¡Algún día van a lanzar su ataque contra el Paraíso del Músculo! Claro que los Iron 4 pelean todos los días para evitarlo, ¡pero de verdad me gustaría librarme de ese Mad Skelter! ¿Qué dicen? ¿Van a salir a derrotar a Mad Skelter?"
+
+#. habla: Caito
+#, fuzzy
+msgctxt "#111"
+msgid "Whoa! You're going to challenge Mad Skelter?!"
+msgstr "¡Epa! ¡¿Van a desafiar a Mad Skelter?!"
+
+#. habla: Caito
+#, fuzzy
+msgctxt "#113"
+msgid "I'm impressed! Let me know when you beat him!"
+msgstr "¡Estoy impresionado! ¡Avísenme cuando lo derroten!"
+
+#. habla: Caito
+#, fuzzy
+msgctxt "#114"
+msgid "Humph! Mad Skelter's evil powers got to you, huh? Are the heroes of the Iron 4 our only hope?!"
+msgstr "¡Hmpf! Los poderes malvados de Mad Skelter pudieron con ustedes, ¿eh? ¡¿Los héroes de Iron 4 son nuestra única esperanza?!"
+
+#. habla: Caito
+#, fuzzy
+msgctxt "#115"
+msgid "What?! Little Master, you actually defeated Mad Skelter?!"
+msgstr "¡¿Qué?! Joven amo, ¡¿de verdad derrotó a Mad Skelter?!"
+
+#. habla: Caito
+#, fuzzy
+msgctxt "#116"
+msgid "What?! Did you really defeat Mad Skelter?!"
+msgstr "¡¿Qué?! ¡¿De verdad derrotaron a Mad Skelter?!"
+
+#. habla: Caito
+#, fuzzy
+msgctxt "#118"
+msgid "I know it's not much, but take this! It's a symbol of my respect for you! It'll wake up what sleeps inside your soul!"
+msgstr "Sé que no es mucho, ¡pero tomen esto! ¡Es un símbolo de mi respeto por ustedes! ¡Va a despertar lo que duerme en su alma!"
+
+#, fuzzy
+msgctxt "#119"
+msgid "You can now use the Double Attack \"Grand Ronde\"! Grand Ronde is a Double Attack for KOS-MOS and chaos."
+msgstr "¡Ahora puedes usar el Ataque Doble \"Grand Ronde\"! Grand Ronde es un Ataque Doble de KOS-MOS y chaos."
+
+#. habla: Caito
+#, fuzzy
+msgctxt "#120"
+msgid "I can't believe you defeated Mad Skelter! Now I can sleep at night!"
+msgstr "¡No puedo creer que hayan derrotado a Mad Skelter! ¡Ahora voy a poder dormir tranquilo!"
+
+#. habla: Caito
+#, fuzzy
+msgctxt "#121"
+msgid "Yo! You sure found a fantastic girl to work here! She looks great, and her manners are perfect, too!"
+msgstr "¡Ey! ¡Sí que encontraron una chica fantástica para trabajar aquí! ¡Se ve genial, y además sus modales son perfectos!"
+
+#. habla: Caito
+#, fuzzy
+msgctxt "#123"
+msgid "I know it's not much of a reward, but I'll teach you something useful!"
+msgstr "Sé que no es gran recompensa, ¡pero les voy a enseñar algo útil!"
+
+#, fuzzy
+msgctxt "#124"
+msgid "You can now use the Double Attack \"Dual Spell Ray\"! Dual Spell Ray is a Double Attack for Shion and chaos."
+msgstr "¡Ahora puedes usar el Ataque Doble \"Dual Spell Ray\"! Dual Spell Ray es un Ataque Doble de Shion y chaos."
+
+#. habla: Caito
+#, fuzzy
+msgctxt "#125"
+msgid "Yo! You sure found a fantastic girl to work here! Well, she's not absolutely perfect, but I'm sure she'll get better with a little training."
+msgstr "¡Ey! ¡Sí que encontraron una chica fantástica para trabajar aquí! Bueno, no es perfecta del todo, pero seguro que va a mejorar con un poco de entrenamiento."
+
+#, fuzzy
+msgctxt "#127"
+msgid "You do not have any sheet music."
+msgstr "No tienes ninguna partitura."
+
+#, fuzzy
+msgctxt "#128"
+msgid "There's no song left to play."
+msgstr "No queda ninguna canción para tocar."
+
+#, fuzzy
+msgctxt "#129"
+msgid "Play the Iron 4 theme song?"
+msgstr "¿Tocar el tema de Iron 4?"
+
+#, fuzzy
+msgctxt "#130"
+msgid "Playing the Iron 4 theme song..."
+msgstr "Tocando el tema de Iron 4..."

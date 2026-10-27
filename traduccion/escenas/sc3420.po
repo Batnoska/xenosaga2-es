@@ -1,0 +1,43 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Xenosaga Episode II - traducción al español\n"
+"Language: es_419\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Xeno-Source: 0:cf/en/sc3420.sbl\n"
+
+#, fuzzy
+msgctxt "#4"
+msgid "\"Forbidden Device\"...It appears to be an Encephalon dive device."
+msgstr "\"Dispositivo Prohibido\"... Parece ser un dispositivo de inmersión en el Encéfalo."
+
+#, fuzzy
+msgctxt "#5"
+msgid "\"Forbidden Device\" initialization complete. Commence Encephalon dive?"
+msgstr "Inicialización del \"Dispositivo Prohibido\" completa. ¿Comenzar la inmersión en el Encéfalo?"
+
+#. Opciones: una por línea. Mantener 2 líneas en el mismo orden.
+#, fuzzy
+msgctxt "#6"
+msgid ""
+"Yes\n"
+"No"
+msgstr ""
+"Sí\n"
+"No"
+
+#, fuzzy
+msgctxt "#7"
+msgid "Commencing Encephalon dive."
+msgstr "Comenzando la inmersión en el Encéfalo."
+
+#, fuzzy
+msgctxt "#9"
+msgid "Canceling Encephalon dive."
+msgstr "Se canceló la inmersión en el Encéfalo."
+
+#, fuzzy
+msgctxt "#10"
+msgid "Commence Encephalon dive?"
+msgstr "¿Comenzar la inmersión en el Encéfalo?"

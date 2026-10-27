@@ -1,0 +1,50 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Xenosaga Episode II - traducción al español\n"
+"Language: es_419\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Xeno-Source: 0:model/map/en/E2_EVE63.sbl\n"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#0"
+msgid "$zoom13;Maximilian G4 (Pierce)"
+msgstr "$zoom13;Maximilian G4 (Perforación)"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#1"
+msgid "$zoom13;Grenade (Fire)"
+msgstr "$zoom13;Granada (Fuego)"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#2"
+msgid "$zoom13;Hyams P88R (Pierce)"
+msgstr "$zoom13;Hyams P88R (Perforación)"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#3"
+msgid "$zoom13;Flash Grenade (L Blind)"
+msgstr "$zoom13;Granada cegadora (Ceguera L)"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#4"
+msgid "$col7AF9FB;$zoom17;There's nothing to fear, you scum!"
+msgstr "$col7AF9FB;$zoom17;¡No hay nada que temer, escoria!"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#5"
+msgid "$col7AF9FB;$zoom17;Show these punks how tough we are!"
+msgstr "$col7AF9FB;$zoom17;¡Muéstrenles a estos mocosos quiénes somos!"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#6"
+msgid "$zoom13;12.7mm Machinegun (Pierce)"
+msgstr "$zoom13;Ametralladora de 12.7 mm (Perforación)"

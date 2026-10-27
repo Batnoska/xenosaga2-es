@@ -1,0 +1,820 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Xenosaga Episode II - traducción al español\n"
+"Language: es_419\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Xeno-Source: 0:cf/en/sc4030.sbl\n"
+
+#. habla: Layla
+#, fuzzy
+msgctxt "#2"
+msgid "Oh, hi! It's so nice to see you! ♪ Thank you for rescuing me the other day!"
+msgstr "¡Oh, hola! ¡Qué alegría verte! ♪ ¡Gracias por rescatarme el otro día!"
+
+#. habla: Layla
+#, fuzzy
+msgctxt "#3"
+msgid "The safe? I changed the pass code after the Gnosis attack!"
+msgstr "¿La caja fuerte? ¡Cambié la contraseña después del ataque de los Gnosis!"
+
+#. habla: Layla
+#, fuzzy
+msgctxt "#4"
+msgid "The safe's pass code? That's a secret!"
+msgstr "¿La contraseña de la caja fuerte? ¡Es un secreto!"
+
+#. habla: Layla
+#, fuzzy
+msgctxt "#5"
+msgid "There's something very important inside it! "
+msgstr "¡Adentro hay algo muy importante!"
+
+#. habla: Layla
+#, fuzzy
+msgctxt "#6"
+msgid "I'm truly grateful for you saving me the other day, but a lot of things have happened since then. There's been a never-ending stream of people trying to buy this hotel."
+msgstr "Te estoy muy agradecida por salvarme el otro día, pero desde entonces pasaron muchas cosas. No para de venir gente que quiere comprar este hotel."
+
+#. habla: Layla
+#, fuzzy
+msgctxt "#7"
+msgid "Honestly, there are a lot of adults who can't be trusted. Oh, but I don't mean the people from the Foundation! They're all really nice to me!"
+msgstr "La verdad, hay muchos adultos en los que no se puede confiar. ¡Ah, pero no lo digo por la gente de la Fundación! ¡Todos son muy buenos conmigo!"
+
+#. habla: Layla
+#, fuzzy
+msgctxt "#8"
+msgid "I don't think all adults are bad, but I just can't tell my secret to an adult. I'm sorry."
+msgstr "No creo que todos los adultos sean malos, pero no puedo contarle mi secreto a un adulto. Lo siento."
+
+#. habla: Layla
+#, fuzzy
+msgctxt "#9"
+msgid "Please find the location where that photo was taken!"
+msgstr "¡Por favor, encuentra el lugar donde se tomó esa foto!"
+
+#. habla: Layla
+#, fuzzy
+msgctxt "#10"
+msgid "The photo is on the third floor. Maybe there's a clue on it somewhere."
+msgstr "La foto está en el tercer piso. Quizá tenga alguna pista en algún lado."
+
+#. habla: Layla
+#, fuzzy
+msgctxt "#11"
+msgid "Oh, hello! You know, I've finally learned that I can't keep distrusting adults forever!"
+msgstr "¡Oh, hola! ¿Sabes? ¡Por fin aprendí que no puedo desconfiar de los adultos para siempre!"
+
+#. habla: Layla
+#, fuzzy
+msgctxt "#12"
+msgid "If you see the person who took the photo, please say thank you for me!"
+msgstr "Si ves a la persona que tomó la foto, ¡dale las gracias de mi parte!"
+
+#. habla: Mickey
+#, fuzzy
+msgctxt "#13"
+msgid "I know you! You're the one who found our engagement ring!"
+msgstr "¡Te conozco! ¡Eres quien encontró nuestro anillo de compromiso!"
+
+#. habla: Mickey
+#, fuzzy
+msgctxt "#14"
+msgid "Thanks to you, Mallory and I are closer than ever! I'm really grateful!"
+msgstr "¡Gracias a ti, Mallory y yo estamos más unidos que nunca! ¡Te estoy muy agradecido!"
+
+#. habla: Mickey
+#, fuzzy
+msgctxt "#15"
+msgid "But, I'm a little worried. You can't tell by looking at her, but Mallory is kind of absent-minded. Of course, that's what makes her cute. ♪"
+msgstr "Pero me preocupa un poco. Al verla no te das cuenta, pero Mallory es un poco despistada. Claro que eso es lo que la hace adorable. ♪"
+
+#. habla: Mickey
+#, fuzzy
+msgctxt "#16"
+msgid "Oh, man, listen to this! Mallory's hiding something from me. Can you believe it?"
+msgstr "¡Ay, escucha esto! Mallory me está ocultando algo. ¿Puedes creerlo?"
+
+#. habla: Mickey
+#, fuzzy
+msgctxt "#17"
+msgid "It looks like I was just jumping to conclusions about Mallory hiding things from me! Thanks to you, Mallory and I will be together forever!"
+msgstr "¡Parece que saqué conclusiones apresuradas y Mallory no me ocultaba nada! ¡Gracias a ti, Mallory y yo vamos a estar juntos para siempre!"
+
+#. habla: Jost
+#, fuzzy
+msgctxt "#18"
+msgid "That girl Mallory staying on the second floor's a little absent-minded...no, make that a lot!"
+msgstr "Esa chica Mallory, la que se aloja en el segundo piso, es un poco despistada... no, ¡muy despistada!"
+
+#. habla: Jost
+#, fuzzy
+msgctxt "#19"
+msgid "You know that Mickey guy there? It turns out, Mallory's his wife! Can a weird couple like that work out?"
+msgstr "¿Conoces a ese tal Mickey de ahí? ¡Resulta que Mallory es su esposa! ¿Puede funcionar una pareja tan rara?"
+
+#. habla: Jost
+#, fuzzy
+msgctxt "#20"
+msgid "I heard you found Mallory's engagement ring when she lost it!"
+msgstr "¡Escuché que encontraste el anillo de compromiso de Mallory cuando lo perdió!"
+
+#. habla: Jost
+#, fuzzy
+msgctxt "#21"
+msgid "Have you heard about Josephine?"
+msgstr "¿Supiste lo de Josephine?"
+
+#. Opciones: una por línea. Mantener 2 líneas en el mismo orden.
+#, fuzzy
+msgctxt "#22"
+msgid ""
+"Who's Josephine?\n"
+"Yes, I've heard."
+msgstr ""
+"¿Quién es Josephine?\n"
+"Sí, me enteré."
+
+#. habla: Jost
+#, fuzzy
+msgctxt "#23"
+msgid "It's King's pet cat! It's been acting strange lately. For that matter, so has King."
+msgstr "¡Es el gato de King! Últimamente anda raro. Y ya que estamos, King también."
+
+#. habla: Jost
+#, fuzzy
+msgctxt "#24"
+msgid "Oh. Well, then. Sounds like even King has his troubles, huh?"
+msgstr "Ah, ya veo. Parece que hasta King tiene sus problemas, ¿eh?"
+
+#. habla: Jost
+#, fuzzy
+msgctxt "#25"
+msgid "I think Layla's a strange little girl. She has some sort of secret that she won't tell adults."
+msgstr "Me parece que Layla es una niña rara. Tiene algún secreto que no les cuenta a los adultos."
+
+#. habla: Jost
+#, fuzzy
+msgctxt "#26"
+msgid "If Layla has something troubling her, she should tell us about it. Well, I guess you can't blame her for being quiet. She did lose both of her parents."
+msgstr "Si algo le preocupa a Layla, debería contárnoslo. Bueno, supongo que no se le puede reprochar que sea callada. Después de todo, perdió a sus padres."
+
+#. habla: Jost
+#, fuzzy
+msgctxt "#27"
+msgid "There's got to be some way to bring back the old, smiling Layla we knew! I hope time will take care of it."
+msgstr "¡Tiene que haber alguna forma de traer de vuelta a la Layla sonriente que conocíamos! Ojalá el tiempo lo arregle."
+
+#. habla: Randal
+#, fuzzy
+msgctxt "#28"
+msgid "Why, if it isn't the Little Master! Are you worried about Layla, too?"
+msgstr "¡Vaya, pero si es el joven amo! ¿Usted también está preocupado por Layla?"
+
+#. habla: Randal
+#, fuzzy
+msgctxt "#29"
+msgid "Layla just might tell her secret to you, Little Master!"
+msgstr "¡Quizá Layla le cuente su secreto a usted, joven amo!"
+
+#. habla: Randal
+#, fuzzy
+msgctxt "#30"
+msgid "No matter how much we adults talk to her, she always just says, \"I'm fine, now. ♪ Thanks.\" But when she's by herself, she looks so sad! She must be trying her best not to worry us."
+msgstr "Por más que los adultos hablemos con ella, siempre dice: \"Ya estoy bien. ♪ Gracias\". ¡Pero cuando está sola se la ve tan triste! Seguro que hace todo lo posible para que no nos preocupemos."
+
+#. habla: Randal
+#, fuzzy
+msgctxt "#31"
+msgid "My daughter's asking me for a birthday present."
+msgstr "Mi hija me está pidiendo un regalo de cumpleaños."
+
+#. habla: Randal
+#, fuzzy
+msgctxt "#32"
+msgid "I think you may be about my daughter's age. What kinds of things do girls your age want?"
+msgstr "Creo que quizá tengas más o menos la edad de mi hija. ¿Qué cosas quieren las chicas de tu edad?"
+
+#. habla: Randal
+#, fuzzy
+msgctxt "#33"
+msgid "Maybe I'll go take a look at Toy's Universe. I'm sure they have lots of things kids want."
+msgstr "Quizá vaya a echar un vistazo a Toy's Universe. Seguro que tienen muchas cosas que les gustan a los niños."
+
+#. habla: Randal
+#, fuzzy
+msgctxt "#34"
+msgid "Is it true that the composer, Margoyles, is staying at this hotel?"
+msgstr "¿Es verdad que el compositor Margoyles se aloja en este hotel?"
+
+#. habla: Randal
+#, fuzzy
+msgctxt "#35"
+msgid "Wow! I know it's weird for someone my age to say this, but I'm a huge fan!"
+msgstr "¡Guau! Sé que es raro que lo diga alguien de mi edad, ¡pero soy un gran admirador!"
+
+#. habla: Randal
+#, fuzzy
+msgctxt "#36"
+msgid "But that's strange. According to a net-mag, he disappeared after falling into a slump. Oh! Oh, could it be?!"
+msgstr "Pero qué raro. Según una revista de la red, desapareció después de caer en una crisis creativa. ¡Oh! ¡¿Será posible...?!"
+
+#. habla: Pickett
+#, fuzzy
+msgctxt "#37"
+msgid "Hmm? The previous mayor? I remember him well! He was a hero who protected us all!"
+msgstr "¿Hmm? ¿El alcalde anterior? ¡Lo recuerdo bien! ¡Era un héroe que nos protegía a todos!"
+
+#. habla: Pickett
+#, fuzzy
+msgctxt "#38"
+msgid "I remember his daughter, Janet, used to play with me all the time."
+msgstr "Recuerdo que su hija, Janet, siempre jugaba conmigo."
+
+#. habla: Pickett
+#, fuzzy
+msgctxt "#39"
+msgid "Janet's secret? Little Master, why are you asking me that? I don't know anything about that!"
+msgstr "¿El secreto de Janet? Joven amo, ¿por qué me pregunta eso? ¡No sé nada de eso!"
+
+#. habla: Pickett
+#, fuzzy
+msgctxt "#40"
+msgid "Is this your first time on the Foundation?"
+msgstr "¿Es tu primera vez en la Fundación?"
+
+#. Opciones: una por línea. Mantener 2 líneas en el mismo orden.
+#, fuzzy
+msgctxt "#41"
+msgid ""
+"Yes, it's my first time here!\n"
+"No, I've been here many times!"
+msgstr ""
+"¡Sí, es mi primera vez aquí!\n"
+"¡No, vine muchas veces!"
+
+#. habla: Pickett
+#, fuzzy
+msgctxt "#42"
+msgid "I bet you're surprised at all the strange people here! They're all very interesting people, so don't hesitate to talk to them!"
+msgstr "¡Seguro que te sorprende toda la gente rara que hay aquí! Son todos muy interesantes, ¡así que no dudes en hablarles!"
+
+#. habla: Pickett
+#, fuzzy
+msgctxt "#43"
+msgid "The city looks very different now because of all the reconstruction work after the Gnosis attack. Take a walk around! You might discover something new!"
+msgstr "La ciudad se ve muy distinta ahora por todas las obras de reconstrucción después del ataque de los Gnosis. ¡Date una vuelta! ¡Quizá descubras algo nuevo!"
+
+#. habla: Pickett
+#, fuzzy
+msgctxt "#44"
+msgid "Did you talk to Kramer? He's washing the windows on the second floor."
+msgstr "¿Hablaste con Kramer? Está limpiando las ventanas del segundo piso."
+
+#. Opciones: una por línea. Mantener 2 líneas en el mismo orden.
+#, fuzzy
+msgctxt "#45"
+msgid ""
+"Yes\n"
+"No"
+msgstr ""
+"Sí\n"
+"No"
+
+#. habla: Pickett
+#, fuzzy
+msgctxt "#46"
+msgid "Isn't he amazing? I'm sure he needs money, but he's working for free just to help Layla! He's really something!"
+msgstr "¿No es increíble? Seguro que necesita dinero, ¡pero trabaja gratis solo para ayudar a Layla! ¡Es admirable!"
+
+#. habla: Pickett
+#, fuzzy
+msgctxt "#47"
+msgid "He's such a great guy. You have to talk to him!"
+msgstr "Es un tipo genial. ¡Tienes que hablar con él!"
+
+#. habla: Destroy Runner: Revenge
+#, fuzzy
+msgctxt "#48"
+msgid ""
+"The ultimate quiz game that comes at you at nowhere near the speed of sound!!\n"
+"The current champion is \"Simon: 12 Years Old.\""
+msgstr ""
+"¡¡El juego de preguntas definitivo que te ataca a una velocidad nada cercana a la del sonido!!\n"
+"El campeón actual es \"Simon: 12 años\"."
+
+#. habla: Destroy Runner: Revenge
+#, fuzzy
+msgctxt "#49"
+msgid "Use the Free Play Token?"
+msgstr "¿Usar la Ficha de juego gratis?"
+
+#. habla: Destroy Runner: Revenge
+#. Opciones: una por línea. Mantener 2 líneas en el mismo orden.
+#, fuzzy
+msgctxt "#50"
+msgid ""
+"Token inserted...\n"
+"Ready...go!"
+msgstr ""
+"Ficha insertada...\n"
+"Preparados... ¡ya!"
+
+#. habla: Question 1
+#, fuzzy
+msgctxt "#51"
+msgid "How many U.M.N. communications booths are there at the Miltia Space Port?"
+msgstr "¿Cuántas cabinas de comunicaciones U.M.N. hay en el puerto espacial de Miltia?"
+
+#. habla: Question 1
+#, fuzzy
+msgctxt "#52"
+msgid "Correct! Moving on to question 2."
+msgstr "¡Correcto! Pasamos a la pregunta 2."
+
+#. habla: Question 2
+#, fuzzy
+msgctxt "#53"
+msgid "The model number on the red Encephalon dive seat at Vector's Second Division is VR what?"
+msgstr "El número de modelo del asiento rojo de inmersión en el Encéfalo de la Segunda División de Vector es VR ¿cuánto?"
+
+#. habla: Question 2
+#, fuzzy
+msgctxt "#54"
+msgid "Correct! Moving on to question 3."
+msgstr "¡Correcto! Pasamos a la pregunta 3."
+
+#. habla: Question 3
+#, fuzzy
+msgctxt "#55"
+msgid "What's the ship number on the direct-flight launch to the Foundation?"
+msgstr "¿Cuál es el número de nave de la lanzadera directa a la Fundación?"
+
+#. habla: Question 3
+#, fuzzy
+msgctxt "#56"
+msgid "Correct! Moving on to question 4."
+msgstr "¡Correcto! Pasamos a la pregunta 4."
+
+#. habla: Question 4
+#, fuzzy
+msgctxt "#57"
+msgid "Ironman's mascot is Iron what?"
+msgstr "La mascota del Ironman es Iron ¿cuánto?"
+
+#. habla: Question 4
+#, fuzzy
+msgctxt "#58"
+msgid "Correct! Moving on to question 5."
+msgstr "¡Correcto! Pasamos a la pregunta 5."
+
+#. habla: Question 5
+#, fuzzy
+msgctxt "#59"
+msgid "The publishing agency on Miltia is the Area what?"
+msgstr "La agencia editorial de Miltia es Area ¿cuánto?"
+
+#. habla: Question 5
+#, fuzzy
+msgctxt "#60"
+msgid "Correct! Moving on to question 6."
+msgstr "¡Correcto! Pasamos a la pregunta 6."
+
+#. habla: Question 6
+#, fuzzy
+msgctxt "#61"
+msgid "What's the address written on the wall of the Foundation? Something LOANS ST..."
+msgstr "¿Qué dirección está escrita en una pared de la Fundación? Algo LOANS ST..."
+
+#. habla: Question 6
+#, fuzzy
+msgctxt "#62"
+msgid "Correct! Moving on to question 7."
+msgstr "¡Correcto! Pasamos a la pregunta 7."
+
+#. habla: Question 7
+#, fuzzy
+msgctxt "#63"
+msgid "Not including Axel, how many employees work at the Smile Bakery?"
+msgstr "Sin contar a Axel, ¿cuántos empleados trabajan en la Panadería Smile?"
+
+#. habla: Question 7
+#, fuzzy
+msgctxt "#64"
+msgid "Correct! Moving on to question 8."
+msgstr "¡Correcto! Pasamos a la pregunta 8."
+
+#. habla: Question 8
+#, fuzzy
+msgctxt "#65"
+msgid "The number on King's warehouse is EAST what?"
+msgstr "El número del depósito de King es EAST ¿cuánto?"
+
+#. habla: Question 8
+#, fuzzy
+msgctxt "#66"
+msgid "Correct! Moving on to question 9."
+msgstr "¡Correcto! Pasamos a la pregunta 9."
+
+#. habla: Question 9
+#, fuzzy
+msgctxt "#67"
+msgid "How many mice are there in the attic of the cleaners on the Foundation?"
+msgstr "¿Cuántos ratones hay en el ático de la tintorería de la Fundación?"
+
+#. habla: Question 9
+#, fuzzy
+msgctxt "#68"
+msgid "Correct! Moving on to question 10."
+msgstr "¡Correcto! Pasamos a la pregunta 10."
+
+#. habla: Question 10
+#, fuzzy
+msgctxt "#69"
+msgid "How many seats are there on the bridge of the Elsa?"
+msgstr "¿Cuántos asientos hay en el puente del Elsa?"
+
+#. habla: Question 10
+#, fuzzy
+msgctxt "#70"
+msgid "Correct! Moving on to question 11."
+msgstr "¡Correcto! Pasamos a la pregunta 11."
+
+#. habla: Question 11
+#, fuzzy
+msgctxt "#71"
+msgid "If you add up the letters in the names of the Durandal and Elsa, how many are there? "
+msgstr "Si sumas las letras de los nombres del Durandal y del Elsa, ¿cuántas son?"
+
+#. habla: Question 11
+#, fuzzy
+msgctxt "#72"
+msgid "Correct! Moving on to question 12."
+msgstr "¡Correcto! Pasamos a la pregunta 12."
+
+#. habla: Question 12
+#, fuzzy
+msgctxt "#73"
+msgid "How many bookshelves in the Uzuki residence can you actually move?"
+msgstr "¿Cuántas estanterías de la casa de los Uzuki se pueden mover de verdad?"
+
+#. habla: Question 12
+#, fuzzy
+msgctxt "#74"
+msgid "Correct! Moving on to question 13."
+msgstr "¡Correcto! Pasamos a la pregunta 13."
+
+#. habla: Question 13
+#, fuzzy
+msgctxt "#75"
+msgid "In the room with the most containers in the Dämmerung's Restricted Area, how many are indestructible?"
+msgstr "En la sala de la Zona restringida del Dämmerung con más contenedores, ¿cuántos son indestructibles?"
+
+#. habla: Question 13
+#, fuzzy
+msgctxt "#76"
+msgid "Correct! Moving on to question 14."
+msgstr "¡Correcto! Pasamos a la pregunta 14."
+
+#. habla: Question 14
+#, fuzzy
+msgctxt "#77"
+msgid "How many red Vector logos are painted in Vector's Second Division?"
+msgstr "¿Cuántos logos rojos de Vector hay pintados en la Segunda División de Vector?"
+
+#. habla: Question 14
+#, fuzzy
+msgctxt "#78"
+msgid "Correct! Moving on to question 15."
+msgstr "¡Correcto! Pasamos a la pregunta 15."
+
+#. habla: Question 15
+#, fuzzy
+msgctxt "#79"
+msgid "What's the number printed on the train that runs through the Durandal?"
+msgstr "¿Qué número tiene impreso el tren que recorre el Durandal?"
+
+#. habla: Question 15
+#, fuzzy
+msgctxt "#80"
+msgid "Correct! Moving on to question 16."
+msgstr "¡Correcto! Pasamos a la pregunta 16."
+
+#. habla: Question 16
+#, fuzzy
+msgctxt "#81"
+msgid "King claims to be the man who controls the Foundation from behind the scenes. How old is he?"
+msgstr "King dice ser el hombre que controla la Fundación desde las sombras. ¿Cuántos años tiene?"
+
+#. habla: Question 16
+#, fuzzy
+msgctxt "#82"
+msgid "Correct! Moving on to question 17."
+msgstr "¡Correcto! Pasamos a la pregunta 17."
+
+#. habla: Question 17
+#, fuzzy
+msgctxt "#83"
+msgid "The name of the dock area stop on the Durandal is DOCK-what?"
+msgstr "La parada de la zona de muelles del Durandal se llama DOCK ¿cuánto?"
+
+#. habla: Question 17
+#, fuzzy
+msgctxt "#84"
+msgid "Correct! Moving on to question 18."
+msgstr "¡Correcto! Pasamos a la pregunta 18."
+
+#. habla: Question 18
+#, fuzzy
+msgctxt "#85"
+msgid "How many of the Mass-produced 100-Series Observational Units on the Durandal can you talk to?"
+msgstr "¿Con cuántas Unidades de Observación Serie 100 producidas en masa del Durandal se puede hablar?"
+
+#. habla: Question 18
+#, fuzzy
+msgctxt "#86"
+msgid "Correct! Moving on to question 19."
+msgstr "¡Correcto! Pasamos a la pregunta 19."
+
+#. habla: Question 19
+#, fuzzy
+msgctxt "#87"
+msgid "How many tables does the Ironman currently have?"
+msgstr "¿Cuántas mesas tiene ahora el Ironman?"
+
+#. habla: Question 19
+#, fuzzy
+msgctxt "#88"
+msgid "Correct! Moving on to question 20."
+msgstr "¡Correcto! Pasamos a la pregunta 20."
+
+#. habla: Question 20
+#, fuzzy
+msgctxt "#89"
+msgid "If you add the numbers from the answers to questions 1 through 19 of this quiz game, what do you get?"
+msgstr "Si sumas los números de las respuestas de las preguntas 1 a 19 de este juego, ¿cuánto da?"
+
+#. habla: Question 20
+#, fuzzy
+msgctxt "#90"
+msgid "Correct!"
+msgstr "¡Correcto!"
+
+#. habla: Destroy Runner: Revenge
+#, fuzzy
+msgctxt "#91"
+msgid "You've answered every single question correctly! A new quiz champion is born!"
+msgstr "¡Respondiste correctamente todas las preguntas! ¡Nació un nuevo campeón!"
+
+#. habla: Question 20
+#, fuzzy
+msgctxt "#92"
+msgid "Too bad! We await your next challenge!"
+msgstr "¡Qué lástima! ¡Esperamos tu próximo desafío!"
+
+#. habla: Question 19
+#, fuzzy
+msgctxt "#93"
+msgid "Too bad! We await your next challenge!"
+msgstr "¡Qué lástima! ¡Esperamos tu próximo desafío!"
+
+#. habla: Question 18
+#, fuzzy
+msgctxt "#94"
+msgid "Too bad! We await your next challenge!"
+msgstr "¡Qué lástima! ¡Esperamos tu próximo desafío!"
+
+#. habla: Question 17
+#, fuzzy
+msgctxt "#95"
+msgid "Too bad! We await your next challenge!"
+msgstr "¡Qué lástima! ¡Esperamos tu próximo desafío!"
+
+#. habla: Question 16
+#, fuzzy
+msgctxt "#96"
+msgid "Too bad! We await your next challenge!"
+msgstr "¡Qué lástima! ¡Esperamos tu próximo desafío!"
+
+#. habla: Question 15
+#, fuzzy
+msgctxt "#97"
+msgid "Too bad! We await your next challenge!"
+msgstr "¡Qué lástima! ¡Esperamos tu próximo desafío!"
+
+#. habla: Question 14
+#, fuzzy
+msgctxt "#98"
+msgid "Too bad! We await your next challenge!"
+msgstr "¡Qué lástima! ¡Esperamos tu próximo desafío!"
+
+#. habla: Question 13
+#, fuzzy
+msgctxt "#99"
+msgid "Too bad! We await your next challenge!"
+msgstr "¡Qué lástima! ¡Esperamos tu próximo desafío!"
+
+#. habla: Question 12
+#, fuzzy
+msgctxt "#100"
+msgid "Too bad! We await your next challenge!"
+msgstr "¡Qué lástima! ¡Esperamos tu próximo desafío!"
+
+#. habla: Question 11
+#, fuzzy
+msgctxt "#101"
+msgid "Too bad! We await your next challenge!"
+msgstr "¡Qué lástima! ¡Esperamos tu próximo desafío!"
+
+#. habla: Question 10
+#, fuzzy
+msgctxt "#102"
+msgid "Too bad! We await your next challenge!"
+msgstr "¡Qué lástima! ¡Esperamos tu próximo desafío!"
+
+#. habla: Question 9
+#, fuzzy
+msgctxt "#103"
+msgid "Too bad! We await your next challenge!"
+msgstr "¡Qué lástima! ¡Esperamos tu próximo desafío!"
+
+#. habla: Question 8
+#, fuzzy
+msgctxt "#104"
+msgid "Too bad! We await your next challenge!"
+msgstr "¡Qué lástima! ¡Esperamos tu próximo desafío!"
+
+#. habla: Question 7
+#, fuzzy
+msgctxt "#105"
+msgid "Too bad! We await your next challenge!"
+msgstr "¡Qué lástima! ¡Esperamos tu próximo desafío!"
+
+#. habla: Question 6
+#, fuzzy
+msgctxt "#106"
+msgid "Too bad! We await your next challenge!"
+msgstr "¡Qué lástima! ¡Esperamos tu próximo desafío!"
+
+#. habla: Question 5
+#, fuzzy
+msgctxt "#107"
+msgid "Too bad! We await your next challenge!"
+msgstr "¡Qué lástima! ¡Esperamos tu próximo desafío!"
+
+#. habla: Question 4
+#, fuzzy
+msgctxt "#108"
+msgid "Too bad! We await your next challenge!"
+msgstr "¡Qué lástima! ¡Esperamos tu próximo desafío!"
+
+#. habla: Question 3
+#, fuzzy
+msgctxt "#109"
+msgid "Too bad! We await your next challenge!"
+msgstr "¡Qué lástima! ¡Esperamos tu próximo desafío!"
+
+#. habla: Question 2
+#, fuzzy
+msgctxt "#110"
+msgid "Too bad! We await your next challenge!"
+msgstr "¡Qué lástima! ¡Esperamos tu próximo desafío!"
+
+#. habla: Question 1
+#, fuzzy
+msgctxt "#111"
+msgid "Too bad! We await your next challenge!"
+msgstr "¡Qué lástima! ¡Esperamos tu próximo desafío!"
+
+#. habla: Destroy Runner: Revenge
+#, fuzzy
+msgctxt "#112"
+msgid "Destroy Runner: Revenge is always ready to take you on!"
+msgstr "¡Destroy Runner: Revenge siempre está listo para enfrentarte!"
+
+#. habla: Destroy Runner: Revenge
+#, fuzzy
+msgctxt "#113"
+msgid "A new champion is born!"
+msgstr "¡Nació un nuevo campeón!"
+
+#. habla: Destroy Runner: Revenge
+#, fuzzy
+msgctxt "#114"
+msgid "Fantastic! I'm sure a day will come to challenge you once again!"
+msgstr "¡Fantástico! ¡Seguro que algún día llegará alguien a desafiarte!"
+
+#, fuzzy
+msgctxt "#115"
+msgid "Release key check failed. Please insert the correct release key."
+msgstr "Falló la verificación de la llave de liberación. Inserte la llave de liberación correcta."
+
+#, fuzzy
+msgctxt "#116"
+msgid "Please enter the pass code."
+msgstr "Ingrese la contraseña."
+
+#, fuzzy
+msgctxt "#117"
+msgid "Pass code confirmed."
+msgstr "Contraseña confirmada."
+
+#, fuzzy
+msgctxt "#118"
+msgid "Pass code confirmation failed."
+msgstr "Falló la confirmación de la contraseña."
+
+#. habla: Layla
+#, fuzzy
+msgctxt "#119"
+msgid "The photo hanging on the third floor is the only one with all three members of my family in it, but I don't know where it was taken! I'm trying to remember the fun times I spent with my parents, but there's no way I can remember since I was just a baby. I recently learned that the photo was used in a pamphlet somewhere. Do you think you could find out where that photo was taken for me?"
+msgstr "La foto que está colgada en el tercer piso es la única en la que aparecemos los tres de mi familia, ¡pero no sé dónde la tomaron! Intento recordar los momentos lindos que pasé con mis padres, pero no hay forma, porque era apenas una bebé. Hace poco supe que la foto se usó en un folleto en algún lado. ¿Podrías averiguar por mí dónde se tomó esa foto?"
+
+#. habla: Layla
+#, fuzzy
+msgctxt "#120"
+msgid "Thank you so much!"
+msgstr "¡Muchísimas gracias!"
+
+#. habla: Layla
+#, fuzzy
+msgctxt "#122"
+msgid "There should be a clue somewhere on that photograph."
+msgstr "En algún lado de esa foto debería haber una pista."
+
+#. habla: Layla
+#, fuzzy
+msgctxt "#123"
+msgid "Oh. Okay."
+msgstr "Ah. Bueno."
+
+#. habla: Layla
+#, fuzzy
+msgctxt "#124"
+msgid "What?! You met with the person who took that photograph?!"
+msgstr "¡¿Qué?! ¡¿Te encontraste con la persona que tomó esa foto?!"
+
+#. habla: Layla
+#, fuzzy
+msgctxt "#126"
+msgid "Where was it taken?! The Second Miltia Space Port?! Thank you! Please take this as a token of my appreciation."
+msgstr "¡¿Dónde la tomaron?! ¡¿En el puerto espacial de Segunda Miltia?! ¡Gracias! Por favor, acepta esto como muestra de mi agradecimiento."
+
+#, fuzzy
+msgctxt "#127"
+msgid "You obtained the Vault Key!"
+msgstr "¡Obtuviste la Llave de caja fuerte!"
+
+#. habla: Layla
+#, fuzzy
+msgctxt "#128"
+msgid "I guess there are some adults who are nice, too. I think I'll try to trust them a bit more."
+msgstr "Supongo que también hay adultos buenos. Creo que voy a intentar confiar un poco más en ellos."
+
+#, fuzzy
+msgctxt "#129"
+msgid "The vibration checker is reacting. What would you like to do?"
+msgstr "El detector de vibraciones está reaccionando. ¿Qué quieres hacer?"
+
+#, fuzzy
+msgctxt "#130"
+msgid ""
+"Check the reaction again.\n"
+"Leave it alone.\n"
+"Register it as the matching ring and pick it up."
+msgstr ""
+"Volver a revisar la reacción.\n"
+"Dejarlo.\n"
+"Registrarlo como el anillo correcto y recogerlo."
+
+#, fuzzy
+msgctxt "#131"
+msgid "Reaction check complete."
+msgstr "Revisión de la reacción completa."
+
+#, fuzzy
+msgctxt "#132"
+msgid "You left the ring alone."
+msgstr "Dejaste el anillo."
+
+#, fuzzy
+msgctxt "#133"
+msgid "Once you pick up a ring, the vibration checker will cease functioning. You will not be able to search for rings anymore. Are you sure?"
+msgstr "Una vez que recojas un anillo, el detector de vibraciones dejará de funcionar. Ya no podrás buscar anillos. ¿Continuar?"
+
+#. Opciones: una por línea. Mantener 2 líneas en el mismo orden.
+#, fuzzy
+msgctxt "#134"
+msgid ""
+"Yes.\n"
+"No, don't pick it up."
+msgstr ""
+"Sí.\n"
+"No, no recogerlo."
+
+#, fuzzy
+msgctxt "#135"
+msgid "You obtained an Engagement Ring!"
+msgstr "¡Obtuviste un Anillo de compromiso!"

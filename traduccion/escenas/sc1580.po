@@ -1,0 +1,200 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Xenosaga Episode II - traducción al español\n"
+"Language: es_419\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Xeno-Source: 0:cf/en/sc1580.sbl\n"
+
+#, fuzzy
+msgctxt "#0"
+msgid "Use of this entrance by unauthorized personnel is prohibited. - Chop"
+msgstr "Prohibido el uso de esta entrada al personal no autorizado. - Chop"
+
+#. habla: Chop
+#, fuzzy
+msgctxt "#1"
+msgid "Ah...yes, I'm Chop. Do you need something? "
+msgstr "Ah... sí, soy Chop. ¿Necesitas algo?"
+
+#, fuzzy
+msgctxt "#2"
+msgid ""
+"I heard something's bothering you.\n"
+"Not really."
+msgstr ""
+"Escuché que algo te preocupa.\n"
+"No, nada."
+
+#. habla: Chop
+#, fuzzy
+msgctxt "#3"
+msgid "What? How do you know that? Well, you don't look like a bad person, so I'll tell you. I'm trying to cook a dish that will go down in legend! Say, you're pretty nice to come here and listen to some stranger's problem, so I'll unlock the door to the kitchen. Come see me whenever you like!"
+msgstr "¿Qué? ¿Cómo sabes eso? Bueno, no pareces mala persona, así que te lo voy a contar. ¡Intento cocinar un plato que pase a la leyenda! Oye, eres bastante amable por venir a escuchar los problemas de un desconocido, así que voy a abrir la puerta de la cocina. ¡Ven a verme cuando quieras!"
+
+#, fuzzy
+msgctxt "#4"
+msgid "The back door of the kitchen is now unlocked!"
+msgstr "¡Se abrió la puerta trasera de la cocina!"
+
+#. habla: Chop
+#, fuzzy
+msgctxt "#5"
+msgid "*Sigh* What do I need in order to approach Master Punch's flavors?"
+msgstr "*Suspiro* ¿Qué me hace falta para acercarme a los sabores del maestro Punch?"
+
+#. habla: Chop
+#, fuzzy
+msgctxt "#6"
+msgid "What? How do you know that? Well, you don't look like a bad person, so I'll tell you. I'm trying to cook a dish that will go down in legend! Say, you're pretty nice to come here and listen to some stranger's problem."
+msgstr "¿Qué? ¿Cómo sabes eso? Bueno, no pareces mala persona, así que te lo voy a contar. ¡Intento cocinar un plato que pase a la leyenda! Oye, eres bastante amable por venir a escuchar los problemas de un desconocido."
+
+#. habla: Chop
+#, fuzzy
+msgctxt "#7"
+msgid "I need someone to help me cook. I wonder if there is a woman around who's any good with food..."
+msgstr "Necesito que alguien me ayude a cocinar. Me pregunto si habrá por aquí alguna mujer que se dé maña con la comida..."
+
+#. habla: Chop
+#, fuzzy
+msgctxt "#8"
+msgid "Could you help me cook?"
+msgstr "¿Me ayudarías a cocinar?"
+
+#. Opciones: una por línea. Mantener 2 líneas en el mismo orden.
+#, fuzzy
+msgctxt "#9"
+msgid ""
+"One moment please.\n"
+"Leave it to me!"
+msgstr ""
+"Un momento, por favor.\n"
+"¡Déjamelo a mí!"
+
+#. habla: Chop
+#, fuzzy
+msgctxt "#10"
+msgid "Come talk to me when you have the time. ♪"
+msgstr "Ven a hablar conmigo cuando tengas tiempo. ♪"
+
+#. habla: Chop
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#11"
+msgid "Then I'll give you a quick explanation on how to help me! It's very simple. All you have to do is put in the seasonings that I tell you. The seasonings correspond to the following buttons: pepper <○>, sugar <×>, salt <△>, and soy sauce <□>. You just need to press the button for the seasoning I say. But, of course, in cooking timing is crucial. If you put in the correct seasonings 45 times within one minute and 30 seconds, we should be able to make a delicious meal. But if you press the wrong button, the dish will be a total failure, so be careful! Okay, here we go!"
+msgstr "¡Entonces te explico rápido cómo ayudarme! Es muy sencillo. Solo tienes que poner los condimentos que yo te diga. Cada condimento corresponde a un botón: pimienta <○>, azúcar <×>, sal <△> y salsa de soja <□>. Solo presiona el botón del condimento que yo diga. Pero, claro, en la cocina el momento justo es clave. Si pones el condimento correcto 45 veces en un minuto y 30 segundos, deberíamos poder hacer una comida deliciosa. Pero si presionas el botón equivocado, el plato será un fracaso total, ¡así que ten cuidado! ¡Bueno, allá vamos!"
+
+#. habla: Chop
+#, fuzzy
+msgctxt "#12"
+msgid "Maybe this sounds strange coming from a professionally trained chef like me, but sometimes it just takes a bit of everyday home cooking to bring out flavors that will please Master Punch!"
+msgstr "Quizá suene raro viniendo de un chef profesional como yo, pero a veces hace falta un poco de cocina casera de todos los días para lograr sabores que le gusten al maestro Punch."
+
+#. habla: Chop
+#, fuzzy
+msgctxt "#13"
+msgid "We've succeeded in creating the ultimate dish, \"Quintessential Curry\"!"
+msgstr "¡Logramos crear el plato definitivo, el \"Curry Quintaesencial\"!"
+
+#. habla: Chop
+#, fuzzy
+msgctxt "#14"
+msgid "I'm going to have my teacher try this curry! But, you know, I'm still not sure if it will be good enough to please his delicate palate."
+msgstr "¡Voy a hacer que mi maestro pruebe este curry! Aunque, ¿sabes?, todavía no estoy seguro de que sea suficiente para su paladar tan delicado."
+
+#. habla: Chop
+#, fuzzy
+msgctxt "#15"
+msgid "I've been trying for so long to surpass my teacher's dishes! But no matter what I make, I haven't been able to truly impress him. My teacher, Punch, is the head chef at the bar on the Foundation. He used to be the executive chef at a high-class hotel, but he had a fight with the hotel manager and left. Punch was like a father to me, so I followed him and left the hotel as well. I wanted to work in the same kitchen with him again, so I went to the Foundation. But when I got there, he suddenly yelled at me and chased me away! That's when I thought, if I could make a dish that would truly impress him, he might let me cook with him again. But the way of the chef is difficult. No matter how much I improve, when I go to the Foundation, Punch always turns me away at the door. So, I was wondering, would you be willing to help me in creating my new dish?"
+msgstr "¡Hace mucho que intento superar los platos de mi maestro! Pero cocine lo que cocine, nunca logré impresionarlo de verdad. Mi maestro, Punch, es el jefe de cocina del bar de la Fundación. Antes era el chef ejecutivo de un hotel de lujo, pero se peleó con el gerente y se fue. Punch era como un padre para mí, así que lo seguí y también dejé el hotel. Quería volver a trabajar en la misma cocina que él, así que fui a la Fundación. ¡Pero cuando llegué, de repente me gritó y me echó! Ahí pensé que, si lograba hacer un plato que lo impresionara de verdad, quizá me dejaría cocinar con él otra vez. Pero el camino del chef es difícil. Por más que mejore, cuando voy a la Fundación, Punch siempre me echa en la puerta. Así que me preguntaba, ¿te animarías a ayudarme a crear mi nuevo plato?"
+
+#. Opciones: una por línea. Mantener 2 líneas en el mismo orden.
+#, fuzzy
+msgctxt "#16"
+msgid ""
+"Yes\n"
+"No"
+msgstr ""
+"Sí\n"
+"No"
+
+#. habla: Chop
+#, fuzzy
+msgctxt "#17"
+msgid "Excellent!"
+msgstr "¡Excelente!"
+
+#. habla: Chop
+#, fuzzy
+msgctxt "#19"
+msgid "It's a simple job―come talk to me when you have the time!"
+msgstr "Es un trabajo sencillo; ¡ven a hablar conmigo cuando tengas tiempo!"
+
+#. habla: Chop
+#, fuzzy
+msgctxt "#20"
+msgid "Hmm. What do I need to do to impress Punch?"
+msgstr "Hmm. ¿Qué tengo que hacer para impresionar a Punch?"
+
+#. habla: Chop
+#, fuzzy
+msgctxt "#21"
+msgid "Whoa! We did it! This is it! The legendary \"Quintessential Curry\"! This will surely impress Punch! This is the flavor I've been working so hard for all this time!"
+msgstr "¡Epa! ¡Lo logramos! ¡Esto es! ¡El legendario \"Curry Quintaesencial\"! ¡Seguro que esto impresiona a Punch! ¡Este es el sabor por el que tanto me esforcé todo este tiempo!"
+
+#. habla: Chop
+#, fuzzy
+msgctxt "#23"
+msgid "I'm going to take this curry with me and go see Punch! Oh, wait! I need to thank you. Please take this!"
+msgstr "¡Voy a llevar este curry y a ver a Punch! ¡Ah, espera! Tengo que agradecerte. ¡Toma esto, por favor!"
+
+#, fuzzy
+msgctxt "#24"
+msgid "You obtained Decoder 17!"
+msgstr "¡Obtuviste el Decodificador 17!"
+
+#. habla: Chop
+#, fuzzy
+msgctxt "#25"
+msgid "I'm thrilled that the curry is complete, but I'm nervous about whether it will truly meet with Punch's approval."
+msgstr "Estoy feliz de que el curry esté terminado, pero me pone nervioso saber si de verdad le va a gustar a Punch."
+
+#, fuzzy
+msgctxt "#26"
+msgid "You obtained a Curry Recipe!"
+msgstr "¡Obtuviste una Receta de curry!"
+
+#. habla: Chop
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#27"
+msgid "Salt <△>."
+msgstr "Sal <△>."
+
+#. habla: Chop
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#28"
+msgid "Sugar <×>."
+msgstr "Azúcar <×>."
+
+#. habla: Chop
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#29"
+msgid "Soy sauce <□>."
+msgstr "Salsa de soja <□>."
+
+#. habla: Chop
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#30"
+msgid "Pepper <○>."
+msgstr "Pimienta <○>."
+
+#. habla: Chop
+#, fuzzy
+msgctxt "#31"
+msgid "The dish failed!"
+msgstr "¡El plato fracasó!"

@@ -1,0 +1,202 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Xenosaga Episode II - traducción al español\n"
+"Language: es_419\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Xeno-Source: 0:model/map/en/E2_KML05.sbl\n"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#0"
+msgid "$zoom13;5.66mm U-TIC Shell (Pierce)"
+msgstr "$zoom13;Proyectil U-TIC de 5.66 mm (Perforación)"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#1"
+msgid "$zoom13;Hyams M87R (Pierce)"
+msgstr "$zoom13;Hyams M87R (Perforación)"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#2"
+msgid "$zoom13;EAP Shell (Beam)"
+msgstr "$zoom13;Proyectil EAP (Haz)"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#3"
+msgid "$zoom13;Venom Touch (Strike/L Poison)"
+msgstr "$zoom13;Toque venenoso (Golpe/Veneno L)"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#4"
+msgid "$zoom13;Hedro Dust (Strike/L Poison)"
+msgstr "$zoom13;Hedro Dust (Golpe/Veneno L)"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#5"
+msgid "$zoom13;Venom Touch Combo (Strike/L Poison)"
+msgstr "$zoom13;Combo toque venenoso (Golpe/Veneno L)"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#6"
+msgid "$zoom13;Quick"
+msgstr "$zoom13;Rapidez"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#7"
+msgid ""
+"$col808080;I take it you're getting used to the battles. Now let\n"
+"me explain the menu commands to you.●"
+msgstr ""
+"$col808080;Veo que te estás acostumbrando a los combates.\n"
+"Ahora te explico los comandos del menú.●"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#8"
+msgid ""
+"$col7AF9FB;【STOCK】\n"
+"$col808080;It increases your Stock Gauge by one. Like this.●"
+msgstr ""
+"$col7AF9FB;【STOCK】\n"
+"$col808080;Sube en uno la barra de Stock. Así.●"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#9"
+msgid ""
+"$col808080;You can use Stock to follow up basic attacks with\n"
+"extra attacks. The Stock Gauge goes up to three,\n"
+"so it's possible to perform a five hit attack like\n"
+"&01&02&03&03&03.●"
+msgstr ""
+"$col808080;Con Stock puedes seguir los ataques básicos con\n"
+"ataques extra. La barra de Stock llega hasta tres,\n"
+"así que se puede hacer un ataque de cinco golpes\n"
+"como &01&02&03&03&03.●"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#10"
+msgid ""
+"$col808080;Using Stock to perform extra attacks will\n"
+"allow you to Air or Down the enemy from Break\n"
+"without using Boost.●"
+msgstr ""
+"$col808080;Usar Stock para hacer ataques extra te permite\n"
+"elevar o derribar al enemigo en Desequilibrio\n"
+"sin usar Boost.●"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#11"
+msgid ""
+"$col7AF9FB;【DOUBLE】\n"
+"$col808080;Double Attacks are special attacks performed by\n"
+"two cooperating characters.●"
+msgstr ""
+"$col7AF9FB;【DOBLE】\n"
+"$col808080;Los Ataques Dobles son ataques especiales que\n"
+"hacen dos personajes en cooperación.●"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#12"
+msgid ""
+"$col808080;Currently, the command can't be used. Certain\n"
+"conditions must be met in order to use it.●"
+msgstr ""
+"$col808080;Ahora el comando no se puede usar. Hay que\n"
+"cumplir ciertas condiciones para usarlo.●"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#13"
+msgid ""
+"$col808080;Now it's selectable. It can be used when the current\n"
+"character and the Boosted character have learned\n"
+"a Double Attack. ●"
+msgstr ""
+"$col808080;Ahora se puede elegir. Se usa cuando el personaje\n"
+"actual y el personaje que hizo Boost aprendieron\n"
+"un Ataque Doble. ●"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#14"
+msgid ""
+"$col808080;It looks like we can use a Double Attack called Ice\n"
+"Brand. But in order to use the Double Attack,\n"
+"another condition has to be met.●"
+msgstr ""
+"$col808080;Parece que podemos usar un Ataque Doble\n"
+"llamado Filo glacial. Pero para usarlo hay que\n"
+"cumplir otra condición.●"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#15"
+msgid ""
+"$col808080;The number 2 is displayed to the right of Ice Brand.\n"
+"This number signifies Stock cost, and requires both\n"
+"characters to use that amount of Stock.●"
+msgstr ""
+"$col808080;A la derecha de Filo glacial aparece el número 2.\n"
+"Es el costo de Stock: los dos personajes tienen\n"
+"que gastar esa cantidad de Stock.●"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#16"
+msgid ""
+"$col808080;Each Double Attack can only be used once per\n"
+"battle. There's only Captain Uzuki and me right\n"
+"now, so Ice Brand can only be used once.●"
+msgstr ""
+"$col808080;Cada Ataque Doble se puede usar una vez por\n"
+"combate. Ahora solo estamos el capitán Uzuki\n"
+"y yo, así que Filo glacial solo se usa una vez.●"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#17"
+msgid ""
+"$col808080;I Boosted during Captain Uzuki's turn, but the\n"
+"Double Attack can be used in the opposite\n"
+"situation as well.●"
+msgstr ""
+"$col808080;Hice Boost durante el turno del capitán Uzuki,\n"
+"pero el Ataque Doble también se puede usar\n"
+"en la situación contraria.●"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#18"
+msgid ""
+"$col808080;Captain Uzuki Boosted during my turn, but the\n"
+"Double Attack can be used in the opposite\n"
+"situation as well.●"
+msgstr ""
+"$col808080;El capitán Uzuki hizo Boost durante mi turno,\n"
+"pero el Ataque Doble también se puede usar\n"
+"en la situación contraria.●"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#19"
+msgid ""
+"$col808080;That's the end of the explanation of battles. The\n"
+"rest is just practice. I'll max out the Boost Gauge\n"
+"and the Stock Gauge, so good luck.●"
+msgstr ""
+"$col808080;Aquí termina la explicación de los combates.\n"
+"Lo demás es práctica. Voy a llenar al máximo la\n"
+"barra de Boost y la de Stock. ¡Buena suerte!●"

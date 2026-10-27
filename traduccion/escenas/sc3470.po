@@ -1,0 +1,43 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Xenosaga Episode II - traducción al español\n"
+"Language: es_419\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Xeno-Source: 0:cf/en/sc3470.sbl\n"
+
+#, fuzzy
+msgctxt "#4"
+msgid "To proceed further, you must activate the elevator. The activation switch is..."
+msgstr "Para seguir avanzando, hay que activar el ascensor. El interruptor de activación está..."
+
+#, fuzzy
+msgctxt "#5"
+msgid "Maybe that?"
+msgstr "¿Quizá ahí?"
+
+#, fuzzy
+msgctxt "#6"
+msgid "Use the elevator?"
+msgstr "¿Usar el ascensor?"
+
+#. Opciones: una por línea. Mantener 2 líneas en el mismo orden.
+#, fuzzy
+msgctxt "#7"
+msgid ""
+"Yes\n"
+"No"
+msgstr ""
+"Sí\n"
+"No"
+
+#, fuzzy
+msgctxt "#8"
+msgid "Push the button?"
+msgstr "¿Presionar el botón?"
+
+#, fuzzy
+msgctxt "#9"
+msgid "There's a hole. Do you want to jump in?"
+msgstr "Hay un agujero. ¿Quieres saltar adentro?"

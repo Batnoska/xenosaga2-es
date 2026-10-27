@@ -1,0 +1,26 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Xenosaga Episode II - traducción al español\n"
+"Language: es_419\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Xeno-Source: 0:cf/en/sc1210.sbl\n"
+
+#. habla: Ziggy
+#, fuzzy
+msgctxt "#5"
+msgid "They're right behind us."
+msgstr "Nos siguen de cerca."
+
+#. habla: Jr.
+#, fuzzy
+msgctxt "#6"
+msgid "Okay! We'll head for point 2089, the roof of Second Miltia Defense System #6."
+msgstr "¡Bien! Vamos al punto 2089, la azotea del Sistema de Defensa N.º 6 de Segunda Miltia."
+
+#. habla: chaos
+#, fuzzy
+msgctxt "#7"
+msgid "Good thinking. That way, the citizens won't get caught in the middle. Let's go!"
+msgstr "Buena idea. Así los ciudadanos no quedarán en medio. ¡Vamos!"

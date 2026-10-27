@@ -1,0 +1,194 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Xenosaga Episode II - traducción al español\n"
+"Language: es_419\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Xeno-Source: 0:model/map/en/E2_EVE69.sbl\n"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#0"
+msgid "$zoom13;Sealed Throne (Vaccine)"
+msgstr "$zoom13;Trono sellado (Vacuna)"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#1"
+msgid ""
+"$zoom15;$colc0c0c0;You are unable to move under\n"
+"Orgulla's menacing glare!\n"
+"$col0fd0e0;Boost count stolen!$colc0c0c0;"
+msgstr ""
+"$zoom15;$colc0c0c0;¡La mirada amenazante de Orgulla\n"
+"los deja paralizados!\n"
+"$col0fd0e0;¡Robó Boost!$colc0c0c0;"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#3"
+msgid "$zoom15;$col0fd0e0;Orgulla's eyes shine $cola05050;blue$col0fd0e0;.$colc0c0c0;"
+msgstr "$zoom15;$col0fd0e0;Los ojos de Orgulla brillan en $cola05050;azul$col0fd0e0;.$colc0c0c0;"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#5"
+msgid "$zoom15;$col7AF9FB;Increased effectiveness of Poison.$colc0c0c0;"
+msgstr "$zoom15;$col7AF9FB;El veneno es más efectivo.$colc0c0c0;"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#8"
+msgid "$zoom15;$colc0c0c0;Orgulla's eyes flash $cola05050;blue$colc0c0c0;."
+msgstr "$zoom15;$colc0c0c0;Los ojos de Orgulla destellan en $cola05050;azul$colc0c0c0;."
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#9"
+msgid "$zoom15;$colc0c0c0;Orgulla's eyes flash $col00c050;green$colc0c0c0;."
+msgstr "$zoom15;$colc0c0c0;Los ojos de Orgulla destellan en $col00c050;verde$colc0c0c0;."
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#10"
+msgid "$zoom13;Byron's Cain (Slash/L Poison)"
+msgstr "$zoom13;Caín de Byron (Corte/Veneno L)"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#12"
+msgid "$zoom13;Byron's Cain Shot (Slash/Pierce/L Poison)"
+msgstr "$zoom13;Disparo Caín de Byron (Corte/Perforación/Veneno L)"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#15"
+msgid "$zoom13;Scatter Shot (Pierce)"
+msgstr "$zoom13;Disparo disperso (Perforación)"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#16"
+msgid "$zoom13;Manes Awakens"
+msgstr "$zoom13;Despertar de Manes"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#18"
+msgid "$zoom13;Quick"
+msgstr "$zoom13;Rapidez"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#19"
+msgid "$zoom13;Refresh L"
+msgstr "$zoom13;Refresh L"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#20"
+msgid "$zoom13;Refresh H"
+msgstr "$zoom13;Refresh H"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#21"
+msgid "$zoom13;Medica"
+msgstr "$zoom13;Medica"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#22"
+msgid "$zoom13;Eve of the Assassination (Vaccine + Poison Up)"
+msgstr "$zoom13;Víspera del asesinato (Vacuna + Veneno potenciado)"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#24"
+msgid ""
+"$zoom15;$colc0c0c0;Second virus is launched.\n"
+"$col7AF9FB;Manes' stats decreased.$colc0c0c0;"
+msgstr ""
+"$zoom15;$colc0c0c0;Se lanzó el segundo virus.\n"
+"$col7AF9FB;Bajaron los parámetros de Manes.$colc0c0c0;"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#25"
+msgid "$zoom13;Manes Restraint - Second Virus"
+msgstr "$zoom13;Contención de Manes - Segundo virus"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#27"
+msgid "$zoom15;$colc0c0c0;Orgulla flashes a sinister grin."
+msgstr "$zoom15;$colc0c0c0;Orgulla esboza una sonrisa siniestra."
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#29"
+msgid "$zoom13;Kiss of Death"
+msgstr "$zoom13;Beso de la muerte"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#30"
+msgid "$zoom13;Vigrid (Slash/Ice/L Weak)"
+msgstr "$zoom13;Vigrid (Corte/Hielo/Debilidad L)"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#32"
+msgid "$zoom13;Valhalla (Slash/Ice)"
+msgstr "$zoom13;Valhalla (Corte/Hielo)"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#34"
+msgid "$zoom13;Einherjar (Slash/Ice)"
+msgstr "$zoom13;Einherjar (Corte/Hielo)"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#36"
+msgid "$zoom13;Manes Restraint Program"
+msgstr "$zoom13;Programa de contención de Manes"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#39"
+msgid "$zoom13;Ice Blast"
+msgstr "$zoom13;Ráfaga gélida"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#40"
+msgid "$zoom13;Blood Oath"
+msgstr "$zoom13;Juramento de sangre"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#41"
+msgid ""
+"$zoom15;$colc0c0c0;Increased physical attack power\n"
+"$col7AF9FB;by sacrificing HP.$colc0c0c0;"
+msgstr ""
+"$zoom15;$colc0c0c0;Aumentó el ataque físico\n"
+"$col7AF9FB;a costa de sus HP.$colc0c0c0;"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#42"
+msgid "$zoom13;A Pound of Flesh"
+msgstr "$zoom13;Una libra de carne"
+
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#43"
+msgid ""
+"$zoom15;$colc0c0c0;Increased Boost count\n"
+"$col7AF9FB;by sacrificing HP.$colc0c0c0;"
+msgstr ""
+"$zoom15;$colc0c0c0;Aumentó el Boost\n"
+"$col7AF9FB;a costa de sus HP.$colc0c0c0;"

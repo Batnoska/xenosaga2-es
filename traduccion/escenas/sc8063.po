@@ -1,0 +1,126 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Xenosaga Episode II - traducción al español\n"
+"Language: es_419\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Xeno-Source: 0:cf/en/sc8063.sbl\n"
+"X-Xeno-Tipo: cinematica\n"
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#8"
+msgid "Give me an update."
+msgstr "Dame un informe."
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#9"
+msgid ""
+"No change in the waves from the\n"
+"space-time anomaly. Further expansion\n"
+"appears to be temporarily halted."
+msgstr ""
+"Sin cambios en las ondas de la anomalía\n"
+"del espacio-tiempo. Parece que la\n"
+"expansión se detuvo temporalmente."
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#10"
+msgid "Well, it sounds like we owe one to KOS-MOS."
+msgstr "Bueno, parece que le debemos una a KOS-MOS."
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#11"
+msgid "We don't have time to relax, Little Master."
+msgstr "No hay tiempo para relajarse, joven amo."
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#12"
+msgid ""
+"The phenomena alteration may have stopped\n"
+"expanding for now, but it's just a matter\n"
+"of time before it starts up again."
+msgstr ""
+"La alteración de los fenómenos quizá dejó\n"
+"de expandirse por ahora, pero es cuestión\n"
+"de tiempo que vuelva a empezar."
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#. Opciones: una por línea. Mantener 2 líneas en el mismo orden.
+#, fuzzy
+msgctxt "#13"
+msgid ""
+"It'll swallow up the whole\n"
+"region eventually, won't it?"
+msgstr ""
+"Con el tiempo se tragará\n"
+"toda la región, ¿no?"
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#14"
+msgid "Isn't there any way to stop it?"
+msgstr "¿No hay forma de detenerla?"
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#15"
+msgid ""
+"It's likely the only way to resolve this\n"
+"situation is to go in there and\n"
+"destroy the source directly."
+msgstr ""
+"Probablemente la única forma de resolver\n"
+"esta situación sea entrar ahí y\n"
+"destruir la fuente directamente."
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#16"
+msgid "But the risk involved is enormous."
+msgstr "Pero el riesgo es enorme."
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#17"
+msgid "How are the Elsa and the assault craft?"
+msgstr "¿Cómo están el Elsa y la nave de asalto?"
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#18"
+msgid ""
+"They have sustained a great deal of\n"
+"damage, but they are still operational."
+msgstr ""
+"Sufrieron muchos daños,\n"
+"pero siguen operativos."
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#19"
+msgid "We can launch at any time."
+msgstr "Podemos despegar cuando quiera."
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#20"
+msgid "Okay, got it."
+msgstr "Bien, entendido."
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#21"
+msgid "Shelley, I need you to take over here."
+msgstr "Shelley, necesito que te hagas cargo aquí."
+
+#. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
+#, fuzzy
+msgctxt "#22"
+msgid "Acknowledged."
+msgstr "Entendido."

@@ -1,0 +1,666 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Xenosaga Episode II - traducción al español\n"
+"Language: es_419\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Xeno-Source: 0:cf/en/sc1930.sbl\n"
+
+#. habla: Benoit
+#, fuzzy
+msgctxt "#1"
+msgid "The analysis of the 100-Series Prototype will begin soon. It's an analysis of important data that lies in her subconscious domain. Please don't get in the way."
+msgstr "El análisis del prototipo de la Serie 100 empezará pronto. Es un análisis de datos importantes que están en su dominio subconsciente. Por favor, no estorben."
+
+#. habla: Benoit
+#, fuzzy
+msgctxt "#2"
+msgid "Hey! This is all very sensitive equipment. Don't go wandering around here with that body of yours. You'll disturb the calibration."
+msgstr "¡Oiga! Todo este equipo es muy delicado. No ande dando vueltas por aquí con ese cuerpo. Va a alterar la calibración."
+
+#. habla: Benoit
+#, fuzzy
+msgctxt "#3"
+msgid "The preliminary examination has been completed, and the main examination will begin soon. We'll be supporting Dr. Juli Mizrahi."
+msgstr "El examen preliminar terminó, y el examen principal empezará pronto. Vamos a asistir a la doctora Juli Mizrahi."
+
+#. habla: Benoit
+#, fuzzy
+msgctxt "#4"
+msgid "How did you get in here? We're in a state of emergency. You can't observe right now. Hurry up and go home."
+msgstr "¿Cómo entraste aquí? Estamos en estado de emergencia. Ahora no se puede observar. Vete a casa rápido."
+
+#. habla: Benoit
+#, fuzzy
+msgctxt "#5"
+msgid "Hey! Do you realize what's going on out there right now?!"
+msgstr "¡Oye! ¡¿Te das cuenta de lo que está pasando allá afuera?!"
+
+#. habla: Benoit
+#, fuzzy
+msgctxt "#6"
+msgid "You're government equipment, right? What are you doing wandering around here?"
+msgstr "Usted es equipamiento del gobierno, ¿no? ¿Qué hace dando vueltas por aquí?"
+
+#. habla: Benoit
+#, fuzzy
+msgctxt "#7"
+msgid "Damn that Immigrant Fleet! They continue to ignore our warnings."
+msgstr "¡Maldita Flota de Inmigrantes! Siguen ignorando nuestras advertencias."
+
+#. habla: Benoit
+#, fuzzy
+msgctxt "#8"
+msgid "Even if we wanted to seal the gate, there's nothing we can do with that many ships all jumping through the column like that! What is the Federation fleet doing?!"
+msgstr "Aunque quisiéramos sellar la puerta, ¡no podemos hacer nada con tantas naves saltando por la columna así! ¡¿Qué está haciendo la flota de la Federación?!"
+
+#. habla: Benoit
+#, fuzzy
+msgctxt "#9"
+msgid "Out of the way! I don't have time to play!"
+msgstr "¡Fuera de mi camino! ¡No tengo tiempo para jugar!"
+
+#. habla: Benoit
+#, fuzzy
+msgctxt "#10"
+msgid "Dammit, if they won't answer our calls, there's nothing else we can do!"
+msgstr "Maldición, si no responden nuestras llamadas, no podemos hacer nada más."
+
+#. habla: Benoit
+#, fuzzy
+msgctxt "#11"
+msgid "Don't get in the way. A huge thing like you standing here is a real distraction."
+msgstr "No estorbe. Alguien tan enorme como usted parado aquí distrae muchísimo."
+
+#. habla: Benoit
+#, fuzzy
+msgctxt "#12"
+msgid "If you're that bored, how about standing guard outside or something?"
+msgstr "Si está tan aburrido, ¿qué tal si hace guardia afuera o algo así?"
+
+#. habla: Benoit
+#, fuzzy
+msgctxt "#13"
+msgid "Dammit, what the hell is going on? We still can't get through to the Federation fleet, and now the Immigrant Fleet has disappeared as well. Did that monster cause all this?!"
+msgstr "Maldición, ¿qué demonios está pasando? Todavía no podemos comunicarnos con la flota de la Federación, y ahora también desapareció la Flota de Inmigrantes. ¡¿Ese monstruo causó todo esto?!"
+
+#. habla: Jeri
+#, fuzzy
+msgctxt "#14"
+msgid "This is the largest analysis facility among the Federation's control centers."
+msgstr "Esta es la instalación de análisis más grande de todos los centros de control de la Federación."
+
+#. habla: Jeri
+#, fuzzy
+msgctxt "#15"
+msgid "Of course, this analysis room was originally developed by Vector."
+msgstr "Claro que esta sala de análisis la desarrolló originalmente Vector."
+
+#. habla: Jeri
+#, fuzzy
+msgctxt "#16"
+msgid "Oh, you're that cyborg that was in the maintenance room, right?"
+msgstr "Ah, usted es ese cíborg que estaba en la sala de mantenimiento, ¿no?"
+
+#. habla: Jeri
+#, fuzzy
+msgctxt "#17"
+msgid "Is your maintenance complete? If so, you should get back to work."
+msgstr "¿Terminó su mantenimiento? Si es así, debería volver al trabajo."
+
+#. habla: Jeri
+#, fuzzy
+msgctxt "#18"
+msgid "Representative Helmer notified us that staff from the Foundation will be participating in the analysis as well."
+msgstr "El representante Helmer nos avisó que personal de la Fundación también va a participar en el análisis."
+
+#. habla: Jeri
+#, fuzzy
+msgctxt "#19"
+msgid "They say that the 100-Series units working in the analysis room belong to them. But with this many 100-Series around, I don't know which one is the prototype."
+msgstr "Dicen que las unidades de la Serie 100 que trabajan en la sala de análisis son de ellos. Pero con tantas Serie 100 por aquí, no sé cuál es el prototipo."
+
+#. habla: Jeri
+#, fuzzy
+msgctxt "#20"
+msgid "You were made by Professor Mizrahi, right? Then do you know about the Zohar and the U-TIC Organization? Could you tell me what you know?"
+msgstr "Te hizo el profesor Mizrahi, ¿no? Entonces, ¿sabes algo del Zohar y de la Organización U-TIC? ¿Me podrías contar lo que sabes?"
+
+#. habla: Jeri
+#, fuzzy
+msgctxt "#21"
+msgid "The Ziggurat series were special-operations cyborgs designed for public institutions, right?"
+msgstr "La serie Ziggurat eran cíborgs de operaciones especiales diseñados para instituciones públicas, ¿no?"
+
+#. habla: Jeri
+#, fuzzy
+msgctxt "#22"
+msgid "Can you fight A.M.W.S. with your bare hands?"
+msgstr "¿Puede pelear contra un A.M.W.S. con las manos desnudas?"
+
+#. habla: Jeri
+#, fuzzy
+msgctxt "#23"
+msgid "What's going on? We've detected an unidentified object within the column to Old Miltia."
+msgstr "¿Qué está pasando? Detectamos un objeto no identificado dentro de la columna a la Antigua Miltia."
+
+#. habla: Jeri
+#, fuzzy
+msgctxt "#24"
+msgid "How did it get there without using the U.M.N. hypergate? "
+msgstr "¿Cómo llegó ahí sin usar la hiperpuerta de la U.M.N.?"
+
+#. habla: Jeri
+#, fuzzy
+msgctxt "#25"
+msgid "You should hurry up and evacuate! I wonder if Second Miltia is safe..."
+msgstr "¡Deberían evacuar rápido! Me pregunto si Segunda Miltia estará a salvo..."
+
+#. habla: Jeri
+#, fuzzy
+msgctxt "#26"
+msgid "We may have nowhere to run."
+msgstr "Quizá no tengamos adónde huir."
+
+#. habla: Jeri
+#, fuzzy
+msgctxt "#27"
+msgid "Um, say, if I become a Gnosis, will you please kill me? Um, I mean, just in case it actually happens."
+msgstr "Eh, oiga, si me convierto en Gnosis, ¿me mataría, por favor? Eh, o sea, por si acaso pasa de verdad."
+
+#. habla: Jeri
+#, fuzzy
+msgctxt "#28"
+msgid "But if it really does happen, please do it."
+msgstr "Pero si de verdad pasa, por favor, hágalo."
+
+#. habla: Jeri
+#, fuzzy
+msgctxt "#29"
+msgid "What is that thing that came out of Miltia? Is it a Gnosis or something?!"
+msgstr "¿Qué es esa cosa que salió de Miltia? ¡¿Es un Gnosis o algo así?!"
+
+#. habla: Jeri
+#, fuzzy
+msgctxt "#30"
+msgid "But there's something weird going on! We're not detecting any signs of Gnosis at all!"
+msgstr "¡Pero está pasando algo raro! ¡No detectamos ningún rastro de Gnosis!"
+
+#. habla: Danny
+#, fuzzy
+msgctxt "#31"
+msgid "This circular area in the center is the analysis bed. It utilizes a magnetic field to create an isolation chamber."
+msgstr "Esta zona circular del centro es la cama de análisis. Usa un campo magnético para crear una cámara de aislamiento."
+
+#. habla: Danny
+#, fuzzy
+msgctxt "#32"
+msgid "Unlike the simple dive modules, no outside noise is allowed in. More importantly, though, this isolation from the outside world allows us to better maintain stable values."
+msgstr "A diferencia de los módulos de inmersión simples, no deja entrar ningún ruido externo. Pero, más importante, este aislamiento del mundo exterior nos permite mantener valores más estables."
+
+#. habla: Danny
+#, fuzzy
+msgctxt "#33"
+msgid "Oh, are you the 100-Series Prototype? What's wrong? Didn't your friends return to the Durandal? They didn't leave you behind, did they?"
+msgstr "Ah, ¿eres el prototipo de la Serie 100? ¿Qué pasa? ¿Tus amigos no volvieron al Durandal? No te dejaron atrás, ¿no?"
+
+#. habla: Danny
+#, fuzzy
+msgctxt "#34"
+msgid "What? You're still here?"
+msgstr "¿Qué? ¿Todavía estás aquí?"
+
+#. habla: Danny
+#, fuzzy
+msgctxt "#35"
+msgid "The guys from Durandal already left, right? How about you stop hanging around here and get back to work?"
+msgstr "Los del Durandal ya se fueron, ¿no? ¿Qué tal si deja de dar vueltas por aquí y vuelve al trabajo?"
+
+#. habla: Danny
+#, fuzzy
+msgctxt "#36"
+msgid "Sounds like things are crazy out there. The government issued a security alert and I heard there's a battle raging in Old Miltian space."
+msgstr "Parece que allá afuera está todo patas arriba. El gobierno declaró una alerta de seguridad y escuché que hay una batalla en el espacio de la Antigua Miltia."
+
+#. habla: Danny
+#, fuzzy
+msgctxt "#37"
+msgid "The Y-Data is the cause of all this. We didn't realize what we were dealing with."
+msgstr "Los Y-Data son la causa de todo esto. No nos dimos cuenta de con qué estábamos lidiando."
+
+#. habla: Danny
+#, fuzzy
+msgctxt "#38"
+msgid "What is it? You think Miltia is gone, too?"
+msgstr "¿Qué pasa? ¿Cree que Miltia también desapareció?"
+
+#. habla: Danny
+#, fuzzy
+msgctxt "#39"
+msgid "Haha, don't worry. That's impossible. It's just a rumor from some idiots trying to get people worked up..."
+msgstr "Jaja, no se preocupe. Es imposible. Es solo un rumor de unos idiotas que quieren alterar a la gente..."
+
+#. habla: Danny
+#, fuzzy
+msgctxt "#40"
+msgid "Come on now. How can a big tough guy like you believe a kid's joke like that?"
+msgstr "Vamos. ¿Cómo un tipo grande y fuerte como usted puede creerse una broma de niños así?"
+
+#. habla: Danny
+#, fuzzy
+msgctxt "#41"
+msgid "There's no way Miltia could be gone! I thought you'd be braver than that."
+msgstr "¡Es imposible que Miltia haya desaparecido! Creí que usted era más valiente."
+
+#. habla: Danny
+#, fuzzy
+msgctxt "#42"
+msgid "Old Miltia was destroyed? Oh, please. How could anyone destroy a whole planet?"
+msgstr "¿Destruyeron la Antigua Miltia? Ay, por favor. ¿Cómo alguien podría destruir un planeta entero?"
+
+#. habla: Danny
+#, fuzzy
+msgctxt "#43"
+msgid "Hmm, actually, now that I think about it, there was that incident where Ariadne disappeared. Do planets actually disappear so easily?"
+msgstr "Hmm, aunque, ahora que lo pienso, estuvo ese incidente en el que desapareció Ariadne. ¿Los planetas desaparecen así de fácil?"
+
+#. habla: Fokker
+#, fuzzy
+msgctxt "#44"
+msgid "The objective of this analysis is to dig up the secret Y-Data from the 100-Series' subconscious domain."
+msgstr "El objetivo de este análisis es extraer los Y-Data secretos del dominio subconsciente de la Serie 100."
+
+#. habla: Fokker
+#, fuzzy
+msgctxt "#45"
+msgid "I heard that the data contains valuable information about the original Zohar that Joachim Mizrahi was studying."
+msgstr "Escuché que los datos contienen información valiosa sobre el Zohar original que estudiaba Joachim Mizrahi."
+
+#. habla: Fokker
+#, fuzzy
+msgctxt "#46"
+msgid "MOMO, right? Are you feeling better now? Good luck with your duties."
+msgstr "MOMO, ¿no? ¿Ya te sientes mejor? Mucha suerte con tus tareas."
+
+#. habla: Fokker
+#, fuzzy
+msgctxt "#47"
+msgid "Are you here for maintenance? Then go to the maintenance room."
+msgstr "¿Viene por mantenimiento? Entonces vaya a la sala de mantenimiento."
+
+#. habla: Fokker
+#, fuzzy
+msgctxt "#48"
+msgid "This is an analysis room. We can't do cyborg maintenance here."
+msgstr "Esta es una sala de análisis. Aquí no podemos hacerle mantenimiento a un cíborg."
+
+#. habla: Fokker
+#, fuzzy
+msgctxt "#49"
+msgid "The analysis failed, but at least the 100-Series Prototype is all right."
+msgstr "El análisis falló, pero al menos el prototipo de la Serie 100 está bien."
+
+#. habla: Fokker
+#, fuzzy
+msgctxt "#50"
+msgid "I heard she returned to the Foundation for another mission."
+msgstr "Escuché que volvió a la Fundación por otra misión."
+
+#. habla: Fokker
+#, fuzzy
+msgctxt "#51"
+msgid "Don't look so worried. It'll be fine. The Federation fleet will take care of the monster, no problem."
+msgstr "No ponga esa cara de preocupación. Todo va a salir bien. La flota de la Federación se va a encargar del monstruo sin problemas."
+
+#. habla: Fokker
+#, fuzzy
+msgctxt "#52"
+msgid "Yeah, it'll be fine. I'm sure it's going to be fine."
+msgstr "Sí, todo va a salir bien. Seguro que todo va a salir bien."
+
+#. habla: Fokker
+#, fuzzy
+msgctxt "#53"
+msgid "What is that monster?! Is it the military's secret weapon or something?!"
+msgstr "¡¿Qué es ese monstruo?! ¡¿Es un arma secreta del ejército o algo así?!"
+
+#. habla: Fokker
+#, fuzzy
+msgctxt "#54"
+msgid "Second Miltia is safe, right? Right? Hey, answer me!"
+msgstr "Segunda Miltia está a salvo, ¿no? ¿No? ¡Oiga, respóndame!"
+
+#. habla: Fokker
+#, fuzzy
+msgctxt "#55"
+msgid "Old Miltia was brought back by the Y-Data, and from Miltia that monster was born."
+msgstr "Los Y-Data trajeron de vuelta la Antigua Miltia, y de Miltia nació ese monstruo."
+
+#. habla: Fokker
+#, fuzzy
+msgctxt "#56"
+msgid "Joachim Mizrahi didn't build that thing, too, did he?"
+msgstr "Joachim Mizrahi no construyó también esa cosa, ¿no?"
+
+#. habla: Fokker
+#, fuzzy
+msgctxt "#57"
+msgid "If he did, then he really was a madman."
+msgstr "Si lo hizo, entonces sí que estaba loco."
+
+#. habla: Varela
+#, fuzzy
+msgctxt "#58"
+msgid "I heard on the news that there was a battle in the city. They were probably terrorists after the 100-Series Prototype that we're going to analyze."
+msgstr "Escuché en las noticias que hubo una batalla en la ciudad. Seguro que eran terroristas que iban tras el prototipo de la Serie 100 que vamos a analizar."
+
+#. habla: Varela
+#, fuzzy
+msgctxt "#59"
+msgid "The 100-Series Prototype must be a powerful weapon!"
+msgstr "¡El prototipo de la Serie 100 debe ser un arma poderosa!"
+
+#. habla: Varela
+#, fuzzy
+msgctxt "#60"
+msgid "Is it all right for you to be up and about? What were those people thinking, attacking a cute little girl like you?"
+msgstr "¿Está bien que andes levantada? ¿En qué estaba pensando esa gente, atacando a una niña tan linda como tú?"
+
+#. habla: Varela
+#, fuzzy
+msgctxt "#61"
+msgid "That's quite a body you have. I heard the 100-Series is a powerful weapon, but you look much stronger."
+msgstr "Qué cuerpo tiene. Escuché que la Serie 100 es un arma poderosa, pero usted parece mucho más fuerte."
+
+#. habla: Varela
+#, fuzzy
+msgctxt "#62"
+msgid "How much horsepower do you have?"
+msgstr "¿Cuántos caballos de fuerza tiene?"
+
+#. habla: Varela
+#, fuzzy
+msgctxt "#63"
+msgid "I've heard that the Immigrant Fleet follows an ancient religion that has been around since Lost Jerusalem was still in existence."
+msgstr "Escuché que la Flota de Inmigrantes sigue una religión antigua que existe desde que todavía existía la Jerusalén Perdida."
+
+#. habla: Varela
+#, fuzzy
+msgctxt "#64"
+msgid "What are they trying to accomplish?"
+msgstr "¿Qué intentan lograr?"
+
+#. habla: Varela
+#, fuzzy
+msgctxt "#65"
+msgid "Did you see it, too? After seeing something like that, I don't think I can sleep alone."
+msgstr "¿Tú también la viste? Después de ver algo así, no creo que pueda dormir sola."
+
+#. habla: Varela
+#, fuzzy
+msgctxt "#66"
+msgid "I can't handle scary things. I just know I'm going to have nightmares."
+msgstr "No soporto las cosas que dan miedo. Seguro que voy a tener pesadillas."
+
+#. habla: Varela
+#, fuzzy
+msgctxt "#67"
+msgid "Take a look at this image. It looks like the devil or something."
+msgstr "Mira esta imagen. Parece el diablo o algo así."
+
+#. habla: Varela
+#, fuzzy
+msgctxt "#68"
+msgid "Is that thing a weapon? A living creature? I don't understand any of this."
+msgstr "¿Esa cosa es un arma? ¿Un ser vivo? No entiendo nada."
+
+#. habla: Varela
+#, fuzzy
+msgctxt "#69"
+msgid "By the way, are you a living organism or a weapon?"
+msgstr "Por cierto, ¿usted es un organismo vivo o un arma?"
+
+#. habla: Varela
+#, fuzzy
+msgctxt "#70"
+msgid "The fleet is sending back real-time footage, but it's showing something unbelievable!"
+msgstr "La flota está enviando imágenes en tiempo real, ¡pero muestran algo increíble!"
+
+#. habla: Varela
+#, fuzzy
+msgctxt "#71"
+msgid "I never would have imagined that the Immigrant Fleet's objective on Old Miltia was that thing."
+msgstr "Nunca me habría imaginado que el objetivo de la Flota de Inmigrantes en la Antigua Miltia fuera esa cosa."
+
+#. habla: Varela
+#, fuzzy
+msgctxt "#72"
+msgid "What in the world are they planning on using it for?!"
+msgstr "¡¿Para qué demonios planean usarla?!"
+
+#. habla: Tina
+#, fuzzy
+msgctxt "#73"
+msgid "The preliminary examination will begin as soon as the 100-Series Prototype arrives."
+msgstr "El examen preliminar empezará en cuanto llegue el prototipo de la Serie 100."
+
+#. habla: Tina
+#, fuzzy
+msgctxt "#74"
+msgid "The main examination starts tomorrow. Apparently, someone from the Subcommittee will be here as well."
+msgstr "El examen principal empieza mañana. Parece que también va a venir alguien del Subcomité."
+
+#. habla: Tina
+#, fuzzy
+msgctxt "#75"
+msgid "You're that cyborg who's guarding the 100-Series Prototype, right?"
+msgstr "Usted es ese cíborg que protege al prototipo de la Serie 100, ¿no?"
+
+#. habla: Tina
+#, fuzzy
+msgctxt "#76"
+msgid "I think they said your name was Jimmy? No? Iggy, maybe?"
+msgstr "Creo que dijeron que se llamaba Jimmy. ¿No? ¿Iggy, quizá?"
+
+#. habla: Tina
+#, fuzzy
+msgctxt "#77"
+msgid "The 100-Series Prototype shows more emotion than the mass-produced ones."
+msgstr "El prototipo de la Serie 100 muestra más emociones que las unidades producidas en masa."
+
+#. habla: Tina
+#, fuzzy
+msgctxt "#78"
+msgid "I think they said that she was modeled after Dr. Juli Mizrahi's daughter."
+msgstr "Creo que dijeron que la diseñaron a imagen de la hija de la doctora Juli Mizrahi."
+
+#. habla: Tina
+#, fuzzy
+msgctxt "#79"
+msgid "I bet she loves her like her own daughter."
+msgstr "Seguro que la quiere como a una hija propia."
+
+#. habla: Tina
+#, fuzzy
+msgctxt "#80"
+msgid "If you're looking for Dr. Juli Mizrahi, I think she's in the data room."
+msgstr "Si busca a la doctora Juli Mizrahi, creo que está en la sala de datos."
+
+#. habla: Tina
+#, fuzzy
+msgctxt "#81"
+msgid "But with what's going on right now, it's best if you don't interfere with her work."
+msgstr "Pero con lo que está pasando ahora, es mejor no interrumpir su trabajo."
+
+#. habla: Tina
+#, fuzzy
+msgctxt "#82"
+msgid "You're the 100-Series' bodyguard, right?"
+msgstr "Usted es el guardaespaldas de la Serie 100, ¿no?"
+
+#. habla: Tina
+#, fuzzy
+msgctxt "#83"
+msgid "Make sure you look after her! Especially at a time like this!"
+msgstr "¡Cuídela mucho! ¡Sobre todo en un momento así!"
+
+#. habla: Tina
+#, fuzzy
+msgctxt "#84"
+msgid "The column coordinates to the sealed realm of Miltia were revealed when the Y-Data leaked out."
+msgstr "Las coordenadas de la columna al reino sellado de Miltia salieron a la luz cuando se filtraron los Y-Data."
+
+#. habla: Tina
+#, fuzzy
+msgctxt "#85"
+msgid "By authority of the Federation government, the U.M.N. has prohibited gate jumps through that column until the situation is under control."
+msgstr "Por orden del gobierno de la Federación, la U.M.N. prohibió los saltos de puerta por esa columna hasta que la situación esté bajo control."
+
+#. habla: Tina
+#, fuzzy
+msgctxt "#86"
+msgid "Oh, I'm glad you're here. You know what's going on in Old Miltian space, don't you?"
+msgstr "Ah, qué bueno que está aquí. Usted sabe lo que pasa en el espacio de la Antigua Miltia, ¿no?"
+
+#. habla: Tina
+#, fuzzy
+msgctxt "#87"
+msgid "Is the Federation fleet all right? They couldn't possibly have been wiped out, could they?"
+msgstr "¿La flota de la Federación está bien? No puede ser que la hayan aniquilado, ¿no?"
+
+#. habla: Tina
+#, fuzzy
+msgctxt "#88"
+msgid "You're with the military, right? What in the world is going on in Old Miltian space?! What's that thing that appeared at Miltia's coordinates?"
+msgstr "Usted es del ejército, ¿no? ¡¿Qué demonios está pasando en el espacio de la Antigua Miltia?! ¿Qué es esa cosa que apareció en las coordenadas de Miltia?"
+
+#. habla: Tina
+#, fuzzy
+msgctxt "#89"
+msgid "Miltia! What happened to Miltia?!"
+msgstr "¡Miltia! ¡¿Qué le pasó a Miltia?!"
+
+#. habla: Tina
+#, fuzzy
+msgctxt "#90"
+msgid "What's going on?! The transmission lines are in disarray and the signals from the Federation and Immigrant Fleet are disappearing one after another."
+msgstr "¡¿Qué está pasando?! Las líneas de transmisión son un caos y las señales de la Federación y de la Flota de Inmigrantes desaparecen una tras otra."
+
+#. habla: Tina
+#, fuzzy
+msgctxt "#91"
+msgid "Even Miltia itself has disappeared from the scanners! What in the world is going on?!"
+msgstr "¡Hasta la propia Miltia desapareció de los escáneres! ¡¿Qué demonios está pasando?!"
+
+#. habla: MOMO
+#, fuzzy
+msgctxt "#92"
+msgid "I'll do my best!"
+msgstr "¡Voy a dar lo mejor de mí!"
+
+#. habla: MOMO
+#, fuzzy
+msgctxt "#93"
+msgid "..."
+msgstr "..."
+
+#. habla: Mary
+#, fuzzy
+msgctxt "#94"
+msgid "If you're looking for MOMO, she ain't here."
+msgstr "Si buscas a MOMO, no está aquí."
+
+#. habla: Mary
+#, fuzzy
+msgctxt "#95"
+msgid "Don't worry, sugar. It'll be all right. After all, I'll be with her!"
+msgstr "No te preocupes, cariño. Todo va a salir bien. ¡Después de todo, yo voy a estar con ella!"
+
+#. habla: Mary
+#, fuzzy
+msgctxt "#96"
+msgid "That Albedo really pisses me off! Why does MOMO have to go through all this!"
+msgstr "¡Ese Albedo me saca de quicio! ¡¿Por qué MOMO tiene que pasar por todo esto?!"
+
+#. habla: Mary
+#, fuzzy
+msgctxt "#97"
+msgid "MOMO wouldn't hurt a hair on a fly's head!"
+msgstr "¡MOMO no es capaz de hacerle daño ni a una mosca!"
+
+#. habla: Shelley
+#, fuzzy
+msgctxt "#98"
+msgid "MOMO's preliminary examination is complete. The only thing left is to standby until the main examination tomorrow."
+msgstr "El examen preliminar de MOMO terminó. Lo único que queda es esperar hasta el examen principal de mañana."
+
+#. habla: Shelley
+#, fuzzy
+msgctxt "#99"
+msgid "If you are looking for MOMO, she is resting in another building."
+msgstr "Si busca a MOMO, está descansando en otro edificio."
+
+#. habla: Shelley
+#, fuzzy
+msgctxt "#100"
+msgid "You have my deepest apologies. Despite my presence at the scene, I still allowed an outcome like this to occur."
+msgstr "Le ofrezco mis más sinceras disculpas. Pese a estar presente, permití que las cosas terminaran así."
+
+#. habla: Mass-Produced 100-Series Observational Unit
+#, fuzzy
+msgctxt "#101"
+msgid "MOMO's main examination will take place tomorrow."
+msgstr "El examen principal de MOMO será mañana."
+
+#. habla: Mass-Produced 100-Series Observational Unit
+#, fuzzy
+msgctxt "#102"
+msgid "..."
+msgstr "..."
+
+#. habla: Mass-Produced 100-Series Observational Unit
+#, fuzzy
+msgctxt "#103"
+msgid "We are currently performing adjustments for the main examination."
+msgstr "En este momento estamos haciendo ajustes para el examen principal."
+
+#. habla: Mass-Produced 100-Series Observational Unit
+#, fuzzy
+msgctxt "#104"
+msgid "There is no need for concern. Preparations for the analysis are proceeding as planned. MOMO is also doing well."
+msgstr "No hay de qué preocuparse. Los preparativos para el análisis avanzan según lo planeado. MOMO también está bien."
+
+#. habla: Allen
+#, fuzzy
+msgctxt "#105"
+msgid "Is everyone ready to dive? MOMO's subconscious domain is likely in a highly unstable state. I don't know what dangers you may face, so you should make sure you're well prepared. As soon as you're ready, I'll begin the dive. I'll wait here, so just let me know."
+msgstr "¿Están todos listos para la inmersión? Es probable que el dominio subconsciente de MOMO esté en un estado muy inestable. No sé qué peligros pueden enfrentar, así que asegúrense de estar bien preparados. En cuanto estén listos, empiezo la inmersión. Los espero aquí, así que avísenme."
+
+#. habla: Allen
+#, fuzzy
+msgctxt "#106"
+msgid "If there're no problems, I'll commence the dive. Are you ready?"
+msgstr "Si no hay problemas, empiezo la inmersión. ¿Están listos?"
+
+#. Opciones: una por línea. Mantener 2 líneas en el mismo orden.
+#, fuzzy
+msgctxt "#107"
+msgid ""
+"Ready!\n"
+"Not yet."
+msgstr ""
+"¡Listos!\n"
+"Todavía no."
+
+#. habla: Allen
+#, fuzzy
+msgctxt "#108"
+msgid "All right! Then I'll initiate the dive."
+msgstr "¡Muy bien! Entonces inicio la inmersión."
+
+#. habla: Allen
+#, fuzzy
+msgctxt "#109"
+msgid "Please hurry. Every minute counts."
+msgstr "Por favor, dense prisa. Cada minuto cuenta."

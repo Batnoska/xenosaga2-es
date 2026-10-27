@@ -1,0 +1,2206 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Xenosaga Episode II - traducción al español\n"
+"Language: es_419\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Xeno-Source: 0:cf/en/sc4060.sbl\n"
+
+#. habla: Reina
+#, fuzzy
+msgctxt "#1"
+msgid "What is it, dear? ♪ Oh, it's Johnny's project? I just need to play rock-paper-scissors, right? Okay!"
+msgstr "¿Qué pasa, cariño? ♪ Ah, ¿es el proyecto de Johnny? Solo tengo que jugar a piedra, papel o tijera, ¿no? ¡Bueno!"
+
+#. habla: Reina
+#, fuzzy
+msgctxt "#2"
+msgid "Ready? One, two, three, go!"
+msgstr "¿Listos? ¡Un, dos, tres, ya!"
+
+#. Opciones: una por línea. Mantener 3 líneas en el mismo orden.
+#, fuzzy
+msgctxt "#3"
+msgid ""
+"Rock\n"
+"Scissors\n"
+"Paper"
+msgstr ""
+"Piedra\n"
+"Tijera\n"
+"Papel"
+
+#. habla: Reina
+#, fuzzy
+msgctxt "#4"
+msgid "I chose rock! Looks like we tie!"
+msgstr "¡Elegí piedra! ¡Parece que empatamos!"
+
+#. habla: Reina
+#, fuzzy
+msgctxt "#5"
+msgid "I chose scissors. Looks like I lose! ♪"
+msgstr "Elegí tijera. ¡Parece que perdí! ♪"
+
+#. habla: Reina
+#, fuzzy
+msgctxt "#6"
+msgid "I chose paper. Oh dear, I won!"
+msgstr "Elegí papel. ¡Ay, gané!"
+
+#. habla: Reina
+#, fuzzy
+msgctxt "#7"
+msgid "I chose rock! Oh dear, I won!"
+msgstr "¡Elegí piedra! ¡Ay, gané!"
+
+#. habla: Reina
+#, fuzzy
+msgctxt "#8"
+msgid "I chose scissors. Looks like we tie!"
+msgstr "Elegí tijera. ¡Parece que empatamos!"
+
+#. habla: Reina
+#, fuzzy
+msgctxt "#9"
+msgid "I chose paper. Looks like I lose! ♪"
+msgstr "Elegí papel. ¡Parece que perdí! ♪"
+
+#. habla: Reina
+#, fuzzy
+msgctxt "#10"
+msgid "I chose rock! Looks like I lose! ♪"
+msgstr "¡Elegí piedra! ¡Parece que perdí! ♪"
+
+#. habla: Reina
+#, fuzzy
+msgctxt "#11"
+msgid "I chose scissors. Oh dear, I won!"
+msgstr "Elegí tijera. ¡Ay, gané!"
+
+#. habla: Reina
+#, fuzzy
+msgctxt "#12"
+msgid "I chose paper. Looks like we tie!"
+msgstr "Elegí papel. ¡Parece que empatamos!"
+
+#. habla: Reina
+#, fuzzy
+msgctxt "#13"
+msgid "I won!"
+msgstr "¡Gané!"
+
+#. habla: Reina
+#, fuzzy
+msgctxt "#14"
+msgid "I lost!"
+msgstr "¡Perdí!"
+
+#. habla: Reina
+#, fuzzy
+msgctxt "#15"
+msgid "Looks like we ended in a tie. ♪"
+msgstr "Parece que terminamos empatados. ♪"
+
+#. habla: Reina
+#, fuzzy
+msgctxt "#16"
+msgid "Looks like Johnny's started another strange project. ♪"
+msgstr "Parece que Johnny empezó otro proyecto raro. ♪"
+
+#. habla: Reina
+#, fuzzy
+msgctxt "#17"
+msgid "Oh, my, it's the Little Master! Say, I heard you like to collect old books."
+msgstr "¡Vaya, si es el joven amo! Oiga, escuché que le gusta coleccionar libros viejos."
+
+#. habla: Reina
+#, fuzzy
+msgctxt "#18"
+msgid "If you really are interested in old books, then how about visiting Kiku on Second Miltia? It seems her hobby is collecting paper books, too."
+msgstr "Si de verdad le interesan los libros viejos, ¿por qué no visita a Kiku en Segunda Miltia? Parece que su pasatiempo también es coleccionar libros de papel."
+
+#. habla: Reina
+#, fuzzy
+msgctxt "#19"
+msgid "Kiku might have that \"Rules of High Society\" book that everyone's talking about now. I think you two might get along well!"
+msgstr "Quizá Kiku tenga ese libro del que ahora habla todo el mundo, \"Manual de etiqueta\". ¡Creo que ustedes dos se llevarían bien!"
+
+#. habla: Reina
+#, fuzzy
+msgctxt "#20"
+msgid "Have you heard? There's a book called \"Rules of High Society\" that everyone's talking about!"
+msgstr "¿Te enteraste? ¡Hay un libro llamado \"Manual de etiqueta\" del que habla todo el mundo!"
+
+#. habla: Reina
+#, fuzzy
+msgctxt "#21"
+msgid "Although, these days, one doesn't get many opportunities to get a hold of paper books. Those who have them must be pretty obsessed!"
+msgstr "Aunque hoy en día no hay muchas oportunidades de conseguir libros de papel. ¡Los que los tienen deben estar bastante obsesionados!"
+
+#. habla: Reina
+#, fuzzy
+msgctxt "#22"
+msgid "Would you like to meet Kiku? Then go to Area 40 on Second Miltia! As long as she's in a good mood, I'm sure she'll speak with you. ♪"
+msgstr "¿Quieres conocer a Kiku? ¡Entonces ve a Area 40, en Segunda Miltia! Mientras esté de buen humor, seguro que habla contigo. ♪"
+
+#. habla: Reina
+#, fuzzy
+msgctxt "#23"
+msgid "Hmm...Kiku is pretty easily flattered, so if you play your cards right, you might be able to get an old book or two from her!"
+msgstr "Hmm... A Kiku le encantan los halagos, así que si juegas bien tus cartas, ¡quizá le saques uno o dos libros viejos!"
+
+#. habla: Roy
+#, fuzzy
+msgctxt "#24"
+msgid "What's that? Johnny's Rock-Paper-Scissors event? Well, I can't skip out on that! So, all I have to do is play rock-paper-scissors? All right, here I go!"
+msgstr "¿Qué dices? ¿El evento de piedra, papel o tijera de Johnny? ¡Bueno, eso no me lo puedo perder! ¿Así que solo tengo que jugar a piedra, papel o tijera? ¡Muy bien, allá voy!"
+
+#. habla: Roy
+#, fuzzy
+msgctxt "#25"
+msgid "One, two, three, go!"
+msgstr "¡Un, dos, tres, ya!"
+
+#. habla: Roy
+#, fuzzy
+msgctxt "#26"
+msgid "I chose rock. We tied!"
+msgstr "Elegí piedra. ¡Empatamos!"
+
+#. habla: Roy
+#, fuzzy
+msgctxt "#27"
+msgid "I chose scissors. I lose!"
+msgstr "Elegí tijera. ¡Perdí!"
+
+#. habla: Roy
+#, fuzzy
+msgctxt "#28"
+msgid "I chose paper. I win!"
+msgstr "Elegí papel. ¡Gané!"
+
+#. habla: Roy
+#, fuzzy
+msgctxt "#29"
+msgid "I chose rock. I win!"
+msgstr "Elegí piedra. ¡Gané!"
+
+#. habla: Roy
+#, fuzzy
+msgctxt "#30"
+msgid "I chose scissors. We tied!"
+msgstr "Elegí tijera. ¡Empatamos!"
+
+#. habla: Roy
+#, fuzzy
+msgctxt "#31"
+msgid "I chose paper. I lose!"
+msgstr "Elegí papel. ¡Perdí!"
+
+#. habla: Roy
+#, fuzzy
+msgctxt "#32"
+msgid "I chose rock. I lose!"
+msgstr "Elegí piedra. ¡Perdí!"
+
+#. habla: Roy
+#, fuzzy
+msgctxt "#33"
+msgid "I chose scissors. I win!"
+msgstr "Elegí tijera. ¡Gané!"
+
+#. habla: Roy
+#, fuzzy
+msgctxt "#34"
+msgid "I chose paper. We tied!"
+msgstr "Elegí papel. ¡Empatamos!"
+
+#. habla: Roy
+#, fuzzy
+msgctxt "#35"
+msgid "I win!"
+msgstr "¡Gané!"
+
+#. habla: Roy
+#, fuzzy
+msgctxt "#36"
+msgid "I lose!"
+msgstr "¡Perdí!"
+
+#. habla: Roy
+#, fuzzy
+msgctxt "#37"
+msgid "We tied."
+msgstr "Empatamos."
+
+#. habla: Roy
+#, fuzzy
+msgctxt "#38"
+msgid "Regardless of his crazy ideas, I just love Johnny's enthusiasm!"
+msgstr "Más allá de sus ideas locas, ¡me encanta el entusiasmo de Johnny!"
+
+#. habla: Roy
+#, fuzzy
+msgctxt "#39"
+msgid "Hmm...Are you the one that's been trying to sniff out my secret?"
+msgstr "Hmm... ¿Tú eres quien anda husmeando para descubrir mi secreto?"
+
+#. Opciones: una por línea. Mantener 2 líneas en el mismo orden.
+#, fuzzy
+msgctxt "#40"
+msgid ""
+"Yes indeed!\n"
+"Nothing of the sort!"
+msgstr ""
+"¡Así es!\n"
+"¡Nada de eso!"
+
+#. habla: Roy
+#, fuzzy
+msgctxt "#41"
+msgid "Well! What are you trying to find?!"
+msgstr "¡Vaya! ¡¿Qué intentas averiguar?!"
+
+#, fuzzy
+msgctxt "#42"
+msgid ""
+"The secret of Roy's arithmetic lessons.\n"
+"Stories about Roy's past."
+msgstr ""
+"El secreto de la aritmética de Roy.\n"
+"El pasado de Roy."
+
+#. habla: Roy
+#, fuzzy
+msgctxt "#43"
+msgid "\"8+5+7-17\" It's simple arithmetic, but it holds the key to an important secret! I don't remember what was important about it, though."
+msgstr "\"8+5+7-17\". Es aritmética sencilla, ¡pero guarda la clave de un secreto importante! Aunque no recuerdo qué tenía de importante."
+
+#. habla: Roy
+#, fuzzy
+msgctxt "#44"
+msgid "A long time ago, I used to work in a factory. I spent my entire youth there!"
+msgstr "Hace mucho tiempo trabajaba en una fábrica. ¡Ahí pasé toda mi juventud!"
+
+#. habla: Roy
+#, fuzzy
+msgctxt "#45"
+msgid "You don't have a sense of humor, do you?"
+msgstr "No tienes sentido del humor, ¿no?"
+
+#. habla: Roy
+#, fuzzy
+msgctxt "#46"
+msgid "After fifty years, I'm finally reunited with the naughty little book that supported me in my youth!"
+msgstr "¡Después de cincuenta años, por fin me reencuentro con el librito picante que me acompañó en mi juventud!"
+
+#. habla: Roy
+#, fuzzy
+msgctxt "#47"
+msgid "I'm going to get down tonight! Hehehe!"
+msgstr "¡Esta noche voy a ponerme travieso! ¡Jejeje!"
+
+#. habla: Ed
+#, fuzzy
+msgctxt "#48"
+msgid "What?! You're helping Johnny? Then I'll help, too! I'm supposed to play rock-paper-scissors, right?"
+msgstr "¡¿Qué?! ¿Están ayudando a Johnny? ¡Entonces yo también ayudo! Tengo que jugar a piedra, papel o tijera, ¿no?"
+
+#. habla: Ed
+#, fuzzy
+msgctxt "#49"
+msgid "Okay! One, two, three, go!"
+msgstr "¡Bueno! ¡Un, dos, tres, ya!"
+
+#. habla: Ed
+#, fuzzy
+msgctxt "#50"
+msgid "I picked rock. We tied!"
+msgstr "Elegí piedra. ¡Empatamos!"
+
+#. habla: Ed
+#, fuzzy
+msgctxt "#51"
+msgid "I picked scissors. You did it! You win!"
+msgstr "Elegí tijera. ¡Lo lograste! ¡Ganaste!"
+
+#. habla: Ed
+#, fuzzy
+msgctxt "#52"
+msgid "I picked paper. Oh! I won!"
+msgstr "Elegí papel. ¡Oh! ¡Gané!"
+
+#. habla: Ed
+#, fuzzy
+msgctxt "#53"
+msgid "I picked rock. Oh! I won!"
+msgstr "Elegí piedra. ¡Oh! ¡Gané!"
+
+#. habla: Ed
+#, fuzzy
+msgctxt "#54"
+msgid "I picked scissors. We tied!"
+msgstr "Elegí tijera. ¡Empatamos!"
+
+#. habla: Ed
+#, fuzzy
+msgctxt "#55"
+msgid "I picked paper. You did it! You win!"
+msgstr "Elegí papel. ¡Lo lograste! ¡Ganaste!"
+
+#. habla: Ed
+#, fuzzy
+msgctxt "#56"
+msgid "I picked rock. You did it! You win!"
+msgstr "Elegí piedra. ¡Lo lograste! ¡Ganaste!"
+
+#. habla: Ed
+#, fuzzy
+msgctxt "#57"
+msgid "I picked scissors. Oh! I won!"
+msgstr "Elegí tijera. ¡Oh! ¡Gané!"
+
+#. habla: Ed
+#, fuzzy
+msgctxt "#58"
+msgid "I picked paper. We tied!"
+msgstr "Elegí papel. ¡Empatamos!"
+
+#. habla: Ed
+#, fuzzy
+msgctxt "#59"
+msgid "I won?"
+msgstr "¿Gané?"
+
+#. habla: Ed
+#, fuzzy
+msgctxt "#60"
+msgid "You win!"
+msgstr "¡Ganaste!"
+
+#. habla: Ed
+#, fuzzy
+msgctxt "#61"
+msgid "Oh, we tied."
+msgstr "Oh, empatamos."
+
+#. habla: Ed
+#, fuzzy
+msgctxt "#62"
+msgid "I love the bread from the Smile Bakery! My friends all like the A.G.W.S. bread!"
+msgstr "¡Me encanta el pan de la Panadería Smile! ¡A mis amigos les gusta el pan A.G.W.S.!"
+
+#. habla: Ed
+#, fuzzy
+msgctxt "#63"
+msgid "Oh, it's you, Little Master! Do you know about Second Class Dive Engineers?"
+msgstr "¡Ah, es usted, joven amo! ¿Sabe lo que son los Ingenieros de Inmersión de Segunda Clase?"
+
+#, fuzzy
+msgctxt "#64"
+msgid ""
+"Sorry, what?\n"
+"Do you think there's anything I don't know?"
+msgstr ""
+"Perdón, ¿qué?\n"
+"¿Crees que hay algo que no sepa?"
+
+#. habla: Ed
+#, fuzzy
+msgctxt "#65"
+msgid "Aww, I guess I'd better tell you then. Encephalon Dive Engineers are generally divided into First and Second classes! First Class engineers don't actually dive, but perform the dive operation control. It's the Second Class engineers that actually dive into the Encephalon and confirm that the simulation is working properly. Both of them are ranked from one to five! Hugo told me about it!"
+msgstr "Ay, supongo que mejor se lo explico. ¡Los Ingenieros de Inmersión en el Encéfalo se dividen en general en Primera y Segunda Clase! Los ingenieros de Primera Clase no hacen la inmersión, sino que controlan la operación. Los de Segunda Clase son los que de verdad se sumergen en el Encéfalo y confirman que la simulación funcione bien. ¡Ambos se clasifican del uno al cinco! ¡Me lo contó Hugo!"
+
+#. habla: Ed
+#, fuzzy
+msgctxt "#66"
+msgid "Wow! That's our Little Master for you!"
+msgstr "¡Guau! ¡Ese es nuestro joven amo!"
+
+#. habla: Ed
+#, fuzzy
+msgctxt "#67"
+msgid "There's a guy on the Foundation called Hugo who's an Encephalon dive engineer!"
+msgstr "¡En la Fundación hay un tipo llamado Hugo que es ingeniero de inmersión en el Encéfalo!"
+
+#. habla: Ed
+#, fuzzy
+msgctxt "#68"
+msgid "If you're looking for Hugo, he should be at the launch boarding area!"
+msgstr "Si busca a Hugo, ¡debería estar en la zona de embarque de lanzaderas!"
+
+#. habla: Ed
+#, fuzzy
+msgctxt "#69"
+msgid "The other day, the ground started vibrating while I was running around! When I looked down, I saw a ring on the ground!"
+msgstr "¡El otro día, mientras corría, el suelo empezó a vibrar! ¡Cuando miré abajo, vi un anillo en el suelo!"
+
+#. habla: Ed
+#, fuzzy
+msgctxt "#70"
+msgid "It was a pretty ring, so I thought I'd give it to my mother, but she got mad at me for taking someone else's stuff!"
+msgstr "Era un anillo lindo, así que pensé en regalárselo a mi mamá, ¡pero se enojó conmigo por agarrar cosas ajenas!"
+
+#. habla: Johnny
+#, fuzzy
+msgctxt "#71"
+msgid "Who's calling me a chicken?! O...oh, Little Master! Hey, come on. Don't look at me like that. I've changed my ways and I'm working hard now!"
+msgstr "¡¿Quién me dice gallina?! ¡O... oh, joven amo! Oiga, vamos. No me mire así. ¡Ya me reformé y ahora trabajo duro!"
+
+#. habla: Johnny
+#, fuzzy
+msgctxt "#72"
+msgid "Why did I change my ways? I decided to become a baker for my beloved Mina!"
+msgstr "¿Por qué me reformé? ¡Decidí convertirme en panadero por mi amada Mina!"
+
+#. habla: Johnny
+#, fuzzy
+msgctxt "#73"
+msgid "And I've got an event I'm planning so I can show her that I'm a dependable, mature man. Right now, it's a secret, though. I can't even tell you, Little Master!"
+msgstr "Y estoy planeando un evento para demostrarle que soy un hombre maduro y confiable. Por ahora es un secreto, eso sí. ¡No se lo puedo contar ni a usted, joven amo!"
+
+#. habla: Johnny
+#, fuzzy
+msgctxt "#74"
+msgid "Wow, you're cute, girl! But you can't beat my Mina!"
+msgstr "¡Vaya, qué linda eres, niña! ¡Pero no le ganas a mi Mina!"
+
+#. habla: Johnny
+#, fuzzy
+msgctxt "#75"
+msgid "I'm planning on holding a big event in the near future to promote the Smile Bakery! I might have something special for a cute girl like you, so come back and see me!"
+msgstr "¡Estoy planeando hacer pronto un gran evento para promocionar la Panadería Smile! Quizá tenga algo especial para una chica linda como tú, ¡así que vuelve a verme!"
+
+#. habla: Johnny
+#, fuzzy
+msgctxt "#76"
+msgid "It's such a pleasant day! I'm sure Mina will be in a good mood today!"
+msgstr "¡Qué día tan agradable! ¡Seguro que hoy Mina va a estar de buen humor!"
+
+#. habla: Johnny
+#, fuzzy
+msgctxt "#77"
+msgid "Yo! Welcome! I'm going to be holding a special event soon, so please come help―uh, I mean, please come buy some bread when it starts!"
+msgstr "¡Ey! ¡Bienvenidos! Pronto voy a hacer un evento especial, así que por favor vengan a ayudar... eh, digo, ¡por favor vengan a comprar pan cuando empiece!"
+
+#. habla: Johnny
+#, fuzzy
+msgctxt "#78"
+msgid "Hmm. The promotion seems to be going well! I think maybe it's time to start the bread festival."
+msgstr "Hmm. ¡Parece que la promoción va bien! Creo que ya es hora de empezar el festival del pan."
+
+#. habla: Johnny
+#, fuzzy
+msgctxt "#79"
+msgid " 12 people remaining."
+msgstr " Quedan 12 personas."
+
+#. habla: Johnny
+#, fuzzy
+msgctxt "#80"
+msgid " 11 people remaining."
+msgstr " Quedan 11 personas."
+
+#. habla: Johnny
+#, fuzzy
+msgctxt "#81"
+msgid " 10 people remaining."
+msgstr " Quedan 10 personas."
+
+#. habla: Johnny
+#, fuzzy
+msgctxt "#82"
+msgid " 9 people remaining."
+msgstr " Quedan 9 personas."
+
+#. habla: Johnny
+#, fuzzy
+msgctxt "#83"
+msgid " 8 people remaining."
+msgstr " Quedan 8 personas."
+
+#. habla: Johnny
+#, fuzzy
+msgctxt "#84"
+msgid " 7 people remaining."
+msgstr " Quedan 7 personas."
+
+#. habla: Johnny
+#, fuzzy
+msgctxt "#85"
+msgid " 6 people remaining."
+msgstr " Quedan 6 personas."
+
+#. habla: Johnny
+#, fuzzy
+msgctxt "#86"
+msgid " 5 people remaining."
+msgstr " Quedan 5 personas."
+
+#. habla: Johnny
+#, fuzzy
+msgctxt "#87"
+msgid " 4 people remaining."
+msgstr " Quedan 4 personas."
+
+#. habla: Johnny
+#, fuzzy
+msgctxt "#88"
+msgid " 3 people remaining."
+msgstr " Quedan 3 personas."
+
+#. habla: Johnny
+#, fuzzy
+msgctxt "#89"
+msgid " 2 people remaining."
+msgstr " Quedan 2 personas."
+
+#. habla: Johnny
+#, fuzzy
+msgctxt "#90"
+msgid " 1 person remaining."
+msgstr " Queda 1 persona."
+
+#. habla: Johnny
+#, fuzzy
+msgctxt "#91"
+msgid "Hmm. When's the best time to propose?"
+msgstr "Hmm. ¿Cuál es el mejor momento para proponerle matrimonio?"
+
+#. habla: Johnny
+#, fuzzy
+msgctxt "#92"
+msgid "But man, it's hard to picture myself calling Farouk, \"Dad.\""
+msgstr "Pero, uf, me cuesta imaginarme diciéndole \"papá\" a Farouk."
+
+#. habla: Johnny
+#, fuzzy
+msgctxt "#93"
+msgid "Well, maybe this event ended in failure, but I'm not giving up that easily!"
+msgstr "Bueno, quizá este evento terminó en fracaso, ¡pero no me voy a rendir tan fácil!"
+
+#. habla: Johnny
+#, fuzzy
+msgctxt "#94"
+msgid "My next event is called, \"A Rendezvous of Spies and Bread\"! Watch out for it! What's it about? Hehehe, I can't tell you that!"
+msgstr "¡Mi próximo evento se llama \"Un encuentro de espías y pan\"! ¡Estén atentos! ¿De qué se trata? Jejeje, ¡eso no se los puedo decir!"
+
+#. habla: Jaimie
+#, fuzzy
+msgctxt "#95"
+msgid "What? Rock-paper-scissors? If I lose, I get bread cheaper? That's kind of weird! Well, okay, let's do it!"
+msgstr "¿Qué? ¿Piedra, papel o tijera? ¿Si pierdo, consigo pan más barato? ¡Qué raro! Bueno, ¡juguemos!"
+
+#. habla: Jaimie
+#, fuzzy
+msgctxt "#96"
+msgid "One, two, three, go. ♪"
+msgstr "Un, dos, tres, ya. ♪"
+
+#. habla: Jaimie
+#, fuzzy
+msgctxt "#97"
+msgid "I picked rock. Hmm, we tied!"
+msgstr "Elegí piedra. Hmm, ¡empatamos!"
+
+#. habla: Jaimie
+#, fuzzy
+msgctxt "#98"
+msgid "I picked scissors. I lost!"
+msgstr "Elegí tijera. ¡Perdí!"
+
+#. habla: Jaimie
+#, fuzzy
+msgctxt "#99"
+msgid "I picked paper. I won!"
+msgstr "Elegí papel. ¡Gané!"
+
+#. habla: Jaimie
+#, fuzzy
+msgctxt "#100"
+msgid "I picked rock. I won!"
+msgstr "Elegí piedra. ¡Gané!"
+
+#. habla: Jaimie
+#, fuzzy
+msgctxt "#101"
+msgid "I picked scissors. Hmm, we tied!"
+msgstr "Elegí tijera. Hmm, ¡empatamos!"
+
+#. habla: Jaimie
+#, fuzzy
+msgctxt "#102"
+msgid "I picked paper. I lost!"
+msgstr "Elegí papel. ¡Perdí!"
+
+#. habla: Jaimie
+#, fuzzy
+msgctxt "#103"
+msgid "I picked rock. I lost!"
+msgstr "Elegí piedra. ¡Perdí!"
+
+#. habla: Jaimie
+#, fuzzy
+msgctxt "#104"
+msgid "I picked scissors. I won!"
+msgstr "Elegí tijera. ¡Gané!"
+
+#. habla: Jaimie
+#, fuzzy
+msgctxt "#105"
+msgid "I picked paper. Hmm, we tied!"
+msgstr "Elegí papel. Hmm, ¡empatamos!"
+
+#. habla: Jaimie
+#, fuzzy
+msgctxt "#106"
+msgid "Oh no! I won!"
+msgstr "¡Oh, no! ¡Gané!"
+
+#. habla: Jaimie
+#, fuzzy
+msgctxt "#107"
+msgid "Okay, I lost!"
+msgstr "¡Bueno, perdí!"
+
+#. habla: Jaimie
+#, fuzzy
+msgctxt "#108"
+msgid "We tied.♪"
+msgstr "Empatamos. ♪"
+
+#. habla: Jaimie
+#, fuzzy
+msgctxt "#109"
+msgid "That rock-paper-scissors was fun! Say hi to Johnny for me! ♪"
+msgstr "¡Qué divertido fue el piedra, papel o tijera! ¡Salúdame a Johnny! ♪"
+
+#. habla: Jaimie
+#, fuzzy
+msgctxt "#110"
+msgid "I know the secret of this statue! The eyes light up at night! The mayor was so cool!"
+msgstr "¡Sé el secreto de esta estatua! ¡De noche le brillan los ojos! ¡El alcalde era genial!"
+
+#. habla: Jaimie
+#, fuzzy
+msgctxt "#111"
+msgid "This is a statue of the mayor, right? He used to give me candy!"
+msgstr "Esta es una estatua del alcalde, ¿no? ¡Me regalaba caramelos!"
+
+#. habla: Jaimie
+#, fuzzy
+msgctxt "#112"
+msgid "I want to see the mayor again."
+msgstr "Quiero volver a ver al alcalde."
+
+#. habla: Jaimie
+#, fuzzy
+msgctxt "#113"
+msgid "Janet came back to the Foundation the other day! She looked at the statue of the mayor and cried! I wonder why?"
+msgstr "¡El otro día Janet volvió a la Fundación! ¡Miró la estatua del alcalde y lloró! ¿Por qué será?"
+
+#. habla: Jaimie
+#, fuzzy
+msgctxt "#114"
+msgid "If Janet comes back, the mayor will come back too, right? And then I can get candies again!"
+msgstr "Si Janet vuelve, el alcalde también va a volver, ¿no? ¡Y entonces me va a volver a dar caramelos!"
+
+#. habla: Jaimie
+#, fuzzy
+msgctxt "#115"
+msgid "The mayor and Janet actually liked each other! You can ask Vimala! She knows all about it!"
+msgstr "¡En realidad, el alcalde y Janet se querían! ¡Pregúntale a Vimala! ¡Ella sabe todo!"
+
+#. habla: Jaimie
+#, fuzzy
+msgctxt "#116"
+msgid "Vimala is at the Ironman!"
+msgstr "¡Vimala está en el Ironman!"
+
+#. habla: Jessica
+#, fuzzy
+msgctxt "#117"
+msgid "Huh? Is Johnny doing crazy things again? What? A bread discount special? I'll help with that! Hmm, so we play rock-paper-scissors, huh?"
+msgstr "¿Eh? ¿Johnny está haciendo locuras otra vez? ¿Qué? ¿Un descuento especial en pan? ¡En eso ayudo! Hmm, así que jugamos a piedra, papel o tijera, ¿eh?"
+
+#. habla: Jessica
+#, fuzzy
+msgctxt "#118"
+msgid "One, two, three, go!"
+msgstr "¡Un, dos, tres, ya!"
+
+#. habla: Jessica
+#, fuzzy
+msgctxt "#119"
+msgid "I chose rock! We tied!"
+msgstr "¡Elegí piedra! ¡Empatamos!"
+
+#. habla: Jessica
+#, fuzzy
+msgctxt "#120"
+msgid "I chose scissors! I lost!"
+msgstr "¡Elegí tijera! ¡Perdí!"
+
+#. habla: Jessica
+#, fuzzy
+msgctxt "#121"
+msgid "I chose paper! Oops, I won!"
+msgstr "¡Elegí papel! ¡Uy, gané!"
+
+#. habla: Jessica
+#, fuzzy
+msgctxt "#122"
+msgid "I chose rock! Oops, I won!"
+msgstr "¡Elegí piedra! ¡Uy, gané!"
+
+#. habla: Jessica
+#, fuzzy
+msgctxt "#123"
+msgid "I chose scissors! We tied!"
+msgstr "¡Elegí tijera! ¡Empatamos!"
+
+#. habla: Jessica
+#, fuzzy
+msgctxt "#124"
+msgid "I chose paper! I lost!"
+msgstr "¡Elegí papel! ¡Perdí!"
+
+#. habla: Jessica
+#, fuzzy
+msgctxt "#125"
+msgid "I chose rock! I lost!"
+msgstr "¡Elegí piedra! ¡Perdí!"
+
+#. habla: Jessica
+#, fuzzy
+msgctxt "#126"
+msgid "I chose scissors! Oops, I won!"
+msgstr "¡Elegí tijera! ¡Uy, gané!"
+
+#. habla: Jessica
+#, fuzzy
+msgctxt "#127"
+msgid "I chose paper! We tied!"
+msgstr "¡Elegí papel! ¡Empatamos!"
+
+#. habla: Jessica
+#, fuzzy
+msgctxt "#128"
+msgid "Looks like I win! But if I win, I don't get the cheap bread? What the?!"
+msgstr "¡Parece que gané! Pero si gano, ¿no me toca el pan barato? ¡¿Qué?!"
+
+#. habla: Jessica
+#, fuzzy
+msgctxt "#129"
+msgid "I lose!"
+msgstr "¡Perdí!"
+
+#. habla: Jessica
+#, fuzzy
+msgctxt "#130"
+msgid "We tied? Hmm."
+msgstr "¿Empatamos? Hmm."
+
+#. habla: Jessica
+#, fuzzy
+msgctxt "#131"
+msgid "Tell Johnny to take his work more seriously!"
+msgstr "¡Díganle a Johnny que se tome su trabajo más en serio!"
+
+#. habla: Jessica
+#, fuzzy
+msgctxt "#132"
+msgid "*Sigh* It's so peaceful."
+msgstr "*Suspiro* Qué tranquilidad."
+
+#. habla: Jessica
+#, fuzzy
+msgctxt "#133"
+msgid "You know how those monsters attacked the other day? After that incident, my grandkids added a vaporizer plug-in to my connection gear! Now I've got this brand new feature, but I don't have anything to try it out on, so I'm a bit bored!"
+msgstr "¿Saben cómo atacaron esos monstruos el otro día? Después de ese incidente, mis nietos le agregaron un complemento vaporizador a mi equipo de conexión. Ahora tengo esta función nuevita, pero no tengo nada con qué probarla, ¡así que estoy un poco aburrida!"
+
+#. habla: Jessica
+#, fuzzy
+msgctxt "#134"
+msgid "It sure did come by! Some weird droid came here and harassed me! I threatened it with my vaporizer plug-in and it ran off at full speed! I think I managed to wound it! It dropped this! I don't have any use for it, so you can have it!"
+msgstr "¡Claro que pasó por aquí! ¡Un droide raro vino y me molestó! ¡Lo amenacé con mi complemento vaporizador y salió corriendo a toda velocidad! ¡Creo que llegué a herirlo! ¡Se le cayó esto! No me sirve para nada, ¡así que se los doy!"
+
+#, fuzzy
+msgctxt "#135"
+msgid "You obtained ZAZA's Clue 6!"
+msgstr "¡Obtuviste la Pista de ZAZA 6!"
+
+#. habla: Jessica
+#, fuzzy
+msgctxt "#136"
+msgid "You want to know where it ran off to? There's not that many places that can repair droids, so I bet it's either Vector's Second Division or the U.M.N. Control Center."
+msgstr "¿Quieren saber adónde se fue? No hay tantos lugares que reparen droides, así que apuesto a que fue a la Segunda División de Vector o al Centro de Control de la U.M.N."
+
+#. habla: Jessica
+#, fuzzy
+msgctxt "#137"
+msgid "I can't believe a droid would dare to harass me! Humph!"
+msgstr "¡No puedo creer que un droide se haya atrevido a molestarme! ¡Hmpf!"
+
+#. habla: Jessica
+#, fuzzy
+msgctxt "#138"
+msgid "A weird droid? I haven't seen one! What's that? It might be dangerous? I'd like to see it try and threaten me! I'll turn it into dust with the vaporizer plug-in on my connection gear!"
+msgstr "¿Un droide raro? ¡No vi ninguno! ¿Qué dicen? ¿Que puede ser peligroso? ¡Que intente amenazarme! ¡Lo hago polvo con el complemento vaporizador de mi equipo de conexión!"
+
+#. habla: Jessica
+#, fuzzy
+msgctxt "#139"
+msgid "I see, I see. So, that droid was one of yours. Well I'm sorry I broke it, but you can't blame me for defending myself when something like that suddenly attacks!"
+msgstr "Ya veo, ya veo. Así que ese droide era de ustedes. Bueno, perdón por romperlo, ¡pero no pueden culparme por defenderme cuando algo así me ataca de repente!"
+
+#. habla: Shawna
+#, fuzzy
+msgctxt "#140"
+msgid "You want to play rock-paper-scissors with me? Oh, so it's something Johnny cooked up? All right. Let's do it."
+msgstr "¿Quieres jugar a piedra, papel o tijera conmigo? Ah, ¿es algo que se le ocurrió a Johnny? Bueno. Juguemos."
+
+#. habla: Shawna
+#, fuzzy
+msgctxt "#141"
+msgid "Okay! One, two, three, go!"
+msgstr "¡Bueno! ¡Un, dos, tres, ya!"
+
+#. habla: Shawna
+#, fuzzy
+msgctxt "#142"
+msgid "I chose rock. Tie!"
+msgstr "Elegí piedra. ¡Empate!"
+
+#. habla: Shawna
+#, fuzzy
+msgctxt "#143"
+msgid "I chose scissors. Haha, looks like I lose."
+msgstr "Elegí tijera. Jaja, parece que perdí."
+
+#. habla: Shawna
+#, fuzzy
+msgctxt "#144"
+msgid "I chose paper. Looks like I win."
+msgstr "Elegí papel. Parece que gané."
+
+#. habla: Shawna
+#, fuzzy
+msgctxt "#145"
+msgid "I chose rock. Looks like I win."
+msgstr "Elegí piedra. Parece que gané."
+
+#. habla: Shawna
+#, fuzzy
+msgctxt "#146"
+msgid "I chose scissors. Tie!"
+msgstr "Elegí tijera. ¡Empate!"
+
+#. habla: Shawna
+#, fuzzy
+msgctxt "#147"
+msgid "I chose paper. Haha, looks like I lose."
+msgstr "Elegí papel. Jaja, parece que perdí."
+
+#. habla: Shawna
+#, fuzzy
+msgctxt "#148"
+msgid "I chose rock. Haha, looks like I lose."
+msgstr "Elegí piedra. Jaja, parece que perdí."
+
+#. habla: Shawna
+#, fuzzy
+msgctxt "#149"
+msgid "I chose scissors. Looks like I win."
+msgstr "Elegí tijera. Parece que gané."
+
+#. habla: Shawna
+#, fuzzy
+msgctxt "#150"
+msgid "I chose paper. Tie!"
+msgstr "Elegí papel. ¡Empate!"
+
+#. habla: Shawna
+#, fuzzy
+msgctxt "#151"
+msgid "Haha. Looks like I win."
+msgstr "Jaja. Parece que gané."
+
+#. habla: Shawna
+#, fuzzy
+msgctxt "#152"
+msgid "I lost!"
+msgstr "¡Perdí!"
+
+#. habla: Shawna
+#, fuzzy
+msgctxt "#153"
+msgid "We tied."
+msgstr "Empatamos."
+
+#. habla: Shawna
+#, fuzzy
+msgctxt "#154"
+msgid "Johnny might not look it, but he works really hard."
+msgstr "Quizá Johnny no lo parezca, pero trabaja muy duro."
+
+#. habla: Shawna
+#, fuzzy
+msgctxt "#155"
+msgid "Do you know Kate Blondel, the singer who captured the hearts of all the youth in the Miltian system a long time ago? Do you know what she's doing these days?"
+msgstr "¿Conoces a Kate Blondel, la cantante que hace tiempo conquistó el corazón de todos los jóvenes del sistema de Miltia? ¿Sabes qué hace hoy en día?"
+
+#. habla: Shawna
+#, fuzzy
+msgctxt "#156"
+msgid "I learned from a net-mag that she lost her younger brother in the conflict fourteen years ago and hasn't sung since. What a shame."
+msgstr "Leí en una revista de la red que perdió a su hermano menor en el conflicto de hace catorce años y que no volvió a cantar. Qué pena."
+
+#. habla: Shawna
+#, fuzzy
+msgctxt "#157"
+msgid "I'd love to have the chance to let my heart dance to her voice once more. "
+msgstr "Me encantaría tener la oportunidad de que mi corazón vuelva a bailar con su voz."
+
+#. habla: Shawna
+#, fuzzy
+msgctxt "#158"
+msgid "Hmm? Someone who collects old books? Now that you mention it, I've heard that there's a strange guy on Second Miltia who runs an antique book store."
+msgstr "¿Hmm? ¿Alguien que coleccione libros viejos? Ahora que lo dices, escuché que en Segunda Miltia hay un tipo raro que tiene una librería de libros antiguos."
+
+#. habla: Shawna
+#, fuzzy
+msgctxt "#159"
+msgid "What's that? What does he look like? He's tall, with long hair, and apparently pretty good looking. But I heard he's kind of strange, and over thirty and single."
+msgstr "¿Qué dices? ¿Cómo es? Es alto, de pelo largo y, al parecer, bastante apuesto. Pero escuché que es un poco raro, y que tiene más de treinta y está soltero."
+
+#. habla: Shawna
+#, fuzzy
+msgctxt "#160"
+msgid "Besides him? Hmm. Kiku, who's also on Second Miltia, is supposed to be an avid collector of old books, but she's really narrow-minded. She might not even speak to you!"
+msgstr "¿Aparte de él? Hmm. Kiku, que también está en Segunda Miltia, se supone que es una gran coleccionista de libros viejos, pero es muy cerrada. ¡Quizá ni te dirija la palabra!"
+
+#. habla: Shawna
+#, fuzzy
+msgctxt "#161"
+msgid "There's another book besides \"Rules of High Society\" that's getting a lot of attention lately. It's called the \"Entertainment Guide.\" It's perfect for all of us living on the Foundation."
+msgstr "Además de \"Manual de etiqueta\", hay otro libro que está llamando mucho la atención últimamente. Se llama \"Guía de ocio\". Es perfecto para todos los que vivimos en la Fundación."
+
+#. habla: Shawna
+#, fuzzy
+msgctxt "#162"
+msgid "But it's hard to find someone who actually has it!"
+msgstr "¡Pero es difícil encontrar a alguien que lo tenga!"
+
+#. habla: Lee
+#, fuzzy
+msgctxt "#163"
+msgid "What? A special campaign to get cheap bread from the Smile Bakery? I'd love to participate!"
+msgstr "¿Qué? ¿Una campaña especial para conseguir pan barato en la Panadería Smile? ¡Me encantaría participar!"
+
+#. habla: Lee
+#, fuzzy
+msgctxt "#164"
+msgid "One, two, three, go!"
+msgstr "¡Un, dos, tres, ya!"
+
+#. habla: Lee
+#, fuzzy
+msgctxt "#165"
+msgid "I chose rock. It's a tie!"
+msgstr "Elegí piedra. ¡Empate!"
+
+#. habla: Lee
+#, fuzzy
+msgctxt "#166"
+msgid "I chose scissors. I lose. ♪"
+msgstr "Elegí tijera. Perdí. ♪"
+
+#. habla: Lee
+#, fuzzy
+msgctxt "#167"
+msgid "I chose paper. Oh no, I won?!"
+msgstr "Elegí papel. ¡¿Ay, no, gané?!"
+
+#. habla: Lee
+#, fuzzy
+msgctxt "#168"
+msgid "I chose rock. Oh no, I won?!"
+msgstr "Elegí piedra. ¡¿Ay, no, gané?!"
+
+#. habla: Lee
+#, fuzzy
+msgctxt "#169"
+msgid "I chose scissors. It's a tie!"
+msgstr "Elegí tijera. ¡Empate!"
+
+#. habla: Lee
+#, fuzzy
+msgctxt "#170"
+msgid "I chose paper. I lose. ♪"
+msgstr "Elegí papel. Perdí. ♪"
+
+#. habla: Lee
+#, fuzzy
+msgctxt "#171"
+msgid "I chose rock. I lose. ♪"
+msgstr "Elegí piedra. Perdí. ♪"
+
+#. habla: Lee
+#, fuzzy
+msgctxt "#172"
+msgid "I chose scissors. Oh no, I won?!"
+msgstr "Elegí tijera. ¡¿Ay, no, gané?!"
+
+#. habla: Lee
+#, fuzzy
+msgctxt "#173"
+msgid "I chose paper. It's a tie!"
+msgstr "Elegí papel. ¡Empate!"
+
+#. habla: Lee
+#, fuzzy
+msgctxt "#174"
+msgid "What?! I won?!"
+msgstr "¡¿Qué?! ¡¿Gané?!"
+
+#. habla: Lee
+#, fuzzy
+msgctxt "#175"
+msgid "Looks like I lose! ♪"
+msgstr "¡Parece que perdí! ♪"
+
+#. habla: Lee
+#, fuzzy
+msgctxt "#176"
+msgid "It's a tie."
+msgstr "Es un empate."
+
+#. habla: Lee
+#, fuzzy
+msgctxt "#177"
+msgid "Even without a special festival, I still love the bread there! Tell Johnny he doesn't have to worry so much!"
+msgstr "¡Aunque no haya festival especial, igual me encanta el pan de ahí! ¡Díganle a Johnny que no se preocupe tanto!"
+
+#. habla: Lee
+#, fuzzy
+msgctxt "#178"
+msgid "Little Master, could you keep what I'm about to say a secret from Director Gaignun?"
+msgstr "Joven amo, ¿podría no contarle al director Gaignun lo que le voy a decir?"
+
+#. Opciones: una por línea. Mantener 2 líneas en el mismo orden.
+#, fuzzy
+msgctxt "#179"
+msgid ""
+"Well, all right...\n"
+"What?! I can't do that!"
+msgstr ""
+"Bueno, está bien...\n"
+"¡¿Qué?! ¡No puedo hacer eso!"
+
+#. habla: Lee
+#, fuzzy
+msgctxt "#180"
+msgid "I heard the architect talking, and apparently, they used construction nanomachines to build that statue of the mayor! That's unusual in this district, but well, that in and of itself wasn't a big deal. The thing is, it turns out there was a problem with those nanomachines! Apparently, they made some kind of addition on their own to the statue. The architect should have just told Director Gaignun about it, but he didn't. When the mayor's daughter came back to the Foundation, the architect secretly admitted what happened. I wonder what kind of trick they built into that statue. I guess I could just ask Janet."
+msgstr "Escuché hablar al arquitecto y, al parecer, ¡usaron nanomáquinas de construcción para hacer esa estatua del alcalde! Eso es raro en este distrito, pero bueno, eso en sí no era gran cosa. ¡Lo que pasa es que esas nanomáquinas tenían un problema! Parece que le agregaron algo a la estatua por su cuenta. El arquitecto debería habérselo dicho al director Gaignun, pero no lo hizo. Cuando la hija del alcalde volvió a la Fundación, el arquitecto le admitió en secreto lo que había pasado. Me pregunto qué tipo de truco le habrán metido a esa estatua. Supongo que podría preguntarle a Janet."
+
+#. habla: Lee
+#, fuzzy
+msgctxt "#181"
+msgid "Yes, of course. I guess I can't ask you to lie to Director Gaignun."
+msgstr "Sí, claro. Supongo que no puedo pedirle que le mienta al director Gaignun."
+
+#. habla: Lee
+#, fuzzy
+msgctxt "#182"
+msgid "What? Janet was here? Then I wonder if she went to see Vimala."
+msgstr "¿Qué? ¿Janet estuvo aquí? Entonces quizá fue a ver a Vimala."
+
+#. habla: Lee
+#, fuzzy
+msgctxt "#183"
+msgid "The previous mayor lost his wife when Janet was very young, so Vimala looked after her."
+msgstr "El alcalde anterior perdió a su esposa cuando Janet era muy pequeña, así que Vimala la cuidó."
+
+#. habla: Chris
+#, fuzzy
+msgctxt "#184"
+msgid "Ah, I get it! Johnny's started something to try and impress Mina, huh? Well, I guess I'll lend him a hand. All I have to do is play rock-paper-scissors, right? Let's go!"
+msgstr "¡Ah, ya entiendo! Johnny empezó algo para impresionar a Mina, ¿eh? Bueno, supongo que le voy a dar una mano. Solo tengo que jugar a piedra, papel o tijera, ¿no? ¡Vamos!"
+
+#. habla: Chris
+#, fuzzy
+msgctxt "#185"
+msgid "One, two, three, go!"
+msgstr "¡Un, dos, tres, ya!"
+
+#. habla: Chris
+#, fuzzy
+msgctxt "#186"
+msgid "I picked rock. A tie!"
+msgstr "Elegí piedra. ¡Empate!"
+
+#. habla: Chris
+#, fuzzy
+msgctxt "#187"
+msgid "I picked scissors. I lose!"
+msgstr "Elegí tijera. ¡Perdí!"
+
+#. habla: Chris
+#, fuzzy
+msgctxt "#188"
+msgid "I picked paper. Looks like I win!"
+msgstr "Elegí papel. ¡Parece que gané!"
+
+#. habla: Chris
+#, fuzzy
+msgctxt "#189"
+msgid "I picked rock. Looks like I win!"
+msgstr "Elegí piedra. ¡Parece que gané!"
+
+#. habla: Chris
+#, fuzzy
+msgctxt "#190"
+msgid "I picked scissors. A tie!"
+msgstr "Elegí tijera. ¡Empate!"
+
+#. habla: Chris
+#, fuzzy
+msgctxt "#191"
+msgid "I picked paper. I lose!"
+msgstr "Elegí papel. ¡Perdí!"
+
+#. habla: Chris
+#, fuzzy
+msgctxt "#192"
+msgid "I picked rock. I lose!"
+msgstr "Elegí piedra. ¡Perdí!"
+
+#. habla: Chris
+#, fuzzy
+msgctxt "#193"
+msgid "I picked scissors. Looks like I win!"
+msgstr "Elegí tijera. ¡Parece que gané!"
+
+#. habla: Chris
+#, fuzzy
+msgctxt "#194"
+msgid "I picked paper. A tie!"
+msgstr "Elegí papel. ¡Empate!"
+
+#. habla: Chris
+#, fuzzy
+msgctxt "#195"
+msgid "Hmm, looks like I win!"
+msgstr "Hmm, ¡parece que gané!"
+
+#. habla: Chris
+#, fuzzy
+msgctxt "#196"
+msgid "Damn, I lost!"
+msgstr "¡Maldición, perdí!"
+
+#. habla: Chris
+#, fuzzy
+msgctxt "#197"
+msgid "It's a tie!"
+msgstr "¡Es un empate!"
+
+#. habla: Chris
+#, fuzzy
+msgctxt "#198"
+msgid "Tell that doofus Johnny to hang in there!"
+msgstr "¡Díganle al bobo de Johnny que no se rinda!"
+
+#. habla: Chris
+#, fuzzy
+msgctxt "#199"
+msgid "Oh, Little Master! What's that? Do I know Dreamy Bonny? Sure, I've heard of her. She's that master thief who's been stirring up trouble in Miltian space lately."
+msgstr "¡Oh, joven amo! ¿Qué dice? ¿Si conozco a Dreamy Bonny? Claro, oí hablar de ella. Es esa superladrona que anda causando problemas últimamente en el espacio de Miltia."
+
+#. habla: Chris
+#, fuzzy
+msgctxt "#200"
+msgid "Not that I've seen her with my own eyes or anything. It seems like no one has actually seen her, although there sure are a lot of people talking about her."
+msgstr "No es que la haya visto con mis propios ojos ni nada. Parece que nadie la vio de verdad, aunque sí que hay mucha gente hablando de ella."
+
+#. habla: Chris
+#, fuzzy
+msgctxt "#201"
+msgid "What? What do I think Bonny looks like? That's hard to say. The descriptions of her are all different. Some say she's a huge woman three meters tall. Others say she's a ninety-year-old lady. I've even heard some people say she's really a man dressed as a woman. I can't imagine what she really looks like!"
+msgstr "¿Qué? ¿Cómo creo que es Bonny? Es difícil de decir. Las descripciones son todas distintas. Algunos dicen que es una mujer enorme de tres metros. Otros dicen que es una señora de noventa años. Hasta escuché decir que en realidad es un hombre vestido de mujer. ¡No me imagino cómo será de verdad!"
+
+#. habla: Chris
+#, fuzzy
+msgctxt "#202"
+msgid "Hehehe, I bet you're here to ask about Margoyles, aren't you?"
+msgstr "Jejeje, apuesto a que vinieron a preguntar por Margoyles, ¿no?"
+
+#. habla: Chris
+#, fuzzy
+msgctxt "#203"
+msgid "It's okay! Everyone loves to gossip! The way I hear it, Margoyles is in the middle of a major slump. What's that? How can you cheer him up? Hmm, well, he's a musician, so I guess maybe you could cheer him up with something musical?"
+msgstr "¡No pasa nada! ¡A todo el mundo le encanta el chisme! Por lo que escuché, Margoyles está en una crisis creativa tremenda. ¿Qué dicen? ¿Cómo pueden animarlo? Hmm, bueno, es músico, así que supongo que quizá podrían animarlo con algo musical."
+
+#. habla: Chris
+#, fuzzy
+msgctxt "#204"
+msgid "I heard Lavare started a clothing rental service!"
+msgstr "¡Escuché que Lavare empezó un servicio de alquiler de ropa!"
+
+#. habla: Chris
+#, fuzzy
+msgctxt "#205"
+msgid "But the only thing they have are clothes for women over 170cm tall! I've never seen a woman that tall. Well not on the Foundation anyway."
+msgstr "¡Pero lo único que tienen es ropa para mujeres de más de 170 cm! Nunca vi una mujer tan alta. Bueno, al menos no en la Fundación."
+
+#. habla: Claudia
+#, fuzzy
+msgctxt "#206"
+msgid "A rock-paper-scissors contest? Sure, let's go! ♪ "
+msgstr "¿Un concurso de piedra, papel o tijera? ¡Claro, juguemos! ♪"
+
+#. habla: Claudia
+#, fuzzy
+msgctxt "#207"
+msgid "One, two, three, go!"
+msgstr "¡Un, dos, tres, ya!"
+
+#. habla: Claudia
+#, fuzzy
+msgctxt "#208"
+msgid "I picked rock. Tie!"
+msgstr "Elegí piedra. ¡Empate!"
+
+#. habla: Claudia
+#, fuzzy
+msgctxt "#209"
+msgid "I picked scissors. Oh, I lost! ♪"
+msgstr "Elegí tijera. ¡Ay, perdí! ♪"
+
+#. habla: Claudia
+#, fuzzy
+msgctxt "#210"
+msgid "I picked paper. What?! I won?!"
+msgstr "Elegí papel. ¡¿Qué?! ¡¿Gané?!"
+
+#. habla: Claudia
+#, fuzzy
+msgctxt "#211"
+msgid "I picked rock. What?! I won?!"
+msgstr "Elegí piedra. ¡¿Qué?! ¡¿Gané?!"
+
+#. habla: Claudia
+#, fuzzy
+msgctxt "#212"
+msgid "I picked scissors. Tie!"
+msgstr "Elegí tijera. ¡Empate!"
+
+#. habla: Claudia
+#, fuzzy
+msgctxt "#213"
+msgid "I picked paper. Oh, I lost! ♪"
+msgstr "Elegí papel. ¡Ay, perdí! ♪"
+
+#. habla: Claudia
+#, fuzzy
+msgctxt "#214"
+msgid "I picked rock. Oh, I lost! ♪"
+msgstr "Elegí piedra. ¡Ay, perdí! ♪"
+
+#. habla: Claudia
+#, fuzzy
+msgctxt "#215"
+msgid "I picked scissors. What?! I won?!"
+msgstr "Elegí tijera. ¡¿Qué?! ¡¿Gané?!"
+
+#. habla: Claudia
+#, fuzzy
+msgctxt "#216"
+msgid "I picked paper. Tie!"
+msgstr "Elegí papel. ¡Empate!"
+
+#. habla: Claudia
+#, fuzzy
+msgctxt "#217"
+msgid "I won! Wait, I have to lose? What?!"
+msgstr "¡Gané! Un momento, ¿tengo que perder? ¡¿Qué?!"
+
+#. habla: Claudia
+#, fuzzy
+msgctxt "#218"
+msgid "I lost!"
+msgstr "¡Perdí!"
+
+#. habla: Claudia
+#, fuzzy
+msgctxt "#219"
+msgid "It's a tie! It's a tie!"
+msgstr "¡Empate! ¡Empate!"
+
+#. habla: Claudia
+#, fuzzy
+msgctxt "#220"
+msgid "It was for a special event at the bakery? If I'd known that, I'd have tried harder!"
+msgstr "¿Era para un evento especial de la panadería? ¡Si lo hubiera sabido, me habría esforzado más!"
+
+#. habla: Claudia
+#, fuzzy
+msgctxt "#221"
+msgid "Hi, Jr.! ♪ Listen to what Dominic at the cleaners said!"
+msgstr "¡Hola, Jr.! ♪ ¡Escucha lo que dijo Dominic, el de la tintorería!"
+
+#. habla: Claudia
+#, fuzzy
+msgctxt "#222"
+msgid "He said his mommy won't pay any attention to him at all! This is why adults are such a pain."
+msgstr "¡Dijo que su mamá no le presta nada de atención! Por eso los adultos son tan pesados."
+
+#. habla: Claudia
+#, fuzzy
+msgctxt "#223"
+msgid "Dominic said he's planning a really cool joke!"
+msgstr "¡Dominic dijo que está planeando una broma genial!"
+
+#. habla: Claudia
+#, fuzzy
+msgctxt "#224"
+msgid "I saw Caito reading a book the other day. Want to know what it was called?"
+msgstr "El otro día vi a Caito leyendo un libro. ¿Quieres saber cómo se llamaba?"
+
+#, fuzzy
+msgctxt "#225"
+msgid ""
+"Please tell me.\n"
+"Hmm, I don't really need to know."
+msgstr ""
+"Por favor, dime.\n"
+"Hmm, no me hace falta saberlo."
+
+#. habla: Claudia
+#, fuzzy
+msgctxt "#226"
+msgid "Um, well, I can't read hard words, so I asked Mommy about it. Mommy told me it's called, \"Rules of High Society.\""
+msgstr "Eh, bueno, no sé leer palabras difíciles, así que le pregunté a mamá. Mamá me dijo que se llama \"Manual de etiqueta\"."
+
+#. habla: Claudia
+#, fuzzy
+msgctxt "#227"
+msgid "Oh. Then I'm not telling you!"
+msgstr "Ah. ¡Entonces no te lo digo!"
+
+#. habla: Claudia
+#, fuzzy
+msgctxt "#228"
+msgid "You know what? Sheila's place rents out clothes now!"
+msgstr "¿Sabes qué? ¡Ahora en la tintorería de Sheila alquilan ropa!"
+
+#. habla: Claudia
+#, fuzzy
+msgctxt "#229"
+msgid "I want to borrow those clothes that brides wear."
+msgstr "Quiero alquilar esa ropa que usan las novias."
+
+#. habla: Buzz
+#, fuzzy
+msgctxt "#230"
+msgid "A Smile Bakery festival? I just gotta play rock-paper-scissors, right?"
+msgstr "¿Un festival de la Panadería Smile? Solo tengo que jugar a piedra, papel o tijera, ¿no?"
+
+#. habla: Buzz
+#, fuzzy
+msgctxt "#231"
+msgid "Okay, one, two, three, go!"
+msgstr "Bueno, ¡un, dos, tres, ya!"
+
+#. habla: Buzz
+#, fuzzy
+msgctxt "#232"
+msgid "I picked rock! It's a tie!"
+msgstr "¡Elegí piedra! ¡Empate!"
+
+#. habla: Buzz
+#, fuzzy
+msgctxt "#233"
+msgid "I picked scissors! Guess I lose."
+msgstr "¡Elegí tijera! Supongo que perdí."
+
+#. habla: Buzz
+#, fuzzy
+msgctxt "#234"
+msgid "I picked paper! Damn! I won!"
+msgstr "¡Elegí papel! ¡Maldición! ¡Gané!"
+
+#. habla: Buzz
+#, fuzzy
+msgctxt "#235"
+msgid "I picked rock! Damn! I won!"
+msgstr "¡Elegí piedra! ¡Maldición! ¡Gané!"
+
+#. habla: Buzz
+#, fuzzy
+msgctxt "#236"
+msgid "I picked scissors! It's a tie!"
+msgstr "¡Elegí tijera! ¡Empate!"
+
+#. habla: Buzz
+#, fuzzy
+msgctxt "#237"
+msgid "I picked paper! Guess I lose."
+msgstr "¡Elegí papel! Supongo que perdí."
+
+#. habla: Buzz
+#, fuzzy
+msgctxt "#238"
+msgid "I picked rock! Guess I lose."
+msgstr "¡Elegí piedra! Supongo que perdí."
+
+#. habla: Buzz
+#, fuzzy
+msgctxt "#239"
+msgid "I picked scissors! Damn! I won!"
+msgstr "¡Elegí tijera! ¡Maldición! ¡Gané!"
+
+#. habla: Buzz
+#, fuzzy
+msgctxt "#240"
+msgid "I picked paper! It's a tie!"
+msgstr "¡Elegí papel! ¡Empate!"
+
+#. habla: Buzz
+#, fuzzy
+msgctxt "#241"
+msgid "Dammit, I won!"
+msgstr "¡Maldición, gané!"
+
+#. habla: Buzz
+#, fuzzy
+msgctxt "#242"
+msgid "Hehe, sorry! Looks like I lost!"
+msgstr "Je, ¡perdón! ¡Parece que perdí!"
+
+#. habla: Buzz
+#, fuzzy
+msgctxt "#243"
+msgid "Hmm, it's a tie."
+msgstr "Hmm, es un empate."
+
+#. habla: Buzz
+#, fuzzy
+msgctxt "#244"
+msgid "Johnny has some interesting ideas sometimes."
+msgstr "A veces a Johnny se le ocurren ideas interesantes."
+
+#. habla: Buzz
+#, fuzzy
+msgctxt "#245"
+msgid "Little Master, please help! You know that cat, Josephine, that King has? It's been acting strange lately!"
+msgstr "¡Joven amo, por favor, ayúdenos! ¿Conoce a ese gato, Josephine, el de King? ¡Anda raro desde hace un tiempo!"
+
+#. habla: Buzz
+#, fuzzy
+msgctxt "#246"
+msgid "That's a problem because King is now in a bad mood and harassing everyone! I've known him for a long time, and now every time we run into each other, he won't leave me alone!"
+msgstr "¡El problema es que ahora King está de mal humor y molesta a todo el mundo! Lo conozco desde hace mucho, ¡y ahora cada vez que nos cruzamos no me deja en paz!"
+
+#. habla: Buzz
+#, fuzzy
+msgctxt "#247"
+msgid "Unfortunately, there's no nanotreatment veterinarian on the Foundation! Do you know anyone, Little Master?"
+msgstr "¡Lamentablemente, en la Fundación no hay ningún veterinario de nanotratamiento! ¿Usted conoce a alguno, joven amo?"
+
+#. habla: Buzz
+#, fuzzy
+msgctxt "#248"
+msgid "Do you know about the job of delivering letters?"
+msgstr "¿Conoces el trabajo de entregar cartas?"
+
+#. Opciones: una por línea. Mantener 2 líneas en el mismo orden.
+#, fuzzy
+msgctxt "#249"
+msgid ""
+"No, I don't!\n"
+"Of course I do!"
+msgstr ""
+"¡No, no lo conozco!\n"
+"¡Por supuesto!"
+
+#. habla: Buzz
+#, fuzzy
+msgctxt "#250"
+msgid "It seems that back in the days before the U.M.N. transport technology existed, some people worked delivering packages and letters by hand! Those delivery people liked to use the catch phrase, \"We deliver sincerity.\" It seems there's a delivery agency still around that copies that style and delivers individual packages by hand! If you ask me, I don't really see what the difference is between using that and the U.M.N. Either way, you're having someone else do it for you."
+msgstr "Parece que, antes de que existiera la tecnología de transporte de la U.M.N., había gente que trabajaba entregando paquetes y cartas en mano. Esos repartidores usaban el lema: \"Entregamos sinceridad\". ¡Parece que todavía hay una agencia que copia ese estilo y entrega paquetes en mano! Si me preguntas, no veo qué diferencia hay entre eso y usar la U.M.N. De una forma u otra, alguien lo hace por ti."
+
+#. habla: Buzz
+#, fuzzy
+msgctxt "#251"
+msgid "That's a strange thing for someone your age to know."
+msgstr "Qué raro que alguien de tu edad sepa eso."
+
+#. habla: Buzz
+#, fuzzy
+msgctxt "#252"
+msgid "The Ariadne Flower? Sure, I know about it! Though after what happened to Ariadne, you can't get natural ones anymore."
+msgstr "¿La Flor de Ariadne? ¡Claro que la conozco! Aunque, después de lo que pasó con Ariadne, ya no se consiguen naturales."
+
+#. habla: Buzz
+#, fuzzy
+msgctxt "#253"
+msgid "The Ariadne Flower blooms in the spring. After what happened to Ariadne, seeds known as Spring Seeds have been selling at a tremendous price!"
+msgstr "La Flor de Ariadne florece en primavera. ¡Después de lo que pasó con Ariadne, las semillas conocidas como Semillas de Primavera se venden a un precio tremendo!"
+
+#. habla: Patricia
+#, fuzzy
+msgctxt "#254"
+msgid "Oh, I've heard about that! The Smile Bakery bread festival, right? You have to play rock-paper-scissors?"
+msgstr "¡Ah, me enteré de eso! El festival del pan de la Panadería Smile, ¿no? ¿Hay que jugar a piedra, papel o tijera?"
+
+#. habla: Patricia
+#, fuzzy
+msgctxt "#255"
+msgid "Ready? One, two, three, go!"
+msgstr "¿Listos? ¡Un, dos, tres, ya!"
+
+#. habla: Patricia
+#, fuzzy
+msgctxt "#256"
+msgid "I pick rock. It's a tie!"
+msgstr "Elijo piedra. ¡Empate!"
+
+#. habla: Patricia
+#, fuzzy
+msgctxt "#257"
+msgid "I pick scissors. I lose!"
+msgstr "Elijo tijera. ¡Perdí!"
+
+#. habla: Patricia
+#, fuzzy
+msgctxt "#258"
+msgid "I pick paper. I win!"
+msgstr "Elijo papel. ¡Gané!"
+
+#. habla: Patricia
+#, fuzzy
+msgctxt "#259"
+msgid "I pick rock. I win!"
+msgstr "Elijo piedra. ¡Gané!"
+
+#. habla: Patricia
+#, fuzzy
+msgctxt "#260"
+msgid "I pick scissors. It's a tie!"
+msgstr "Elijo tijera. ¡Empate!"
+
+#. habla: Patricia
+#, fuzzy
+msgctxt "#261"
+msgid "I pick paper. I lose!"
+msgstr "Elijo papel. ¡Perdí!"
+
+#. habla: Patricia
+#, fuzzy
+msgctxt "#262"
+msgid "I pick rock. I lose!"
+msgstr "Elijo piedra. ¡Perdí!"
+
+#. habla: Patricia
+#, fuzzy
+msgctxt "#263"
+msgid "I pick scissors. I win!"
+msgstr "Elijo tijera. ¡Gané!"
+
+#. habla: Patricia
+#, fuzzy
+msgctxt "#264"
+msgid "I pick paper. It's a tie!"
+msgstr "Elijo papel. ¡Empate!"
+
+#. habla: Patricia
+#, fuzzy
+msgctxt "#265"
+msgid "Hmm, I won!"
+msgstr "Hmm, ¡gané!"
+
+#. habla: Patricia
+#, fuzzy
+msgctxt "#266"
+msgid "I lost!"
+msgstr "¡Perdí!"
+
+#. habla: Patricia
+#, fuzzy
+msgctxt "#267"
+msgid "Looks like a tie."
+msgstr "Parece que es un empate."
+
+#. habla: Patricia
+#, fuzzy
+msgctxt "#268"
+msgid "I love that bakery's special promotions!"
+msgstr "¡Me encantan las promociones especiales de esa panadería!"
+
+#. habla: Patricia
+#, fuzzy
+msgctxt "#269"
+msgid "You might already know about this, but the Foundation has night and day cycles set by adjusting the angles of mirrors."
+msgstr "Quizá ya lo sepas, pero en la Fundación los ciclos de día y noche se ajustan cambiando el ángulo de unos espejos."
+
+#. habla: Patricia
+#, fuzzy
+msgctxt "#270"
+msgid "The reason I'm mentioning this is because a friend of mine on Second Miltia told me that she sent a letter regarding night and day on Second Miltia, but it hasn't arrived yet."
+msgstr "Te lo cuento porque una amiga de Segunda Miltia me dijo que me mandó una carta sobre el día y la noche en Segunda Miltia, pero todavía no llegó."
+
+#. habla: Patricia
+#, fuzzy
+msgctxt "#271"
+msgid "I bet you're thinking, these days you can just use the U.M.N. transport instead of writing a letter, right? But you're wrong! Those diamond-shaped letters are the proof of our friendship!"
+msgstr "Seguro que estás pensando que hoy en día se puede usar el transporte U.M.N. en vez de escribir una carta, ¿no? ¡Pues te equivocas! ¡Esas cartas con forma de diamante son la prueba de nuestra amistad!"
+
+#. habla: Patricia
+#, fuzzy
+msgctxt "#272"
+msgid "You must be the person from Sincere Deliveries who's delivering the diamond letter from my friend. ♪ Please give it to me!"
+msgstr "Tú debes ser la persona de Sincere Deliveries que trae la carta de diamante de mi amiga. ♪ ¡Dámela, por favor!"
+
+#. Opciones: una por línea. Mantener 2 líneas en el mismo orden.
+#, fuzzy
+msgctxt "#273"
+msgid ""
+"Hand it over.\n"
+"Don't hand it over."
+msgstr ""
+"Dársela.\n"
+"No dársela."
+
+#. habla: Patricia
+#, fuzzy
+msgctxt "#274"
+msgid "I knew you still had respect in you! Thank you so much. May you find happiness."
+msgstr "¡Sabía que todavía te quedaba respeto! Muchísimas gracias. Que encuentres la felicidad."
+
+#. habla: Patricia
+#, fuzzy
+msgctxt "#275"
+msgid "Oh, fate is such a cruel thing."
+msgstr "Ay, qué cruel es el destino."
+
+#. habla: Patricia
+#, fuzzy
+msgctxt "#276"
+msgid "Miltia has a natural day and night cycle, unlike the Foundation. My friend always puts her impressions of it into very poetic letters. I'm always looking forward to them."
+msgstr "Miltia tiene un ciclo natural de día y noche, a diferencia de la Fundación. Mi amiga siempre plasma sus impresiones en cartas muy poéticas. Siempre las espero con muchas ganas."
+
+#. habla: Patricia
+#, fuzzy
+msgctxt "#277"
+msgid "The letter never got here. Has my friend forgotten about me?"
+msgstr "La carta nunca llegó. ¿Mi amiga se habrá olvidado de mí?"
+
+#. habla: Harold
+#, fuzzy
+msgctxt "#278"
+msgid "Ah, this must be that festival Johnny planned, right? I never lose at rock-paper-scissors!"
+msgstr "Ah, este debe ser ese festival que organizó Johnny, ¿no? ¡Yo nunca pierdo a piedra, papel o tijera!"
+
+#. habla: Harold
+#, fuzzy
+msgctxt "#279"
+msgid "Ready? One, two, three, go!"
+msgstr "¿Listos? ¡Un, dos, tres, ya!"
+
+#. habla: Harold
+#, fuzzy
+msgctxt "#280"
+msgid "I picked rock. It's a tie!"
+msgstr "Elegí piedra. ¡Empate!"
+
+#. habla: Harold
+#, fuzzy
+msgctxt "#281"
+msgid "I picked scissors. Oh! I lost!"
+msgstr "Elegí tijera. ¡Oh! ¡Perdí!"
+
+#. habla: Harold
+#, fuzzy
+msgctxt "#282"
+msgid "I picked paper. I won?!"
+msgstr "Elegí papel. ¡¿Gané?!"
+
+#. habla: Harold
+#, fuzzy
+msgctxt "#283"
+msgid "I picked rock. I won?!"
+msgstr "Elegí piedra. ¡¿Gané?!"
+
+#. habla: Harold
+#, fuzzy
+msgctxt "#284"
+msgid "I picked scissors. It's a tie!"
+msgstr "Elegí tijera. ¡Empate!"
+
+#. habla: Harold
+#, fuzzy
+msgctxt "#285"
+msgid "I picked paper. Oh! I lost!"
+msgstr "Elegí papel. ¡Oh! ¡Perdí!"
+
+#. habla: Harold
+#, fuzzy
+msgctxt "#286"
+msgid "I picked rock. Oh! I lost!"
+msgstr "Elegí piedra. ¡Oh! ¡Perdí!"
+
+#. habla: Harold
+#, fuzzy
+msgctxt "#287"
+msgid "I picked scissors. I won?!"
+msgstr "Elegí tijera. ¡¿Gané?!"
+
+#. habla: Harold
+#, fuzzy
+msgctxt "#288"
+msgid "I picked paper. It's a tie!"
+msgstr "Elegí papel. ¡Empate!"
+
+#. habla: Harold
+#, fuzzy
+msgctxt "#289"
+msgid "Shoot, I won..."
+msgstr "Rayos, gané..."
+
+#. habla: Harold
+#, fuzzy
+msgctxt "#290"
+msgid "I lost!"
+msgstr "¡Perdí!"
+
+#. habla: Harold
+#, fuzzy
+msgctxt "#291"
+msgid "A tie?"
+msgstr "¿Un empate?"
+
+#. habla: Harold
+#, fuzzy
+msgctxt "#292"
+msgid "That was fun, man!"
+msgstr "¡Qué divertido estuvo eso!"
+
+#. habla: Harold
+#, fuzzy
+msgctxt "#293"
+msgid "Hey, Little Master! I heard a rumor about that Caito guy who runs the Ironman. Do you know what it is?"
+msgstr "¡Oiga, joven amo! Escuché un rumor sobre ese tal Caito, el dueño del Ironman. ¿Sabe cuál es?"
+
+#. Opciones: una por línea. Mantener 2 líneas en el mismo orden.
+#, fuzzy
+msgctxt "#294"
+msgid ""
+"What rumor?\n"
+"I'm not really interested."
+msgstr ""
+"¿Qué rumor?\n"
+"No me interesa mucho."
+
+#. habla: Harold
+#, fuzzy
+msgctxt "#295"
+msgid "I heard he's really into maids, especially ones in pink outfits! It's so funny to think of a big tough guy like him being like that! Supposedly, he wants all of his waitresses to wear maid outfits!"
+msgstr "¡Escuché que le encantan las sirvientas, sobre todo las de uniforme rosa! ¡Es muy gracioso imaginar a un tipo grandote y duro como él así! ¡Dicen que quiere que todas sus camareras usen uniforme de sirvienta!"
+
+#. habla: Harold
+#, fuzzy
+msgctxt "#296"
+msgid "Really? I think it's pretty funny."
+msgstr "¿De verdad? A mí me parece bastante gracioso."
+
+#. habla: Harold
+#, fuzzy
+msgctxt "#297"
+msgid "You know that antique book, \"Rules of High Society,\" that everyone's talking about, right? Well, guess what? I found another paper book a lot like it! Want to know about it?"
+msgstr "Conoces ese libro antiguo del que habla todo el mundo, \"Manual de etiqueta\", ¿no? Bueno, ¿adivina qué? ¡Encontré otro libro de papel muy parecido! ¿Quieres saber cuál es?"
+
+#, fuzzy
+msgctxt "#298"
+msgid ""
+"Yes, I'm interested in old books, too!\n"
+"Hmm, not really."
+msgstr ""
+"¡Sí, a mí también me interesan los libros viejos!\n"
+"Hmm, no mucho."
+
+#. habla: Harold
+#, fuzzy
+msgctxt "#299"
+msgid "I see! Well, the book is titled the \"Entertainment Guide\"! Both of the books paint a faithful picture of the daily lives of people long ago. And what's so great about this book is how easy the contents are to understand!"
+msgstr "¡Ya veo! Bueno, ¡el libro se titula \"Guía de ocio\"! Los dos libros retratan con fidelidad la vida cotidiana de la gente de hace mucho tiempo. ¡Y lo bueno de este libro es lo fácil que es de entender!"
+
+#. habla: Harold
+#, fuzzy
+msgctxt "#300"
+msgid "Oh, well, I certainly wouldn't tell someone who's not interested in listening."
+msgstr "Ah, bueno, a alguien que no quiere escuchar no se lo voy a contar."
+
+#. habla: Harold
+#, fuzzy
+msgctxt "#301"
+msgid "Do you know about the Power Battery that Vector sells?"
+msgstr "¿Conoces la Batería de Energía que vende Vector?"
+
+#. Opciones: una por línea. Mantener 2 líneas en el mismo orden.
+#, fuzzy
+msgctxt "#302"
+msgid ""
+"No\n"
+"Yes"
+msgstr ""
+"No\n"
+"Sí"
+
+#. habla: Harold
+#, fuzzy
+msgctxt "#303"
+msgid "It's a top-of-the-line, long-life rechargeable battery. But it's so expensive and its use is so limited, that they don't sell them just anywhere!"
+msgstr "Es una batería recargable de larga duración de primera línea. ¡Pero es tan cara y tiene un uso tan limitado que no la venden en cualquier lado!"
+
+#. habla: Harold
+#, fuzzy
+msgctxt "#304"
+msgid "Oh. If you know about that battery, you must be a pretty big robot enthusiast! "
+msgstr "Ah. Si conoces esa batería, ¡debes saber mucho de robots!"
+
+#. habla: Darrel
+#, fuzzy
+msgctxt "#305"
+msgid "I'm the architect who built the statue in this district. What? You're investigating the problem with that statue?! I...I'm sorry! I didn't mean to keep it a secret! Here's the blueprint! If you take it to any research facility, they should be able to figure the trick out! Please forgive me!"
+msgstr "Soy el arquitecto que construyó la estatua de este distrito. ¿Qué? ¡¿Están investigando el problema de esa estatua?! ¡Lo... lo siento! ¡No quise mantenerlo en secreto! ¡Aquí está el plano! Si lo llevan a cualquier centro de investigación, ¡deberían poder descubrir el truco! ¡Por favor, perdónenme!"
+
+#, fuzzy
+msgctxt "#306"
+msgid "You obtained the Statue Blueprint!"
+msgstr "¡Obtuviste el Plano de la estatua!"
+
+#. habla: Darrel
+#, fuzzy
+msgctxt "#307"
+msgid "I gave you the blueprint for the statue! If you check it, you'll be able to figure out the trick to that statue!"
+msgstr "¡Les di el plano de la estatua! ¡Si lo revisan, van a poder descubrir el truco de esa estatua!"
+
+#. habla: Bonny
+#, fuzzy
+msgctxt "#308"
+msgid "What? You need somethin' from me?"
+msgstr "¿Qué? ¿Se te ofrece algo?"
+
+#. Opciones: una por línea. Mantener 2 líneas en el mismo orden.
+#, fuzzy
+msgctxt "#309"
+msgid ""
+"Give back the Captain's log!\n"
+"Not really."
+msgstr ""
+"¡Devuelve la bitácora del capitán!\n"
+"No, nada."
+
+#. habla: Bonny
+#, fuzzy
+msgctxt "#310"
+msgid "Oh, the Captain's log from the freighter? I already snuck it back to where I got it from! Man, the security wasn't any better the second time, either! Hmm? You look like you've still got something to say."
+msgstr "Ah, ¿la bitácora del capitán del carguero? ¡Ya la devolví a escondidas a donde la saqué! ¡Y la seguridad seguía igual de floja la segunda vez! ¿Hmm? Parece que todavía tienes algo que decir."
+
+#, fuzzy
+msgctxt "#311"
+msgid ""
+"Aren't you the one that has something to say?\n"
+"No, I'm done."
+msgstr ""
+"¿No eres tú la que tiene algo que decir?\n"
+"No, ya terminé."
+
+#. habla: Bonny
+#, fuzzy
+msgctxt "#312"
+msgid "Wh...what? Even if, and I mean if, I had some problem, are you saying you'd listen to me and help me out?"
+msgstr "¿Q... qué? Aunque, y digo aunque, tuviera algún problema, ¿me estás diciendo que me escucharías y me ayudarías?"
+
+#. Opciones: una por línea. Mantener 2 líneas en el mismo orden.
+#, fuzzy
+msgctxt "#313"
+msgid ""
+"Of course!\n"
+"Life isn't that easy."
+msgstr ""
+"¡Por supuesto!\n"
+"La vida no es tan fácil."
+
+#. habla: Bonny
+#, fuzzy
+msgctxt "#314"
+msgid "Really?"
+msgstr "¿De verdad?"
+
+#. habla: Bonny
+#, fuzzy
+msgctxt "#315"
+msgid "Man! People are cold these days!"
+msgstr "¡Vaya! ¡Qué fría es la gente hoy en día!"
+
+#. habla: Bonny
+#, fuzzy
+msgctxt "#316"
+msgid "If you don't have any business with me, then stop staring! I'm tired of people looking at me like I'm garbage!"
+msgstr "Si no tienes nada que hacer conmigo, ¡deja de mirarme! ¡Estoy harta de que la gente me mire como si fuera basura!"
+
+#. habla: Bonny
+#, fuzzy
+msgctxt "#317"
+msgid "Humph! I'm in a bad mood right now, so leave me alone!"
+msgstr "¡Hmpf! Ahora estoy de mal humor, ¡así que déjame en paz!"
+
+#. habla: Bonny
+#, fuzzy
+msgctxt "#318"
+msgid "Well, you might know about this already, but I'm kinda famous as a thief! But do you remember when we first ran into each other? I stole the teddy bear from that girl? I never even thought about stealing things from someone helpless before and certainly not a teddy bear from a little girl! But there was a reason why I stole it! That teddy bear is the same one my Dad gave me! He died when I was little, and it was the last thing he bought me. When I saw it, I just took it without even thinking! Afterwards I spent time thinking about a lot of things, like how if Dad knew I was doing things like this, he'd probably be sad. After that, I decided I was gonna live an honest life! So, now, I'm looking for a job. I'm having a hard time finding one, though, and I'm getting irritated! Well, now that I've told you this embarrassing story, do you think you could help me find a job?"
+msgstr "Bueno, quizá ya lo sepas, ¡pero soy bastante famosa como ladrona! Pero ¿te acuerdas de la primera vez que nos cruzamos? ¿Cuando le robé el osito a esa niña? ¡Nunca se me había ocurrido robarle a alguien indefenso, y menos un osito a una niña! ¡Pero tenía un motivo para robarlo! ¡Ese osito es igual al que me regaló mi papá! Murió cuando yo era niña, y fue lo último que me compró. Cuando lo vi, ¡me lo llevé sin pensar! Después estuve pensando en muchas cosas, como que si papá supiera que hago estas cosas, seguramente se pondría triste. ¡Entonces decidí que iba a vivir honestamente! Así que ahora estoy buscando trabajo. Pero me está costando encontrar uno, ¡y me estoy poniendo de mal humor! Bueno, ahora que te conté esta historia vergonzosa, ¿crees que podrías ayudarme a encontrar trabajo?"
+
+#. Opciones: una por línea. Mantener 2 líneas en el mismo orden.
+#, fuzzy
+msgctxt "#319"
+msgid ""
+"Yes\n"
+"No"
+msgstr ""
+"Sí\n"
+"No"
+
+#. habla: Bonny
+#, fuzzy
+msgctxt "#320"
+msgid "Seriously?! Thanks!"
+msgstr "¡¿En serio?! ¡Gracias!"
+
+#. habla: Bonny
+#, fuzzy
+msgctxt "#322"
+msgid "Actually, I already have a place in mind! You know that bar, the Ironman, in the next district? They're hiring waitresses right now! I bet I could do that. I really want this job! But if I'm gonna get it, I'll need a pretty dress and a book on manners! Okay, then, I'm going to go on ahead to the Ironman! When you're ready, come talk to me!"
+msgstr "¡En realidad ya tengo un lugar en mente! ¿Conoces el bar Ironman, en el distrito de al lado? ¡Ahora están buscando camareras! Apuesto a que podría hacerlo. ¡Quiero muchísimo este trabajo! Pero, para conseguirlo, voy a necesitar un vestido lindo y un libro de modales. Bueno, entonces, ¡me adelanto al Ironman! Cuando puedas, ¡ven a hablar conmigo!"
+
+#. habla: Bonny
+#, fuzzy
+msgctxt "#323"
+msgid "Humph! You're just like all the others! You just think of me as some low-life thief, don't you?!"
+msgstr "¡Hmpf! ¡Eres igual que todos! Para ti no soy más que una ladrona de poca monta, ¿no?"
+
+#. habla: Roy
+#, fuzzy
+msgctxt "#324"
+msgid "Oh dear! Oh dear! What's the problem, you ask? Well, a long time ago, I put a time capsule in the place where I was working! I was looking forward to opening it decades later, but circumstances have made it impossible for me to get back to where I hid it! To put it simply, I forgot where I hid it! Where in the world did I put it? Oh, I know! Your timing is perfect! How about searching for the time capsule for me?"
+msgstr "¡Ay, caramba, caramba! ¿Cuál es el problema, preguntas? Bueno, hace mucho tiempo, ¡enterré una cápsula del tiempo en el lugar donde trabajaba! Tenía ganas de abrirla décadas después, ¡pero por las circunstancias no puedo volver al lugar donde la escondí! En pocas palabras, ¡me olvidé de dónde la escondí! ¿Dónde demonios la puse? ¡Ah, ya sé! ¡Llegaron justo a tiempo! ¿Qué tal si buscan la cápsula del tiempo por mí?"
+
+#. habla: Roy
+#, fuzzy
+msgctxt "#325"
+msgid "Thank you so much! My memory's just not what it used to be."
+msgstr "¡Muchísimas gracias! Mi memoria ya no es lo que era."
+
+#. habla: Roy
+#, fuzzy
+msgctxt "#327"
+msgid "It was at a factory. That's all I can remember. At any rate, if you find that time capsule and bring the contents to me, I'll give you an unbelievable reward!"
+msgstr "Era en una fábrica. Es todo lo que recuerdo. En fin, si encuentran esa cápsula del tiempo y me traen lo que tiene adentro, ¡les voy a dar una recompensa increíble!"
+
+#. habla: Roy
+#, fuzzy
+msgctxt "#328"
+msgid "What?! How can you be so cold-hearted?!"
+msgstr "¡¿Qué?! ¡¿Cómo pueden ser tan crueles?!"
+
+#. habla: Roy
+#, fuzzy
+msgctxt "#330"
+msgid "Oh! This is it! This is it! This is the item from my memories! Hmm? You want to see it? I'd really rather not show it to you. I mean, it's...well...it's a naughty little book! Here, take this instead!"
+msgstr "¡Oh! ¡Esto es! ¡Esto es! ¡Es el objeto de mis recuerdos! ¿Hmm? ¿Quieren verlo? Preferiría no mostrárselo. O sea, es... bueno... ¡es un librito picante! ¡Tomen, mejor llévense esto!"
+
+#, fuzzy
+msgctxt "#331"
+msgid "You obtained Skill Upgrade E x6!"
+msgstr "¡Obtuviste Mejora de Habilidad E x6!"
+
+#. habla: Roy
+#, fuzzy
+msgctxt "#332"
+msgid "If you're done here, would you hurry up and go? I'm going to get a little naughty for the first time in fifty years! Hehehe!"
+msgstr "Si ya terminaron aquí, ¿podrían irse rápido? ¡Voy a ponerme un poco travieso por primera vez en cincuenta años! ¡Jejeje!"
+
+#, fuzzy
+msgctxt "#333"
+msgid "Return to King's hideout?"
+msgstr "¿Volver a la guarida de King?"
+
+#. habla: Johnny
+#, fuzzy
+msgctxt "#334"
+msgid "Okay, listen to this. I made this Smile Bakery what it is today by putting together countless promotions, and it's all been for my beloved Mina. Anyway, this time, I'm seriously thinking of proposing to her, but to do that I have to prove to Farouk that I'm dependable! So, what I've thought of is the \"Rock-Paper-Scissors Bread Festival.\" Cool, huh? In this fabulous festival, a Smile Bakery employee will go out and play rock-paper-scissors with the public, and if the employee wins, we'll give the customer a discount! What? Why does the customer get a discount when they lose? Hey, don't ask stupid questions, all right? Just listen. The concept of this promotion is to see just how much we can please the customer! The problem is, the Smile Bakery only has three employees: Mina, Farouk, and me. Well, there is that idiot Axel, but he doesn't count because he can't do squat. Now, Mina is busy at the cash register, Farouk is busy baking, and I'm busy getting customers. And right as I was wondering who could go out and do the rock-paper-scissors, you guys showed up. So I'm assigning the job to you! Well? Will you give it a try?"
+msgstr "Bueno, escuchen esto. Hice de la Panadería Smile lo que es hoy armando un montón de promociones, y todo fue por mi amada Mina. En fin, esta vez estoy pensando en serio en pedirle matrimonio, ¡pero para eso tengo que demostrarle a Farouk que soy confiable! Así que se me ocurrió el \"Festival del Pan de Piedra, Papel o Tijera\". Genial, ¿no? En este festival fabuloso, un empleado de la Panadería Smile sale a jugar a piedra, papel o tijera con la gente, ¡y si el empleado gana, le hacemos un descuento al cliente! ¿Qué? ¿Por qué el cliente recibe el descuento cuando pierde? Oigan, no hagan preguntas tontas, ¿sí? Solo escuchen. ¡El concepto de esta promoción es ver cuánto podemos complacer al cliente! El problema es que la Panadería Smile solo tiene tres empleados: Mina, Farouk y yo. Bueno, también está ese idiota de Axel, pero no cuenta porque no sirve para nada. Mina está ocupada en la caja, Farouk está ocupado horneando y yo estoy ocupado atrayendo clientes. Y justo cuando me preguntaba quién podría salir a jugar a piedra, papel o tijera, aparecieron ustedes. ¡Así que les asigno el trabajo! ¿Y? ¿Lo intentan?"
+
+#. habla: Johnny
+#, fuzzy
+msgctxt "#335"
+msgid "All right! Thanks! "
+msgstr "¡Muy bien! ¡Gracias!"
+
+#. habla: Johnny
+#, fuzzy
+msgctxt "#336"
+msgid "Okay then, I'll give you a brief explanation on how this event works. Talk to everyone living in this district! Once you talk to them, you'll begin playing rock-paper-scissors. The game is best out of three. If you lose, this whole project could end in failure, so be careful! Once you've finished playing with everyone, come back and talk to me! Good luck!"
+msgstr "Bueno, entonces les explico rápido cómo funciona el evento. ¡Hablen con todos los que viven en este distrito! Cuando hablen con ellos, van a empezar a jugar a piedra, papel o tijera. Se juega al mejor de tres. Si pierden, todo este proyecto podría terminar en fracaso, ¡así que tengan cuidado! Cuando terminen de jugar con todos, ¡vuelvan a hablar conmigo! ¡Buena suerte!"
+
+#. habla: Johnny
+#, fuzzy
+msgctxt "#337"
+msgid "Hmm. I'm impressed you weren't mesmerized by my persuasive speech!"
+msgstr "Hmm. ¡Me impresiona que no los haya hipnotizado mi discurso persuasivo!"
+
+#. habla: Johnny
+#, fuzzy
+msgctxt "#338"
+msgid "All right! Looks like you've had a good run of victories! Thanks to you, business at the Smile Bakery is doing great and Farouk now thinks of me as a real man!"
+msgstr "¡Muy bien! ¡Parece que tuvieron una buena racha de victorias! ¡Gracias a ustedes, a la Panadería Smile le va genial y Farouk ahora me ve como un hombre de verdad!"
+
+#. habla: Johnny
+#, fuzzy
+msgctxt "#339"
+msgid "It's not much, but please take this!"
+msgstr "No es mucho, ¡pero acepten esto, por favor!"
+
+#, fuzzy
+msgctxt "#340"
+msgid "You can now use the Double Attack \"Cross Fist\"! Cross Fist is a Double Attack for Ziggy and KOS-MOS."
+msgstr "¡Ahora puedes usar el Ataque Doble \"Puño cruzado\"! Puño cruzado es un Ataque Doble de Ziggy y KOS-MOS."
+
+#. habla: Johnny
+#, fuzzy
+msgctxt "#341"
+msgid "Now I can go out and propose to Mina! Thanks, guys!"
+msgstr "¡Ahora puedo ir a pedirle matrimonio a Mina! ¡Gracias, chicos!"
+
+#. habla: Johnny
+#, fuzzy
+msgctxt "#342"
+msgid "Hmmm? What the? You've hardly won at all! This project is a failure!"
+msgstr "¿Hmmm? ¿Qué...? ¡Casi no ganaron nada! ¡Este proyecto es un fracaso!"
+
+#. habla: Johnny
+#, fuzzy
+msgctxt "#344"
+msgid "Oh, well. Here's a reward for your efforts."
+msgstr "Bueno. Aquí tienen una recompensa por su esfuerzo."
+
+#. habla: Johnny
+#, fuzzy
+msgctxt "#345"
+msgid "Well, there's no point in blaming this on you. The fact that this project ended in failure just means my idea wasn't interesting. Don't worry, though, there are plenty more ideas where that came from! Thanks anyway!"
+msgstr "Bueno, no tiene sentido echarles la culpa. Que este proyecto haya terminado en fracaso solo significa que mi idea no era interesante. Pero no se preocupen, ¡tengo muchas ideas más! ¡Gracias de todos modos!"
+
+#, fuzzy
+msgctxt "#346"
+msgid "It's the bakery counter. (temporary) "
+msgstr "Es el mostrador de la panadería. (provisional)"
+
+#. habla: Important Announcement from Johnny!
+#, fuzzy
+msgctxt "#347"
+msgid "The Rock-Paper-Scissors Bread Festival is almost here!"
+msgstr "¡Ya casi llega el Festival del Pan de Piedra, Papel o Tijera!"
+
+#. habla: Announcement from Johnny!
+#, fuzzy
+msgctxt "#348"
+msgid "The Rock-Paper-Scissors Bread Festival is now underway!"
+msgstr "¡Ya empezó el Festival del Pan de Piedra, Papel o Tijera!"
+
+#. habla: Thank You from Johnny
+#, fuzzy
+msgctxt "#349"
+msgid "Thank you all for your participation in the Rock-Paper-Scissors Bread Festival!"
+msgstr "¡Gracias a todos por participar en el Festival del Pan de Piedra, Papel o Tijera!"
+
+#, fuzzy
+msgctxt "#350"
+msgid "It's the cleaners counter. (temporary) "
+msgstr "Es el mostrador de la tintorería. (provisional)"
+
+#. habla: Good News from Lavare!
+#, fuzzy
+msgctxt "#351"
+msgid "We've begun renting costumes! We also have maid outfits! ♪"
+msgstr "¡Empezamos a alquilar disfraces! ¡También tenemos uniformes de sirvienta! ♪"
+
+#, fuzzy
+msgctxt "#352"
+msgid "The vibration checker is reacting. What would you like to do?"
+msgstr "El detector de vibraciones está reaccionando. ¿Qué quieres hacer?"
+
+#, fuzzy
+msgctxt "#353"
+msgid ""
+"Check the reaction again.\n"
+"Leave it alone.\n"
+"Register it as the matching ring and pick it up."
+msgstr ""
+"Volver a revisar la reacción.\n"
+"Dejarlo.\n"
+"Registrarlo como el anillo correcto y recogerlo."
+
+#, fuzzy
+msgctxt "#354"
+msgid "Reaction check complete."
+msgstr "Revisión de la reacción completa."
+
+#, fuzzy
+msgctxt "#355"
+msgid "You left the ring alone."
+msgstr "Dejaste el anillo."
+
+#, fuzzy
+msgctxt "#356"
+msgid "Once you pick up a ring, the vibration checker will cease functioning. You will not be able to search for rings anymore. Are you sure?"
+msgstr "Una vez que recojas un anillo, el detector de vibraciones dejará de funcionar. Ya no podrás buscar anillos. ¿Continuar?"
+
+#. Opciones: una por línea. Mantener 2 líneas en el mismo orden.
+#, fuzzy
+msgctxt "#357"
+msgid ""
+"Yes.\n"
+"No, don't pick it up."
+msgstr ""
+"Sí.\n"
+"No, no recogerlo."
+
+#, fuzzy
+msgctxt "#358"
+msgid "You obtained an Engagement Ring!"
+msgstr "¡Obtuviste un Anillo de compromiso!"
+
+#, fuzzy
+msgctxt "#359"
+msgid "Here we give praise to a hero who stood fast in defense of the Foundation. ―Gaignun Kukai"
+msgstr "Aquí rendimos homenaje a un héroe que se mantuvo firme en defensa de la Fundación. ―Gaignun Kukai"
+
+#, fuzzy
+msgctxt "#360"
+msgid "Please enter the unlock code."
+msgstr "Ingrese el código de desbloqueo."
+
+#, fuzzy
+msgctxt "#361"
+msgid "Correcting the statue."
+msgstr "Corrigiendo la estatua."
+
+#, fuzzy
+msgctxt "#363"
+msgid "Unlock code authorization failed."
+msgstr "Falló la autorización del código de desbloqueo."

@@ -1,0 +1,93 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Xenosaga Episode II - traducción al español\n"
+"Language: es_419\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Xeno-Source: 1:movie/en/s031610.txt\n"
+
+#. tiempo 00:13:25
+#. Subtítulo: un tramo de la frase, sincronizado con la voz. Máximo 2 líneas.
+#, fuzzy
+msgctxt "L24"
+msgid "Why?"
+msgstr "¿Por qué?"
+
+#. tiempo 00:16:15
+#. Subtítulo: un tramo de la frase, sincronizado con la voz. Máximo 2 líneas.
+#, fuzzy
+msgctxt "L27"
+msgid "Why are you the leader,"
+msgstr "¿Por qué tú eres el líder,"
+
+#. tiempo 00:19:00
+#. Subtítulo: un tramo de la frase, sincronizado con la voz. Máximo 2 líneas.
+#. viene de: Why are you the leader,
+#, fuzzy
+msgctxt "L29"
+msgid "number 666?"
+msgstr "número 666?"
+
+#. tiempo 00:22:15
+#. Subtítulo: un tramo de la frase, sincronizado con la voz. Máximo 2 líneas.
+#, fuzzy
+msgctxt "L32"
+msgid "You're a variant..."
+msgstr "Eres una variante..."
+
+#. tiempo 00:26:01
+#. Subtítulo: un tramo de la frase, sincronizado con la voz. Máximo 2 líneas.
+#, fuzzy
+msgctxt "L35"
+msgid "You're a monster!"
+msgstr "¡Eres un monstruo!"
+
+#. tiempo 00:35:25
+#. Subtítulo: un tramo de la frase, sincronizado con la voz. Máximo 2 líneas.
+#, fuzzy
+msgctxt "L38"
+msgid "Shut up, you losers!"
+msgstr "¡Cállense, inútiles!"
+
+#. tiempo 00:38:10
+#. Subtítulo: un tramo de la frase, sincronizado con la voz. Máximo 2 líneas.
+#, fuzzy
+msgctxt "L41"
+msgid "Don't make fun of Rubedo!"
+msgstr "¡No se burlen de Rubedo!"
+
+#. tiempo 00:40:20
+#. Subtítulo: un tramo de la frase, sincronizado con la voz. Máximo 2 líneas.
+#, fuzzy
+msgctxt "L42"
+msgid "Your power doesn't even come close to his!"
+msgstr "¡No le llegan ni a los talones!"
+
+#. tiempo 00:46:18
+#. Subtítulo: un tramo de la frase, sincronizado con la voz. Máximo 2 líneas.
+#, fuzzy
+msgctxt "L45"
+msgid "That's enough, Albedo."
+msgstr "Basta, Albedo."
+
+#. tiempo 00:48:10
+#. Subtítulo: un tramo de la frase, sincronizado con la voz. Máximo 2 líneas.
+#, fuzzy
+msgctxt "L47"
+msgid "They're not our enemies."
+msgstr "No son nuestros enemigos."
+
+#. tiempo 00:51:08
+#. Subtítulo: un tramo de la frase, sincronizado con la voz. Máximo 2 líneas.
+#, fuzzy
+msgctxt "L50"
+msgid "It's all right, Rubedo."
+msgstr "Tranquilo, Rubedo."
+
+#. tiempo 00:53:06
+#. Subtítulo: un tramo de la frase, sincronizado con la voz. Máximo 2 líneas.
+#, fuzzy
+msgctxt "L52"
+msgid "We both believe in you."
+msgstr "Los dos creemos en ti."

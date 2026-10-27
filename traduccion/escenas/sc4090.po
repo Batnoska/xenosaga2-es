@@ -1,0 +1,131 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Xenosaga Episode II - traducción al español\n"
+"Language: es_419\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Xeno-Source: 0:cf/en/sc4090.sbl\n"
+
+#. habla: Amber
+#, fuzzy
+msgctxt "#0"
+msgid "Are you ready? Go! "
+msgstr "¿Listos? ¡Ya!"
+
+#. habla: Amber
+#, fuzzy
+msgctxt "#1"
+msgid "Time's up!"
+msgstr "¡Se acabó el tiempo!"
+
+#. habla: Amber
+#, fuzzy
+msgctxt "#2"
+msgid "Hey, not bad at all! That's it! Leave the unconscious mice to me and hurry back to Sheila!"
+msgstr "¡Oye, nada mal! ¡Eso es! ¡Déjenme los ratones desmayados a mí y vuelvan rápido con Sheila!"
+
+#. habla: Amber
+#, fuzzy
+msgctxt "#3"
+msgid "Oh, one more thing! I found this while cleaning this room! Go ahead and give it to Sheila while you're at it!"
+msgstr "¡Ah, una cosa más! ¡Encontré esto limpiando esta habitación! ¡Ya que van, dénselo a Sheila!"
+
+#, fuzzy
+msgctxt "#4"
+msgid "You obtained the Secret Box!"
+msgstr "¡Obtuviste la Caja secreta!"
+
+#. habla: Amber
+#, fuzzy
+msgctxt "#5"
+msgid "Good job!"
+msgstr "¡Buen trabajo!"
+
+#. habla: Amber
+#, fuzzy
+msgctxt "#6"
+msgid "Too bad!"
+msgstr "¡Qué lástima!"
+
+#. habla: Amber
+#, fuzzy
+msgctxt "#7"
+msgid "Whoops! I can't let you go past here! Sheila told me to keep an eye on the mice!"
+msgstr "¡Uy! ¡No los puedo dejar pasar por aquí! ¡Sheila me dijo que vigilara a los ratones!"
+
+#. habla: Amber
+#, fuzzy
+msgctxt "#8"
+msgid "It's strange. Why are there all these mice here?"
+msgstr "Qué raro. ¿Por qué hay tantos ratones aquí?"
+
+#. habla: Amber
+#, fuzzy
+msgctxt "#9"
+msgid "What's that? You're here to deal with the mice? Do you know what a VT is?"
+msgstr "¿Qué dicen? ¿Vinieron a encargarse de los ratones? ¿Saben qué es un VT?"
+
+#. Opciones: una por línea. Mantener 2 líneas en el mismo orden.
+#, fuzzy
+msgctxt "#10"
+msgid ""
+"Yes\n"
+"No"
+msgstr ""
+"Sí\n"
+"No"
+
+#. habla: Amber
+#, fuzzy
+msgctxt "#11"
+msgid "Well, that makes things simple! Are you going to start dealing with the mice now?"
+msgstr "¡Bueno, eso simplifica las cosas! ¿Van a empezar ahora a encargarse de los ratones?"
+
+#. habla: Amber
+#. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
+#, fuzzy
+msgctxt "#12"
+msgid "Here're the rules! You can shoot the VT by pressing <□>! You do it the same way you blow up objects in your way! You have 1 minute 30 seconds! What I want you to do is catch all the mice within that time! From my own observations, there are a total of ten mice. Here we go!"
+msgstr "¡Estas son las reglas! ¡El VT se dispara presionando <□>! ¡Se hace igual que cuando destruyen los objetos que les estorban! ¡Tienen 1 minuto y 30 segundos! ¡Lo que quiero es que atrapen a todos los ratones en ese tiempo! Según lo que observé, hay diez ratones en total. ¡Allá vamos!"
+
+#. habla: Amber
+#, fuzzy
+msgctxt "#13"
+msgid "Come talk to me when you're ready!"
+msgstr "¡Vengan a hablar conmigo cuando estén listos!"
+
+#. habla: Amber
+#, fuzzy
+msgctxt "#14"
+msgid "You know about the Galaxy Federation's Species Preservation Act, right? Well, simply put, it's a law that says it's bad to kill things and modify DNA and such when it's not necessary! And it's not just for humans, but for everything. Even for mice! So, in order to take care of pests without killing them, the VT was developed! You use it a bit like a tranquilizer gun! Yang in the next district knows a lot about it, so ask her if you want more details! So, are you ready to start dealing with the mice now?"
+msgstr "Conocen la Ley de Preservación de Especies de la Federación Galáctica, ¿no? Bueno, en pocas palabras, es una ley que dice que está mal matar seres vivos y modificarles el ADN y esas cosas cuando no es necesario. Y no es solo para los humanos, sino para todo. ¡Hasta para los ratones! Así que, para controlar las plagas sin matarlas, se desarrolló el VT. ¡Se usa un poco como un arma de dardos tranquilizantes! Yang, la del distrito de al lado, sabe mucho del tema, así que pregúntenle si quieren más detalles. Y bien, ¿van a empezar ahora a encargarse de los ratones?"
+
+#. habla: Amber
+#, fuzzy
+msgctxt "#15"
+msgid "What are you doing?! Hurry back to Sheila!"
+msgstr "¡¿Qué hacen?! ¡Vuelvan rápido con Sheila!"
+
+#. habla: Amber
+#, fuzzy
+msgctxt "#16"
+msgid "What is it? Are you still concerned about the mice?"
+msgstr "¿Qué pasa? ¿Todavía les preocupan los ratones?"
+
+#. habla: Amber
+#, fuzzy
+msgctxt "#17"
+msgid "Okay, here we go!"
+msgstr "¡Muy bien, allá vamos!"
+
+#. habla: Amber
+#, fuzzy
+msgctxt "#18"
+msgid "If you're ever concerned about the mice, come talk to me any time!"
+msgstr "Si alguna vez les preocupan los ratones, ¡vengan a hablar conmigo cuando quieran!"
+
+#, fuzzy
+msgctxt "#20"
+msgid "Go down?"
+msgstr "¿Bajar?"

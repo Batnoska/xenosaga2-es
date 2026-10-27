@@ -1,0 +1,13 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Xenosaga Episode II - traducción al español\n"
+"Language: es_419\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Xeno-Source: 0:cf/en/sc4630.sbl\n"
+
+#, fuzzy
+msgctxt "#3"
+msgid "It looks like this used to be a control room for this area's water storage plant. It has changed greatly due to the influence of U-DO."
+msgstr "Parece que esto era la sala de control de la planta de almacenamiento de agua de esta zona. Cambió muchísimo por la influencia de U-DO."

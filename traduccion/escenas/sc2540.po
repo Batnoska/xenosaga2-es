@@ -1,0 +1,282 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Xenosaga Episode II - traducción al español\n"
+"Language: es_419\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Xeno-Source: 0:cf/en/sc2540.sbl\n"
+
+#. habla: Information
+#, fuzzy
+msgctxt "#1"
+msgid ""
+"☆1F\n"
+"Bridge\n"
+"Cabin 1\n"
+"Cabin 2\n"
+"Restaurant\n"
+"Elevator A To B1\n"
+"Elevator B To Mobile Weapon Hangar\n"
+"☆B1\n"
+"Robo-Foundry\n"
+"Weapon Shop\n"
+"Elevator A To 1F\n"
+"☆B2\n"
+"Robot Academy"
+msgstr ""
+"☆1F\n"
+"Puente\n"
+"Camarote 1\n"
+"Camarote 2\n"
+"Restaurante\n"
+"Ascensor A a B1\n"
+"Ascensor B a hangar\n"
+"☆B1\n"
+"Robofundición\n"
+"Armería\n"
+"Ascensor A a 1F\n"
+"☆B2\n"
+"Academia de Robots"
+
+#, fuzzy
+msgctxt "#2"
+msgid "Continue exploring the Elsa?"
+msgstr "¿Seguir explorando el Elsa?"
+
+#. Opciones: una por línea. Mantener 2 líneas en el mismo orden.
+#, fuzzy
+msgctxt "#3"
+msgid ""
+"Yes\n"
+"No"
+msgstr ""
+"Sí\n"
+"No"
+
+#, fuzzy
+msgctxt "#4"
+msgid "This is the direct elevator to the mobile weapons deck. We are currently in pursuit of the enemy, so mobile weapons may not be launched at this time."
+msgstr "Este es el ascensor directo a la cubierta de armas móviles. Estamos persiguiendo al enemigo, así que por ahora no se pueden lanzar armas móviles."
+
+#, fuzzy
+msgctxt "#5"
+msgid "This is the direct elevator to the mobile weapons deck. We are currently docked with the Durandal, so mobile weapons may not be launched at this time."
+msgstr "Este es el ascensor directo a la cubierta de armas móviles. Estamos acoplados al Durandal, así que por ahora no se pueden lanzar armas móviles."
+
+#, fuzzy
+msgctxt "#6"
+msgid "This is the direct elevator to the mobile weapons deck. We are currently in port, so mobile weapons may not be launched at this time."
+msgstr "Este es el ascensor directo a la cubierta de armas móviles. Estamos en puerto, así que por ahora no se pueden lanzar armas móviles."
+
+#. habla: ABDOUGH
+#, fuzzy
+msgctxt "#7"
+msgid "AWW, WE NEED PERIODIC MAINTENANCE."
+msgstr "AY, NECESITAMOS MANTENIMIENTO PERIÓDICO."
+
+#. habla: ABDOUGH
+#, fuzzy
+msgctxt "#8"
+msgid "YOU WANT TO KNOW WHERE WE GET MAINTENANCE? IN THE ROBO-FOUNDRY ON B1."
+msgstr "¿QUIERES SABER DÓNDE NOS HACEN EL MANTENIMIENTO? EN LA ROBOFUNDICIÓN DE B1."
+
+#. habla: ABDOUGH
+#, fuzzy
+msgctxt "#9"
+msgid "EVEN IF THIS STEEL BODY OF MINE IS BROKEN, THEY HAVE FACILITIES THAT CAN REPAIR ME QUICKLY."
+msgstr "AUNQUE ESTE CUERPO DE ACERO SE ROMPA, TIENEN INSTALACIONES QUE PUEDEN REPARARME RÁPIDO."
+
+#. habla: ABDOUGH
+#, fuzzy
+msgctxt "#10"
+msgid "MOSCOW MULE IS SUCH AN IMPULSIVE DROID. WHEN WE VISIT PLACES THAT HAVE CITIES, HE ALWAYS HAS TO GO OUT AND PLAY SOMEWHERE."
+msgstr "MOSCOW MULE ES UN DROIDE MUY IMPULSIVO. CUANDO VISITAMOS LUGARES CON CIUDADES, SIEMPRE TIENE QUE SALIR A JUGAR A ALGÚN LADO."
+
+#. habla: ABDOUGH
+#, fuzzy
+msgctxt "#11"
+msgid "MOSCOW MULE IS OUT AT THE MOMENT. HE'S ALWAYS WANDERING AROUND."
+msgstr "MOSCOW MULE SALIÓ. SIEMPRE ANDA DANDO VUELTAS."
+
+#. habla: ABDOUGH
+#, fuzzy
+msgctxt "#12"
+msgid "IT SEEMS MOSCOW MULE IS WORKING LIKE HE SHOULD. THAT'S SUCH A RELIEF!"
+msgstr "PARECE QUE MOSCOW MULE ESTÁ TRABAJANDO COMO DEBE. ¡QUÉ ALIVIO!"
+
+#. habla: DAIQUIRI
+#, fuzzy
+msgctxt "#13"
+msgid "WELL, YOU KNOW ME...I LOVE SWIMSUITS!"
+msgstr "BUENO, YA ME CONOCES... ¡ME ENCANTAN LOS TRAJES DE BAÑO!"
+
+#. habla: DAIQUIRI
+#, fuzzy
+msgctxt "#14"
+msgid "THERE ARE A WIDE VARIETY OF SWIMSUITS IN THE WORLD. ♪"
+msgstr "EN EL MUNDO HAY TRAJES DE BAÑO DE TODO TIPO. ♪"
+
+#. habla: CINZANO
+#, fuzzy
+msgctxt "#15"
+msgid "THE OTHER DAY, THE PROFESSOR CAME TO ME AND SAID, \"E.S. ZEBULUN CONTAINS FUNCTIONALITY NOT PRESENT IN ANY OTHER E.S.! ACCORDING TO THE RESULTS OF MY SUPERCOMPUTER ANALYSIS, THE E.S. ZEBULUN REACTS TO SOME OF ITS PILOT'S ETHER SKILLS, AND ALLOWS THEM TO BE USED EVEN WHILE PILOTING THE E.S.!\" THE E.S. SPACECRAFT ARE TRULY MYSTERIOUS MACHINES."
+msgstr "EL OTRO DÍA, EL PROFESOR VINO Y ME DIJO: \"¡EL E.S. ZEBULUN TIENE FUNCIONES QUE NINGÚN OTRO E.S. TIENE! ¡SEGÚN LOS RESULTADOS DEL ANÁLISIS DE MI SUPERCOMPUTADORA, EL E.S. ZEBULUN REACCIONA A ALGUNAS DE LAS HABILIDADES DE ÉTER DE SU PILOTO Y PERMITE USARLAS INCLUSO MIENTRAS PILOTEA EL E.S.!\". LAS NAVES E.S. SON MÁQUINAS REALMENTE MISTERIOSAS."
+
+#. habla: MOSCOW MULE
+#, fuzzy
+msgctxt "#16"
+msgid "DANGER AHEAD! WE ARE CURRENTLY HEADED FOR OLD MILTIA! "
+msgstr "¡PELIGRO MÁS ADELANTE! ¡NOS DIRIGIMOS A LA ANTIGUA MILTIA!"
+
+#. habla: MOSCOW MULE
+#, fuzzy
+msgctxt "#17"
+msgid "AREN'T YOU INTERESTED IN THE NEW ELSA?"
+msgstr "¿NO TE INTERESA EL NUEVO ELSA?"
+
+#. habla: MOSCOW MULE
+#, fuzzy
+msgctxt "#18"
+msgid "HEADING INTO THE ENEMY MOBILE FORTRESS ON FOOT IS DANGEROUS! WE WILL COUNTERATTACK WITH MOBILE WEAPON CRAFTS!"
+msgstr "¡ENTRAR A PIE EN LA FORTALEZA MÓVIL ENEMIGA ES PELIGROSO! ¡VAMOS A CONTRAATACAR CON ARMAS MÓVILES!"
+
+#. habla: MOSCOW MULE
+#, fuzzy
+msgctxt "#19"
+msgid "HMM, COUNTERATTACK? WEREN'T WE THE ONES WHO RAMMED INTO THEM?"
+msgstr "HMM, ¿CONTRAATACAR? ¿NO FUIMOS NOSOTROS LOS QUE LOS EMBESTIMOS?"
+
+#. habla: MOSCOW MULE
+#, fuzzy
+msgctxt "#20"
+msgid "THIS WORLD IS SO GLOOMY. ACCORDING TO MY DATA, MILTIA WAS ONCE A BEAUTIFUL PLANET."
+msgstr "ESTE MUNDO ES TAN SOMBRÍO. SEGÚN MIS DATOS, MILTIA FUE ALGUNA VEZ UN PLANETA HERMOSO."
+
+#. habla: MOSCOW MULE
+#, fuzzy
+msgctxt "#21"
+msgid "HUMANS ARE FOOLISH. EVEN AFTER SEEING THE TRAGEDY THAT HAPPENED TO THIS PLANET, THEY CONTINUE TO FIGHT EACH OTHER."
+msgstr "LOS HUMANOS SON NECIOS. AUN DESPUÉS DE VER LA TRAGEDIA QUE LE PASÓ A ESTE PLANETA, SIGUEN PELEANDO ENTRE ELLOS."
+
+#. habla: MOSCOW MULE
+#, fuzzy
+msgctxt "#22"
+msgid "HMM? IS DR. UZUKI NOT WITH YOU? THEN YOU REALLY SHOULDN'T GO OUTSIDE ON FOOT!"
+msgstr "¿HMM? ¿EL DR. UZUKI NO ESTÁ CON USTEDES? ¡ENTONCES DE VERDAD NO DEBERÍAN SALIR A PIE!"
+
+#. habla: MOSCOW MULE
+#, fuzzy
+msgctxt "#23"
+msgid "DR. UZUKI IS A GOOD MAN. UNLIKE THE CAPTAIN, HE UNDERSTANDS THE ROBOT HEART."
+msgstr "EL DR. UZUKI ES UN BUEN HOMBRE. A DIFERENCIA DEL CAPITÁN, ENTIENDE EL CORAZÓN DE LOS ROBOTS."
+
+#. habla: MOSCOW MULE
+#, fuzzy
+msgctxt "#24"
+msgid "THE CURSED, SEALED WEAPON. THE ONLY WAY TO DESTROY THAT THING IS TO GET INSIDE IT!"
+msgstr "EL ARMA SELLADA Y MALDITA. ¡LA ÚNICA FORMA DE DESTRUIR ESA COSA ES ENTRAR EN ELLA!"
+
+#. habla: MOSCOW MULE
+#, fuzzy
+msgctxt "#25"
+msgid "OBVIOUSLY, LEAVING THE SHIP UNDER THESE CIRCUMSTANCES WOULD BE RECKLESS."
+msgstr "OBVIAMENTE, SALIR DE LA NAVE EN ESTAS CIRCUNSTANCIAS SERÍA UNA IMPRUDENCIA."
+
+#. habla: MOMO
+#, fuzzy
+msgctxt "#26"
+msgid "What in the world happened? I was so surprised when I detected KOS-MOS' presence!"
+msgstr "¿Qué pasó? ¡Me sorprendí mucho cuando detecté la presencia de KOS-MOS!"
+
+#. habla: MOMO
+#, fuzzy
+msgctxt "#27"
+msgid "Is that white craft an E.S. built specifically for KOS-MOS? It's so beautiful!"
+msgstr "¿Esa nave blanca es un E.S. hecho especialmente para KOS-MOS? ¡Es preciosa!"
+
+#. habla: Ziggy
+#, fuzzy
+msgctxt "#28"
+msgid "I see you're in trouble as usual. Do you know who attacked you? It didn't look like the Federation, the Immigrant Fleet, or U-TIC."
+msgstr "Veo que, como siempre, te metiste en problemas. ¿Sabes quién los atacó? No parecía la Federación, ni la Flota de Inmigrantes, ni U-TIC."
+
+#. habla: Ziggy
+#, fuzzy
+msgctxt "#29"
+msgid "I wonder who it was. It almost seemed to enjoy toying with you."
+msgstr "Me pregunto quién habrá sido. Casi parecía disfrutar jugando con ustedes."
+
+#. habla: Professor
+#, fuzzy
+msgctxt "#30"
+msgid "Oh! You're here! Excellent! "
+msgstr "¡Oh! ¡Están aquí! ¡Excelente!"
+
+#. habla: KOS-MOS
+#, fuzzy
+msgctxt "#31"
+msgid "Professor, what is it?"
+msgstr "Profesor, ¿qué sucede?"
+
+#. habla: Ziggy
+#, fuzzy
+msgctxt "#32"
+msgid "Hmm? What is it, Professor? It's unusual to see you away from the Academy."
+msgstr "¿Hmm? ¿Qué pasa, Profesor? No es habitual verlo fuera de la Academia."
+
+#. habla: Shion
+#, fuzzy
+msgctxt "#33"
+msgid "Oh, Professor, what are you doing here?"
+msgstr "Ah, Profesor, ¿qué hace aquí?"
+
+#. habla: MOMO
+#, fuzzy
+msgctxt "#34"
+msgid "Hi, Professor! What's going on?"
+msgstr "¡Hola, Profesor! ¿Qué pasa?"
+
+#. habla: chaos
+#, fuzzy
+msgctxt "#35"
+msgid "What happened, Professor? Did you discover something?"
+msgstr "¿Qué pasó, Profesor? ¿Descubrió algo?"
+
+#. habla: Jr.
+#, fuzzy
+msgctxt "#36"
+msgid "Huh? You planning another crazy scheme, you old kook?"
+msgstr "¿Eh? ¿Estás tramando otro plan descabellado, viejo chiflado?"
+
+#. habla: Jin
+#, fuzzy
+msgctxt "#37"
+msgid "Hello, Professor. What is it?"
+msgstr "Hola, Profesor. ¿Qué sucede?"
+
+#. habla: Professor
+#, fuzzy
+msgctxt "#38"
+msgid "I have something important to talk to you about! Will you come with me?"
+msgstr "¡Tengo algo importante que hablar con ustedes! ¿Me acompañan?"
+
+#, fuzzy
+msgctxt "#39"
+msgid "Go down to B1?"
+msgstr "¿Bajar a B1?"
+
+#, fuzzy
+msgctxt "#40"
+msgid "Going down to B1."
+msgstr "Bajando a B1."
+
+#, fuzzy
+msgctxt "#41"
+msgid "Launch?"
+msgstr "¿Despegar?"
+
+#, fuzzy
+msgctxt "#42"
+msgid "Launching E.S."
+msgstr "Lanzando el E.S."
