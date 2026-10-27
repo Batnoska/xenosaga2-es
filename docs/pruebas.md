@@ -6,8 +6,16 @@ todo de corrido; con partidas guardadas en los puntos clave alcanza.
 ## Antes de empezar
 
 - [ ] **Arma las ISO con el kit de publicación, como lo haría cualquier jugador:**
-  - Abrí `Aplicar parche.exe` y elige las dos ISO originales.
+  - Abrí `Aplicar parche.exe` y elegí las dos ISO originales (arrastrándolas o con clic en
+    cada disco).
   - Jugá con las ISO que genera, no con las de `work/`, así se prueba el parcheador también.
+- [ ] **La ventana del aplicador:**
+  - la música arranca bajita y el botón MÚSICA la sube de a un nivel hasta apagarla;
+  - los sonidos de los botones, el arrastre de la ventana, minimizar y cerrar;
+  - una ISO que no es del juego (cualquier otra) tiene que marcarse como NO VÁLIDA;
+  - cerrar a mitad de un parche tiene que preguntar, y si cancelás, no tiene que quedar una
+    ISO a medio crear;
+  - si ya existe la ISO en español, tiene que preguntar antes de reemplazarla.
 - [ ] Guardá en la tarjeta de memoria en estos puntos, para volver rápido después de cada
   corrección: antes del primer combate, al llegar a la Fundación, en el Dämmerung, y antes
   del cambio de disco.
@@ -81,5 +89,6 @@ En el Archivo de Segmento, pestaña de la Ruta SG:
 - Room, Standby, MainPilot y Copilot, en la pantalla de los E.S.
 - Boost, Stock y Counterboost: quedan en inglés a propósito, porque así salen en los gráficos
   del combate.
-- En el undub, los subtítulos usan los tiempos del doblaje en inglés. Es del undub, no de la
-  traducción.
+- En el undub, los subtítulos usan los tiempos del doblaje en inglés, así que algunos
+  aparecen cuando la voz japonesa ya va por la mitad de la frase. Es del undub, no de la
+  traducción. Desde el 27/10 los que duran poco se quedan un poco más en pantalla.

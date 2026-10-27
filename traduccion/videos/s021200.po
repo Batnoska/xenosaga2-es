@@ -228,7 +228,7 @@ msgstr "Lástima que yo no pueda morir."
 #, fuzzy
 msgctxt "L66"
 msgid "So, he really intends to link"
-msgstr "Así que de verdad piensa enlazarse"
+msgstr "Entonces sí piensa enlazarse"
 
 #. tiempo 01:40:00
 #. Subtítulo: un tramo de la frase, sincronizado con la voz. Máximo 2 líneas.

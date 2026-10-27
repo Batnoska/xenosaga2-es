@@ -814,7 +814,7 @@ msgstr ""
 #, fuzzy
 msgctxt "#121"
 msgid "It's me, Nikolai! We went to the same high school! Wow, it's been a long time! Look at you ― you've changed a lot from that nerdy Shion back in school! Oh yeah, I see your brother in the café in the next sector all the time! Have you seen him already? Oh, wait, you didn't get along too well with your brother, right?"
-msgstr "¡Soy yo, Nikolai! ¡Fuimos a la misma secundaria! ¡Vaya, cuánto tiempo! Mírate ― ¡cambiaste muchísimo desde la Shion nerd del colegio! ¡Ah, sí, veo a tu hermano todo el tiempo en el café del sector de al lado! ¿Ya lo viste? Ah, espera, no te llevabas muy bien con tu hermano, ¿no?"
+msgstr "¡Soy yo, Nikolai! ¡Fuimos a la misma secundaria! ¡Vaya, cuánto tiempo! ¡Mírate! ¡Cambiaste muchísimo desde la Shion nerd del colegio! ¡Ah, sí, veo a tu hermano todo el tiempo en el café del sector de al lado! ¿Ya lo viste? Ah, espera, no te llevabas muy bien con tu hermano, ¿no?"
 
 #. habla: Nikolai
 #, fuzzy

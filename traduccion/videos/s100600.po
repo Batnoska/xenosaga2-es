@@ -130,7 +130,7 @@ msgstr "que los humanos se esforzaron por construir."
 #, fuzzy
 msgctxt "L46"
 msgid "It's not even a tower, really."
-msgstr "Ni siquiera es una torre, en realidad."
+msgstr "En realidad, ni es una torre."
 
 #. tiempo 01:00:08
 #. Subtítulo: un tramo de la frase, sincronizado con la voz. Máximo 2 líneas.

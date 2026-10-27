@@ -39,7 +39,7 @@ msgid ""
 "have already been eradicated―"
 msgstr ""
 "Ya fueron erradicados más\n"
-"de 120 sistemas estelares―"
+"de 120 sistemas estelares..."
 
 #. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
 #. Opciones: una por línea. Mantener 2 líneas en el mismo orden.

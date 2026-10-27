@@ -72,7 +72,7 @@ msgstr ""
 #, fuzzy
 msgctxt "L37"
 msgid "A U.M.N. Phase Transfer Cannon―"
-msgstr "Un Cañón de Transferencia de Fase U.M.N.―"
+msgstr "Un Cañón de Transferencia de Fase U.M.N.,"
 
 #. tiempo 00:28:06
 #. Subtítulo: un tramo de la frase, sincronizado con la voz. Máximo 2 líneas.
@@ -214,7 +214,7 @@ msgstr "¡No!"
 #, fuzzy
 msgctxt "L69"
 msgid "I am all power―"
-msgstr "Soy todo el poder―"
+msgstr "Soy todo el poder..."
 
 #. tiempo 01:55:12
 #. Subtítulo: un tramo de la frase, sincronizado con la voz. Máximo 2 líneas.

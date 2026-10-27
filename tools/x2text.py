@@ -273,24 +273,58 @@ def is_text(s):
 
 
 SUB_LINE = re.compile(rb"^([+]?[0-9:]+)(\t+)(.*?)(\r?)$")
+SUB_FPS = 30  # los tiempos de los subtítulos son minutos:segundos:cuadros
+
+
+def sub_frames(time):
+    m, s, f = map(int, time.split(":"))
+    return (m * 60 + s) * SUB_FPS + f
+
+
+def sub_time(frames):
+    return f"{frames // SUB_FPS // 60:02d}:{frames // SUB_FPS % 60:02d}:{frames % SUB_FPS:02d}"
 
 
 class Subtitles:
     def __init__(self, data):
         self.lines = data.split(b"\n")
 
+    @staticmethod
+    def visible(text):
+        return bool(text) and not re.fullmatch(rb"(\$[^;]*;)+", text)
+
     def texts(self):
         """[(número de línea, tiempo, texto en bytes)] de las líneas con texto visible."""
         out = []
         for n, line in enumerate(self.lines):
             m = SUB_LINE.match(line)
-            if m and m.group(3) and not re.fullmatch(rb"(\$[^;]*;)+", m.group(3)):
+            if m and self.visible(m.group(3)):
                 out.append((n, m.group(1).decode(), m.group(3)))
         return out
 
     def replace(self, n, text):
         m = SUB_LINE.match(self.lines[n])
         self.lines[n] = m.group(1) + m.group(2) + text + m.group(4)
+
+    def lengthen(self, cps=15, shortest=SUB_FPS, extra=SUB_FPS, gap=3):
+        """Deja más tiempo en pantalla los subtítulos que no alcanzan a leerse, sin adelantar
+        ni atrasar su aparición.
+
+        Un subtítulo dura hasta la línea con tiempo que le sigue. Si esa línea es un corte (sin
+        texto), se atrasa hasta que el subtítulo dure lo que pide su largo (cps caracteres por
+        segundo, y al menos `shortest` cuadros), sin pasar de `extra` cuadros más y dejando
+        `gap` cuadros antes de la línea siguiente. El último corte no se mueve: no se sabe dónde
+        termina el video."""
+        stamps = [(n, m) for n, line in enumerate(self.lines) if (m := SUB_LINE.match(line))]
+        for (_, m), (end_n, cut), (_, after) in zip(stamps, stamps[1:], stamps[2:]):
+            if not self.visible(m.group(3)) or cut.group(3):
+                continue
+            start, end = sub_frames(m.group(1).decode()), sub_frames(cut.group(1).decode())
+            chars = len(decode(m.group(3)).replace("\\n", " "))
+            wanted = start + max(shortest, -(-chars * SUB_FPS // cps))
+            new_end = min(wanted, end + extra, sub_frames(after.group(1).decode()) - gap)
+            if new_end > end:
+                self.lines[end_n] = sub_time(new_end).encode() + cut.group(2) + cut.group(4)
 
     def to_bytes(self):
         return b"\n".join(self.lines)

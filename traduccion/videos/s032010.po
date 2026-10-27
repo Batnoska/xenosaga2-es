@@ -40,7 +40,7 @@ msgstr "¿Por qué no? ¡Vamos!"
 #, fuzzy
 msgctxt "L30"
 msgid "First, we'll cure your illness,"
-msgstr "Primero vamos a curar tu enfermedad,"
+msgstr "Primero hay que curarte,"
 
 #. tiempo 00:14:05
 #. Subtítulo: un tramo de la frase, sincronizado con la voz. Máximo 2 líneas.
@@ -222,7 +222,7 @@ msgstr "¡Jefa!"
 #, fuzzy
 msgctxt "L69"
 msgid "The Encephalon field structure has"
-msgstr "¡La estructura de campo del Encéfalo"
+msgstr "¡El campo del Encéfalo"
 
 #. tiempo 02:23:15
 #. Subtítulo: un tramo de la frase, sincronizado con la voz. Máximo 2 líneas.
@@ -429,8 +429,8 @@ msgid ""
 "Unleash what you've been\n"
 "holding in all these years!"
 msgstr ""
-"¡Libera todo lo que estuviste\n"
-"conteniendo todos estos años!"
+"¡Saca todo lo que te guardaste\n"
+"todos estos años!"
 
 #. tiempo 03:47:05
 #. Subtítulo: un tramo de la frase, sincronizado con la voz. Máximo 2 líneas.

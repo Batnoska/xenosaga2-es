@@ -177,11 +177,11 @@ msgstr "en todo sentido, Uzuki."
 #, fuzzy
 msgctxt "L70"
 msgid "It's something that old fool couldn't―"
-msgstr "Algo que ese viejo necio nunca pudo―"
+msgstr "Algo que ese viejo necio nunca pudo..."
 
 #. tiempo 03:46:20
 #. Subtítulo: un tramo de la frase, sincronizado con la voz. Máximo 2 líneas.
 #, fuzzy
 msgctxt "L73"
 msgid "What the―"
-msgstr "¿Qué―?"
+msgstr "¿Qué...?"

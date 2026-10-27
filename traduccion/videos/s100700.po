@@ -172,7 +172,7 @@ msgstr "¡Desgraciado!"
 #, fuzzy
 msgctxt "L59"
 msgid "You knew all along―"
-msgstr "Lo sabías desde el principio―"
+msgstr "Lo sabías desde el principio..."
 
 #. tiempo 01:16:02
 #. Subtítulo: un tramo de la frase, sincronizado con la voz. Máximo 2 líneas.

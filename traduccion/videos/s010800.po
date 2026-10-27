@@ -107,7 +107,7 @@ msgstr "Por favor, sigan adelante."
 #, fuzzy
 msgctxt "L50"
 msgid "Bring the truth of this conflict―"
-msgstr "Saquen a la luz la verdad de este conflicto―"
+msgstr "Revelen la verdad del conflicto,"
 
 #. tiempo 01:06:20
 #. Subtítulo: un tramo de la frase, sincronizado con la voz. Máximo 2 líneas.

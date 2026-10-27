@@ -76,7 +76,7 @@ msgstr "¿Qué podría llevarlos a...?"
 #, fuzzy
 msgctxt "L46"
 msgid "No! If this keeps up―"
-msgstr "¡No! Si esto sigue así―"
+msgstr "¡No! Si esto sigue así..."
 
 #. tiempo 01:02:15
 #. Subtítulo: un tramo de la frase, sincronizado con la voz. Máximo 2 líneas.
@@ -469,7 +469,7 @@ msgstr "¿Los U.R.T.V.?"
 #, fuzzy
 msgctxt "L153"
 msgid "Ah, the special units―said to possess an"
-msgstr "Ah, las unidades especiales―las que tendrían"
+msgstr "Ah, las unidades especiales, las que tendrían"
 
 #. tiempo 05:44:20
 #. Subtítulo: un tramo de la frase, sincronizado con la voz. Máximo 2 líneas.
@@ -505,7 +505,7 @@ msgstr "Vaya, qué coincidencia."
 #, fuzzy
 msgctxt "L164"
 msgid "Although, it's more than that―"
-msgstr "Aunque quizá sea algo más―"
+msgstr "Aunque quizá sea algo más..."
 
 #. tiempo 06:08:06
 #. Subtítulo: un tramo de la frase, sincronizado con la voz. Máximo 2 líneas.

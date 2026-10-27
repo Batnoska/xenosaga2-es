@@ -132,7 +132,7 @@ msgstr ""
 #, fuzzy
 msgctxt "#22"
 msgid "Hey! What is that supposed to―"
-msgstr "¡Oye! ¿Cómo que―?"
+msgstr "¡Oye! ¿Cómo que...?"
 
 #. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
 #, fuzzy

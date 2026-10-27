@@ -33,9 +33,10 @@ formato (CHD, CSO, BIN/CUE), conviértela primero a ISO.
 CÓMO APLICARLO EN WINDOWS
 -------------------------
 1. Abre "Aplicar parche.exe".
-2. Elige las ISO originales. Puedes elegir los dos discos a la vez.
-   También puedes arrastrar las ISO sobre "Aplicar parche.exe".
-3. Espera a que termine (unos minutos por disco).
+2. Arrastra las ISO originales a la ventana, o haz clic en "DISCO 1" y "DISCO 2"
+   para elegirlas. El programa reconoce cada disco y te avisa si una ISO no es
+   la correcta.
+3. Haz clic en "APLICAR PARCHE" y espera a que termine (unos minutos por disco).
 
 Junto a cada ISO se crea otra con " (Español)" al final del nombre. Las originales
 no se modifican.
@@ -43,6 +44,9 @@ no se modifican.
 Antes de escribir nada, el programa comprueba que cada archivo que va a reemplazar
 sea el del juego original. Si no lo es (otra versión del juego, o una ISO que ya
 tiene otro parche), avisa y no modifica nada. Al terminar, verifica la ISO creada.
+
+La ventana tiene música. El botón "MÚSICA" (o la tecla M) sube el volumen en cinco
+niveles y después la apaga.
 
 Si Windows muestra "Windows protegió su PC", haz clic en "Más información" y luego
 en "Ejecutar de todas formas". Ese aviso sale con cualquier programa que no tenga
@@ -89,13 +93,19 @@ CRÉDITOS
 --------
 Batnoska: traducción, revisión, gráficos y herramientas.
 Con la ayuda de Claude (Anthropic), un asistente de inteligencia artificial.
+Música del aplicador: "The Image Theme of Xenosaga II", de Yuki Kajiura.
 
 Xenosaga es una marca de Bandai Namco Entertainment. El juego fue desarrollado por
 Monolith Soft. Esta traducción la hicieron fans, sin fines de lucro y sin relación
 con esas empresas. No se distribuye ningún archivo del juego, solo las diferencias
-que aplica el parche.
+que aplica el parche. La ventana del aplicador usa el logo, imágenes promocionales
+(Jr., Albedo y el Zohar) y música del juego como homenaje; pertenecen a sus dueños.
 
 
 HISTORIAL
 ---------
-{version} ({fecha}): primera versión pública.
+{version} ({fecha}): el aplicador ahora es una ventana propia, con música y
+    efectos de sonido. Los subtítulos de los videos se leen mejor: los cortos
+    quedan más tiempo en pantalla y se acortaron los más rápidos. Los diálogos ya
+    no usan rayas copiadas del inglés.
+0.9-beta (2026-10-27): primera versión pública.

@@ -267,7 +267,7 @@ msgstr ""
 #, fuzzy
 msgctxt "#39"
 msgid "chaos! Jr.! Come on insi―"
-msgstr "¡chaos! ¡Jr.! Pasen, ade―"
+msgstr "¡chaos! ¡Jr.! Pasen, ade..."
 
 #. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
 #, fuzzy

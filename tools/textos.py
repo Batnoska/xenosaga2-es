@@ -456,6 +456,7 @@ def apply(kind, data, table, names):
     for n, _, _ in subs.texts():
         if f"L{n}" in table:
             subs.replace(n, encode(from_po(table[f"L{n}"])))
+    subs.lengthen()
     return subs.to_bytes() if table else None
 
 

@@ -5,8 +5,10 @@
 // .NET Framework 4 y le incrusta el paquete (parche.zip). Si cambia la lógica de uno, hay que
 // cambiar el otro; "python tools/kit.py VERSION --probar" comprueba que armen la misma ISO.
 //
-// Uso: abrirlo y elegir las ISO, o arrastrar las ISO sobre el .exe.
-//   Aplicar parche.exe [--salida CARPETA] ISO...
+// Uso: abrirlo y elegir las ISO en la ventana (Ventana.cs), o arrastrarlas sobre el .exe.
+//   Aplicar parche.exe [ISO...]                      la ventana, con esas ISO ya elegidas
+//   Aplicar parche.exe --salida CARPETA ISO...       sin ventana (para las pruebas del kit)
+//   Aplicar parche.exe --captura ARCHIVO.png         guarda una imagen de la ventana
 using System;
 using System.Collections.Generic;
 using System.IO;
@@ -438,13 +440,60 @@ static partial class Aplicador
 
     static string Gb(long bytes) { return (bytes / (1024.0 * 1024 * 1024)).ToString("0.0"); }
 
-    static bool Process(string isoPath, string outDir, ZipArchive zip, Dictionary<string, List<PatchEntry>> manifest)
+    // Lo que cuenta Process mientras trabaja: la consola lo escribe y la ventana lo muestra.
+    interface IAviso
     {
-        Console.WriteLine(Path.GetFileName(isoPath));
+        void Linea(string texto);
+        void Detalle(string texto);       // la lista de archivos que no coinciden
+        void Avance(int porcentaje);      // de la ISO actual; para cancelar, tira OperationCanceledException
+        bool Confirmar(string pregunta);
+    }
+
+    enum Resultado { Lista, YaTraducida, Error }
+
+    // Mirada rápida a una ISO al elegirla: qué disco es y si el ejecutable es el original, el
+    // traducido u otro. La comprobación completa la hace Process.
+    static string Detectar(string isoPath, Dictionary<string, List<PatchEntry>> manifest, out int disc, out string estado)
+    {
+        disc = 0;
+        estado = "novalida";
+        try
+        {
+            using (var iso = new Iso(isoPath))
+            {
+                List<PatchEntry> entries;
+                if (iso.Executable == null || !manifest.TryGetValue(iso.Executable, out entries))
+                    return "No es Xenosaga Episode II en versión americana (NTSC-U).";
+                disc = Discos[iso.Executable];
+                string exe = iso.Executable;
+                PatchEntry e = entries.First(x => x.Group == "raiz" && x.Path == exe);
+                string sha = Sha1(iso.ReadFile(exe));
+                if (sha == e.New)
+                {
+                    estado = "traducida";
+                    return string.Format("Disco {0}: esta ISO ya tiene la traducción.", disc);
+                }
+                if (sha != e.Original)
+                {
+                    estado = "distinta";
+                    return string.Format("Disco {0}: no es la versión original (¿otro parche?).", disc);
+                }
+                estado = "original";
+                return string.Format("Disco {0}: listo para aplicar el parche.", disc);
+            }
+        }
+        catch (InvalidDataException ex) { return "No se puede usar: " + ex.Message + "."; }
+        catch (IOException ex) { return "No se puede abrir: " + ex.Message; }
+        catch (UnauthorizedAccessException ex) { return "No se puede abrir: " + ex.Message; }
+    }
+
+    // El avance de una ISO: 0-10 % comprobar, 10-95 % crear y 95-100 % verificar.
+    static Resultado Process(string isoPath, string outDir, ZipArchive zip, Dictionary<string, List<PatchEntry>> manifest, IAviso aviso)
+    {
         if (!File.Exists(isoPath))
         {
-            Console.WriteLine("  No se encuentra el archivo.");
-            return false;
+            aviso.Linea("No se encuentra el archivo.");
+            return Resultado.Error;
         }
         var replacements = new Dictionary<int, SortedDictionary<string, byte[]>>();
         var loose = new Dictionary<string, byte[]>();
@@ -456,15 +505,17 @@ static partial class Aplicador
             {
                 if (iso.Executable == null || !manifest.TryGetValue(iso.Executable, out entries))
                 {
-                    Console.WriteLine("  No es un disco de Xenosaga Episode II en versión americana (NTSC-U).");
-                    return false;
+                    aviso.Linea("No es Xenosaga Episode II en versión americana (NTSC-U).");
+                    return Resultado.Error;
                 }
                 disc = Discos[iso.Executable];
-                Console.WriteLine("  Disco {0} de Xenosaga Episode II. Comprobando los archivos...", disc);
+                aviso.Linea(string.Format("Disco {0}: comprobando los archivos...", disc));
                 var volumes = iso.Groups.ToDictionary(g => g, g => new Volume(iso, g));
                 var bad = new List<string>();
-                foreach (PatchEntry e in entries)
+                for (int i = 0; i < entries.Count; i++)
                 {
+                    PatchEntry e = entries[i];
+                    aviso.Avance(i * 10 / entries.Count);
                     byte[] current = Current(iso, volumes, e);
                     string sha = Sha1(current);
                     if (sha == e.New) continue;  // ya está traducido
@@ -486,37 +537,32 @@ static partial class Aplicador
                 }
                 if (bad.Count > 0)
                 {
-                    Console.WriteLine("  Estos archivos no son los del juego original, así que no se modificó nada:");
-                    foreach (string b in bad.Take(10)) Console.WriteLine("    " + b);
-                    if (bad.Count > 10) Console.WriteLine("    ... y {0} más", bad.Count - 10);
-                    Console.WriteLine("  ¿Es otra versión del juego o una ISO que ya tiene otro parche?");
-                    return false;
+                    aviso.Linea(string.Format("Disco {0}: {1} archivos no son los originales. No se tocó nada.", disc, bad.Count));
+                    foreach (string b in bad.Take(10)) aviso.Detalle(b);
+                    if (bad.Count > 10) aviso.Detalle(string.Format("... y {0} más", bad.Count - 10));
+                    aviso.Linea("¿Es otra versión o una ISO con otro parche?");
+                    return Resultado.Error;
                 }
             }
         }
         catch (InvalidDataException ex)
         {
-            Console.WriteLine("  No se puede usar: " + ex.Message + ".");
-            return false;
+            aviso.Linea("No se puede usar: " + ex.Message + ".");
+            return Resultado.Error;
         }
         int count = loose.Count + replacements.Values.Sum(r => r.Count);
         if (count == 0)
         {
-            Console.WriteLine("  Esta ISO ya tiene la traducción. No hace falta parchearla.");
-            return true;
+            aviso.Linea(string.Format("Disco {0}: esta ISO ya tiene la traducción.", disc));
+            return Resultado.YaTraducida;
         }
 
         string name = Path.GetFileNameWithoutExtension(isoPath) + " (Español).iso";
         string outPath = Path.Combine(outDir ?? Path.GetDirectoryName(Path.GetFullPath(isoPath)), name);
-        if (File.Exists(outPath))
+        if (File.Exists(outPath) && !aviso.Confirmar(string.Format("Ya existe \"{0}\". ¿Reemplazarlo?", name)))
         {
-            Console.Write("  Ya existe \"{0}\". ¿Reemplazarlo? (s/n): ", name);
-            string answer = Console.ReadLine();
-            if (answer == null || !answer.Trim().StartsWith("s", StringComparison.OrdinalIgnoreCase))
-            {
-                Console.WriteLine("  No se tocó nada.");
-                return false;
-            }
+            aviso.Linea("No se tocó nada.");
+            return Resultado.Error;
         }
         long needed = new FileInfo(isoPath).Length + 64L * 1024 * 1024;
         try
@@ -524,83 +570,104 @@ static partial class Aplicador
             var drive = new DriveInfo(Path.GetPathRoot(Path.GetFullPath(outPath)));
             if (drive.AvailableFreeSpace < needed)
             {
-                Console.WriteLine("  Falta espacio: hacen falta {0} GB libres en {1}.", Gb(needed), drive.Name);
-                return false;
+                aviso.Linea(string.Format("Falta espacio: hacen falta {0} GB libres en {1}.", Gb(needed), drive.Name));
+                return Resultado.Error;
             }
         }
         catch (ArgumentException) { }  // unidad de red: se intenta igual
 
-        Console.WriteLine("  Creando \"{0}\"...", name);
-        int last = -1;
+        aviso.Linea(string.Format("Disco {0}: creando \"{1}\"...", disc, name));
         try
         {
-            Build(isoPath, outPath, replacements, loose, (done, total) =>
-            {
-                int pct = (int)(done * 100 / total);
-                if (pct != last) Console.Write("\r  {0,3}%", last = pct);
-            });
-            Console.WriteLine("\r  100%");
-            Console.WriteLine("  Verificando...");
+            Build(isoPath, outPath, replacements, loose, (done, total) => aviso.Avance(10 + (int)(done * 85 / total)));
+            aviso.Linea(string.Format("Disco {0}: verificando...", disc));
             using (var result = new Iso(outPath))
             {
                 var volumes = result.Groups.ToDictionary(g => g, g => new Volume(result, g));
-                if (entries.Any(e => Sha1(Current(result, volumes, e)) != e.New))
-                    throw new InvalidDataException("la ISO creada no coincide con la esperada");
+                for (int i = 0; i < entries.Count; i++)
+                {
+                    aviso.Avance(95 + i * 5 / entries.Count);
+                    if (Sha1(Current(result, volumes, entries[i])) != entries[i].New)
+                        throw new InvalidDataException("la ISO creada no coincide con la esperada");
+                }
             }
         }
         catch (Exception ex)
         {
-            Console.WriteLine();
-            Console.WriteLine("  Error: " + ex.Message);
             try { File.Delete(outPath); } catch (IOException) { }
-            return false;
+            if (ex is OperationCanceledException) throw;
+            aviso.Linea("Error: " + ex.Message);
+            return Resultado.Error;
         }
-        Console.WriteLine("  Listo: disco {0} traducido ({1} archivos).", disc, count);
-        return true;
+        aviso.Avance(100);
+        aviso.Linea(string.Format("Listo: disco {0} traducido ({1} archivos).", disc, count));
+        return Resultado.Lista;
+    }
+
+    class AvisoConsola : IAviso
+    {
+        int last = -1;
+
+        public void Linea(string texto)
+        {
+            if (last >= 0) Console.WriteLine();
+            last = -1;
+            Console.WriteLine("  " + texto);
+        }
+
+        public void Detalle(string texto) { Linea("  " + texto); }
+
+        public void Avance(int porcentaje)
+        {
+            if (porcentaje != last) Console.Write("\r  {0,3}%", last = porcentaje);
+        }
+
+        public bool Confirmar(string pregunta)
+        {
+            Linea(pregunta + " (s/n): ");
+            string answer = Console.ReadLine();
+            return answer != null && answer.Trim().StartsWith("s", StringComparison.OrdinalIgnoreCase);
+        }
     }
 
     [STAThread]
     static int Main(string[] args)
     {
-        Console.OutputEncoding = Encoding.UTF8;
-        string title = "Xenosaga Episode II en español - versión " + Version;
-        try { Console.Title = title; } catch (IOException) { }  // sin ventana de consola
-        Console.WriteLine(title);
-        Console.WriteLine(new string('=', title.Length));
-        Console.WriteLine();
+        string outDir = null, captura = null;
+        bool consola = false;
+        var isos = new List<string>();
+        for (int i = 0; i < args.Length; i++)
+        {
+            if (args[i] == "--salida" && i + 1 < args.Length) { outDir = args[++i]; consola = true; }
+            else if (args[i] == "--consola") consola = true;
+            else if (args[i] == "--captura" && i + 1 < args.Length) captura = args[++i];
+            else isos.Add(args[i]);
+        }
+        if (consola) return Consola(isos, outDir);
+        Application.EnableVisualStyles();
+        Application.SetCompatibleTextRenderingDefault(false);
+        if (captura != null) return Ventana.Capturar(captura) ? 0 : 1;
+        Application.Run(new Ventana(isos));
+        return 0;
+    }
+
+    // Modo sin ventana, para las pruebas de tools/kit.py: escribe en la salida estándar.
+    static int Consola(List<string> isos, string outDir)
+    {
+        var output = new StreamWriter(Console.OpenStandardOutput(), new UTF8Encoding(false)) { AutoFlush = true };
+        Console.SetOut(output);
+        Console.WriteLine("Xenosaga Episode II en español - versión " + Version);
         bool ok = true;
         try
         {
-            string outDir = null;
-            var isos = new List<string>();
-            for (int i = 0; i < args.Length; i++)
-            {
-                if (args[i] == "--salida" && i + 1 < args.Length) outDir = args[++i];
-                else isos.Add(args[i]);
-            }
-            if (isos.Count == 0)
-            {
-                Console.WriteLine("Elige las ISO originales del juego (el disco 1, el 2 o los dos a la vez).");
-                using (var dialog = new OpenFileDialog())
-                {
-                    dialog.Title = "Xenosaga Episode II: elige las ISO originales";
-                    dialog.Filter = "Imágenes ISO (*.iso)|*.iso|Todos los archivos (*.*)|*.*";
-                    dialog.Multiselect = true;
-                    if (dialog.ShowDialog() != DialogResult.OK)
-                    {
-                        Console.WriteLine("No se eligió ninguna ISO.");
-                        return Finish(false);
-                    }
-                    isos.AddRange(dialog.FileNames);
-                }
-            }
             Dictionary<string, List<PatchEntry>> manifest;
             using (ZipArchive zip = OpenPackage(out manifest))
             {
                 foreach (string iso in isos)
                 {
                     Console.WriteLine();
-                    ok &= Process(iso, outDir, zip, manifest);
+                    Console.WriteLine(Path.GetFileName(iso));
+                    ok &= Process(iso, outDir, zip, manifest, new AvisoConsola()) != Resultado.Error;
                 }
             }
         }
@@ -609,15 +676,8 @@ static partial class Aplicador
             Console.WriteLine("Error inesperado: " + ex.Message);
             ok = false;
         }
-        return Finish(ok);
-    }
-
-    static int Finish(bool ok)
-    {
         Console.WriteLine();
-        Console.WriteLine(ok ? "Terminado." : "Terminado con problemas: revisa los mensajes de arriba.");
-        Console.WriteLine("Presiona Enter para salir.");
-        Console.ReadLine();
+        Console.WriteLine(ok ? "Terminado." : "Terminado con problemas.");
         return ok ? 0 : 1;
     }
 }

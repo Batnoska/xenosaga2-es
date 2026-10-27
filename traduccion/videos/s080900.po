@@ -345,8 +345,8 @@ msgid ""
 "That object originally\n"
 "belonged to us―to Ormus."
 msgstr ""
-"Ese objeto nos pertenece desde\n"
-"el principio―a Ormus."
+"Ese objeto siempre fue nuestro,\n"
+"de Ormus."
 
 #. tiempo 02:59:26
 #. Subtítulo: un tramo de la frase, sincronizado con la voz. Máximo 2 líneas.
@@ -386,8 +386,8 @@ msgstr "Ormus..."
 msgctxt "L118"
 msgid "So that's the real name of your organization."
 msgstr ""
-"Así que ese es el verdadero\n"
-"nombre de su organización."
+"Ese es el verdadero nombre\n"
+"de su organización."
 
 #. tiempo 03:14:10
 #. Subtítulo: un tramo de la frase, sincronizado con la voz. Máximo 2 líneas.
@@ -604,7 +604,7 @@ msgstr "KOS-MOS, espera."
 #, fuzzy
 msgctxt "L175"
 msgid "They're still―"
-msgstr "Ellas todavía―"
+msgstr "Ellas todavía..."
 
 #. tiempo 04:42:15
 #. Subtítulo: un tramo de la frase, sincronizado con la voz. Máximo 2 líneas.

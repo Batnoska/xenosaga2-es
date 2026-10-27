@@ -93,7 +93,7 @@ msgstr "Ni siquiera tienes poder de verdad."
 #, fuzzy
 msgctxt "L46"
 msgid "The only thing you can do is butter people up."
-msgstr "Lo único que sabes es hacerte la dulce con todos."
+msgstr "Lo único que sabes es hacerte la dulce."
 
 #. tiempo 00:33:15
 #. Subtítulo: un tramo de la frase, sincronizado con la voz. Máximo 2 líneas.
@@ -189,7 +189,7 @@ msgstr ""
 #, fuzzy
 msgctxt "L66"
 msgid "Albedo, you son of a―"
-msgstr "Albedo, maldito hijo de―"
+msgstr "Albedo, maldito hijo de..."
 
 #. tiempo 01:11:00
 #. Subtítulo: un tramo de la frase, sincronizado con la voz. Máximo 2 líneas.
@@ -252,7 +252,7 @@ msgstr "Deberías probarlo tú mismo, Rubedo."
 #, fuzzy
 msgctxt "L81"
 msgid "I'm sure if it were you, she'd be happy to―"
-msgstr "Seguro que si fueras tú, ella estaría feliz de―"
+msgstr "Seguro que si fueras tú, ella estaría feliz de..."
 
 #. tiempo 01:34:22
 #. Subtítulo: un tramo de la frase, sincronizado con la voz. Máximo 2 líneas.

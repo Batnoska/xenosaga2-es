@@ -65,7 +65,7 @@ msgstr "Estamos en buenas manos."
 #, fuzzy
 msgctxt "L40"
 msgid "KOS-MOS data transfer confirmed."
-msgstr "Transferencia de datos de KOS-MOS confirmada."
+msgstr "Datos de KOS-MOS transferidos."
 
 #. tiempo 00:32:28
 #. Subtítulo: un tramo de la frase, sincronizado con la voz. Máximo 2 líneas.

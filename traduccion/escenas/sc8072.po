@@ -28,7 +28,7 @@ msgid ""
 "You should hurry up and―"
 msgstr ""
 "Todos ya se trasladaron al Durandal.\n"
-"Deberías apurarte y―"
+"Deberías apurarte y..."
 
 #. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
 #, fuzzy

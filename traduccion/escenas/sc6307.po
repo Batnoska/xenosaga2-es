@@ -34,7 +34,7 @@ msgstr ""
 #, fuzzy
 msgctxt "#6"
 msgid "May I―"
-msgstr "¿Me permite―?"
+msgstr "¿Me permite...?"
 
 #. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
 #, fuzzy

@@ -104,7 +104,7 @@ msgstr "Esto no puede..."
 #, fuzzy
 msgctxt "L52"
 msgid "Interference is manifesting from"
-msgstr "Se manifiesta una interferencia desde"
+msgstr "Hay una interferencia desde"
 
 #. tiempo 01:10:25
 #. Subtítulo: un tramo de la frase, sincronizado con la voz. Máximo 2 líneas.
@@ -151,14 +151,14 @@ msgstr ""
 #, fuzzy
 msgctxt "L61"
 msgid "Unable to determine the intrusion route!"
-msgstr "¡No se puede determinar la ruta de intrusión!"
+msgstr "¡No se puede rastrear la intrusión!"
 
 #. tiempo 01:22:05
 #. Subtítulo: un tramo de la frase, sincronizado con la voz. Máximo 2 líneas.
 #, fuzzy
 msgctxt "L64"
 msgid "Multiple axon connections"
-msgstr "Múltiples conexiones axónicas"
+msgstr "Varias conexiones axónicas"
 
 #. tiempo 01:23:10
 #. Subtítulo: un tramo de la frase, sincronizado con la voz. Máximo 2 líneas.
@@ -173,7 +173,7 @@ msgstr "avanzan en el dominio subconsciente."
 #, fuzzy
 msgctxt "L67"
 msgid "A large-scale holographic network"
-msgstr "¡Se está formando una red holográfica"
+msgstr "¡Se forma una red holográfica"
 
 #. tiempo 01:27:10
 #. Subtítulo: un tramo de la frase, sincronizado con la voz. Máximo 2 líneas.
@@ -262,7 +262,7 @@ msgstr "Intenten el corte otra vez."
 #, fuzzy
 msgctxt "L87"
 msgid "Reestablish defensive logic against"
-msgstr "Restablezcan la lógica defensiva contra"
+msgstr "Reactiven la lógica defensiva contra"
 
 #. tiempo 01:57:20
 #. Subtítulo: un tramo de la frase, sincronizado con la voz. Máximo 2 líneas.
@@ -270,7 +270,7 @@ msgstr "Restablezcan la lógica defensiva contra"
 #, fuzzy
 msgctxt "L88"
 msgid "the external hack attempt."
-msgstr "el intento de hackeo externo."
+msgstr "el hackeo externo."
 
 #. tiempo 01:59:00
 #. Subtítulo: un tramo de la frase, sincronizado con la voz. Máximo 2 líneas.
@@ -354,7 +354,7 @@ msgstr "No es uno de los diseños de Joachim."
 #, fuzzy
 msgctxt "L115"
 msgid "It's something recent―"
-msgstr "Es algo reciente―"
+msgstr "Es algo reciente..."
 
 #. tiempo 02:30:15
 #. Subtítulo: un tramo de la frase, sincronizado con la voz. Máximo 2 líneas.
@@ -400,7 +400,7 @@ msgstr "¿Qué está haciendo, Dra. Mizrahi?"
 #, fuzzy
 msgctxt "L129"
 msgid "I'm using the emergency control code"
-msgstr "Voy a usar el código de control de emergencia"
+msgstr "Uso el código de emergencia"
 
 #. tiempo 02:47:20
 #. Subtítulo: un tramo de la frase, sincronizado con la voz. Máximo 2 líneas.
@@ -432,8 +432,8 @@ msgid ""
 "We cannot allow the Y-Data to\n"
 "fall into the enemy's hands"
 msgstr ""
-"¡No podemos permitir que los Y-Data\n"
-"caigan en manos del enemigo"
+"¡Los Y-Data no pueden caer\n"
+"en manos del enemigo"
 
 #. tiempo 02:56:05
 #. Subtítulo: un tramo de la frase, sincronizado con la voz. Máximo 2 líneas.
@@ -512,7 +512,7 @@ msgstr "Es MOMO."
 #, fuzzy
 msgctxt "L162"
 msgid "She's cutting her own neural pathways"
-msgstr "¡Está cortando sus propias vías neuronales"
+msgstr "¡Está cortando sus vías neuronales"
 
 #. tiempo 03:35:15
 #. Subtítulo: un tramo de la frase, sincronizado con la voz. Máximo 2 líneas.
@@ -527,7 +527,7 @@ msgstr "para dispersar su memoria!"
 #, fuzzy
 msgctxt "L164"
 msgid "She's destroying her own mind to protect"
-msgstr "Está destruyendo su propia mente para proteger"
+msgstr "Destruye su propia mente para proteger"
 
 #. tiempo 03:40:20
 #. Subtítulo: un tramo de la frase, sincronizado con la voz. Máximo 2 líneas.
@@ -613,7 +613,7 @@ msgstr "Qué valiente."
 #, fuzzy
 msgctxt "L192"
 msgid "However, no matter how charming,"
-msgstr "Sin embargo, por más encantadora que sea,"
+msgstr "Pero, por encantadora que sea,"
 
 #. tiempo 04:22:00
 #. Subtítulo: un tramo de la frase, sincronizado con la voz. Máximo 2 líneas.
@@ -631,8 +631,8 @@ msgid ""
 "A puppet waiting for a\n"
 "miracle to make her human,"
 msgstr ""
-"Una marioneta que espera un milagro\n"
-"que la convierta en humana,"
+"Una marioneta que espera\n"
+"un milagro para ser humana,"
 
 #. tiempo 04:27:20
 #. Subtítulo: un tramo de la frase, sincronizado con la voz. Máximo 2 líneas.
@@ -675,7 +675,7 @@ msgstr "No dejaré que muera."
 #, fuzzy
 msgctxt "L207"
 msgid "Injecting nanounit restoration."
-msgstr "Inyectando restauración por nanounidades."
+msgstr "Inyectando nanorreparación."
 
 #. tiempo 04:55:25
 #. Subtítulo: un tramo de la frase, sincronizado con la voz. Máximo 2 líneas.

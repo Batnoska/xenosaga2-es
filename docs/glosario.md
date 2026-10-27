@@ -15,10 +15,14 @@ Español neutro latinoamericano (tú/ustedes, nunca vosotros). Los borradores se
 - **Códigos:** no tocar `$zoom13;`, `$col…;` ni los botones `<○>`, `<□>`, `<△>`, `<×>`.
 - **Subtítulos de video:** cada entrada es un tramo de frase sincronizado con la voz. La
   traducción se reparte en los mismos tramos, aunque haya que reordenar la frase. Máximo
-  2 líneas y unos 50 caracteres por línea.
+  2 líneas y unos 50 caracteres por línea. Si el tramo dura poco, la traducción no tiene que
+  ser más larga que el inglés. Al importar, los subtítulos que no alcanzan a leerse se quedan
+  un poco más en pantalla cuando después hay silencio (`Subtitles.lengthen`).
 - **Diálogos de campo:** sin saltos de línea; el juego los acomoda solo.
-- **Puntuación:** ¿? y ¡! de apertura; raya del juego (―) para cortes e incisos; comillas
-  rectas "como en el original".
+- **Puntuación:** ¿? y ¡! de apertura; comillas rectas "como en el original". En los
+  diálogos no se copia la raya del inglés (―): una frase cortada termina en puntos
+  suspensivos ("Es que...") y un inciso va entre comas. La raya queda para separar partes de
+  un nombre o rótulo ("Miedo - Nivel 1") y en las firmas de los carteles.
 
 ## Términos oficiales (Xenoblade Chronicles 2 en español)
 

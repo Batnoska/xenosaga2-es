@@ -4,9 +4,10 @@
   python tools/kit.py 0.9-beta --probar   además aplica el parche con el .exe a las ISO
                                           originales y compara el resultado con work/
 
-El aplicador de Windows (tools/aplicador/Aplicador.cs) se compila con el csc de .NET Framework 4,
-que ya viene con Windows, y lleva el paquete adentro: el kit es un .exe y el LEEME. Para otros
-sistemas va también la versión en Python (parche.py + x2iso.py + el paquete).
+El aplicador de Windows (tools/aplicador: Aplicador.cs y la ventana, Ventana.cs) se compila con el
+csc de .NET Framework 4, que ya viene con Windows, y lleva adentro el paquete y el arte de la ventana
+(tools/aplicador/arte.py): el kit es un .exe y el LEEME. Para otros sistemas va también la versión
+en Python (parche.py + x2iso.py + el paquete).
 """
 import argparse
 import datetime
@@ -19,6 +20,9 @@ import zipfile
 
 import parche
 from x2iso import ROOT, iso_paths
+
+sys.path.insert(0, os.path.join(os.path.dirname(os.path.abspath(__file__)), "aplicador"))
+import arte  # noqa: E402
 
 sys.stdout.reconfigure(encoding="utf-8")
 TOOLS = os.path.join(ROOT, "tools")
@@ -45,9 +49,11 @@ def compile_exe(version, out_exe, tmp):
                 '[assembly: AssemblyProduct("Xenosaga Episode II en español")]\n'
                 f'[assembly: AssemblyInformationalVersion("{version}")]\n'
                 f'static partial class Aplicador {{ const string Version = "{version}"; }}\n')
-    cmd = [csc(), "/nologo", "/target:exe", "/optimize+", f"/out:{out_exe}", f"/resource:{PACKAGE},parche.zip",
-           "/r:System.IO.Compression.dll", "/r:System.Windows.Forms.dll",
-           os.path.join(SRC, "Aplicador.cs"), version_cs]
+    arte_zip, diseno_cs, icono = arte.generar(version, os.path.join(tmp, "arte"))
+    cmd = [csc(), "/nologo", "/target:winexe", "/optimize+", f"/out:{out_exe}", f"/win32icon:{icono}",
+           f"/resource:{PACKAGE},parche.zip", f"/resource:{arte_zip},arte.zip",
+           "/r:System.IO.Compression.dll", "/r:System.Windows.Forms.dll", "/r:System.Drawing.dll",
+           os.path.join(SRC, "Aplicador.cs"), os.path.join(SRC, "Ventana.cs"), diseno_cs, version_cs]
     r = subprocess.run(cmd, capture_output=True, text=True, encoding="utf-8", errors="replace")
     if r.returncode:
         sys.exit("error al compilar el aplicador:\n" + r.stdout + r.stderr)
@@ -106,6 +112,14 @@ def test(exe):
         if code == 0 or "No se puede usar" not in log:
             print("archivo que no es ISO: respuesta inesperada\n" + log)
             ok = False
+        # la ventana: que cargue el arte y se dibuje (deja dos capturas en work/publicar)
+        captura = os.path.join(PUBLISH, "captura.png")
+        code, log = run_exe(exe, "--captura", captura)
+        if code or not os.path.exists(captura):
+            print("la ventana no se pudo dibujar\n" + log)
+            ok = False
+        else:
+            print(f"ventana: {captura}")
     finally:
         shutil.rmtree(out, ignore_errors=True)
     print("prueba: " + ("OK" if ok else "FALLÓ"))

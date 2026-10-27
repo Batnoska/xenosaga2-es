@@ -16,8 +16,8 @@ Está traducido todo el texto del juego:
 
 Descarga el kit de la sección [*Releases*](https://github.com/Batnoska/xenosaga2-es/releases)
 y sigue su `LEEME.txt`. En resumen: abre
-`Aplicar parche.exe` y elige las ISO de tu copia del juego. Para Linux, Mac o Steam Deck hay una
-versión en Python.
+`Aplicar parche.exe`, arrastra a la ventana las ISO de tu copia del juego y haz clic en
+"Aplicar parche". Para Linux, Mac o Steam Deck hay una versión en Python.
 
 El parche no incluye el juego ni archivos del juego: guarda solo las diferencias con los
 archivos originales, y comprueba que tus ISO sean las esperadas antes de escribir nada.
@@ -28,7 +28,7 @@ archivos originales, y comprueba que tus ISO sean las esperadas antes de escribi
 |---|---|
 | `traduccion/` | La traducción en archivos `.po` (inglés original y español), uno por escena, mapa, menú o video. Se pueden editar con Poedit. |
 | `tools/` | Las herramientas: extraer e importar textos, formatos del juego, gráficos, el parche y el kit de publicación. |
-| `tools/aplicador/` | El aplicador de Windows (C#) y la plantilla del `LEEME.txt`. |
+| `tools/aplicador/` | El aplicador de Windows (C#: el parche y su ventana), el generador del arte de la ventana (`arte.py`) y la plantilla del `LEEME.txt`. |
 | `docs/` | Glosario y criterios de traducción, lista de pruebas en el juego, notas de cada tanda de trabajo e ideas para un parche de mejoras. |
 | `work/` | Solo los scripts de revisión y control. Lo demás que se genera ahí (lo extraído del juego, las ISO, el kit) no se sube. |
 
@@ -64,11 +64,15 @@ Pasos:
    ```
 
 4. Arma el kit de publicación en `work/publicar/`. Con `--probar` también aplica el parche a
-   tus ISO y compara el resultado:
+   tus ISO, compara el resultado y guarda una captura de la ventana del aplicador:
 
    ```
-   python tools/kit.py 0.9-beta --probar
+   python tools/kit.py 0.9.1-beta --probar
    ```
+
+   La ventana del aplicador usa arte y música del juego que no están en el repositorio. Los
+   renders y el logo se descargan solos la primera vez. "The Image Theme of Xenosaga II" hay que
+   copiarlo como `work/arte_externo/tema.mp3`; sin él, el aplicador queda sin música.
 
 Para corregir textos se editan los `.po`, o se cargan lotes de borradores con
 `python tools/borrador.py lote <archivo>`, y se revisan con
@@ -85,6 +89,7 @@ el juego ayudan mucho.
 
 - **Batnoska:** traducción, revisión, gráficos y herramientas.
 - Con la ayuda de Claude (Anthropic), un asistente de inteligencia artificial.
+- Música del aplicador: "The Image Theme of Xenosaga II", de Yuki Kajiura.
 
 ## Licencia
 
@@ -93,4 +98,6 @@ cubre el juego ni sus textos originales en inglés, que aparecen junto a la trad
 `.po`.
 
 Xenosaga es una marca de Bandai Namco Entertainment. El juego fue desarrollado por Monolith
-Soft. Este es un proyecto de fans, sin fines de lucro y sin relación con esas empresas.
+Soft. Este es un proyecto de fans, sin fines de lucro y sin relación con esas empresas. La
+ventana del aplicador usa el logo, imágenes promocionales y música del juego como homenaje;
+pertenecen a sus dueños y no están en este repositorio.

@@ -34,8 +34,8 @@ msgid ""
 "These seemingly coordinated Realian attacks\n"
 "were reported throughout Federation"
 msgstr ""
-"Estos ataques de Realians, al parecer coordinados,\n"
-"se registraron en todo el territorio"
+"Los ataques de Realians, al parecer coordinados,\n"
+"abarcaron todo el territorio"
 
 #. tiempo 00:23:16
 #. Subtítulo: un tramo de la frase, sincronizado con la voz. Máximo 2 líneas.
@@ -43,7 +43,7 @@ msgstr ""
 #, fuzzy
 msgctxt "L27"
 msgid "territory, prompting government officials"
-msgstr "de la Federación, y llevaron a las autoridades"
+msgstr "de la Federación, y llevaron al gobierno"
 
 #. tiempo 00:25:24
 #. Subtítulo: un tramo de la frase, sincronizado con la voz. Máximo 2 líneas.
@@ -58,7 +58,7 @@ msgstr "a considerar el movimiento un acto de terrorismo."
 #, fuzzy
 msgctxt "L30"
 msgid "Their response to these Realians has been―"
-msgstr "Su respuesta ante estos Realians ha sido―"
+msgstr "Su respuesta ante estos Realians ha sido..."
 
 #. tiempo 00:34:23
 #. Subtítulo: un tramo de la frase, sincronizado con la voz. Máximo 2 líneas.
@@ -75,8 +75,8 @@ msgid ""
 "As internal agencies continue\n"
 "to analyze these violent events,"
 msgstr ""
-"Mientras los organismos internos siguen\n"
-"analizando estos hechos violentos,"
+"Mientras los organismos internos\n"
+"analizan estos hechos violentos,"
 
 #. tiempo 00:40:08
 #. Subtítulo: un tramo de la frase, sincronizado con la voz. Máximo 2 líneas.
@@ -84,14 +84,14 @@ msgstr ""
 #, fuzzy
 msgctxt "L36"
 msgid "a flash action report within the Federation―"
-msgstr "un informe urgente de la Federación―"
+msgstr "un informe urgente de la Federación,"
 
 #. tiempo 00:44:05
 #. Subtítulo: un tramo de la frase, sincronizado con la voz. Máximo 2 líneas.
 #, fuzzy
 msgctxt "L37"
 msgid "and obtained by this station―indicates that"
-msgstr "al que accedió este canal― indica que"
+msgstr "al que accedió este canal, indica que"
 
 #. tiempo 00:47:14
 #. Subtítulo: un tramo de la frase, sincronizado con la voz. Máximo 2 líneas.
@@ -432,7 +432,7 @@ msgstr "Buena suerte a los dos."
 #, fuzzy
 msgctxt "L116"
 msgid "As mentioned in the briefing,"
-msgstr "Como ya se explicó en la sesión informativa,"
+msgstr "Como se les informó,"
 
 #. tiempo 02:58:00
 #. Subtítulo: un tramo de la frase, sincronizado con la voz. Máximo 2 líneas.
@@ -469,8 +469,8 @@ msgid ""
 "You will have to manage your descent\n"
 "and return on your own."
 msgstr ""
-"Tendrán que encargarse del descenso\n"
-"y del regreso por su cuenta."
+"El descenso y el regreso\n"
+"corren por su cuenta."
 
 #. tiempo 03:08:20
 #. Subtítulo: un tramo de la frase, sincronizado con la voz. Máximo 2 líneas.
@@ -480,8 +480,8 @@ msgid ""
 "You can expect heavy resistance\n"
 "from both U-TIC enemy craft and"
 msgstr ""
-"Prepárense para una fuerte resistencia, tanto\n"
-"de naves enemigas de la U-TIC como"
+"Esperen una fuerte resistencia, tanto de\n"
+"naves de la U-TIC como"
 
 #. tiempo 03:11:20
 #. Subtítulo: un tramo de la frase, sincronizado con la voz. Máximo 2 líneas.
@@ -601,7 +601,7 @@ msgstr "luego entrarán en el sistema central de la U-TIC"
 #, fuzzy
 msgctxt "L148"
 msgid "and acquire the Y-Data―"
-msgstr "y obtendrán los Y-Data―"
+msgstr "y obtendrán los Y-Data,"
 
 #. tiempo 03:49:20
 #. Subtítulo: un tramo de la frase, sincronizado con la voz. Máximo 2 líneas.
@@ -636,7 +636,7 @@ msgstr "Solicito lanzamiento."
 #, fuzzy
 msgctxt "L158"
 msgid "Launch request confirmed."
-msgstr "Solicitud de lanzamiento confirmada."
+msgstr "Lanzamiento autorizado."
 
 #. tiempo 04:00:25
 #. Subtítulo: un tramo de la frase, sincronizado con la voz. Máximo 2 líneas.
@@ -727,7 +727,7 @@ msgstr "Van en curso de intercepción."
 #, fuzzy
 msgctxt "L184"
 msgid "There are―"
-msgstr "Hay―"
+msgstr "Hay..."
 
 #. tiempo 05:24:12
 #. Subtítulo: un tramo de la frase, sincronizado con la voz. Máximo 2 líneas.

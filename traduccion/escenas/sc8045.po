@@ -208,7 +208,7 @@ msgstr "No estás ocupada, ¿verdad?"
 #, fuzzy
 msgctxt "#38"
 msgid "If it's okay with you I―"
-msgstr "Si te parece bien, yo―"
+msgstr "Si te parece bien, yo..."
 
 #. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
 #, fuzzy
@@ -321,7 +321,7 @@ msgstr ""
 #, fuzzy
 msgctxt "#53"
 msgid "Oh, well that makes sen―"
-msgstr "Ah, bueno, eso tiene senti―"
+msgstr "Ah, bueno, eso tiene senti..."
 
 #. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
 #, fuzzy

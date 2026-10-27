@@ -177,7 +177,7 @@ msgstr "¡¡Jefa!!"
 #, fuzzy
 msgctxt "L81"
 msgid "I thought you were a man!"
-msgstr "¡¿No decías que eras todo un hombre?!"
+msgstr "¡¿No eras tan hombre?!"
 
 #. tiempo 03:09:20
 #. Subtítulo: un tramo de la frase, sincronizado con la voz. Máximo 2 líneas.
@@ -216,7 +216,7 @@ msgstr ""
 #, fuzzy
 msgctxt "L92"
 msgid "Prepare for docking."
-msgstr "Prepárense para el acoplamiento."
+msgstr "Prepárense para acoplar."
 
 #. tiempo 03:34:00
 #. Subtítulo: un tramo de la frase, sincronizado con la voz. Máximo 2 líneas.

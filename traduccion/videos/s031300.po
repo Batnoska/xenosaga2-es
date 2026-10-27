@@ -76,7 +76,7 @@ msgstr "de potencial eléctrico era inestable,"
 #, fuzzy
 msgctxt "L35"
 msgid "but neither medicine"
-msgstr "pero ni los medicamentos"
+msgstr "pero ni los fármacos"
 
 #. tiempo 00:38:25
 #. Subtítulo: un tramo de la frase, sincronizado con la voz. Máximo 2 líneas.
@@ -156,7 +156,7 @@ msgid ""
 "treatment for me, too."
 msgstr ""
 "Dicen que mi papá también\n"
-"está investigando un tratamiento para mí."
+"busca un tratamiento para mí."
 
 #. tiempo 01:14:05
 #. Subtítulo: un tramo de la frase, sincronizado con la voz. Máximo 2 líneas.
@@ -430,7 +430,7 @@ msgstr "¡Claro!"
 #, fuzzy
 msgctxt "L126"
 msgid "Leave it to me―"
-msgstr "Déjamelo a mí―"
+msgstr "Déjamelo a mí..."
 
 #. tiempo 03:11:00
 #. Subtítulo: un tramo de la frase, sincronizado con la voz. Máximo 2 líneas.

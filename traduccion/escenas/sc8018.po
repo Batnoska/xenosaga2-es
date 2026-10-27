@@ -106,7 +106,7 @@ msgstr "Ay, por favor. ¡Yo no dije eso!"
 #, fuzzy
 msgctxt "#26"
 msgid "I just―"
-msgstr "Es que―"
+msgstr "Es que..."
 
 #. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
 #, fuzzy

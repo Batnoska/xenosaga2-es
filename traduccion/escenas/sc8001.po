@@ -167,7 +167,7 @@ msgid ""
 "the U.R.T.V.s―they are the military's trump card."
 msgstr ""
 "Los altos mandos confían plenamente en los\n"
-"U.R.T.V.―son el as bajo la manga del ejército."
+"U.R.T.V., el as bajo la manga del ejército."
 
 #. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
 #, fuzzy

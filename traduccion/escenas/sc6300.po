@@ -71,7 +71,7 @@ msgstr "Solo quienes se encuentran en un lugar más allá de ese punto pueden co
 #, fuzzy
 msgctxt "#10"
 msgid "Her awakening―KOS-MOS' awakening―will lead us to that summit. Don't you agree?"
-msgstr "Su despertar―el despertar de KOS-MOS―nos llevará a esa cumbre. ¿No crees?"
+msgstr "Su despertar, el despertar de KOS-MOS, nos llevará a esa cumbre. ¿No crees?"
 
 #. habla: Red Cloaked Man
 #, fuzzy

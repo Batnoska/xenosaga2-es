@@ -121,7 +121,7 @@ msgid ""
 "very element that made them human."
 msgstr ""
 "Eran solo cosas, incapaces de recuperar\n"
-"su conciencia―justamente\n"
+"su conciencia, justamente\n"
 "lo que los hacía humanos."
 
 #. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
