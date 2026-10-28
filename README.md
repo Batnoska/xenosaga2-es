@@ -12,6 +12,10 @@ Está traducido todo el texto del juego:
 
 **Estado:** beta 0.9. Se puede jugar completo, pero todavía se está probando en PCSX2.
 
+> ¿Quieres combates más ágiles y una progresión más fluida? Mira la
+> [**Definitive Edition**](https://github.com/Batnoska/xenosaga2-definitive) (en desarrollo), un
+> parche de mejoras que se instala con el mismo aplicador, junto con la traducción o solo.
+
 ## Para jugar
 
 Descarga el kit de la sección [*Releases*](https://github.com/Batnoska/xenosaga2-es/releases)

@@ -55,11 +55,48 @@ MUSICA = (478, 424, 562, 446)
 LEEME = (570, 424, 654, 446)
 SALIR = (662, 424, 746, 446)
 
-CREDITOS = ("★ XENOSAGA EPISODE II EN ESPAÑOL ★ TRADUCCIÓN, REVISIÓN Y HERRAMIENTAS: BATNOSKA ★ "
-            "CON LA AYUDA DE CLAUDE (ANTHROPIC) ★ MÚSICA: «THE IMAGE THEME OF XENOSAGA II», DE YUKI KAJIURA ★ "
-            "XENOSAGA ES UNA MARCA DE BANDAI NAMCO ENTERTAINMENT, DESARROLLADO POR MONOLITH SOFT ★ "
-            "PROYECTO DE FANS, SIN FINES DE LUCRO ★ ERRORES: GITHUB.COM/BATNOSKA/XENOSAGA2-ES O DISCORD @ARGOLLA ★ "
-            "SALUDOS A TODA LA COMUNIDAD XENO ★ ")
+# Las dos casillas de arriba: en la edición de la traducción va primero la traducción; en la de la
+# Definitive Edition, al revés. El engranaje abre la configuración de la Definitive Edition.
+MODULOS = {"es": {"traduccion": (214, 146, 372, 168), "de": (380, 146, 546, 168)},
+           "de": {"de": (214, 146, 380, 168), "traduccion": (388, 146, 546, 168)}}
+IDIOMAS = [(612, 4, 653, 20), (656, 4, 697, 20)]  # español (Argentina) e inglés (Estados Unidos)
+MARGEN = 6  # los textos sueltos se guardan con este margen alrededor
+FRASE_Y = 125
+FRASE_DE, FRASE_ES = "JENSEITS VON GUT UND BÖSE", "MÁS ALLÁ DEL BIEN Y DEL MAL"
+RESTABLECER = (558, 356, 642, 378)
+LISTO = (650, 356, 734, 378)
+
+_TRAMPA = ("XENOSAGA ES UNA MARCA DE BANDAI NAMCO ENTERTAINMENT, DESARROLLADO POR MONOLITH SOFT",
+           "XENOSAGA IS A TRADEMARK OF BANDAI NAMCO ENTERTAINMENT, DEVELOPED BY MONOLITH SOFT")
+_MUSICA = ("MÚSICA: «THE IMAGE THEME OF XENOSAGA II», DE YUKI KAJIURA", "MUSIC: “THE IMAGE THEME OF XENOSAGA II” BY YUKI KAJIURA")
+CREDITOS = {
+    ("es", "es"): ["XENOSAGA EPISODE II EN ESPAÑOL", "TRADUCCIÓN, REVISIÓN Y HERRAMIENTAS: BATNOSKA",
+                   "CON LA AYUDA DE CLAUDE (ANTHROPIC)", "DEFINITIVE EDITION: DATOS DE COMBATE INVESTIGADOS POR THESPARDA",
+                   _MUSICA[0], _TRAMPA[0], "PROYECTO DE FANS, SIN FINES DE LUCRO",
+                   "ERRORES: GITHUB.COM/BATNOSKA/XENOSAGA2-ES O DISCORD @ARGOLLA", "SALUDOS A TODA LA COMUNIDAD XENO"],
+    ("es", "en"): ["XENOSAGA EPISODE II IN SPANISH", "TRANSLATION, EDITING AND TOOLS: BATNOSKA",
+                   "WITH HELP FROM CLAUDE (ANTHROPIC)", "DEFINITIVE EDITION: BATTLE DATA RESEARCH BY THESPARDA",
+                   _MUSICA[1], _TRAMPA[1], "FAN PROJECT, NON-PROFIT",
+                   "BUGS: GITHUB.COM/BATNOSKA/XENOSAGA2-ES OR DISCORD @ARGOLLA", "GREETINGS TO THE WHOLE XENO COMMUNITY"],
+    ("de", "es"): ["XENOSAGA EPISODE II DEFINITIVE EDITION", "PARCHE: BATNOSKA, CON LA AYUDA DE CLAUDE (ANTHROPIC)",
+                   "DATOS DE COMBATE INVESTIGADOS POR THESPARDA", "TRADUCCIÓN AL ESPAÑOL: BATNOSKA",
+                   _MUSICA[0], _TRAMPA[0], "PROYECTO DE FANS, SIN FINES DE LUCRO",
+                   "ERRORES: GITHUB.COM/BATNOSKA/XENOSAGA2-DEFINITIVE O DISCORD @ARGOLLA", "SALUDOS A TODA LA COMUNIDAD XENO"],
+    ("de", "en"): ["XENOSAGA EPISODE II DEFINITIVE EDITION", "PATCH: BATNOSKA, WITH HELP FROM CLAUDE (ANTHROPIC)",
+                   "BATTLE DATA RESEARCH: THESPARDA", "SPANISH TRANSLATION: BATNOSKA",
+                   _MUSICA[1], _TRAMPA[1], "FAN PROJECT, NON-PROFIT",
+                   "BUGS: GITHUB.COM/BATNOSKA/XENOSAGA2-DEFINITIVE OR DISCORD @ARGOLLA", "GREETINGS TO THE WHOLE XENO COMMUNITY"],
+}
+
+# Textos que van dibujados en imágenes, por idioma.
+ROTULOS = {
+    "es": {"boton": "APLICAR PARCHE", "musica": "MÚSICA", "leeme": "LEEME", "salir": "SALIR", "si": "SÍ", "no": "NO",
+           "restablecer": "RESTABLECER", "listo": "LISTO", "disco": "DISCO", "sistema": "SISTEMA DE PARCHE",
+           "pie": "T.C. 4767 // U.M.N. EN LÍNEA", "traduccion": "TRADUCCIÓN AL ESPAÑOL"},
+    "en": {"boton": "APPLY PATCH", "musica": "MUSIC", "leeme": "README", "salir": "EXIT", "si": "YES", "no": "NO",
+           "restablecer": "RESET", "listo": "DONE", "disco": "DISC", "sistema": "PATCH SYSTEM",
+           "pie": "T.C. 4767 // U.M.N. ONLINE", "traduccion": "SPANISH TRANSLATION"},
+}
 
 
 # ---------------------------------------------------------------- ayudas de dibujo
@@ -285,9 +322,10 @@ def chamfer(box, cut):
     return [(x0, y0), (x1 - c, y0), (x1, y0 + c), (x1, y1), (x0 + c, y1), (x0, y1 - c)]
 
 
-def capas(img_ext, version):
+def capas(img_ext):
     """Fondo de atrás (opaco: base y Zohar) y de adelante (transparente: personajes, logo e interfaz fija).
-    Entre las dos va el brillo de la gema, que late."""
+    Entre las dos va el brillo de la gema, que late. Los textos que dependen del idioma no van acá:
+    son imágenes aparte (textos())."""
     atras = fondo_base()
     size = atras.size
 
@@ -323,25 +361,21 @@ def capas(img_ext, version):
     ImageDraw.Draw(shade).rounded_rectangle(px(200, 172, 560, 386), radius=30 * S, fill=(3, 5, 16, 190))
     frente.alpha_composite(shade.filter(ImageFilter.GaussianBlur(18 * S)))
 
-    lg = fit(img_ext["logo"], 112 * S)
+    # sin el subtítulo alemán, que el aplicador dibuja aparte (y traduce): ver frase()
+    lg = img_ext["logo"]
+    sin_sub = lg.crop((0, 0, lg.width, int(lg.height * 0.905)))
+    lg = fit(sin_sub, 104 * S * sin_sub.height / lg.height)
     ll = Image.new("RGBA", size, (0, 0, 0, 0))
-    ll.alpha_composite(lg, ((W * S - lg.width) // 2, 32 * S))
+    ll.alpha_composite(lg, ((W * S - lg.width) // 2, 27 * S))
     halo = Image.new("RGBA", size, (200, 215, 255, 255))
     halo.putalpha(ll.getchannel("A").filter(ImageFilter.MaxFilter(7)))
     frente.alpha_composite(glow(halo, 5, 1.7))
     frente.alpha_composite(ll)
-    sub, sf = "TRADUCCIÓN AL ESPAÑOL", font("bahnschrift.ttf", 13, "SemiBold SemiCondensed")
-    tw = text_width(sub, sf, 3.2)
-    tx = (W - tw) / 2
-    glowing_text(frente, px(tx, 148), sub, sf, (225, 250, 255), CYAN, 3.2, 5)
     d = ImageDraw.Draw(frente)
-    d.line(px(tx - 34, 156, tx - 8, 156), fill=CYAN + (255,), width=2 * S)
-    d.line(px(tx + tw + 4, 156, tx + tw + 30, 156), fill=CYAN + (255,), width=2 * S)
 
     # barra de título
     d.rectangle(px(0, 0, W, 24), fill=(4, 6, 16, 215))
     d.line(px(0, 24, W, 24), fill=CYAN + (120,), width=S)
-    d.text(px(12, 6), f"XS2·ES  //  SISTEMA DE PARCHE  //  v{version}", font=font("consola.ttf", 10.5), fill=CYAN + (230,))
 
     # ranuras vacías (el estado lo dibuja el aplicador encima)
     for i, box in enumerate(RANURAS):
@@ -349,7 +383,6 @@ def capas(img_ext, version):
         d.polygon(chamfer(box, 9), fill=(8, 12, 34, 215))
         d.line(chamfer(box, 9) + [chamfer(box, 9)[0]], fill=CYAN + (70,), width=S)
         d.rectangle(px(x0, y0, x0 + 4, y1), fill=(90, 100, 130, 255))
-        d.text(px(x0 + 12, y0 + 3), f"DISCO {i + 1}", font=font("bahnschrift.ttf", 12, "Bold SemiCondensed"), fill=(240, 245, 255, 255))
         d.text(px(x0 + 12, y0 + 18), ("SLUS-20892", "SLUS-21133")[i], font=font("consola.ttf", 9), fill=CYAN + (170,))
 
     # banda del scroller y pie
@@ -365,7 +398,6 @@ def capas(img_ext, version):
         if rnd.random() > 0.35:
             d.rectangle(px(cx, 424, cx + bw * 0.6, 446), fill=(170, 190, 220, 160))
         cx += bw * 0.9
-    d.text(px(86, 424), "T.C. 4767 // U.M.N. EN LÍNEA", font=font("consola.ttf", 9), fill=(150, 170, 210, 220))
     d.text(px(86, 436), "NTSC-U · SLUS-20892 · SLUS-21133", font=font("consola.ttf", 9), fill=(110, 125, 165, 220))
 
     # marco cromado y esquinas de HUD
@@ -388,7 +420,7 @@ def brillo_gema():
 
 
 # ---------------------------------------------------------------- botones
-def boton_principal(estado):
+def boton_principal(estado, label):
     """El botón de aplicar: rombo alargado de cristal con borde cromado y flechas de HUD."""
     zx0, zy0, zx1, zy1 = BOTON_ZONA
     img = Image.new("RGBA", ((zx1 - zx0) * S, (zy1 - zy0) * S), (0, 0, 0, 0))
@@ -426,7 +458,7 @@ def boton_principal(estado):
     ring = Image.new("RGBA", img.size, (0, 0, 0, 0))
     ring.paste(chrome, (0, 0), ImageChops.subtract(m, mi))
     img.alpha_composite(ring)
-    label, lf = "APLICAR PARCHE", font("bahnschrift.ttf", 17, "Bold SemiCondensed")
+    lf = font("bahnschrift.ttf", 17, "Bold SemiCondensed")
     tx = x0 / S + (w / S - text_width(label, lf, 2.2)) / 2
     color = (255, 255, 255) if activo else (130, 136, 156)
     if activo:
@@ -459,7 +491,7 @@ def boton_chico(label, estado, size=(84, 22)):
     bf = font("bahnschrift.ttf", 11, "Bold SemiCondensed")
     off = S if estado == "presionado" else 0
     tw = bf.getlength(label)
-    x = (w - tw) / 2 if label != "MÚSICA" else 9 * S
+    x = (w - tw) / 2 if label not in ("MÚSICA", "MUSIC") else 9 * S  # a la derecha van las barritas del volumen
     d.text((x + off, (h - bf.size * 1.18) / 2 + off), label, font=bf, fill=(14, 16, 26, 255))
     return down(img)
 
@@ -468,15 +500,15 @@ def boton_titulo(glyph, estado):
     return boton_chico(glyph, estado, (18, 14))
 
 
-CHIPS = {
-    "original": ("ORIGINAL ✓", (20, 140, 120)),
-    "traducida": ("YA TRADUCIDA", (96, 70, 190)),
-    "distinta": ("OTRA VERSIÓN", (190, 120, 20)),
-    "anterior": ("VERSIÓN VIEJA", (200, 90, 40)),
-    "novalida": ("NO VÁLIDA", (180, 40, 50)),
-    "encurso": ("EN CURSO", (30, 120, 190)),
-    "lista": ("LISTA ✓", (30, 170, 110)),
-    "error": ("ERROR", (180, 40, 50)),
+CHIPS = {  # estado: (español, inglés, color)
+    "original": ("ORIGINAL ✓", "ORIGINAL ✓", (20, 140, 120)),
+    "traducida": ("YA TRADUCIDA", "TRANSLATED", (96, 70, 190)),
+    "distinta": ("OTRA VERSIÓN", "OTHER VERSION", (190, 120, 20)),
+    "anterior": ("VERSIÓN VIEJA", "OLD VERSION", (200, 90, 40)),
+    "novalida": ("NO VÁLIDA", "INVALID", (180, 40, 50)),
+    "encurso": ("EN CURSO", "WORKING", (30, 120, 190)),
+    "lista": ("LISTA ✓", "DONE ✓", (30, 170, 110)),
+    "error": ("ERROR", "ERROR", (180, 40, 50)),
 }
 
 
@@ -495,16 +527,17 @@ def chip(texto, color):
     return down(img)
 
 
-def scroller():
+def scroller(partes):
     """La tira de créditos con brillo; el aplicador la dibuja en rebanadas que ondulan."""
+    texto = "".join(f"★ {p} " for p in partes)
     lf = ImageFont.truetype(os.path.join(FONTS, "lucon.ttf"), 12 * S)
     star = ImageFont.truetype(os.path.join(FONTS, "seguisym.ttf"), 11 * S)
-    width = int(sum((star if ch == "★" else lf).getlength(ch) for ch in CREDITOS)) + 4 * S
+    width = int(sum((star if ch == "★" else lf).getlength(ch) for ch in texto)) + 4 * S
     h = 22 * S
     layer = Image.new("RGBA", (width, h), (0, 0, 0, 0))
     d = ImageDraw.Draw(layer)
     x = 0
-    for i, ch in enumerate(CREDITOS):
+    for i, ch in enumerate(texto):
         t = (math.sin(i * 0.2) + 1) / 2
         col = tuple(int(CYAN[c] * (1 - t) + 255 * t) for c in range(3)) + (255,)
         f = star if ch == "★" else lf
@@ -513,6 +546,142 @@ def scroller():
     out = glow(layer, 3, 1.2)
     out.alpha_composite(layer)
     return down(out)
+
+
+# ---------------------------------------------------------------- textos sueltos, banderas y la frase
+def suelto(texto, fnt, color, spacing=0.0, brillo=None):
+    """Un texto en una imagen justa, con MARGEN alrededor: el aplicador la dibuja en
+    (x - MARGEN, y - MARGEN) para que el texto empiece en (x, y)."""
+    w = text_width(texto, fnt, spacing) + 2 * MARGEN
+    h = fnt.size / S * 1.4 + 2 * MARGEN
+    img = Image.new("RGBA", (int(w * S), int(h * S)), (0, 0, 0, 0))
+    xy = (MARGEN * S, MARGEN * S)
+    if brillo:
+        img.alpha_composite(glow(text_layer(img.size, xy, texto, fnt, brillo + (255,), spacing), 3, 1.2))
+    img.alpha_composite(text_layer(img.size, xy, texto, fnt, color, spacing))
+    return down(img)
+
+
+def textos(edicion, version, idioma):
+    """Los textos de la ventana que cambian con el idioma (y el título, con la edición)."""
+    rot = ROTULOS[idioma]
+    sigla = "XS2·ES" if edicion == "es" else "XS2·DE"
+    negrita = font("bahnschrift.ttf", 12, "Bold SemiCondensed")
+    modulo = font("bahnschrift.ttf", 11.5, "Bold SemiCondensed")
+    out = {
+        f"titulo_{idioma}": suelto(f"{sigla}  //  {rot['sistema']}  //  v{version}", font("consola.ttf", 10.5), CYAN + (230,)),
+        f"pie_{idioma}": suelto(rot["pie"], font("consola.ttf", 9), (150, 170, 210, 220)),
+        f"mod_traduccion_{idioma}_on": suelto(rot["traduccion"], modulo, (240, 248, 255, 255), 0.6, CYAN),
+        f"mod_traduccion_{idioma}_off": suelto(rot["traduccion"], modulo, (130, 142, 170, 255), 0.6),
+    }
+    for i in (1, 2):
+        out[f"disco{i}_{idioma}"] = suelto(f"{rot['disco']} {i}", negrita, (240, 245, 255, 255))
+    chica = font("bahnschrift.ttf", 9.5, "Bold SemiCondensed")
+    sigla_idioma = idioma.upper()
+    out[f"idioma_{idioma}_on"] = suelto(sigla_idioma, chica, (255, 255, 255, 255))
+    out[f"idioma_{idioma}_off"] = suelto(sigla_idioma, chica, (120, 132, 165, 255))
+    return out
+
+
+def comunes():
+    """Lo que no cambia con el idioma: la casilla de la Definitive Edition y el engranaje."""
+    modulo = font("bahnschrift.ttf", 11.5, "Bold SemiCondensed")
+    sym = ImageFont.truetype(os.path.join(FONTS, "seguisym.ttf"), int(11 * S))
+    return {
+        "mod_de_on": suelto("DEFINITIVE EDITION", modulo, (240, 248, 255, 255), 0.6, CYAN),
+        "mod_de_off": suelto("DEFINITIVE EDITION", modulo, (130, 142, 170, 255), 0.6),
+        "engranaje": suelto("⚙", sym, (230, 250, 255, 255)),
+    }
+
+
+def bandera(pais, activo, ancho=15, alto=10):
+    """Bandera dibujada a 8x, achicada y pasada por el filtro de la ventana: mezcla con un tono a dos
+    colores (azul noche a cian claro), líneas de barrido y un reflejo arriba."""
+    k = 8
+    w, h = ancho * k, alto * k
+    f = Image.new("RGB", (w, h), (255, 255, 255))
+    d = ImageDraw.Draw(f)
+    if pais == "ar":
+        celeste, sol = (116, 172, 223), (246, 180, 14)
+        d.rectangle((0, 0, w, h / 3), fill=celeste)
+        d.rectangle((0, 2 * h / 3, w, h), fill=celeste)
+        cx, cy, r = w / 2, h / 2, h / 9
+        for i in range(16):  # el Sol de Mayo
+            a = i / 16 * math.tau
+            d.line((cx, cy, cx + math.cos(a) * r * 1.9, cy + math.sin(a) * r * 1.9), fill=sol, width=k // 2)
+        d.ellipse((cx - r, cy - r, cx + r, cy + r), fill=sol)
+    else:
+        franja = h / 13
+        for i in range(0, 13, 2):
+            d.rectangle((0, i * franja, w, (i + 1) * franja), fill=(178, 34, 52))
+        cw, ch = w * 0.4, franja * 7
+        d.rectangle((0, 0, cw, ch), fill=(60, 59, 110))
+        for fila in range(5):
+            for col in range(6 - fila % 2):
+                x, y = cw * (col + 0.5 + (fila % 2) * 0.5) / 6, ch * (fila + 0.5) / 5
+                d.ellipse((x - k * 0.7, y - k * 0.7, x + k * 0.7, y + k * 0.7), fill=(255, 255, 255))
+    a = np.asarray(f.resize((round(ancho * E), round(alto * E)), Image.LANCZOS)).astype(np.float32) / 255
+    lum = (a @ np.array([0.3, 0.59, 0.11]))[..., None]
+    oscuro, claro = np.array([10, 20, 60]) / 255, np.array([190, 240, 255]) / 255
+    duo = oscuro + (claro - oscuro) * lum
+    mezcla = a * 0.5 + duo * 0.5 if activo else (a * 0.2 + duo * 0.8) * 0.55
+    mezcla[::2] *= 0.86
+    mezcla[: mezcla.shape[0] // 2] += 0.08
+    img = Image.fromarray((np.clip(mezcla, 0, 1) * 255).astype(np.uint8), "RGB").convert("RGBA")
+    ImageDraw.Draw(img).rectangle((0, 0, img.width - 1, img.height - 1), outline=CYAN + ((200,) if activo else (60,)))
+    return img
+
+
+def frase():
+    """El subtítulo bajo el logo ("Jenseits von Gut und Böse", que el aplicador va traduciendo
+    mientras aplica la traducción). Imágenes del ancho de la ventana para dibujar en
+    (0, FRASE_Y - MARGEN): en alemán, en español, un halo suave del español (letra por letra,
+    mientras se descifra) y el brillo final, con un destello horizontal y remates a los costados.
+    Devuelve también dónde empieza y cuánto mide cada letra del español."""
+    gf = font("GARA.TTF", 11.5)
+    esp = 3.2
+    alto = 30
+
+    def capa(texto, color):
+        ancho = sum(gf.getlength(c) / S + esp for c in texto) - esp
+        x0 = (W - ancho) / 2
+        img = Image.new("RGBA", (W * S, alto * S), (0, 0, 0, 0))
+        return img, x0, text_layer(img.size, (x0 * S, MARGEN * S), texto, gf, color, esp)
+
+    out = {}
+    _, _, de = capa(FRASE_DE, (190, 198, 222, 230))
+    out["frase_de"] = down(de)
+    img, x0, es = capa(FRASE_ES, (255, 255, 255, 255))
+    out["frase_es"] = down(es)
+    _, _, cian = capa(FRASE_ES, CYAN + (255,))
+    out["frase_es_halo"] = down(glow(cian, 4, 1.3))
+    ancho = sum(gf.getlength(c) / S + esp for c in FRASE_ES) - esp
+    brillo = Image.new("RGBA", img.size, (0, 0, 0, 0))
+    xs = np.linspace(-1, 1, img.width)
+    alfa = (np.clip(1 - np.abs(xs) * 1.15, 0, 1) ** 2.2 * 255).astype(np.uint8)
+    franja = Image.fromarray(np.tile(alfa, (2 * S, 1)), "L")
+    rayo = Image.new("RGBA", img.size, (0, 0, 0, 0))
+    rayo.paste(Image.new("RGBA", franja.size, (200, 250, 255, 255)), (0, (MARGEN + 8) * S), franja)
+    brillo.alpha_composite(glow(rayo, 5, 2.5))
+    brillo.alpha_composite(rayo)
+    grueso = cian.filter(ImageFilter.MaxFilter(7))
+    brillo.alpha_composite(glow(grueso, 12, 2.2))
+    brillo.alpha_composite(glow(grueso, 4, 1.6))
+    d = ImageDraw.Draw(brillo)
+    y = MARGEN + 8
+    for lado in (-1, 1):
+        xa = x0 - 10 if lado < 0 else x0 + ancho + 10
+        xb = xa + 30 * lado
+        d.line(px(xa, y, xb, y), fill=CYAN + (220,), width=S)
+        d.polygon([tuple(px(xb, y - 2.5)), tuple(px(xb + 2.5 * lado, y)), tuple(px(xb, y + 2.5)), tuple(px(xb - 2.5 * lado, y))],
+                  fill=(230, 250, 255, 255))
+    out["frase_es_brillo"] = down(brillo)
+    xs_letras, anchos, x = [], [], x0
+    for c in FRASE_ES:
+        xs_letras.append(round(x, 2))
+        anchos.append(round(gf.getlength(c) / S, 2))
+        x += gf.getlength(c) / S + esp
+    return out, xs_letras, anchos
 
 
 # ---------------------------------------------------------------- sonidos
@@ -581,14 +750,18 @@ def icono(zohar, path):
     imgs[-1].save(path, format="ICO", sizes=[(s, s) for s in sizes], append_images=imgs[:-1])
 
 
-def diseno_cs(gema, path):
+def diseno_cs(gema, path, edicion, frase_x, frase_w):
     def rect(b):
         return f"new Rectangle({b[0]}, {b[1]}, {b[2] - b[0]}, {b[3] - b[1]})"
+
+    def floats(v):
+        return ", ".join(f"{x}f" for x in v)
 
     bx0, by0, bx1, by1 = BOTON
     tip = (by1 - by0) // 2
     forma = [(bx0 + tip + 2, by0 + 3), (bx1 - tip - 2, by0 + 3), (bx1 - 4, by0 + tip), (bx1 - tip - 2, by1 - 3),
              (bx0 + tip + 2, by1 - 3), (bx0 + 4, by0 + tip)]
+    mod = MODULOS[edicion]
     lines = [
         "// Generado por tools/aplicador/arte.py: medidas de la ventana y del arte. No editar a mano.",
         "// Están en medidas de diseño; la ventana real mide Escala veces más, como las imágenes.",
@@ -597,14 +770,20 @@ def diseno_cs(gema, path):
         "static class Diseno",
         "{",
         f"    public const float Escala = {E}f;",
-        f"    public const int Ancho = {W}, Alto = {H}, Segmentos = {SEGMENTOS};",
+        f"    public const int Ancho = {W}, Alto = {H}, Segmentos = {SEGMENTOS}, Margen = {MARGEN};",
         f"    public static readonly Rectangle Minimizar = {rect(MINIMIZAR)}, Cerrar = {rect(CERRAR)};",
         f"    public static readonly Rectangle[] Ranuras = {{ {rect(RANURAS[0])}, {rect(RANURAS[1])} }};",
         f"    public static readonly Rectangle Boton = {rect(BOTON)}, BotonZona = {rect(BOTON_ZONA)};",
         "    public static readonly Point[] BotonForma = { " + ", ".join(f"new Point({x}, {y})" for x, y in forma) + " };",
         f"    public static readonly Rectangle Progreso = {rect(PROGRESO)}, Registro = {rect(REGISTRO)}, Scroller = {rect(SCROLLER)};",
         f"    public static readonly Rectangle Musica = {rect(MUSICA)}, Leeme = {rect(LEEME)}, Salir = {rect(SALIR)};",
+        f"    public static readonly Rectangle ModuloTraduccion = {rect(mod['traduccion'])}, ModuloDe = {rect(mod['de'])};",
+        f"    public static readonly Rectangle[] Idiomas = {{ {rect(IDIOMAS[0])}, {rect(IDIOMAS[1])} }};",
+        f"    public static readonly Rectangle Restablecer = {rect(RESTABLECER)}, Listo = {rect(LISTO)};",
         f"    public static readonly Point Gema = new Point({gema[0]}, {gema[1]});",
+        f"    public const float FraseY = {FRASE_Y}f;",
+        f'    public const string FraseEs = "{FRASE_ES}";',
+        f"    public static readonly float[] FraseX = {{ {floats(frase_x)} }}, FraseAncho = {{ {floats(frase_w)} }};",
         "}",
         "",
     ]
@@ -612,8 +791,10 @@ def diseno_cs(gema, path):
         f.write("\n".join(lines))
 
 
-def generar(version, carpeta):
-    """Arma en carpeta: arte.zip (imágenes, sonidos y música), Diseno.cs e icono.ico."""
+def generar(version, carpeta, edicion="es", con_de=True):
+    """Arma en carpeta: arte.zip (imágenes, sonidos y música), Diseno.cs e icono.ico. edicion es la de
+    la traducción ("es") o la de la Definitive Edition ("de"): cambian el título, los créditos y el
+    orden de las casillas."""
     os.makedirs(carpeta, exist_ok=True)
     rutas = descargar()
     img_ext = {
@@ -623,19 +804,29 @@ def generar(version, carpeta):
         "logo": logo_sin_fondo(rutas["logo"]),
     }
     img_ext["zohar"] = img_ext["zohar"].crop(img_ext["zohar"].getchannel("A").getbbox())
-    atras, frente, gema = capas(img_ext, version)
+    atras, frente, gema = capas(img_ext)
     pngs = {"fondo_atras.png": atras, "fondo_frente.png": frente, "gema.png": brillo_gema()}
-    for estado in ("normal", "hover", "presionado", "inactivo"):
-        pngs[f"boton_{estado}.png"] = boton_principal(estado)
-    for nombre, label in (("musica", "MÚSICA"), ("leeme", "LEEME"), ("salir", "SALIR"), ("si", "SÍ"), ("no", "NO")):
-        for estado in ("normal", "hover", "presionado"):
-            pngs[f"{nombre}_{estado}.png"] = boton_chico(label, estado)
+    for idioma in ("es", "en"):
+        rot = ROTULOS[idioma]
+        for estado in ("normal", "hover", "presionado", "inactivo"):
+            pngs[f"boton_{idioma}_{estado}.png"] = boton_principal(estado, rot["boton"])
+        for nombre in ("musica", "leeme", "salir", "si", "no", "restablecer", "listo"):
+            for estado in ("normal", "hover", "presionado"):
+                pngs[f"{nombre}_{idioma}_{estado}.png"] = boton_chico(rot[nombre], estado)
+        for clave, (es, en, color) in CHIPS.items():
+            pngs[f"chip_{idioma}_{clave}.png"] = chip(es if idioma == "es" else en, color)
+        creditos = [c for c in CREDITOS[(edicion, idioma)] if con_de or "DEFINITIVE EDITION:" not in c]
+        pngs[f"scroller_{idioma}.png"] = scroller(creditos)
+        pngs.update({k + ".png": v for k, v in textos(edicion, version, idioma).items()})
     for nombre, glyph in (("minimizar", "_"), ("cerrar", "×")):
         for estado in ("normal", "hover", "presionado"):
             pngs[f"{nombre}_{estado}.png"] = boton_titulo(glyph, estado)
-    for clave, (texto, color) in CHIPS.items():
-        pngs[f"chip_{clave}.png"] = chip(texto, color)
-    pngs["scroller.png"] = scroller()
+    pngs.update({k + ".png": v for k, v in comunes().items()})
+    for pais in ("ar", "us"):
+        for activo in (True, False):
+            pngs[f"bandera_{pais}_{'on' if activo else 'off'}.png"] = bandera(pais, activo)
+    imgs_frase, frase_x, frase_w = frase()
+    pngs.update({k + ".png": v for k, v in imgs_frase.items()})
 
     arte = os.path.join(carpeta, "arte.zip")
     with zipfile.ZipFile(arte, "w", zipfile.ZIP_STORED) as z:
@@ -649,7 +840,7 @@ def generar(version, carpeta):
             z.write(TEMA, "tema.mp3")
         else:
             print(f"ojo: no está {TEMA}: el aplicador va a quedar sin música")
-    diseno_cs(gema, os.path.join(carpeta, "Diseno.cs"))
+    diseno_cs(gema, os.path.join(carpeta, "Diseno.cs"), edicion, frase_x, frase_w)
     icono(img_ext["zohar"], os.path.join(carpeta, "icono.ico"))
     return arte, os.path.join(carpeta, "Diseno.cs"), os.path.join(carpeta, "icono.ico")
 
@@ -657,4 +848,4 @@ def generar(version, carpeta):
 if __name__ == "__main__":
     import sys
     out = os.path.join(ROOT, "work", "publicar", "arte")
-    print(generar(sys.argv[1] if len(sys.argv) > 1 else "0.0", out))
+    print(generar(sys.argv[1] if len(sys.argv) > 1 else "0.0", out, sys.argv[2] if len(sys.argv) > 2 else "es"))

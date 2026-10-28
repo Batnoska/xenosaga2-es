@@ -1,4 +1,5 @@
-// Aplicador del parche de la traducción al español de Xenosaga Episode II (PS2, NTSC-U).
+// Aplicador del parche de Xenosaga Episode II (PS2, NTSC-U): la traducción al español y la
+// Definitive Edition, juntas o por separado.
 //
 // Hace lo mismo que "python tools/parche.py aplicar" (con x2iso.build), pero en C# 5 para que
 // funcione en cualquier Windows sin instalar nada: tools/kit.py lo compila con el csc que trae
@@ -7,8 +8,10 @@
 //
 // Uso: abrirlo y elegir las ISO en la ventana (Ventana.cs), o arrastrarlas sobre el .exe.
 //   Aplicar parche.exe [ISO...]                      la ventana, con esas ISO ya elegidas
-//   Aplicar parche.exe --salida CARPETA ISO...       sin ventana (para las pruebas del kit)
+//   Aplicar parche.exe --salida CARPETA ISO...       sin ventana (para las pruebas del kit), con
+//       [--sin-traduccion] [--perfil definitiva] [--opcion deuda=0 ...] para la Definitive Edition
 //   Aplicar parche.exe --captura ARCHIVO.png [ISO...] guarda imágenes de la ventana (con esas ISO elegidas)
+//   --idioma es|en                                   el idioma de los mensajes (si no, el de Windows)
 using System;
 using System.Collections.Generic;
 using System.IO;
@@ -67,7 +70,7 @@ static partial class Aplicador
             if (pvd.Length < SECTOR || Latin1.GetString(pvd, 1, 5) != "CD001")
             {
                 F.Dispose();
-                throw new InvalidDataException("no es una imagen ISO de DVD");
+                throw new InvalidDataException(T("no es una imagen ISO de DVD"));
             }
             long rootLba = BitConverter.ToUInt32(pvd, 158), rootLen = BitConverter.ToUInt32(pvd, 166);
             byte[] d = ReadSectors(rootLba, Sectors(rootLen));
@@ -194,7 +197,7 @@ static partial class Aplicador
             DataName = "XENOSAGA." + group + "1";
             Base = iso.ByName[IndexName].Lba;
             if (iso.ByName[DataName].Lba != Base + Sectors(iso.ByName[IndexName].Size))
-                throw new InvalidDataException("el volumen " + group + " no tiene el formato esperado");
+                throw new InvalidDataException(T("el volumen {0} no tiene el formato esperado", group));
             Index = iso.ReadFile(IndexName);
             foreach (Entry e in ParseIndex(Index))
                 ByPath[e.Path] = e;
@@ -375,7 +378,7 @@ static partial class Aplicador
     static ZipArchive OpenPackage(out Dictionary<string, List<PatchEntry>> manifest)
     {
         Stream s = Assembly.GetExecutingAssembly().GetManifestResourceStream("parche.zip");
-        if (s == null) throw new InvalidDataException("al programa le falta el paquete de la traducción");
+        if (s == null) throw new InvalidDataException(T("al programa le falta el paquete del parche"));
         var zip = new ZipArchive(s, ZipArchiveMode.Read);
         manifest = new Dictionary<string, List<PatchEntry>>();
         using (var reader = new StreamReader(zip.GetEntry("manifest.tsv").Open(), Encoding.UTF8))
@@ -440,6 +443,115 @@ static partial class Aplicador
 
     static string Gb(long bytes) { return (bytes / (1024.0 * 1024 * 1024)).ToString("0.0"); }
 
+    // ---- Definitive Edition (de.tsv, que arma parche.definitiva_tsv) ----
+
+    class CambioDe { public bool Ejecutable; public int Seccion, Pos, Ancho; public long Original, Nuevo; }
+
+    class OpcionDe
+    {
+        public string Id, Grupo;
+        public bool Probada;
+        public string[] Nombre, Descripcion;                            // en español y en inglés
+        public readonly List<string[]> Niveles = new List<string[]>();  // etiqueta de cada nivel; ninguna si hay uno solo
+        public readonly Dictionary<int, List<CambioDe>> Cambios = new Dictionary<int, List<CambioDe>>();
+        public int CantidadNiveles { get { return Math.Max(1, Niveles.Count); } }
+    }
+
+    class PerfilDe { public string Id; public string[] Nombre, Descripcion; public Dictionary<string, int> Niveles; }
+
+    class Definitiva
+    {
+        public readonly Dictionary<string, string[]> Grupos = new Dictionary<string, string[]>();
+        public readonly List<OpcionDe> Opciones = new List<OpcionDe>();
+        public readonly List<PerfilDe> Perfiles = new List<PerfilDe>();
+        public OpcionDe Opcion(string id) { return Opciones.FirstOrDefault(o => o.Id == id); }
+        public PerfilDe Perfil(string id) { return Perfiles.FirstOrDefault(p => p.Id == id); }
+    }
+
+    // null si el paquete no trae la Definitive Edition.
+    static Definitiva LeerDefinitiva(ZipArchive zip)
+    {
+        ZipArchiveEntry entry = zip.GetEntry("de.tsv");
+        if (entry == null) return null;
+        var de = new Definitiva();
+        using (var reader = new StreamReader(entry.Open(), Encoding.UTF8))
+        {
+            string line;
+            while ((line = reader.ReadLine()) != null)
+            {
+                string[] c = line.Split('\t');
+                switch (c[0])
+                {
+                    case "grupo":
+                        de.Grupos[c[1]] = new[] { c[2], c[3] };
+                        break;
+                    case "opcion":
+                        de.Opciones.Add(new OpcionDe { Id = c[1], Grupo = c[2], Probada = c[3] == "1", Nombre = new[] { c[4], c[5] }, Descripcion = new[] { c[6], c[7] } });
+                        break;
+                    case "nivel":
+                        de.Opcion(c[1]).Niveles.Add(new[] { c[3], c[4] });
+                        break;
+                    case "perfil":
+                        de.Perfiles.Add(new PerfilDe
+                        {
+                            Id = c[1], Nombre = new[] { c[2], c[3] }, Descripcion = new[] { c[4], c[5] },
+                            Niveles = c[6].Split(new[] { ',' }, StringSplitOptions.RemoveEmptyEntries)
+                                          .Select(p => p.Split('=')).ToDictionary(p => p[0], p => int.Parse(p[1])),
+                        });
+                        break;
+                    case "cambio":
+                        OpcionDe o = de.Opcion(c[1]);
+                        int nivel = int.Parse(c[2]);
+                        List<CambioDe> lista;
+                        if (!o.Cambios.TryGetValue(nivel, out lista)) o.Cambios[nivel] = lista = new List<CambioDe>();
+                        lista.Add(new CambioDe
+                        {
+                            Ejecutable = c[3] == "exe", Seccion = int.Parse(c[4]), Pos = int.Parse(c[5]), Ancho = int.Parse(c[6]),
+                            Original = long.Parse(c[7]), Nuevo = long.Parse(c[8]),
+                        });
+                        break;
+                }
+            }
+        }
+        return de;
+    }
+
+    // Qué se aplica: la traducción y, de la Definitive Edition, el nivel de cada opción (0 = no).
+    class Seleccion
+    {
+        public bool Traduccion = true;
+        public readonly Dictionary<string, int> Niveles = new Dictionary<string, int>();
+
+        public List<CambioDe> Cambios(Definitiva de)
+        {
+            var lista = new List<CambioDe>();
+            if (de != null)
+                foreach (OpcionDe o in de.Opciones)
+                {
+                    int n;
+                    if (Niveles.TryGetValue(o.Id, out n) && n > 0) lista.AddRange(o.Cambios[n]);
+                }
+            return lista;
+        }
+    }
+
+    const string Batdat = "yamamoto/batdat.us";
+
+    // Escribe los cambios en batdat.us y el ejecutable comprobando cada valor original
+    // (parche.aplicar_de). En batdat.us la posición es relativa al inicio de la sección.
+    static void AplicarDe(List<CambioDe> cambios, byte[] batdat, byte[] exe)
+    {
+        foreach (CambioDe c in cambios)
+        {
+            byte[] datos = c.Ejecutable ? exe : batdat;
+            int p = c.Ejecutable ? c.Pos : (int)BitConverter.ToUInt32(batdat, 8 + 4 * c.Seccion) + c.Pos;
+            long actual = 0;
+            for (int k = c.Ancho - 1; k >= 0; k--) actual = actual << 8 | datos[p + k];
+            if (actual != c.Original) throw new InvalidDataException(T("los datos de la Definitive Edition no son los esperados"));
+            for (int k = 0; k < c.Ancho; k++) datos[p + k] = (byte)(c.Nuevo >> 8 * k);
+        }
+    }
+
     // Lo que cuenta Process mientras trabaja: la consola lo escribe y la ventana lo muestra.
     interface IAviso
     {
@@ -467,7 +579,7 @@ static partial class Aplicador
             {
                 List<PatchEntry> entries;
                 if (iso.Executable == null || !manifest.TryGetValue(iso.Executable, out entries))
-                    return "No es Xenosaga Episode II en versión americana (NTSC-U).";
+                    return T("No es Xenosaga Episode II en versión americana (NTSC-U).");
                 disc = Discos[iso.Executable];
                 string exe = iso.Executable;
                 PatchEntry e = entries.First(x => x.Group == "raiz" && x.Path == exe);
@@ -478,48 +590,52 @@ static partial class Aplicador
                     if (entries.Any(x => Sha1(Current(iso, volumes, x)) != x.New))
                     {
                         estado = "anterior";
-                        return string.Format(Anterior, disc);
+                        return T(Anterior, disc);
                     }
                     estado = "traducida";
-                    return string.Format("Disco {0}: esta ISO ya tiene la traducción.", disc);
+                    return T("Disco {0}: esta ISO ya tiene la traducción.", disc);
                 }
                 if (sha != e.Original)
                 {
                     estado = "distinta";
-                    return string.Format("Disco {0}: no es la versión original (¿otro parche?).", disc);
+                    return T("Disco {0}: no es la versión original (¿otro parche?).", disc);
                 }
                 estado = "original";
-                return string.Format("Disco {0}: listo para aplicar el parche.", disc);
+                return T("Disco {0}: listo para aplicar el parche.", disc);
             }
         }
-        catch (InvalidDataException ex) { return "No se puede usar: " + ex.Message + "."; }
-        catch (IOException ex) { return "No se puede abrir: " + ex.Message; }
-        catch (UnauthorizedAccessException ex) { return "No se puede abrir: " + ex.Message; }
+        catch (InvalidDataException ex) { return T("No se puede usar: {0}.", ex.Message); }
+        catch (IOException ex) { return T("No se puede abrir: {0}", ex.Message); }
+        catch (UnauthorizedAccessException ex) { return T("No se puede abrir: {0}", ex.Message); }
     }
 
     // El avance de una ISO: 0-10 % comprobar, 10-95 % crear y 95-100 % verificar.
-    static Resultado Process(string isoPath, string outDir, ZipArchive zip, Dictionary<string, List<PatchEntry>> manifest, IAviso aviso)
+    static Resultado Process(string isoPath, string outDir, ZipArchive zip, Dictionary<string, List<PatchEntry>> manifest,
+                             Definitiva de, Seleccion sel, IAviso aviso)
     {
         if (!File.Exists(isoPath))
         {
-            aviso.Linea("No se encuentra el archivo.");
+            aviso.Linea(T("No se encuentra el archivo."));
             return Resultado.Error;
         }
         var replacements = new Dictionary<int, SortedDictionary<string, byte[]>>();
         var loose = new Dictionary<string, byte[]>();
-        List<PatchEntry> entries;
+        var esperado = new Dictionary<string, string>();  // "grupo|ruta" -> SHA-1 que debe tener la ISO nueva
+        List<CambioDe> cambios = sel.Cambios(de);
+        bool tradujo;
         int disc;
         try
         {
             using (var iso = new Iso(isoPath))
             {
+                List<PatchEntry> entries;
                 if (iso.Executable == null || !manifest.TryGetValue(iso.Executable, out entries))
                 {
-                    aviso.Linea("No es Xenosaga Episode II en versión americana (NTSC-U).");
+                    aviso.Linea(T("No es Xenosaga Episode II en versión americana (NTSC-U)."));
                     return Resultado.Error;
                 }
                 disc = Discos[iso.Executable];
-                aviso.Linea(string.Format("Disco {0}: comprobando los archivos...", disc));
+                aviso.Linea(T("Disco {0}: comprobando los archivos...", disc));
                 var volumes = iso.Groups.ToDictionary(g => g, g => new Volume(iso, g));
                 var bad = new List<string>();
                 bool exeTraducido = false;
@@ -529,6 +645,7 @@ static partial class Aplicador
                     aviso.Avance(i * 10 / entries.Count);
                     byte[] current = Current(iso, volumes, e);
                     string sha = Sha1(current);
+                    esperado[e.Group + "|" + e.Path] = sha;
                     if (e.Group == "raiz" && e.Path == iso.Executable) exeTraducido = sha == e.New;
                     if (sha == e.New) continue;  // ya está traducido
                     if (sha != e.Original)
@@ -536,8 +653,9 @@ static partial class Aplicador
                         bad.Add(e.Path);
                         continue;
                     }
+                    if (!sel.Traduccion) continue;
                     byte[] data = Undelta(current, ReadEntry(zip, e.Stored));
-                    if (Sha1(data) != e.New) throw new InvalidDataException("el paquete está dañado (" + e.Stored + ")");
+                    if (Sha1(data) != e.New) throw new InvalidDataException(T("el paquete está dañado ({0})", e.Stored));
                     if (e.Group == "raiz")
                         loose[e.Path] = data;
                     else
@@ -549,36 +667,53 @@ static partial class Aplicador
                 }
                 if (bad.Count > 0 && exeTraducido)
                 {
-                    foreach (string linea in string.Format(Anterior, disc).Split('\n')) aviso.Linea(linea);
+                    foreach (string linea in T(Anterior, disc).Split('\n')) aviso.Linea(linea);
                     return Resultado.Error;
                 }
                 if (bad.Count > 0)
                 {
-                    aviso.Linea(string.Format("Disco {0}: {1} archivos no son los originales. No se tocó nada.", disc, bad.Count));
+                    aviso.Linea(T("Disco {0}: {1} archivos no son los originales. No se tocó nada.", disc, bad.Count));
                     foreach (string b in bad.Take(10)) aviso.Detalle(b);
-                    if (bad.Count > 10) aviso.Detalle(string.Format("... y {0} más", bad.Count - 10));
-                    aviso.Linea("¿Es otra versión o una ISO con otro parche?");
+                    if (bad.Count > 10) aviso.Detalle(T("... y {0} más", bad.Count - 10));
+                    aviso.Linea(T("¿Es otra versión o una ISO con otro parche?"));
                     return Resultado.Error;
+                }
+                tradujo = loose.Count + replacements.Count > 0;
+                if (cambios.Count > 0)
+                {
+                    // La Definitive Edition va sobre batdat.us y el ejecutable, traducidos o no.
+                    SortedDictionary<string, byte[]> g0;
+                    byte[] batdat, exe;
+                    if (!replacements.TryGetValue(0, out g0)) replacements[0] = g0 = new SortedDictionary<string, byte[]>(StringComparer.Ordinal);
+                    if (!g0.TryGetValue(Batdat, out batdat)) batdat = volumes[0].Read(volumes[0].ByPath[Batdat]);
+                    if (!loose.TryGetValue(iso.Executable, out exe)) exe = iso.ReadFile(iso.Executable);
+                    AplicarDe(cambios, batdat, exe);
+                    g0[Batdat] = batdat;
+                    loose[iso.Executable] = exe;
                 }
             }
         }
         catch (InvalidDataException ex)
         {
-            aviso.Linea("No se puede usar: " + ex.Message + ".");
+            aviso.Linea(T("No se puede usar: {0}.", ex.Message));
             return Resultado.Error;
         }
+        foreach (var kv in loose) esperado["raiz|" + kv.Key] = Sha1(kv.Value);
+        foreach (var g in replacements)
+            foreach (var kv in g.Value) esperado[g.Key + "|" + kv.Key] = Sha1(kv.Value);
         int count = loose.Count + replacements.Values.Sum(r => r.Count);
         if (count == 0)
         {
-            aviso.Linea(string.Format("Disco {0}: esta ISO ya tiene la traducción.", disc));
+            aviso.Linea(T("Disco {0}: esta ISO ya tiene la traducción.", disc));
             return Resultado.YaTraducida;
         }
 
-        string name = Path.GetFileNameWithoutExtension(isoPath) + " (Español).iso";
+        string sufijo = tradujo && cambios.Count > 0 ? T(" (Español + Definitive)") : tradujo ? T(" (Español)") : " (Definitive)";
+        string name = Path.GetFileNameWithoutExtension(isoPath) + sufijo + ".iso";
         string outPath = Path.Combine(outDir ?? Path.GetDirectoryName(Path.GetFullPath(isoPath)), name);
-        if (File.Exists(outPath) && !aviso.Confirmar(string.Format("Ya existe \"{0}\". ¿Reemplazarlo?", name)))
+        if (File.Exists(outPath) && !aviso.Confirmar(T("Ya existe \"{0}\". ¿Reemplazarlo?", name)))
         {
-            aviso.Linea("No se tocó nada.");
+            aviso.Linea(T("No se tocó nada."));
             return Resultado.Error;
         }
         long needed = new FileInfo(isoPath).Length + 64L * 1024 * 1024;
@@ -587,25 +722,27 @@ static partial class Aplicador
             var drive = new DriveInfo(Path.GetPathRoot(Path.GetFullPath(outPath)));
             if (drive.AvailableFreeSpace < needed)
             {
-                aviso.Linea(string.Format("Falta espacio: hacen falta {0} GB libres en {1}.", Gb(needed), drive.Name));
+                aviso.Linea(T("Falta espacio: hacen falta {0} GB libres en {1}.", Gb(needed), drive.Name));
                 return Resultado.Error;
             }
         }
         catch (ArgumentException) { }  // unidad de red: se intenta igual
 
-        aviso.Linea(string.Format("Disco {0}: creando \"{1}\"...", disc, name));
+        aviso.Linea(T("Disco {0}: creando \"{1}\"...", disc, name));
         try
         {
             Build(isoPath, outPath, replacements, loose, (done, total) => aviso.Avance(10 + (int)(done * 85 / total)));
-            aviso.Linea(string.Format("Disco {0}: verificando...", disc));
+            aviso.Linea(T("Disco {0}: verificando...", disc));
             using (var result = new Iso(outPath))
             {
                 var volumes = result.Groups.ToDictionary(g => g, g => new Volume(result, g));
-                for (int i = 0; i < entries.Count; i++)
+                int i = 0;
+                foreach (var kv in esperado)
                 {
-                    aviso.Avance(95 + i * 5 / entries.Count);
-                    if (Sha1(Current(result, volumes, entries[i])) != entries[i].New)
-                        throw new InvalidDataException("la ISO creada no coincide con la esperada");
+                    aviso.Avance(95 + i++ * 5 / esperado.Count);
+                    string[] partes = kv.Key.Split(new[] { '|' }, 2);
+                    if (Sha1(Current(result, volumes, new PatchEntry { Group = partes[0], Path = partes[1] })) != kv.Value)
+                        throw new InvalidDataException(T("la ISO creada no coincide con la esperada"));
                 }
             }
         }
@@ -613,11 +750,16 @@ static partial class Aplicador
         {
             try { File.Delete(outPath); } catch (IOException) { }
             if (ex is OperationCanceledException) throw;
-            aviso.Linea("Error: " + ex.Message);
+            aviso.Linea(T("Error: {0}", ex.Message));
             return Resultado.Error;
         }
         aviso.Avance(100);
-        aviso.Linea(string.Format("Listo: disco {0} traducido ({1} archivos).", disc, count));
+        if (!tradujo)
+            aviso.Linea(T("Listo: disco {0} con la Definitive Edition.", disc));
+        else if (cambios.Count > 0)
+            aviso.Linea(T("Listo: disco {0} traducido y con la Definitive Edition.", disc));
+        else
+            aviso.Linea(T("Listo: disco {0} traducido ({1} archivos).", disc, count));
         return Resultado.Lista;
     }
 
@@ -641,26 +783,32 @@ static partial class Aplicador
 
         public bool Confirmar(string pregunta)
         {
-            Linea(pregunta + " (s/n): ");
+            Linea(pregunta + T(" (s/n): "));
             string answer = Console.ReadLine();
-            return answer != null && answer.Trim().StartsWith("s", StringComparison.OrdinalIgnoreCase);
+            return answer != null && answer.Trim().StartsWith(T("s"), StringComparison.OrdinalIgnoreCase);
         }
     }
 
     [STAThread]
     static int Main(string[] args)
     {
-        string outDir = null, captura = null;
-        bool consola = false;
+        string outDir = null, captura = null, perfil = null;
+        bool consola = false, sinTraduccion = false;
         var isos = new List<string>();
+        var opciones = new List<string>();
+        Idioma = System.Globalization.CultureInfo.CurrentUICulture.TwoLetterISOLanguageName == "es" ? 0 : 1;
         for (int i = 0; i < args.Length; i++)
         {
             if (args[i] == "--salida" && i + 1 < args.Length) { outDir = args[++i]; consola = true; }
             else if (args[i] == "--consola") consola = true;
             else if (args[i] == "--captura" && i + 1 < args.Length) captura = args[++i];
+            else if (args[i] == "--idioma" && i + 1 < args.Length) Idioma = args[++i] == "es" ? 0 : 1;
+            else if (args[i] == "--sin-traduccion") sinTraduccion = true;
+            else if (args[i] == "--perfil" && i + 1 < args.Length) perfil = args[++i];
+            else if (args[i] == "--opcion" && i + 1 < args.Length) opciones.Add(args[++i]);
             else isos.Add(args[i]);
         }
-        if (consola) return Consola(isos, outDir);
+        if (consola) return Consola(isos, outDir, sinTraduccion, perfil, opciones);
         Application.EnableVisualStyles();
         Application.SetCompatibleTextRenderingDefault(false);
         if (captura != null) return Ventana.Capturar(captura, isos) ? 0 : 1;
@@ -669,32 +817,50 @@ static partial class Aplicador
     }
 
     // Modo sin ventana, para las pruebas de tools/kit.py: escribe en la salida estándar.
-    static int Consola(List<string> isos, string outDir)
+    static int Consola(List<string> isos, string outDir, bool sinTraduccion, string perfil, List<string> opciones)
     {
         var output = new StreamWriter(Console.OpenStandardOutput(), new UTF8Encoding(false)) { AutoFlush = true };
         Console.SetOut(output);
-        Console.WriteLine("Xenosaga Episode II en español - versión " + Version);
+        Console.WriteLine(T(Titulo) + " - " + T("versión {0}", Version));
         bool ok = true;
         try
         {
             Dictionary<string, List<PatchEntry>> manifest;
             using (ZipArchive zip = OpenPackage(out manifest))
             {
+                Definitiva de = LeerDefinitiva(zip);
+                var sel = new Seleccion { Traduccion = !sinTraduccion };
+                if ((perfil != null || opciones.Count > 0) && de == null) throw new InvalidDataException(T("este paquete no trae la Definitive Edition"));
+                if (perfil != null)
+                {
+                    PerfilDe p = de.Perfil(perfil);
+                    if (p == null) throw new ArgumentException(T("perfil desconocido: {0}", perfil));
+                    foreach (var kv in p.Niveles) sel.Niveles[kv.Key] = kv.Value;
+                }
+                foreach (string o in opciones)
+                {
+                    string[] partes = o.Split('=');
+                    int nivel;
+                    OpcionDe op = de.Opcion(partes[0]);
+                    if (op == null || partes.Length != 2 || !int.TryParse(partes[1], out nivel) || nivel < 0 || nivel > op.CantidadNiveles)
+                        throw new ArgumentException(T("opción desconocida: {0}", o));
+                    sel.Niveles[partes[0]] = nivel;
+                }
                 foreach (string iso in isos)
                 {
                     Console.WriteLine();
                     Console.WriteLine(Path.GetFileName(iso));
-                    ok &= Process(iso, outDir, zip, manifest, new AvisoConsola()) != Resultado.Error;
+                    ok &= Process(iso, outDir, zip, manifest, de, sel, new AvisoConsola()) != Resultado.Error;
                 }
             }
         }
         catch (Exception ex)
         {
-            Console.WriteLine("Error inesperado: " + ex.Message);
+            Console.WriteLine(T("Error inesperado: {0}", ex.Message));
             ok = false;
         }
         Console.WriteLine();
-        Console.WriteLine(ok ? "Terminado." : "Terminado con problemas.");
+        Console.WriteLine(ok ? T("Terminado.") : T("Terminado con problemas."));
         return ok ? 0 : 1;
     }
 }

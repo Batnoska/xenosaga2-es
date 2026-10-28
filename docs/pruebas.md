@@ -16,6 +16,24 @@ todo de corrido; con partidas guardadas en los puntos clave alcanza.
   - cerrar a mitad de un parche tiene que preguntar, y si cancelás, no tiene que quedar una
     ISO a medio crear;
   - si ya existe la ISO en español, tiene que preguntar antes de reemplazarla.
+- [ ] **La Definitive Edition en el aplicador:**
+  - las dos casillas de arriba se marcan y desmarcan; sin ninguna, el botón dice ELIGE QUÉ
+    APLICAR;
+  - el engranaje abre la configuración: los perfiles, las casillas, las flechas ‹ › de cada
+    nivel, el detalle al pasar el ratón, PERSONALIZADA cuando tocás algo, RESTABLECER, LISTO
+    y Esc;
+  - las banderas pasan toda la ventana a inglés o a español (también la configuración y los
+    mensajes);
+  - la frase de abajo del logo: en alemán al abrir, se descifra mientras se aplica la
+    traducción y queda en español con brillo al terminar; con solo la Definitive Edition queda
+    en alemán;
+  - una ISO ya traducida con esta versión y solo la Definitive Edition marcada: el botón se
+    habilita y crea la ISO terminada en "(Definitive)".
+- [ ] **En el juego, con el perfil Definitiva** (las tres opciones "en prueba"):
+  - Ice Brand pide 1 de Stock en vez de 2;
+  - First Combo se puede comprar sin la Llave secreta 16;
+  - la deuda de la Campaña SG es de 1.000.000 (solo en una partida en la que todavía no
+    apareció).
 - [ ] Guardá en la tarjeta de memoria en estos puntos, para volver rápido después de cada
   corrección: antes del primer combate, al llegar a la Fundación, en el Dämmerung, y antes
   del cambio de disco.

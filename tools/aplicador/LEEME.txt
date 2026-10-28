@@ -17,6 +17,10 @@ errores").
 Las versiones nuevas se publican en:
   https://github.com/Batnoska/xenosaga2-es/releases
 
+Con el mismo programa se puede aplicar también la Definitive Edition, un parche
+opcional de mejoras para el combate y la progresión (ver más abajo). Se puede
+aplicar junto con la traducción o solo.
+
 
 QUÉ NECESITAS
 -------------
@@ -33,24 +37,51 @@ formato (CHD, CSO, BIN/CUE), conviértela primero a ISO.
 CÓMO APLICARLO EN WINDOWS
 -------------------------
 1. Abre "Aplicar parche.exe".
-2. Arrastra las ISO originales a la ventana, o haz clic en "DISCO 1" y "DISCO 2"
+2. Arriba hay dos casillas: "TRADUCCIÓN AL ESPAÑOL" y "DEFINITIVE EDITION". Marca
+   lo que quieras aplicar. El engranaje de la Definitive Edition abre sus opciones.
+3. Arrastra las ISO originales a la ventana, o haz clic en "DISCO 1" y "DISCO 2"
    para elegirlas. El programa reconoce cada disco y te avisa si una ISO no es
    la correcta.
-3. Haz clic en "APLICAR PARCHE" y espera a que termine (unos minutos por disco).
+4. Haz clic en "APLICAR PARCHE" y espera a que termine (unos minutos por disco).
 
-Junto a cada ISO se crea otra con " (Español)" al final del nombre. Las originales
-no se modifican.
+Junto a cada ISO se crea otra con " (Español)", " (Español + Definitive)" o
+" (Definitive)" al final del nombre. Las originales no se modifican. Si ya tienes
+una ISO traducida con esta versión, puedes sumarle solo la Definitive Edition.
 
 Antes de escribir nada, el programa comprueba que cada archivo que va a reemplazar
 sea el del juego original. Si no lo es (otra versión del juego, o una ISO que ya
 tiene otro parche), avisa y no modifica nada. Al terminar, verifica la ISO creada.
 
 La ventana tiene música. El botón "MÚSICA" (o la tecla M) sube el volumen en cinco
-niveles y después la apaga.
+niveles y después la apaga. La ventana se muestra en el idioma de Windows; con las
+banderas de arriba puedes pasarla a español o a inglés.
 
 Si Windows muestra "Windows protegió su PC", haz clic en "Más información" y luego
 en "Ejecutar de todas formas". Ese aviso sale con cualquier programa que no tenga
 firma digital.
+
+
+DEFINITIVE EDITION (OPCIONAL)
+-----------------------------
+Un parche de mejoras que ataca lo que más se le criticó al juego: combates comunes
+eternos, progresión lenta, habilidades encerradas detrás de Llaves secretas y
+Técnicas dobles que no valen lo que cuestan. No rediseña el juego: cada cambio es
+una opción. Hay cuatro perfiles, y desde el engranaje puedes activar o desactivar
+cada cambio por separado:
+
+- Original: el juego tal como salió.
+- Comodidad: el combate original, con menos vueltas (sin Llaves secretas, más
+  objetos, curación más fuerte y la deuda de la versión japonesa).
+- Definitiva (la recomendada): combates comunes más cortos y con más formas de
+  ganar, progresión más fluida y jefes con el mismo desafío, con patrones de Break
+  de tres golpes como máximo.
+- Historia: todo lo de la Definitiva pero más marcado, y jefes con menos vida.
+
+Los cambios marcados "EN PRUEBA" se dedujeron de los datos del juego pero todavía
+no se vieron funcionar en una partida. La deuda más baja se nota solo en partidas
+en las que todavía no apareció.
+
+Los datos de combate del juego los investigó TheSparda (Xenosaga-2-Editor).
 
 
 OTROS SISTEMAS (LINUX, MAC, STEAM DECK)
@@ -60,7 +91,13 @@ ejecuta este comando para cada disco, cambiando los nombres de los archivos:
 
   python3 parche.py aplicar xenosaga2_es.zip "Disco 1.iso" "Disco 1 (Español).iso"
 
-Hace exactamente lo mismo que el programa de Windows.
+Hace exactamente lo mismo que el programa de Windows. Para sumar la Definitive
+Edition, agrega su perfil (original, comodidad, definitiva o historia):
+
+  python3 parche.py aplicar xenosaga2_es.zip "Disco 1.iso" "Disco 1 (Español + Definitive).iso" --perfil definitiva
+
+Con --sin-traduccion se aplica solo la Definitive Edition, y con --opcion se ajusta
+un cambio suelto (por ejemplo --opcion deuda=0).
 
 
 CÓMO JUGAR
@@ -94,6 +131,8 @@ CRÉDITOS
 Batnoska: traducción, revisión, gráficos y herramientas.
 Con la ayuda de Claude (Anthropic), un asistente de inteligencia artificial.
 Música del aplicador: "The Image Theme of Xenosaga II", de Yuki Kajiura.
+Definitive Edition: Batnoska, con los datos de combate investigados por TheSparda
+(Xenosaga-2-Editor, licencia MIT).
 
 Xenosaga es una marca de Bandai Namco Entertainment. El juego fue desarrollado por
 Monolith Soft. Esta traducción la hicieron fans, sin fines de lucro y sin relación
@@ -104,8 +143,12 @@ que aplica el parche. La ventana del aplicador usa el logo, imágenes promociona
 
 HISTORIAL
 ---------
-{version} ({fecha}): si le das al aplicador una ISO con una versión anterior de
-    la traducción, ahora lo reconoce y te pide la ISO original (antes la marcaba
+{version} ({fecha}): llega la Definitive Edition, un parche opcional de mejoras
+    que se aplica desde el mismo programa (con la traducción o solo). La ventana
+    ahora también está en inglés, con un selector de idioma, y el subtítulo del
+    juego se traduce mientras se aplica el parche.
+0.9.2-beta (2026-10-28): si le das al aplicador una ISO con una versión anterior
+    de la traducción, ahora lo reconoce y te pide la ISO original (antes la marcaba
     como ya traducida y no la actualizaba).
 0.9.1-beta (2026-10-27): el aplicador ahora es una ventana propia, con música y
     efectos de sonido. Los subtítulos de los videos se leen mejor: los cortos
