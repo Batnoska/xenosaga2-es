@@ -29,7 +29,8 @@ todo de corrido; con partidas guardadas en los puntos clave alcanza.
     en alemán;
   - una ISO ya traducida con esta versión y solo la Definitive Edition marcada: el botón se
     habilita y crea la ISO terminada en "(Definitive)".
-- [ ] **En el juego, con el perfil Definitiva** (las tres opciones "en prueba"):
+- [ ] **En el juego, con las tres opciones "en prueba" activadas a mano** (no vienen en ningún
+  perfil hasta que se prueben):
   - Ice Brand pide 1 de Stock en vez de 2;
   - First Combo se puede comprar sin la Llave secreta 16;
   - la deuda de la Campaña SG es de 1.000.000 (solo en una partida en la que todavía no

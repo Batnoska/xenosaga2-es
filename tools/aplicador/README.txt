@@ -60,16 +60,17 @@ DEFINITIVE EDITION
 There are four profiles, and from the gear you can turn each change on or off:
 
 - Original: the game as released.
-- Comfort: original battles with less grind (no Secret Keys, more item drops,
-  stronger healing and the Japanese debt).
+- Comfort: original battles with less grind (more EXP and points, cheaper
+  skills, more item drops and stronger healing).
 - Definitive (recommended): shorter regular battles with more ways to win,
   smoother progression, and bosses just as challenging, with Break patterns of
   three hits at most.
 - Story: everything in Definitive, turned up, plus bosses with less HP.
 
-Changes marked "TESTING" were worked out from the game data but have not been seen
-working in a playthrough yet. The lower debt only shows in saves where the debt has
-not appeared yet.
+Changes marked "TESTING" (cheaper Double Techs, no Secret Keys needed and the
+1,000,000 debt) were worked out from the game data but have not been seen working in
+a playthrough yet, so no profile includes them: turn them on yourself if you want
+to try them. The lower debt only shows in saves where the debt has not appeared yet.
 
 The battle data of the game was researched by TheSparda (Xenosaga-2-Editor).
 

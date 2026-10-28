@@ -70,15 +70,17 @@ una opción. Hay cuatro perfiles, y desde el engranaje puedes activar o desactiv
 cada cambio por separado:
 
 - Original: el juego tal como salió.
-- Comodidad: el combate original, con menos vueltas (sin Llaves secretas, más
-  objetos, curación más fuerte y la deuda de la versión japonesa).
+- Comodidad: el combate original, con menos vueltas (más experiencia y puntos,
+  habilidades más baratas, más objetos y curación más fuerte).
 - Definitiva (la recomendada): combates comunes más cortos y con más formas de
   ganar, progresión más fluida y jefes con el mismo desafío, con patrones de Break
   de tres golpes como máximo.
 - Historia: todo lo de la Definitiva pero más marcado, y jefes con menos vida.
 
-Los cambios marcados "EN PRUEBA" se dedujeron de los datos del juego pero todavía
-no se vieron funcionar en una partida. La deuda más baja se nota solo en partidas
+Los cambios marcados "EN PRUEBA" (Técnicas dobles más baratas, habilidades sin
+Llave secreta y la deuda de 1.000.000) se dedujeron de los datos del juego pero
+todavía no se vieron funcionar en una partida, así que no vienen en ningún perfil:
+si quieres probarlos, actívalos a mano. La deuda más baja se nota solo en partidas
 en las que todavía no apareció.
 
 Los datos de combate del juego los investigó TheSparda (Xenosaga-2-Editor).

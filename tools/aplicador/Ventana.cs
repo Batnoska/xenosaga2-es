@@ -124,7 +124,7 @@ static partial class Aplicador
         [DllImport("winmm.dll", CharSet = CharSet.Unicode)]
         static extern int mciSendString(string command, StringBuilder buffer, int size, IntPtr callback);
         public const int MM_MCINOTIFY = 0x3B9, MCI_NOTIFY_SUCCESSFUL = 1;
-        static readonly int[] Volumen = { 0, 120, 250, 450, 700, 1000 };  // escala de MCI, niveles 0 a 5
+        static readonly int[] Volumen = { 0, 15, 30, 50, 80, 120 };  // escala de MCI (0 a 1000), niveles 0 a 5
         public readonly bool Disponible;
         readonly IntPtr ventana;
         bool sonando;
@@ -889,7 +889,8 @@ static partial class Aplicador
             {
                 float alto = g.MeasureString(foco.Descripcion[Idioma], fDetalle, (int)texto.Width).Height;
                 using (var b = new SolidBrush(Ambar))
-                    g.DrawString(T("Todavía no se probó en el juego."), fDetalle, b, new RectangleF(494, 135 + alto + 6, 230, 30));
+                    g.DrawString(T("Todavía no se probó en el juego: no viene en ningún perfil, pero puedes activarlo a mano."),
+                                 fDetalle, b, new RectangleF(494, 135 + alto + 6, 230, 44));
             }
 
             // el perfil (el que está bajo el ratón, o el elegido)
