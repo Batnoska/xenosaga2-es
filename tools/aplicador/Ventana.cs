@@ -149,7 +149,7 @@ static partial class Aplicador
     class Ranura
     {
         public string Ruta;
-        public string Estado;  // el chip: original, traducida, distinta, novalida, encurso, lista o error
+        public string Estado;  // el chip: original, traducida, anterior, distinta, novalida, encurso, lista o error
     }
 
     // Lo que cuenta Process desde el hilo de trabajo, pasado a la ventana.
@@ -620,11 +620,12 @@ static partial class Aplicador
         {
             if (trabajando) return;
             int disc;
+            Cursor.Current = Cursors.WaitCursor;  // una ISO ya traducida se revisa entera: tarda unos segundos
             string estado, mensaje = Detectar(path, manifest, out disc, out estado);
             int i = disc > 0 ? disc - 1 : preferida >= 0 ? preferida : ranuras[0].Ruta == null ? 0 : 1;
             ranuras[i] = new Ranura { Ruta = path, Estado = estado };
-            Registrar(mensaje);
-            if (sonido) Sonidos.Tocar(estado == "novalida" || estado == "distinta" ? "error" : "click");
+            foreach (string linea in mensaje.Split('\n')) Registrar(linea);
+            if (sonido) Sonidos.Tocar(estado == "original" || estado == "traducida" ? "click" : "error");
             Invalidate();
         }
 
@@ -735,7 +736,8 @@ static partial class Aplicador
         }
 
         // Imágenes de la ventana sin mostrarla (--captura): trabajando, y esperando con un disco elegido.
-        public static bool Capturar(string path)
+        // Con ISO, la segunda imagen muestra cómo quedan elegidas (para probar la detección).
+        public static bool Capturar(string path, List<string> isos)
         {
             using (var v = new Ventana(new string[0]))
             {
@@ -754,6 +756,12 @@ static partial class Aplicador
                 v.tiempo = 0.5;
                 v.sobre = Zona.Boton;
                 v.Registrar("No es Xenosaga Episode II en versión americana (NTSC-U).");
+                if (isos.Count > 0)
+                {
+                    v.ranuras[0] = new Ranura();
+                    v.ranuras[1] = new Ranura();
+                    foreach (string iso in isos) v.Asignar(iso, -1, false);
+                }
                 v.Guardar(Path.Combine(Path.GetDirectoryName(Path.GetFullPath(path)), Path.GetFileNameWithoutExtension(path) + "_espera.png"));
             }
             return true;

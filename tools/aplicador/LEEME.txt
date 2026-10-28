@@ -104,7 +104,10 @@ que aplica el parche. La ventana del aplicador usa el logo, imágenes promociona
 
 HISTORIAL
 ---------
-{version} ({fecha}): el aplicador ahora es una ventana propia, con música y
+{version} ({fecha}): si le das al aplicador una ISO con una versión anterior de
+    la traducción, ahora lo reconoce y te pide la ISO original (antes la marcaba
+    como ya traducida y no la actualizaba).
+0.9.1-beta (2026-10-27): el aplicador ahora es una ventana propia, con música y
     efectos de sonido. Los subtítulos de los videos se leen mejor: los cortos
     quedan más tiempo en pantalla y se acortaron los más rápidos. Los diálogos ya
     no usan rayas copiadas del inglés.

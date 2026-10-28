@@ -8,7 +8,7 @@
 // Uso: abrirlo y elegir las ISO en la ventana (Ventana.cs), o arrastrarlas sobre el .exe.
 //   Aplicar parche.exe [ISO...]                      la ventana, con esas ISO ya elegidas
 //   Aplicar parche.exe --salida CARPETA ISO...       sin ventana (para las pruebas del kit)
-//   Aplicar parche.exe --captura ARCHIVO.png         guarda una imagen de la ventana
+//   Aplicar parche.exe --captura ARCHIVO.png [ISO...] guarda imágenes de la ventana (con esas ISO elegidas)
 using System;
 using System.Collections.Generic;
 using System.IO;
@@ -451,6 +451,10 @@ static partial class Aplicador
 
     enum Resultado { Lista, YaTraducida, Error }
 
+    // Una ISO parcheada con otra versión de la traducción: el ejecutable es el nuevo (casi nunca
+    // cambia entre versiones) pero otros archivos no. Hay que partir de la ISO original.
+    const string Anterior = "Disco {0}: tiene una versión anterior de la traducción.\nAplica el parche sobre tu ISO original.";
+
     // Mirada rápida a una ISO al elegirla: qué disco es y si el ejecutable es el original, el
     // traducido u otro. La comprobación completa la hace Process.
     static string Detectar(string isoPath, Dictionary<string, List<PatchEntry>> manifest, out int disc, out string estado)
@@ -470,6 +474,12 @@ static partial class Aplicador
                 string sha = Sha1(iso.ReadFile(exe));
                 if (sha == e.New)
                 {
+                    var volumes = iso.Groups.ToDictionary(g => g, g => new Volume(iso, g));
+                    if (entries.Any(x => Sha1(Current(iso, volumes, x)) != x.New))
+                    {
+                        estado = "anterior";
+                        return string.Format(Anterior, disc);
+                    }
                     estado = "traducida";
                     return string.Format("Disco {0}: esta ISO ya tiene la traducción.", disc);
                 }
@@ -512,12 +522,14 @@ static partial class Aplicador
                 aviso.Linea(string.Format("Disco {0}: comprobando los archivos...", disc));
                 var volumes = iso.Groups.ToDictionary(g => g, g => new Volume(iso, g));
                 var bad = new List<string>();
+                bool exeTraducido = false;
                 for (int i = 0; i < entries.Count; i++)
                 {
                     PatchEntry e = entries[i];
                     aviso.Avance(i * 10 / entries.Count);
                     byte[] current = Current(iso, volumes, e);
                     string sha = Sha1(current);
+                    if (e.Group == "raiz" && e.Path == iso.Executable) exeTraducido = sha == e.New;
                     if (sha == e.New) continue;  // ya está traducido
                     if (sha != e.Original)
                     {
@@ -534,6 +546,11 @@ static partial class Aplicador
                         if (!replacements.ContainsKey(g)) replacements[g] = new SortedDictionary<string, byte[]>(StringComparer.Ordinal);
                         replacements[g][e.Path] = data;
                     }
+                }
+                if (bad.Count > 0 && exeTraducido)
+                {
+                    foreach (string linea in string.Format(Anterior, disc).Split('\n')) aviso.Linea(linea);
+                    return Resultado.Error;
                 }
                 if (bad.Count > 0)
                 {
@@ -646,7 +663,7 @@ static partial class Aplicador
         if (consola) return Consola(isos, outDir);
         Application.EnableVisualStyles();
         Application.SetCompatibleTextRenderingDefault(false);
-        if (captura != null) return Ventana.Capturar(captura) ? 0 : 1;
+        if (captura != null) return Ventana.Capturar(captura, isos) ? 0 : 1;
         Application.Run(new Ventana(isos));
         return 0;
     }

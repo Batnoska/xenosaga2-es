@@ -472,6 +472,7 @@ CHIPS = {
     "original": ("ORIGINAL ✓", (20, 140, 120)),
     "traducida": ("YA TRADUCIDA", (96, 70, 190)),
     "distinta": ("OTRA VERSIÓN", (190, 120, 20)),
+    "anterior": ("VERSIÓN VIEJA", (200, 90, 40)),
     "novalida": ("NO VÁLIDA", (180, 40, 50)),
     "encurso": ("EN CURSO", (30, 120, 190)),
     "lista": ("LISTA ✓", (30, 170, 110)),

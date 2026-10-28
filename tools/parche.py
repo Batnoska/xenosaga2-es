@@ -127,12 +127,15 @@ def apply(package, iso_in, iso_out):
             sys.exit(f"{iso_in}: no es un disco de Xenosaga Episode II (NTSC-U): {iso.executable}")
         volumes = {g: Volume(iso, g) for g in iso.groups}
         replacements, loose, bad = {}, {}, []
+        exe_traducido = False
         for e in entries:
             if e["grupo"] == "raiz":
                 current = iso.read_file(e["ruta"])
             else:
                 vol = volumes[e["grupo"]]
                 current = vol.read(vol.by_path[e["ruta"]]) if e["ruta"] in vol.by_path else b""
+            if e["grupo"] == "raiz" and e["ruta"] == iso.executable:
+                exe_traducido = sha1(current) == e["nuevo"]
             if sha1(current) == e["nuevo"]:
                 continue  # ya está traducido
             if sha1(current) != e["original"]:
@@ -144,6 +147,9 @@ def apply(package, iso_in, iso_out):
                 loose[e["ruta"]] = data
             else:
                 replacements[(e["grupo"], e["ruta"])] = data
+    if bad and exe_traducido:
+        # el ejecutable casi nunca cambia entre versiones de la traducción; los textos sí
+        sys.exit(f"{iso_in}: tiene una versión anterior de la traducción. Aplica el parche sobre tu ISO original.")
     if bad:
         sys.exit("Estos archivos no son los originales esperados (¿otra versión del juego?):\n  "
                  + "\n  ".join(bad[:20]) + (f"\n  ... y {len(bad) - 20} más" if len(bad) > 20 else ""))
