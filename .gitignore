@@ -1,6 +1,7 @@
 # Archivos del juego: nunca al repositorio
 *.iso
 iso_path.txt
+iso_path_*.txt
 __pycache__/
 *.mo
 

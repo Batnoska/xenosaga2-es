@@ -145,10 +145,12 @@ que aplica el parche. La ventana del aplicador usa el logo, imágenes promociona
 
 HISTORIAL
 ---------
-{version} ({fecha}): llega la Definitive Edition, un parche opcional de mejoras
-    que se aplica desde el mismo programa (con la traducción o solo). La ventana
-    ahora también está en inglés, con un selector de idioma, y el subtítulo del
-    juego se traduce mientras se aplica el parche.
+{version} ({fecha}): el parche ahora funciona también con la ISO americana sin
+    undub (antes daba error al verificar, porque esa ISO guarda los datos en
+    varios archivos de 1 GB). Llega la Definitive Edition, un parche opcional de
+    mejoras que se aplica desde el mismo programa (con la traducción o solo). La
+    ventana ahora también está en inglés, con un selector de idioma, y el
+    subtítulo del juego se traduce mientras se aplica el parche.
 0.9.2-beta (2026-10-28): si le das al aplicador una ISO con una versión anterior
     de la traducción, ahora lo reconoce y te pide la ISO original (antes la marcaba
     como ya traducida y no la actualizaba).

@@ -11,6 +11,7 @@
 //   Aplicar parche.exe --salida CARPETA ISO...       sin ventana (para las pruebas del kit), con
 //       [--sin-traduccion] [--perfil definitiva] [--opcion deuda=0 ...] para la Definitive Edition
 //   Aplicar parche.exe --captura ARCHIVO.png [ISO...] guarda imágenes de la ventana (con esas ISO elegidas)
+//   Aplicar parche.exe --fotogramas CARPETA          fotogramas de una aplicación simulada, para un video
 //   --idioma es|en                                   el idioma de los mensajes (si no, el de Windows)
 using System;
 using System.Collections.Generic;
@@ -186,7 +187,8 @@ static partial class Aplicador
     {
         public readonly Iso Iso;
         public readonly string IndexName, DataName;
-        public readonly long Base;
+        public readonly long Base, DataSectors;
+        public readonly string LastData;  // la parte de datos que crece si se agregan archivos
         public readonly byte[] Index;
         public readonly Dictionary<string, Entry> ByPath = new Dictionary<string, Entry>();
 
@@ -198,6 +200,18 @@ static partial class Aplicador
             Base = iso.ByName[IndexName].Lba;
             if (iso.ByName[DataName].Lba != Base + Sectors(iso.ByName[IndexName].Size))
                 throw new InvalidDataException(T("el volumen {0} no tiene el formato esperado", group));
+            // La parte de datos puede ser varios archivos seguidos: la ISO original la corta en partes
+            // de 1 GB (XENOSAGA.11, .12, .13...); las armadas con otras herramientas (el undub, por
+            // ejemplo) suelen tener una sola. Lo que se agrega va al final de la última.
+            string prefijo = "XENOSAGA." + group;
+            foreach (IsoFile f in iso.Files.Where(f => f.Name.Length == prefijo.Length + 1 && f.Name.StartsWith(prefijo) && !f.Name.EndsWith("0"))
+                                           .OrderBy(f => f.Lba))
+            {
+                if (f.Lba != Base + Sectors(iso.ByName[IndexName].Size) + DataSectors)
+                    throw new InvalidDataException(T("el volumen {0} no tiene el formato esperado", group));
+                DataSectors += Sectors(f.Size);
+                LastData = f.Name;
+            }
             Index = iso.ReadFile(IndexName);
             foreach (Entry e in ParseIndex(Index))
                 ByPath[e.Path] = e;
@@ -207,8 +221,6 @@ static partial class Aplicador
     }
 
     // ---- Reconstrucción (x2iso.build) ----
-
-    static bool IsData(string name) { return name.StartsWith("XENOSAGA.") && name.EndsWith("1"); }
 
     static void SetBothEndian(byte[] buf, int off, long value)
     {
@@ -228,11 +240,12 @@ static partial class Aplicador
             var room = new Dictionary<long, long>();
             var appended = new Dictionary<int, List<byte[]>>();
             var newIndex = new Dictionary<int, byte[]>();
+            var last = volumes.ToDictionary(kv => kv.Value.LastData, kv => kv.Key);  // el archivo que crece en cada volumen
             foreach (int g in iso.Groups)
             {
                 Volume vol = volumes[g];
                 byte[] index = (byte[])vol.Index.Clone();
-                long end = Sectors(iso.ByName[vol.IndexName].Size) + Sectors(iso.ByName[vol.DataName].Size);
+                long end = Sectors(iso.ByName[vol.IndexName].Size) + vol.DataSectors;
                 var tail = new List<byte[]>();
                 SortedDictionary<string, byte[]> files;
                 if (replacements.TryGetValue(g, out files))
@@ -282,9 +295,9 @@ static partial class Aplicador
             {
                 newLba[f.Name] = f.Lba + shift;
                 newSize[f.Name] = f.Size;
-                if (IsData(f.Name))
+                int g;
+                if (last.TryGetValue(f.Name, out g))
                 {
-                    int g = f.Name[f.Name.Length - 2] - '0';
                     newSize[f.Name] = f.Size + grow[g] * SECTOR;
                     shift += grow[g];
                 }
@@ -312,8 +325,8 @@ static partial class Aplicador
                 long cursor = 0;
                 foreach (IsoFile f in layout)
                 {
-                    if (!IsData(f.Name)) continue;
-                    int g = f.Name[f.Name.Length - 2] - '0';
+                    int g;
+                    if (!last.TryGetValue(f.Name, out g)) continue;
                     long stop = (f.Lba + Sectors(f.Size)) * SECTOR;
                     copy(cursor, stop);
                     foreach (byte[] data in appended[g])
@@ -332,8 +345,8 @@ static partial class Aplicador
                 {
                     long lba = kv.Key / SECTOR, extra = 0;
                     foreach (IsoFile f in layout)
-                        if (IsData(f.Name) && lba >= f.Lba + Sectors(f.Size))
-                            extra += grow[f.Name[f.Name.Length - 2] - '0'];
+                        if (last.ContainsKey(f.Name) && lba >= f.Lba + Sectors(f.Size))
+                            extra += grow[last[f.Name]];
                     outFile.Seek(kv.Key + extra * SECTOR, SeekOrigin.Begin);
                     outFile.Write(kv.Value, 0, kv.Value.Length);
                     long pad = room[kv.Key] - kv.Value.Length;
@@ -792,7 +805,7 @@ static partial class Aplicador
     [STAThread]
     static int Main(string[] args)
     {
-        string outDir = null, captura = null, perfil = null;
+        string outDir = null, captura = null, perfil = null, fotogramas = null;
         bool consola = false, sinTraduccion = false;
         var isos = new List<string>();
         var opciones = new List<string>();
@@ -802,6 +815,7 @@ static partial class Aplicador
             if (args[i] == "--salida" && i + 1 < args.Length) { outDir = args[++i]; consola = true; }
             else if (args[i] == "--consola") consola = true;
             else if (args[i] == "--captura" && i + 1 < args.Length) captura = args[++i];
+            else if (args[i] == "--fotogramas" && i + 1 < args.Length) fotogramas = args[++i];
             else if (args[i] == "--idioma" && i + 1 < args.Length) Idioma = args[++i] == "es" ? 0 : 1;
             else if (args[i] == "--sin-traduccion") sinTraduccion = true;
             else if (args[i] == "--perfil" && i + 1 < args.Length) perfil = args[++i];
@@ -812,6 +826,7 @@ static partial class Aplicador
         Application.EnableVisualStyles();
         Application.SetCompatibleTextRenderingDefault(false);
         if (captura != null) return Ventana.Capturar(captura, isos) ? 0 : 1;
+        if (fotogramas != null) return Ventana.Fotogramas(fotogramas) ? 0 : 1;
         Application.Run(new Ventana(isos));
         return 0;
     }

@@ -93,6 +93,8 @@ el juego ayudan mucho.
 
 - **Batnoska:** traducción, revisión, gráficos y herramientas.
 - Con la ayuda de Claude (Anthropic), un asistente de inteligencia artificial.
+- Definitive Edition (la casilla opcional del aplicador): los datos de combate los investigó
+  [TheSparda](https://github.com/TheSparda/Xenosaga-2-Editor) (Xenosaga-2-Editor, licencia MIT).
 - Música del aplicador: "The Image Theme of Xenosaga II", de Yuki Kajiura.
 
 ## Licencia

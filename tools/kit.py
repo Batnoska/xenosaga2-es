@@ -3,7 +3,9 @@
   python tools/kit.py 0.9-beta            paquete, aplicador de Windows, LEEME y el .zip final
   python tools/kit.py 0.9-beta --probar   además aplica el parche con el .exe a las ISO
                                           originales y compara el resultado con work/ (y, con
-                                          la Definitive Edition, con la versión en Python)
+                                          la Definitive Edition, con la versión en Python). Si
+                                          existe iso_path_americana.txt (las ISO americanas sin
+                                          undub, una por línea), las prueba también
   python tools/kit.py 0.9-beta --de 0.1-beta
                                           arma también el kit de la Definitive Edition: el mismo
                                           aplicador, con su casilla primero y marcada
@@ -153,6 +155,13 @@ def test(exe):
                 print(f"disco 1 ya traducido + comodidad: {'igual en Windows y en Python' if same else 'DISTINTA'}")
                 ok &= same
             os.remove(result)
+        # La ISO americana sin undub tiene cada volumen partido en archivos de 1 GB (el undub, en
+        # uno solo): si están en iso_path_americana.txt, también se prueban.
+        if os.path.exists(os.path.join(ROOT, "iso_path_americana.txt")):
+            for disc, iso in enumerate(iso_paths("iso_path_americana.txt"), 1):
+                same = igual_que_python(exe, out, iso, [], True, None, " (Español)")
+                print(f"disco {disc} americano: {'igual en Windows y en Python' if same else 'DISTINTA'}")
+                ok &= same
         if con_definitiva():
             for disc, args, traduccion, perfil, sufijo in COMBINACIONES:
                 same = igual_que_python(exe, out, iso_paths()[disc - 1], args, traduccion, perfil, sufijo)

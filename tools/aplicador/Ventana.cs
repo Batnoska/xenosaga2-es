@@ -1388,6 +1388,67 @@ static partial class Aplicador
             return true;
         }
 
+        // Fotogramas de una aplicación simulada (--fotogramas CARPETA), para armar un video de muestra:
+        // los dos discos elegidos, el parche en curso con la frase descifrándose y el final.
+        public static bool Fotogramas(string carpeta)
+        {
+            const int Fps = 30;
+            Directory.CreateDirectory(carpeta);
+            using (var v = new Ventana(new string[0]))
+            {
+                v.traduccion = true;
+                v.definitiva = false;
+                for (int i = 0; i < 2; i++)
+                {
+                    v.ranuras[i] = new Ranura { Ruta = @"C:\Juegos\PS2\Xenosaga Episode II D" + (i + 1) + ".iso", Estado = "original" };
+                    v.Registrar(T("Disco {0}: listo para aplicar el parche.", i + 1));
+                }
+                v.sobre = Zona.Boton;
+                // (avance desde el que aparece cada línea, texto)
+                var lineas = new List<KeyValuePair<int, string>>
+                {
+                    new KeyValuePair<int, string>(0, T("Disco {0}: comprobando los archivos...", 1)),
+                    new KeyValuePair<int, string>(5, T("Disco {0}: creando \"{1}\"...", 1, "Xenosaga Episode II D1" + T(" (Español)") + ".iso")),
+                    new KeyValuePair<int, string>(47, T("Disco {0}: verificando...", 1)),
+                    new KeyValuePair<int, string>(50, T("Listo: disco {0} traducido ({1} archivos).", 1, 412)),
+                    new KeyValuePair<int, string>(51, T("Disco {0}: comprobando los archivos...", 2)),
+                    new KeyValuePair<int, string>(55, T("Disco {0}: creando \"{1}\"...", 2, "Xenosaga Episode II D2" + T(" (Español)") + ".iso")),
+                    new KeyValuePair<int, string>(97, T("Disco {0}: verificando...", 2)),
+                };
+                int siguiente = 0;
+                const double Inicio = 1.5, Duracion = 7, Fin = Inicio + Duracion, Total = Fin + 4;
+                for (int k = 0; k < Total * Fps; k++)
+                {
+                    double t = k / (double)Fps;
+                    v.tiempo = t;
+                    if (t >= Inicio && t < Fin)
+                    {
+                        if (!v.trabajando)
+                        {
+                            v.trabajando = true;
+                            v.enCurso = v.SeleccionActual();
+                            v.sobre = Zona.Nada;
+                            foreach (Ranura r in v.ranuras) r.Estado = "encurso";
+                        }
+                        v.progreso = (int)((t - Inicio) / Duracion * 100);
+                        while (siguiente < lineas.Count && v.progreso >= lineas[siguiente].Key) v.Registrar(lineas[siguiente++].Value);
+                        if (v.progreso >= 50) v.ranuras[0].Estado = "lista";
+                    }
+                    else if (t >= Fin && v.trabajando)
+                    {
+                        v.trabajando = false;
+                        v.progreso = 100;
+                        v.ranuras[1].Estado = "lista";
+                        v.Registrar(T("Listo: disco {0} traducido ({1} archivos).", 2, 417));
+                        v.Registrar(T("Terminado: ya puedes jugar con las ISO nuevas."));
+                        v.revelada = t;
+                    }
+                    v.Guardar(Path.Combine(carpeta, k.ToString("D4") + ".png"));
+                }
+            }
+            return true;
+        }
+
         void Guardar(string path)
         {
             using (var b = new Bitmap(fondo.Width, fondo.Height))

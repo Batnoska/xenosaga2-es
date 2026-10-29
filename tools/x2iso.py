@@ -36,9 +36,9 @@ SECTOR = 2048
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 
 
-def iso_paths():
-    """Rutas de las ISO originales, una por disco, desde iso_path.txt."""
-    with open(os.path.join(ROOT, "iso_path.txt"), encoding="utf-8") as f:
+def iso_paths(archivo="iso_path.txt"):
+    """Rutas de las ISO originales, una por disco, desde iso_path.txt (o el archivo indicado)."""
+    with open(os.path.join(ROOT, archivo), encoding="utf-8") as f:
         return [line.strip() for line in f if line.strip()]
 
 
@@ -129,6 +129,17 @@ class Volume:
         self.index_name, self.data_name = f"XENOSAGA.{group}0", f"XENOSAGA.{group}1"
         self.base = iso.files[self.index_name][0]
         assert iso.files[self.data_name][0] == self.base + sectors(iso.files[self.index_name][1])
+        # La parte de datos puede ser varios archivos seguidos: la ISO original la corta en partes
+        # de 1 GB (XENOSAGA.11, .12, .13...); las armadas con otras herramientas (el undub, por
+        # ejemplo) suelen tener una sola. Lo que se agrega va al final de la última.
+        self.data_names = sorted((n for n in iso.files if n[:-1] == f"XENOSAGA.{group}" and n[-1] != "0"),
+                                 key=lambda n: iso.files[n][0])
+        self.data_sectors = 0
+        for n in self.data_names:
+            lba, size, _ = iso.files[n]
+            assert lba == self.base + sectors(iso.files[self.index_name][1]) + self.data_sectors, f"{n} no sigue al anterior"
+            self.data_sectors += sectors(size)
+        self.last_data = self.data_names[-1]
         self.index = iso.read_file(self.index_name)
         self.entries = parse_index(self.index)
         self.by_path = {e.path: e for e in self.entries}
@@ -153,8 +164,8 @@ def build(iso_path, out_path, replacements, loose=None, log=print):
     loose: {nombre en la raíz: bytes} (ejecutable, overlays); deben tener el mismo tamaño.
 
     Un archivo que entra en sus sectores originales se escribe en el lugar; si
-    no, se agrega al final de la parte de datos de su volumen y todo lo que
-    sigue en el disco se corre. Se actualizan el índice, los registros ISO9660
+    no, se agrega al final de la parte de datos de su volumen (de la última, si
+    está en varios archivos) y todo lo que sigue en el disco se corre. Se actualizan el índice, los registros ISO9660
     y el tamaño del volumen (el puente UDF queda como estaba: el juego y los
     emuladores leen ISO9660).
     """
@@ -162,9 +173,10 @@ def build(iso_path, out_path, replacements, loose=None, log=print):
     loose = loose or {}
     volumes = {g: Volume(iso, g) for g in iso.groups}
     in_place, appended, new_index = {}, {}, {}
+    last = {vol.last_data: g for g, vol in volumes.items()}  # el archivo que crece en cada volumen
     for g, vol in volumes.items():
         index = bytearray(vol.index)
-        end = sectors(iso.files[vol.index_name][1]) + sectors(iso.files[vol.data_name][1])
+        end = sectors(iso.files[vol.index_name][1]) + vol.data_sectors
         tail = []
         for (rg, path), data in sorted((k, v) for k, v in replacements.items() if k[0] == g):
             e = vol.by_path[path]
@@ -190,10 +202,9 @@ def build(iso_path, out_path, replacements, loose=None, log=print):
     shift, new_lba, new_size = 0, {}, {}
     for name, (lba, size, _) in layout:
         new_lba[name], new_size[name] = lba + shift, size
-        if name.startswith("XENOSAGA.") and name.endswith("1"):
-            g = int(name[-2])
-            new_size[name] = size + grow[g] * SECTOR
-            shift += grow[g]
+        if name in last:
+            new_size[name] = size + grow[last[name]] * SECTOR
+            shift += grow[last[name]]
     total_sectors = struct.unpack_from("<I", iso.read_sectors(16, 1), 80)[0] + shift
 
     src = iso.f
@@ -210,12 +221,11 @@ def build(iso_path, out_path, replacements, loose=None, log=print):
 
         cursor = 0
         for name, (lba, size, _) in layout:
-            if not (name.startswith("XENOSAGA.") and name.endswith("1")):
+            if name not in last:
                 continue
-            g = int(name[-2])
             stop = (lba + sectors(size)) * SECTOR
             copy(cursor, stop)
-            for data in appended[g]:
+            for data in appended[last[name]]:
                 out.write(data + bytes(sectors(len(data)) * SECTOR - len(data)))
             cursor = stop
         copy(cursor, os.path.getsize(iso_path))
@@ -225,8 +235,8 @@ def build(iso_path, out_path, replacements, loose=None, log=print):
             lba = offset // SECTOR
             extra = 0
             for name, (flba, size, _) in layout:
-                if name.startswith("XENOSAGA.") and name.endswith("1") and lba >= flba + sectors(size):
-                    extra += grow[int(name[-2])]
+                if name in last and lba >= flba + sectors(size):
+                    extra += grow[last[name]]
             return offset + extra * SECTOR
 
         for offset, (data, room) in in_place.items():
