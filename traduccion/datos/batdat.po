@@ -555,7 +555,7 @@ msgstr "Margulis"
 #, fuzzy
 msgctxt "enemigos#107"
 msgid "Inversion"
-msgstr "Inversion"
+msgstr "Inversión"
 
 #, fuzzy
 msgctxt "enemigos#108"
@@ -1386,7 +1386,7 @@ msgid ""
 "Erde Kaiser Fury with the Kaiser Sword (1 time)."
 msgstr ""
 "Todos los enemigos/E/Corte (EP 50)\n"
-"Furia del Erde Kaiser con la Kaiser Sword (1 vez)."
+"Furia del Erde Kaiser con la Espada Kaiser (1 vez)."
 
 #, fuzzy
 msgctxt "eteres#55"
@@ -1400,7 +1400,7 @@ msgid ""
 "Erde Kaiser Fury with the Arm Drill (1 time)."
 msgstr ""
 "Todos los enemigos/E/Perforación (EP 50)\n"
-"Furia del Erde Kaiser con el Arm Drill (1 vez)."
+"Furia del Erde Kaiser con el Brazo Taladro (1 vez)."
 
 #, fuzzy
 msgctxt "eteres#56"
@@ -1414,7 +1414,7 @@ msgid ""
 "Erde Kaiser Fury with the Kaiser Rifle (1 time)."
 msgstr ""
 "Todos los enemigos/E/Rayo (EP 50)\n"
-"Furia del Erde Kaiser con el Kaiser Rifle (1 vez)."
+"Furia del Erde Kaiser con el Rifle Kaiser (1 vez)."
 
 #, fuzzy
 msgctxt "eteres#59"
@@ -2223,7 +2223,7 @@ msgstr ""
 #, fuzzy
 msgctxt "habilidades#37"
 msgid "Rare+10"
-msgstr "Rare+10"
+msgstr "Rareza+10"
 
 #, fuzzy
 msgctxt "habilidades#37.desc"
@@ -2233,7 +2233,7 @@ msgstr "Obtención de objetos raros +10%."
 #, fuzzy
 msgctxt "habilidades#38"
 msgid "Rare+30"
-msgstr "Rare+30"
+msgstr "Rareza+30"
 
 #, fuzzy
 msgctxt "habilidades#38.desc"
@@ -2321,7 +2321,7 @@ msgstr "Sube el ataque cuando cae un miembro del grupo."
 #, fuzzy
 msgctxt "habilidades#46"
 msgid "Knight Soul"
-msgstr "Alma de paladín"
+msgstr "Alma de caballero"
 
 #, fuzzy
 msgctxt "habilidades#46.desc"
@@ -3256,7 +3256,7 @@ msgstr "Llave Secreta 6"
 #, fuzzy
 msgctxt "llaves#5.desc"
 msgid "Key to open the Lv 2 Class D skill, Rare+10."
-msgstr "Llave que abre la habilidad Rare+10 (nivel 2, clase D)."
+msgstr "Llave que abre la habilidad Rareza+10 (nivel 2, clase D)."
 
 #, fuzzy
 msgctxt "llaves#6"
@@ -3376,7 +3376,7 @@ msgstr "Llave Secreta 18"
 #, fuzzy
 msgctxt "llaves#17.desc"
 msgid "Key to open the Lv 3 Class F skill, Rare+30."
-msgstr "Llave que abre la habilidad Rare+30 (nivel 3, clase F)."
+msgstr "Llave que abre la habilidad Rareza+30 (nivel 3, clase F)."
 
 #, fuzzy
 msgctxt "llaves#18"
@@ -4279,7 +4279,7 @@ msgstr ""
 #, fuzzy
 msgctxt "objetos_clave#68"
 msgid "Geriatric Swimsuit"
-msgstr "Traje geriátrico"
+msgstr "Traje de baño de abuelo"
 
 #, fuzzy
 msgctxt "objetos_clave#68.desc"
@@ -4287,7 +4287,7 @@ msgid ""
 "Swimsuit made from bio fibers to prevent drowning.\n"
 "The robot print on the back is amazing!"
 msgstr ""
-"Traje de baño de biofibras que evita ahogarse.\n"
+"Traje de baño de biofibras que evita que te ahogues.\n"
 "¡El estampado de robot de la espalda es increíble!"
 
 #, fuzzy
@@ -4442,7 +4442,7 @@ msgstr "Llave Secreta 6"
 #, fuzzy
 msgctxt "objetos_clave#81.desc"
 msgid "Key to open the Level 2 Class D skill, Rare+10."
-msgstr "Llave que abre la habilidad Rare+10 (nivel 2, clase D)."
+msgstr "Llave que abre la habilidad Rareza+10 (nivel 2, clase D)."
 
 #, fuzzy
 msgctxt "objetos_clave#82"
@@ -4562,7 +4562,7 @@ msgstr "Llave Secreta 18"
 #, fuzzy
 msgctxt "objetos_clave#93.desc"
 msgid "Key to open the Level 3 Class F skill, Rare+30."
-msgstr "Llave que abre la habilidad Rare+30 (nivel 3, clase F)."
+msgstr "Llave que abre la habilidad Rareza+30 (nivel 3, clase F)."
 
 #, fuzzy
 msgctxt "objetos_clave#94"
@@ -4907,7 +4907,7 @@ msgstr ""
 #, fuzzy
 msgctxt "ataques_dobles#15"
 msgid "Phoenix Blade"
-msgstr "Hoja fénix"
+msgstr "Filo del fénix"
 
 #, fuzzy
 msgctxt "ataques_dobles#15.desc"
@@ -4949,7 +4949,7 @@ msgstr ""
 #, fuzzy
 msgctxt "tecnicas#2"
 msgid "Twin Dragons"
-msgstr "Dragón gemelo"
+msgstr "Dragones gemelos"
 
 #, fuzzy
 msgctxt "tecnicas#2.desc"
@@ -4963,7 +4963,7 @@ msgstr ""
 #, fuzzy
 msgctxt "tecnicas#3"
 msgid "Chained Blast"
-msgstr "Cadena de aura"
+msgstr "Ráfaga en cadena"
 
 #, fuzzy
 msgctxt "tecnicas#3.desc"
@@ -4977,7 +4977,7 @@ msgstr ""
 #, fuzzy
 msgctxt "tecnicas#4"
 msgid "Meteor Storm"
-msgstr "Lluvia de fuego"
+msgstr "Lluvia de meteoros"
 
 #, fuzzy
 msgctxt "tecnicas#4.desc"
@@ -5005,7 +5005,7 @@ msgstr ""
 #, fuzzy
 msgctxt "tecnicas#6"
 msgid "Iron Blade"
-msgstr "Hoja de hierro"
+msgstr "Filo de hierro"
 
 #, fuzzy
 msgctxt "tecnicas#6.desc"
@@ -5019,7 +5019,7 @@ msgstr ""
 #, fuzzy
 msgctxt "tecnicas#7"
 msgid "Rain Arrow"
-msgstr "Flechas de luz"
+msgstr "Lluvia de flechas"
 
 #, fuzzy
 msgctxt "tecnicas#7.desc"
@@ -5201,7 +5201,7 @@ msgstr ""
 #, fuzzy
 msgctxt "tecnicas#20"
 msgid "Moonlight Blade"
-msgstr "Hoja lunar"
+msgstr "Filo lunar"
 
 #, fuzzy
 msgctxt "tecnicas#20.desc"
@@ -5243,7 +5243,7 @@ msgstr ""
 #, fuzzy
 msgctxt "armas_es#2"
 msgid "DRAGON BLADE"
-msgstr "HOJA DRAGÓN"
+msgstr "FILO DRAGÓN"
 
 #, fuzzy
 msgctxt "armas_es#2.desc"

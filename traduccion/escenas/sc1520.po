@@ -316,7 +316,7 @@ msgid ""
 "I do not believe in unscientific phenomena."
 msgstr ""
 "Si tú lo dices.\n"
-"No creo en fenómenos no científicos."
+"No creo en fenómenos sin base científica."
 
 #. Opciones: una por línea. Mantener 2 líneas en el mismo orden.
 #, fuzzy
@@ -402,7 +402,7 @@ msgstr "¿Te enteraste? ¡Van a hacer un concurso Miss Miltia para celebrar los 
 #, fuzzy
 msgctxt "#57"
 msgid "Whoa! You're pretty easy on the eyes yourself, girl! How about competing in the Miss Miltia contest?"
-msgstr "¡Epa! ¡Tú tampoco estás nada mal, chica! ¿Por qué no participas en el concurso Miss Miltia?"
+msgstr "¡Vaya! ¡Tú tampoco estás nada mal, chica! ¿Por qué no participas en el concurso Miss Miltia?"
 
 #. habla: Simmons
 #, fuzzy
@@ -540,7 +540,7 @@ msgstr "Es la casa de la abuela Stella y de Kate. A Kate le encanta cantar, ¡pe
 #, fuzzy
 msgctxt "#78"
 msgid "You mean the Other Professor? They say that old man's rival used to live in the Foundation, but he recently disappeared. Rumor has it that he was some genius scientist!"
-msgstr "¿Habla del Otro Profesor? Dicen que el rival de ese viejo vivía en la Fundación, pero desapareció hace poco. ¡Se rumorea que era un científico genial!"
+msgstr "¿Habla del Otro Profesor? Dicen que el rival de ese viejo vivía en la Fundación, pero desapareció hace poco. ¡Se rumorea que era un genio de la ciencia!"
 
 #. habla: Leo
 #, fuzzy
@@ -757,7 +757,7 @@ msgstr "¡Vaya! ¿Sabes? No hay que andar dándose aires."
 #, fuzzy
 msgctxt "#112"
 msgid "Hmm? What?! You have \"The Rules of High Society\"? What are you doing gathering all these paper books?! I'm not going to give my \"Entertainment Guide\" to someone as greedy as you!"
-msgstr "¿Hmm? ¡¿Qué?! ¿Tienes \"Manual de etiqueta\"? ¡¿Qué haces juntando todos estos libros de papel?! ¡No pienso darle mi \"Guía de ocio\" a alguien con tanta codicia como tú!"
+msgstr "¿Hmm? ¡¿Qué?! ¿Tienes el \"Manual de etiqueta\"? ¡¿Qué haces juntando todos estos libros de papel?! ¡No pienso darle mi \"Guía de ocio\" a alguien tan codicioso como tú!"
 
 #. habla: Nikolai
 #, fuzzy
@@ -774,7 +774,7 @@ msgstr "Bueno, no es que lo necesite. ¡Toma, te lo regalo!"
 #, fuzzy
 msgctxt "#115"
 msgid "You obtained \"Entertainment Guide\"!"
-msgstr "¡Obtuviste \"Guía de ocio\"!"
+msgstr "¡Obtuviste la \"Guía de ocio\"!"
 
 #. habla: Nikolai
 #, fuzzy
@@ -798,7 +798,7 @@ msgstr "¿Qué? ¿No lo vas a leer? ¿Entonces para qué lo querías? Hay cada p
 #, fuzzy
 msgctxt "#119"
 msgid "Whoa! Are you Shion Uzuki?!"
-msgstr "¡Epa! ¡¿Eres Shion Uzuki?!"
+msgstr "¡Vaya! ¡¿Eres Shion Uzuki?!"
 
 #. Opciones: una por línea. Mantener 2 líneas en el mismo orden.
 #, fuzzy
@@ -860,7 +860,7 @@ msgstr "¡Ah, el otro día encontré algo raro! Era un libro de papel. En fin, p
 #, fuzzy
 msgctxt "#128"
 msgid "The title? I think it was called \"Entertainment Guide.\" I mean, I hate studying in general, so I sure don't have any use for old paper books!"
-msgstr "¿El título? Creo que se llamaba \"Guía de ocio\". O sea, odio estudiar en general, ¡así que no tengo ningún uso para libros de papel viejos!"
+msgstr "¿El título? Creo que se llamaba \"Guía de ocio\". O sea, odio estudiar en general, ¡así que los libros de papel viejos no me sirven para nada!"
 
 #. habla: Amarante
 #, fuzzy
@@ -872,7 +872,7 @@ msgstr "Hace un rato andaban por aquí unos hombres con pinta sospechosa. Buscab
 #, fuzzy
 msgctxt "#130"
 msgid "They kept asking where they could find a Vector Power Battery. I haven't the foggiest idea! After all, nobody would have a use for a battery that powerful at home. "
-msgstr "No paraban de preguntar dónde podían conseguir una Batería de Energía Vector. ¡No tengo la menor idea! Después de todo, nadie tendría uso en su casa para una batería tan potente."
+msgstr "No paraban de preguntar dónde podían conseguir una Batería de Energía Vector. ¡No tengo la menor idea! Después de todo, nadie usaría en su casa una batería tan potente."
 
 #. habla: Amarante
 #, fuzzy

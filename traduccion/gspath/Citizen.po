@@ -445,7 +445,7 @@ msgid ""
 "Master thief of Miltian space. Contrary to\n"
 "popular belief, she's actually pretty careless."
 msgstr ""
-"La gran ladrona del espacio de Miltia. Aunque\n"
+"La superladrona del espacio de Miltia. Aunque\n"
 "nadie lo cree, en realidad es bastante\n"
 "descuidada."
 

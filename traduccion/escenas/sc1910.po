@@ -143,7 +143,7 @@ msgstr "Nunca pensé que vería a la doctora Juli Mizrahi tan emotiva. Siempre f
 #, fuzzy
 msgctxt "#22"
 msgid "Sure, it's a rare prototype Realian, but that doesn't explain her overly emotional reaction. Do those two have some sort of history?"
-msgstr "Claro que es un prototipo de Realian poco común, pero eso no explica una reacción tan emotiva. ¿Esas dos tendrán alguna historia?"
+msgstr "Claro que es un prototipo de Realian poco común, pero eso no explica una reacción tan emotiva. ¿Esas dos tendrán algún pasado en común?"
 
 #. habla: Ignacy
 #, fuzzy
@@ -155,13 +155,13 @@ msgstr "Un momento. Si todas las instalaciones relacionadas con la U.M.N. las fi
 #, fuzzy
 msgctxt "#24"
 msgid "She must really care about you. That's the first time I've ever seen Dr. Mizrahi like that."
-msgstr "Debe importarle mucho. Es la primera vez que veo así a la doctora Mizrahi."
+msgstr "Debes importarle mucho. Es la primera vez que veo así a la doctora Mizrahi."
 
 #. habla: Ignacy
 #, fuzzy
 msgctxt "#25"
 msgid "But things are not looking good and I guess you're caught up in them. Don't forget that."
-msgstr "Pero las cosas no pintan bien y supongo que estás metida en ellas. No lo olvides."
+msgstr "Pero las cosas no pintan bien, y tú estás metida en medio. No lo olvides."
 
 #. habla: Ignacy
 #, fuzzy
@@ -179,13 +179,13 @@ msgstr "En momentos como este, los tipos como usted tienen que proteger a todos.
 #, fuzzy
 msgctxt "#28"
 msgid "It seems those Immigrant Fleet people began heading for Old Miltia."
-msgstr "Parece que esa gente de la Flota de Inmigrantes empezó a dirigirse a la Antigua Miltia."
+msgstr "Parece que la Flota de Inmigrantes ya se dirige a la Antigua Miltia."
 
 #. habla: Ignacy
 #, fuzzy
 msgctxt "#29"
 msgid "The Federation government finally sent a support request to the Miltian Fleet, but the initial delay is bound to have a negative effect. At least all of us U.M.N. staff get some information about what's going on, but I wonder what they're planning to tell the public."
-msgstr "Por fin el gobierno de la Federación le pidió apoyo a la Flota de Miltia, pero la demora inicial seguro que va a tener consecuencias. Al menos los empleados de la U.M.N. tenemos algo de información sobre lo que pasa, pero me pregunto qué le van a decir a la gente."
+msgstr "Por fin el gobierno de la Federación le pidió apoyo a la Flota de Miltia, pero la demora inicial seguro que va a tener consecuencias. Al menos los empleados de la U.M.N. tenemos algo de información sobre lo que pasa, pero no sé qué le van a decir a la gente."
 
 #. habla: Ignacy
 #, fuzzy
@@ -233,7 +233,7 @@ msgstr "El profesor Joachim Mizrahi era un hombre increíble. ¿Cómo logró cre
 #, fuzzy
 msgctxt "#37"
 msgid "I wonder if this analysis will succeed without Professor Mizrahi's help."
-msgstr "Me pregunto si este análisis saldrá bien sin la ayuda del profesor Mizrahi."
+msgstr "¿Saldrá bien este análisis sin la ayuda del profesor Mizrahi?"
 
 #. habla: Vieira
 #, fuzzy
@@ -275,13 +275,13 @@ msgstr "¿Qué se le pasó por la cabeza cuando decidió convertirse en cíborg?
 #, fuzzy
 msgctxt "#44"
 msgid "I wonder what it feels like to live almost forever."
-msgstr "Me pregunto qué se siente vivir casi para siempre."
+msgstr "¿Qué se sentirá vivir casi para siempre?"
 
 #. habla: Vieira
 #, fuzzy
 msgctxt "#45"
 msgid "The path to Old Miltia has re-opened. I wonder if I can find out more about the Miltian Conflict or about Professor Joachim Mizrahi if I go there."
-msgstr "El camino a la Antigua Miltia se volvió a abrir. Me pregunto si podría averiguar más sobre el Conflicto de Miltia o sobre el profesor Joachim Mizrahi si fuera allí."
+msgstr "El camino a la Antigua Miltia se volvió a abrir. Si fuera allí, quizá podría averiguar más sobre el Conflicto de Miltia o sobre el profesor Joachim Mizrahi."
 
 #. habla: Vieira
 #, fuzzy
@@ -371,7 +371,7 @@ msgstr "Con la reaparición de la Antigua Miltia, habrá que corregir esa expres
 #, fuzzy
 msgctxt "#60"
 msgid "This center's records contain no data regarding that object. I apologize for not being able to help."
-msgstr "Los registros de este centro no contienen datos sobre ese objeto. Lamento no poder ayudarle."
+msgstr "Los registros de este centro no contienen datos sobre ese objeto. Lamento no poder ser de ayuda."
 
 #. habla: Irwin
 #, fuzzy
@@ -413,7 +413,7 @@ msgstr "Dicen que los Y-Data tuvieron que ver con el inicio del Conflicto de Mil
 #, fuzzy
 msgctxt "#67"
 msgid "I wonder why Professor Mizrahi would leave something like that behind."
-msgstr "Me pregunto por qué el profesor Mizrahi dejaría algo así."
+msgstr "¿Por qué el profesor Mizrahi habrá dejado algo así?"
 
 #. habla: Irwin
 #, fuzzy
@@ -479,7 +479,7 @@ msgstr "El gobierno de Miltia y la Fundación Kukai tienen vínculos profundos e
 #, fuzzy
 msgctxt "#78"
 msgid "It's rumored that even the \"Kukai\" name is just a fictional company created in order for the Miltian government to provide the Foundation with operating funds."
-msgstr "Se rumorea que incluso el nombre \"Kukai\" es solo una empresa ficticia creada para que el gobierno de Miltia le dé fondos de funcionamiento a la Fundación."
+msgstr "Se rumorea que incluso \"Kukai\" no es más que una empresa ficticia creada para que el gobierno de Miltia financie la Fundación."
 
 #. habla: Amy
 #, fuzzy
@@ -503,13 +503,13 @@ msgstr "¿Sabes? Hace un rato vi a un Realian de pelo naranja. Tenía unos ojos 
 #, fuzzy
 msgctxt "#82"
 msgid "I wonder if his mood has anything to do with his talk with the analysis staff."
-msgstr "Me pregunto si su humor tendrá algo que ver con lo que habló con el personal del análisis."
+msgstr "¿Su humor tendrá algo que ver con lo que habló con el personal del análisis?"
 
 #. habla: Amy
 #, fuzzy
 msgctxt "#83"
 msgid "Director Gaignun walked out with this fierce look on his face. Some high-up politician was with him, too. Something big must be going on."
-msgstr "El director Gaignun salió con una cara feroz. También iba con él un político de alto rango. Debe estar pasando algo grande."
+msgstr "El director Gaignun salió con cara de pocos amigos. También iba con él un político de alto rango. Debe estar pasando algo grande."
 
 #. habla: Amy
 #, fuzzy
@@ -551,7 +551,7 @@ msgstr "¡Ya no se lo voy a pedir por las buenas! ¡Lleve su trasero de cíborg 
 #, fuzzy
 msgctxt "#90"
 msgid "This whole place is in an uproar again."
-msgstr "Todo este lugar está alborotado otra vez."
+msgstr "Otra vez está todo alborotado."
 
 #. habla: Amy
 #, fuzzy
@@ -635,7 +635,7 @@ msgstr "Claro que ahora no se puede, con esa pelea entre la Federación y la Flo
 #, fuzzy
 msgctxt "#104"
 msgid "The situation has gotten worse, but it's precisely at a time like this when we should seek to increase our knowledge...just in case."
-msgstr "La situación empeoró, pero es justamente en momentos así cuando hay que buscar aprender más... por si acaso."
+msgstr "La situación empeoró, pero justamente en momentos así es cuando más hay que aprender... por si acaso."
 
 #. habla: Jarmil
 #, fuzzy
@@ -665,7 +665,7 @@ msgstr "Con todo lo que está pasando, uno se pregunta si se va a acabar el mund
 #, fuzzy
 msgctxt "#109"
 msgid "There are rumors that during the initial development of the U.M.N., experiments on human beings took place. I wonder what happened to the test subjects."
-msgstr "Se rumorea que durante el desarrollo inicial de la U.M.N. se hicieron experimentos con seres humanos. Me pregunto qué habrá pasado con los sujetos de prueba."
+msgstr "Se rumorea que durante el desarrollo inicial de la U.M.N. se hicieron experimentos con seres humanos. ¿Qué habrá pasado con los sujetos de prueba?"
 
 #. habla: Blazena
 #, fuzzy
@@ -677,7 +677,7 @@ msgstr "Pobre Serie 100, tuvo una vida difícil. Parece que todos van tras ella.
 #, fuzzy
 msgctxt "#111"
 msgid "Then again, we're doing this analysis on Federation orders. In her eyes, maybe we're no different than everyone else who's wanted her. I just feel so bad about that."
-msgstr "Aunque, por otro lado, hacemos este análisis por órdenes de la Federación. Para ella, quizá no somos distintos de todos los demás que la quisieron. Me siento muy mal por eso."
+msgstr "Aunque, por otro lado, hacemos este análisis por órdenes de la Federación. Para ella, quizá no somos distintos de todos los demás que fueron tras ella. Me siento muy mal por eso."
 
 #. habla: Blazena
 #, fuzzy
@@ -779,7 +779,7 @@ msgstr "Analizar al prototipo de la Serie 100 es una oportunidad única en la vi
 #, fuzzy
 msgctxt "#128"
 msgid "I would have been able to participate in the analysis if I had had the proper qualifications. If only I had studied harder in school..."
-msgstr "Habría podido participar en el análisis si hubiera tenido las calificaciones necesarias. Si tan solo hubiera estudiado más en la escuela..."
+msgstr "Habría podido participar en el análisis si hubiera tenido los títulos necesarios. Si tan solo hubiera estudiado más en la escuela..."
 
 #. habla: Mien
 #, fuzzy
@@ -827,7 +827,7 @@ msgstr "Pienso escribir un informe sobre este análisis. Lo voy a titular... hmm
 #, fuzzy
 msgctxt "#136"
 msgid "Could you tell me the relationship between Director Gaignun and that white-haired man? Don't tell anyone I said this, but they're both pretty cute."
-msgstr "¿Me podrías contar qué relación hay entre el director Gaignun y ese hombre de pelo blanco? No le digas a nadie que lo dije, pero los dos son bastante lindos."
+msgstr "¿Me podrías contar qué relación hay entre el director Gaignun y ese hombre de pelo blanco? No le digas a nadie que lo dije, pero los dos son bastante atractivos."
 
 #. habla: Mien
 #, fuzzy
@@ -845,7 +845,7 @@ msgstr "Hace mucho leí en algún lado un informe sobre la Flota de Inmigrantes.
 #, fuzzy
 msgctxt "#139"
 msgid "It said something about them being people who left Lost Jerusalem independently of our ancestors. But why are they so obsessed with the Zohar?"
-msgstr "Decía algo sobre que eran personas que se fueron de la Jerusalén Perdida por su cuenta, aparte de nuestros antepasados. Pero ¿por qué están tan obsesionados con el Zohar?"
+msgstr "Decía algo así como que dejaron la Jerusalén Perdida por su lado, separados de nuestros antepasados. Pero ¿por qué están tan obsesionados con el Zohar?"
 
 #. habla: Mien
 #, fuzzy
@@ -875,7 +875,7 @@ msgstr "Dicen que el director de la Fundación Kukai, el mismísimo Gaignun Kuka
 #, fuzzy
 msgctxt "#144"
 msgid "Whoa! You don't see many cyborgs around these days! Lemme shake your hand! Don't crush mine, though!"
-msgstr "¡Epa! ¡Hoy en día no se ven muchos cíborgs! ¡Déjeme estrecharle la mano! ¡Pero no me la aplaste!"
+msgstr "¡Vaya! ¡Hoy en día no se ven muchos cíborgs! ¡Déjeme estrecharle la mano! ¡Pero no me la aplaste!"
 
 #. habla: Robert
 #, fuzzy
@@ -941,7 +941,7 @@ msgstr "Todos los días mi hijo me dice que quiere estrecharle la mano. Así que
 #, fuzzy
 msgctxt "#155"
 msgid "Whoa, whoa, whoa! What is that thing?! It took out a whole planet! Are we going to be okay?"
-msgstr "¡Epa, epa, epa! ¡¿Qué es esa cosa?! ¡Destruyó un planeta entero! ¿Vamos a estar bien?"
+msgstr "¡Uy, uy, uy! ¡¿Qué es esa cosa?! ¡Destruyó un planeta entero! ¿Vamos a estar bien?"
 
 #. habla: Lilly
 #, fuzzy
@@ -992,7 +992,7 @@ msgstr "¿Bajar?"
 #, fuzzy
 msgctxt "#164"
 msgid "I wonder if everyone is here already. I better meet up with them."
-msgstr "Me pregunto si ya estarán todos aquí. Mejor me reúno con ellos."
+msgstr "¿Ya estarán todos aquí? Mejor me reúno con ellos."
 
 #. habla: Jr.
 #, fuzzy
@@ -1016,10 +1016,10 @@ msgstr "Vamos a la sala de análisis."
 #, fuzzy
 msgctxt "#168"
 msgid "It looks like there's still time before the analysis starts. I wonder what the others are doing."
-msgstr "Parece que todavía falta un poco para que empiece el análisis. Me pregunto qué estarán haciendo los demás."
+msgstr "Parece que todavía falta un poco para que empiece el análisis. ¿Qué estarán haciendo los demás?"
 
 #. habla: Jr.
 #, fuzzy
 msgctxt "#169"
 msgid "MOMO is already in the analysis room getting ready. Ziggy is...I think he said he was going to get maintenance on his body before the analysis starts."
-msgstr "MOMO ya está en la sala de análisis preparándose. Ziggy... creo que dijo que iba a hacerle mantenimiento a su cuerpo antes de que empezara el análisis."
+msgstr "MOMO ya está en la sala de análisis preparándose. Ziggy... creo que dijo que iba a hacerse un mantenimiento antes de que empezara el análisis."

@@ -29,7 +29,7 @@ msgstr "¡Oh! ¡Era todo un embarazo psicológico! ¡El pobre minino debe querer
 #, fuzzy
 msgctxt "#6"
 msgid "He's really a boy cat, you know! My poor, little fuzzy darling must be suffering terribly because his dream can't come true. I'm sure that's what got to him! He's very delicate, just like me!"
-msgstr "¡Porque es un gato macho, ¿sabes?! ¡Mi pobre peludito precioso debe estar sufriendo muchísimo porque su sueño no se puede cumplir! ¡Seguro que eso fue lo que lo afectó! ¡Es muy delicado, igual que yo!"
+msgstr "Es que en realidad es un gato macho, ¿sabes? ¡Mi pobre peludito precioso debe estar sufriendo muchísimo porque su sueño no se puede cumplir! ¡Seguro que eso fue lo que lo afectó! ¡Es muy delicado, igual que yo!"
 
 #. habla: King
 #, fuzzy
@@ -69,7 +69,7 @@ msgstr "¡Ah, joven amo! ¡Si vuelve a encontrar buenas piezas de chatarra, mán
 #, fuzzy
 msgctxt "#12"
 msgid "By the way, what is good junk, anyway?"
-msgstr "Por cierto, ¿qué es una buena chatarra, a todo esto?"
+msgstr "Por cierto, ¿qué sería una buena chatarra?"
 
 #. habla: Riggs
 #, fuzzy
@@ -146,7 +146,7 @@ msgstr "Señorita, si te crees invencible solo porque eres linda, ¡te va a ir m
 #, fuzzy
 msgctxt "#25"
 msgid "A kid from around here started messing with the boss' cat the other day and whoa! He didn't go easy on that kid at all!"
-msgstr "El otro día un chico de por aquí se puso a molestar al gato del jefe y, ¡uf! ¡No tuvo ninguna piedad con ese chico!"
+msgstr "El otro día un niño de por aquí se puso a molestar al gato del jefe y, ¡uf! ¡No tuvo ninguna piedad con ese niño!"
 
 #. habla: Clive
 #, fuzzy

@@ -82,7 +82,7 @@ msgstr "¿Qué tipo de carta? Es un mensaje de un amigo que conocí porque a los
 #, fuzzy
 msgctxt "#14"
 msgid "He said it was a diamond-shaped letter, but nobody uses letters these days. Now I wonder if I've been tricked."
-msgstr "Dijo que era una carta con forma de diamante, pero hoy en día nadie usa cartas. Ahora me pregunto si me engañaron."
+msgstr "Dijo que era una carta con forma de diamante, pero hoy en día nadie usa cartas. Ya empiezo a pensar que me engañaron."
 
 #. habla: Alexey
 #, fuzzy
@@ -238,7 +238,7 @@ msgstr "¡Vaya, hola, joven amo! ¿Qué? ¿Janet? ¡Sí, la conozco! ¡Es como u
 #, fuzzy
 msgctxt "#38"
 msgid "She's a nice girl. It's so sad. I'm sure she wanted to see the mayor again before he died."
-msgstr "Es una buena chica. Es tan triste. Seguro que quería volver a ver al alcalde antes de que muriera."
+msgstr "Es una buena chica. Me da mucha tristeza. Seguro que quería volver a ver al alcalde antes de que muriera."
 
 #. habla: Vimala
 #, fuzzy
@@ -532,7 +532,7 @@ msgstr "¡Ah! ¡Gracias, socio! Eh, digo, ¡muchísimas gracias! ♪ Pero, la ve
 #, fuzzy
 msgctxt "#84"
 msgid "When there's no one around, my eyes can't help but wander over to the cash register. ♪ D...don't worry! I ain't like my old self anymore, you got that? Um, I mean, I wouldn't do such a thing anymore, so it's okay. ♪"
-msgstr "Cuando no hay nadie, los ojos se me van solos a la caja registradora. ♪ ¡N-no te preocupes! ¡Ya no soy la de antes! ¿Te quedó claro? Eh, digo, ya no haría algo así, así que no hay de qué preocuparse. ♪"
+msgstr "Cuando no hay nadie, los ojos se me van solos a la caja registradora. ♪ ¡N... no te preocupes! ¡Ya no soy la de antes! ¿Te quedó claro? Eh, digo, ya no haría algo así, así que no hay de qué preocuparse. ♪"
 
 #. habla: Walker
 #, fuzzy
@@ -696,7 +696,7 @@ msgstr "¡No entiendo para nada ese último episodio de Iron 3! ¡El jefe final,
 #, fuzzy
 msgctxt "#111"
 msgid "Whoa! You're going to challenge Mad Skelter?!"
-msgstr "¡Epa! ¡¿Van a desafiar a Mad Skelter?!"
+msgstr "¡Vaya! ¡¿Van a desafiar a Mad Skelter?!"
 
 #. habla: Caito
 #, fuzzy

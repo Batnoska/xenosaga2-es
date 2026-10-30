@@ -17,7 +17,7 @@ msgstr "Mi hijo siempre me preguntaba por mi trabajo, así que por fin conseguí
 #, fuzzy
 msgctxt "#4"
 msgid "I would think a kid his age would enjoy going to a toy store a lot more than a lab."
-msgstr "Pensé que a un chico de su edad le gustaría mucho más ir a una juguetería que a un laboratorio."
+msgstr "Pensé que a un niño de su edad le gustaría mucho más ir a una juguetería que a un laboratorio."
 
 #. habla: Pitt
 #, fuzzy
@@ -203,7 +203,7 @@ msgstr "Lo que demostró peleando contra los Gnosis tiene entusiasmada hasta a l
 #, fuzzy
 msgctxt "#35"
 msgid "KOS-MOS! You're amazing! I knew you'd be good, but this good?! Wow! No wonder they call you the Steel Goddess of War!"
-msgstr "¡KOS-MOS! ¡Eres increíble! Sabía que ibas a ser buena, pero ¿tanto? ¡Guau! ¡Con razón te dicen la Diosa de Acero de la Guerra!"
+msgstr "¡KOS-MOS! ¡Eres increíble! Sabía que ibas a ser buena, pero ¿tanto? ¡Guau! ¡Con razón te dicen la Diosa Guerrera de Acero!"
 
 #. habla: Ermanno
 #, fuzzy
@@ -311,7 +311,7 @@ msgstr "No sé cómo es en la Primera División, pero en la Segunda no se tolera
 #, fuzzy
 msgctxt "#53"
 msgid "Oh, KOS-MOS! I thought you were gone! They said you headed for Old Miltian space and disappeared."
-msgstr "¡Oh, KOS-MOS! ¡Creí que no estabas! Dijeron que te fuiste hacia el espacio de la Antigua Miltia y desapareciste."
+msgstr "¡Oh, KOS-MOS! ¡Creí que te habías ido! Dijeron que te fuiste hacia el espacio de la Antigua Miltia y desapareciste."
 
 #. habla: Lydia
 #, fuzzy
@@ -479,7 +479,7 @@ msgstr "¡Todo va a salir bien! ¡Yo me quedo aquí! ¡No hay nada de qué preoc
 #, fuzzy
 msgctxt "#81"
 msgid "Whoa! Don't startle me like that! If you've come to check on KOS-MOS, I'm afraid you can't see her right now."
-msgstr "¡Epa! ¡No me asustes así! Si viniste a ver a KOS-MOS, me temo que ahora no puedes verla."
+msgstr "¡Ay! ¡No me asustes así! Si viniste a ver a KOS-MOS, me temo que ahora no puedes verla."
 
 #. habla: Allen
 #, fuzzy

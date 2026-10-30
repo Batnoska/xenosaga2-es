@@ -52,7 +52,7 @@ msgstr "¿Activar el ascensor?"
 #, fuzzy
 msgctxt "#9"
 msgid "I wonder what that button does. Chief, we probably shouldn't touch it."
-msgstr "Me pregunto qué hace ese botón. Jefa, mejor no lo toquemos."
+msgstr "¿Qué hará ese botón? Jefa, mejor no lo toquemos."
 
 #, fuzzy
 msgctxt "#10"

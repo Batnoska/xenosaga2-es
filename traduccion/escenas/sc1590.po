@@ -54,13 +54,13 @@ msgstr "¿Qué? ¿La chica de arriba? Por favor, déjala en paz. Tiene heridas e
 #, fuzzy
 msgctxt "#7"
 msgid "I'm still doing great! After all, I was the number-one prima ballerina on Miltia! Well, I mean, sure, my legs may not be what they used to be, but even at this age, I still remember the excitement of going on stage, dancing with all my heart, and basking in the applause of a packed house."
-msgstr "¡Todavía estoy espléndida! ¡Después de todo, fui la mejor primera bailarina de Miltia! Bueno, claro, quizá mis piernas ya no sean lo que eran, pero incluso a esta edad recuerdo la emoción de subir al escenario, bailar con todo el corazón y recibir los aplausos de una sala llena."
+msgstr "¡Sigo en plena forma! ¡Después de todo, fui la primera bailarina más famosa de Miltia! Bueno, claro, quizá mis piernas ya no sean lo que eran, pero incluso a esta edad recuerdo la emoción de subir al escenario, bailar con todo el corazón y recibir los aplausos de una sala llena."
 
 #. habla: Stella
 #, fuzzy
 msgctxt "#8"
 msgid "Oh, you'd listen to an old woman?"
-msgstr "Oh, ¿escucharías a una anciana?"
+msgstr "Oh, ¿de verdad quieres escuchar a una anciana?"
 
 #. habla: Stella
 #. Opciones: una por línea. Mantener 2 líneas en el mismo orden.
@@ -154,13 +154,13 @@ msgstr ""
 #, fuzzy
 msgctxt "#18"
 msgid "Hey, you said you were going to help! Please find the things that I auctioned off!"
-msgstr "¡Oye, dijiste que ibas a ayudar! ¡Por favor, encuentra las cosas que vendí en subastas!"
+msgstr "¡Oye, dijiste que ibas a ayudar! ¡Por favor, encuentra las cosas que subasté!"
 
 #. habla: Stella
 #, fuzzy
 msgctxt "#19"
 msgid "Now then, I think I'll practice dancing for the first time in decades."
-msgstr "Bueno, creo que voy a practicar baile por primera vez en décadas."
+msgstr "Bueno, creo que voy a ensayar un poco, por primera vez en décadas."
 
 #. habla: Stella
 #, fuzzy
@@ -184,7 +184,7 @@ msgstr "Hace mucho que no puedo cantar... desde aquel día, hace catorce años, 
 #, fuzzy
 msgctxt "#23"
 msgid "Please don't worry about me. I'm more concerned about Stella. She's not as young as she used to be, so I worry about her."
-msgstr "Por favor, no te preocupes por mí. Me preocupa más Stella. Ya no es tan joven como antes, así que me preocupo por ella."
+msgstr "Por favor, no te preocupes por mí. Me preocupa más Stella. Ya no es tan joven, ¿sabes?"
 
 #. habla: Kate
 #, fuzzy
@@ -214,7 +214,7 @@ msgstr "Si Stella tiene ganas, me gustaría que hiciéramos una pequeña funció
 #, fuzzy
 msgctxt "#28"
 msgid "Lately, I've been thinking a lot about whether I've lived a happy life. I mean, I don't think it's been an unhappy one, but it's just I don't have any family and I feel a little sad thinking that this room will be my final home. If I'm going to pass away without knowing whether the choices I made were right or wrong, then I want to go on stage once more! If I take to the stage one last time, I'm sure I could tell whether I've done the right things with my life! I wonder if there is anyone who could help this old ballerina..."
-msgstr "Últimamente pienso mucho en si tuve una vida feliz. O sea, no creo que haya sido infeliz, pero no tengo familia y me pone un poco triste pensar que esta habitación será mi último hogar. Si voy a irme de este mundo sin saber si mis decisiones fueron buenas o malas, ¡quiero volver a subir al escenario una vez más! Si subo al escenario por última vez, ¡seguro que podré saber si hice bien las cosas en mi vida! Me pregunto si habrá alguien que pueda ayudar a esta vieja bailarina..."
+msgstr "Últimamente pienso mucho en si tuve una vida feliz. No creo que haya sido infeliz, pero no tengo familia y me pone un poco triste pensar que esta habitación será mi último hogar. Si voy a irme de este mundo sin saber si mis decisiones fueron buenas o malas, ¡quiero volver a subir al escenario una vez más! Si subo al escenario por última vez, ¡seguro que podré saber si hice bien las cosas en mi vida! ¿Habrá alguien que pueda ayudar a esta vieja bailarina...?"
 
 #, fuzzy
 msgctxt "#29"
@@ -235,7 +235,7 @@ msgstr "¿De verdad? ¿Me vas a ayudar?"
 #, fuzzy
 msgctxt "#32"
 msgid "Some items that are very dear to me wound up in the hands of people in this city. I wonder if you could go find them and bring them back to me."
-msgstr "Algunas cosas que quiero mucho terminaron en manos de gente de esta ciudad. Me pregunto si podrías encontrarlas y traérmelas."
+msgstr "Algunas cosas que quiero mucho terminaron en manos de gente de esta ciudad. ¿Podrías encontrarlas y traérmelas?"
 
 #. habla: Stella
 #, fuzzy
@@ -286,7 +286,7 @@ msgstr "¡Obtuviste el Traje de baño de Shion!"
 #, fuzzy
 msgctxt "#42"
 msgid "They're props I used a long time ago. I won't be using them anymore, so I'll give them to you. Of course, if you don't need them, you don't have to use them."
-msgstr "Son accesorios que usé hace mucho. Ya no los voy a usar, así que te los doy. Claro que, si no los necesitas, no tienes por qué usarlos."
+msgstr "Es vestuario que usé hace mucho. Ya no lo voy a usar, así que te lo doy. Claro que, si no lo necesitas, no tienes por qué usarlo."
 
 #. habla: Stella
 #, fuzzy

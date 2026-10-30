@@ -1038,7 +1038,7 @@ msgstr ""
 #, fuzzy
 msgctxt "Mass-Produced 100-Series Observational Unit"
 msgid "Mass-Produced 100-Series Observational Unit"
-msgstr "Unidad de Observación Serie 100 producida en masa"
+msgstr "Unidad de observación de la Serie 100"
 
 #. aparece 47 veces
 msgctxt "Matthews"
@@ -1124,7 +1124,7 @@ msgstr ""
 #, fuzzy
 msgctxt "Naive Mass-Produced 100-Series"
 msgid "Naive Mass-Produced 100-Series"
-msgstr "Serie 100 ingenua producida en masa"
+msgstr "Serie 100 ingenua"
 
 #. aparece 3 veces
 msgctxt "Nancy"
@@ -1817,7 +1817,7 @@ msgstr ""
 #, fuzzy
 msgctxt "Wandering Mass-Produced 100-Series"
 msgid "Wandering Mass-Produced 100-Series"
-msgstr "Serie 100 errante producida en masa"
+msgstr "Serie 100 errante"
 
 #. aparece 1 veces
 #, fuzzy

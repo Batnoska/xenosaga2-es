@@ -137,7 +137,7 @@ msgstr "La serie Ziggurat eran cíborgs de operaciones especiales diseñados par
 #, fuzzy
 msgctxt "#22"
 msgid "Can you fight A.M.W.S. with your bare hands?"
-msgstr "¿Puede pelear contra un A.M.W.S. con las manos desnudas?"
+msgstr "¿Puede pelear contra un A.M.W.S. con sus propias manos?"
 
 #. habla: Jeri
 #, fuzzy
@@ -155,7 +155,7 @@ msgstr "¿Cómo llegó ahí sin usar la hiperpuerta de la U.M.N.?"
 #, fuzzy
 msgctxt "#25"
 msgid "You should hurry up and evacuate! I wonder if Second Miltia is safe..."
-msgstr "¡Deberían evacuar rápido! Me pregunto si Segunda Miltia estará a salvo..."
+msgstr "¡Deberían evacuar rápido! ¿Estará a salvo Segunda Miltia...?"
 
 #. habla: Jeri
 #, fuzzy
@@ -197,7 +197,7 @@ msgstr "Esta zona circular del centro es la cama de análisis. Usa un campo magn
 #, fuzzy
 msgctxt "#32"
 msgid "Unlike the simple dive modules, no outside noise is allowed in. More importantly, though, this isolation from the outside world allows us to better maintain stable values."
-msgstr "A diferencia de los módulos de inmersión simples, no deja entrar ningún ruido externo. Pero, más importante, este aislamiento del mundo exterior nos permite mantener valores más estables."
+msgstr "A diferencia de los módulos de inmersión simples, no deja entrar ningún ruido externo. Pero lo más importante es que este aislamiento del mundo exterior nos permite mantener valores más estables."
 
 #. habla: Danny
 #, fuzzy
@@ -383,7 +383,7 @@ msgstr "¿Cuántos caballos de fuerza tiene?"
 #, fuzzy
 msgctxt "#63"
 msgid "I've heard that the Immigrant Fleet follows an ancient religion that has been around since Lost Jerusalem was still in existence."
-msgstr "Escuché que la Flota de Inmigrantes sigue una religión antigua que existe desde que todavía existía la Jerusalén Perdida."
+msgstr "Escuché que la Flota de Inmigrantes sigue una religión antigua, de los tiempos en que todavía existía la Jerusalén Perdida."
 
 #. habla: Varela
 #, fuzzy
@@ -395,7 +395,7 @@ msgstr "¿Qué intentan lograr?"
 #, fuzzy
 msgctxt "#65"
 msgid "Did you see it, too? After seeing something like that, I don't think I can sleep alone."
-msgstr "¿Tú también la viste? Después de ver algo así, no creo que pueda dormir sola."
+msgstr "¿Tú también lo viste? Después de ver algo así, no creo que pueda dormir sola."
 
 #. habla: Varela
 #, fuzzy
@@ -425,7 +425,7 @@ msgstr "Por cierto, ¿usted es un organismo vivo o un arma?"
 #, fuzzy
 msgctxt "#70"
 msgid "The fleet is sending back real-time footage, but it's showing something unbelievable!"
-msgstr "La flota está enviando imágenes en tiempo real, ¡pero muestran algo increíble!"
+msgstr "La flota está enviando imágenes en tiempo real, ¡pero lo que muestran es imposible de creer!"
 
 #. habla: Varela
 #, fuzzy

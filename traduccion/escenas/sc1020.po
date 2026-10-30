@@ -24,7 +24,7 @@ msgstr "Al acercarte a algo destructible, lo fijas como blanco automáticamente.
 #, fuzzy
 msgctxt "#5"
 msgid "How you destroy things is up to you."
-msgstr "Cómo destruyas las cosas queda en tus manos."
+msgstr "Tú decides cómo destruir las cosas."
 
 #. habla: chaos
 #, fuzzy

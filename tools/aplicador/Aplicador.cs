@@ -388,6 +388,10 @@ static partial class Aplicador
 
     class PatchEntry { public string Group, Path, Original, New, Stored; }
 
+    // Original de los archivos que el paquete trae enteros (los subtítulos de los videos): se
+    // aplican sobre cualquier versión, porque no todos los undub traen los mismos (parche.CUALQUIERA).
+    const string Cualquiera = "*";
+
     static ZipArchive OpenPackage(out Dictionary<string, List<PatchEntry>> manifest)
     {
         Stream s = Assembly.GetExecutingAssembly().GetManifestResourceStream("parche.zip");
@@ -661,7 +665,7 @@ static partial class Aplicador
                     esperado[e.Group + "|" + e.Path] = sha;
                     if (e.Group == "raiz" && e.Path == iso.Executable) exeTraducido = sha == e.New;
                     if (sha == e.New) continue;  // ya está traducido
-                    if (sha != e.Original)
+                    if (e.Original != Cualquiera && sha != e.Original)
                     {
                         bad.Add(e.Path);
                         continue;

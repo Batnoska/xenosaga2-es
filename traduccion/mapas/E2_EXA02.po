@@ -11,7 +11,7 @@ msgstr ""
 #, fuzzy
 msgctxt "#0"
 msgid "$zoom13;Spiral Blade (Slash/Aura)"
-msgstr "$zoom13;Hoja espiral (Corte/Aura)"
+msgstr "$zoom13;Filo espiral (Corte/Aura)"
 
 #. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
 #, fuzzy

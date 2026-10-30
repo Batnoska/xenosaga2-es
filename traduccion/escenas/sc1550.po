@@ -67,7 +67,7 @@ msgstr ""
 #, fuzzy
 msgctxt "#7"
 msgid "I suspect Second Miltia."
-msgstr "Sospecho que a Segunda Miltia."
+msgstr "Supongo que a Segunda Miltia."
 
 #. habla: Sikes
 #, fuzzy
@@ -404,7 +404,7 @@ msgid ""
 "It's a little weird for a kid like me to say this, but you should never stop learning! There's some really useful stuff you could learn if you study just a little."
 msgstr ""
 "...\n"
-"Es un poco raro que lo diga un chico como yo, ¡pero nunca hay que dejar de aprender! Hay cosas muy útiles que podrías aprender si estudias un poquito."
+"Es un poco raro que lo diga un niño como yo, ¡pero nunca hay que dejar de aprender! Hay cosas muy útiles que podrías aprender si estudias un poquito."
 
 #. habla: Marnie
 #, fuzzy

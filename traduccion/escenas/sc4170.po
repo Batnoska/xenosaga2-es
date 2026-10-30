@@ -75,7 +75,7 @@ msgstr ""
 #, fuzzy
 msgctxt "#12"
 msgid "Every last one was a disaster! The first one was, \"Buy bread and board a train!\" Next was, \"We'll teach you the right way to eat bread.\" Then the last one was the \"Goldfish-scooping and bread festival.\" *Sigh* I wonder what in the world he's scheming up this time. "
-msgstr "¡Todos y cada uno fueron un desastre! El primero fue \"Compra pan y sube a un tren\". El siguiente fue \"Te enseñamos la forma correcta de comer pan\". Y el último fue el \"Festival del pan y la pesca de pececitos de colores\". *Suspiro* Me pregunto qué estará tramando esta vez."
+msgstr "¡Todos y cada uno fueron un desastre! El primero fue \"Compra pan y sube a un tren\". El siguiente fue \"Te enseñamos la forma correcta de comer pan\". Y el último fue el \"Festival del pan y la pesca de pececitos de colores\". *Suspiro* ¿Qué estará tramando esta vez?"
 
 #. habla: Mina
 #, fuzzy

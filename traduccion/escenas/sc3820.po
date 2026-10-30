@@ -227,7 +227,7 @@ msgstr "Joven amo, la gente de la Fundación anda tensa últimamente. ¿Va a pas
 #, fuzzy
 msgctxt "#36"
 msgid "Something strange is going on, but no one believes me. I have a feeling that you'd understand me, but why did I think that in the first place?"
-msgstr "Está pasando algo raro, pero nadie me cree. Tengo la sensación de que tú me entenderías, pero ¿por qué pensé eso en primer lugar?"
+msgstr "Está pasando algo raro, pero nadie me cree. Tengo la sensación de que tú me entenderías, pero ¿por qué se me habrá ocurrido eso?"
 
 #. habla: Kornei
 #, fuzzy
@@ -275,7 +275,7 @@ msgstr "No tendría este problema si pudiera usar un enlace como Shelley y Mary.
 #, fuzzy
 msgctxt "#44"
 msgid "I can't stand it! I need to know! What is the Immigrant Fleet? The news is so unreliable when it comes to current affairs."
-msgstr "¡No lo soporto! ¡Necesito saber! ¿Qué es la Flota de Inmigrantes? Las noticias no son nada confiables con la actualidad."
+msgstr "¡No lo soporto! ¡Necesito saber! ¿Qué es la Flota de Inmigrantes? Con lo que está pasando, las noticias no son nada confiables."
 
 #. habla: Kornei
 #, fuzzy
@@ -415,4 +415,4 @@ msgstr ""
 #, fuzzy
 msgctxt "#67"
 msgid "I think I wanna go somewhere quiet and think."
-msgstr "Creo que quiero ir a algún lugar tranquilo a pensar."
+msgstr "Quiero ir a algún lugar tranquilo a pensar."

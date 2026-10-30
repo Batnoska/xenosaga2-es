@@ -33,9 +33,9 @@ msgstr "¡Desbloqueaste la protección final!"
 #, fuzzy
 msgctxt "#11"
 msgid "Unbelievable! Super, super, super, super bravo to you! You've unlocked the protection on all the traps I set! But if you're here, that must mean the me in the real world is depressed somewhere. Well, I'll do something good for you, so cheer me up if you see me!"
-msgstr "¡Increíble! ¡Súper, súper, súper, súper bravo! ¡Desbloqueaste la protección de todas las trampas que puse! Pero si estás aquí, eso significa que el yo del mundo real debe estar deprimido en algún lado. Bueno, te voy a dar algo bueno, ¡así que si me ves, levántame el ánimo!"
+msgstr "¡Increíble! ¡Súper, súper, súper, súper bravo! ¡Desbloqueaste la protección de todas las trampas que puse! Pero si estás aquí, eso significa que el yo del mundo real debe estar deprimido en algún lado. En fin, te voy a dar algo bueno, ¡así que si me ves, levántame el ánimo!"
 
 #, fuzzy
 msgctxt "#12"
 msgid "You obtained Secret Key 18! This key opens the Level 3 Class F skill \"Rare +30.\""
-msgstr "¡Obtuviste la Llave Secreta 18! Esta llave desbloquea la habilidad de Clase F de nivel 3 \"Rare +30\"."
+msgstr "¡Obtuviste la Llave Secreta 18! Esta llave desbloquea la habilidad de Clase F de nivel 3 \"Rareza+30\"."

@@ -10,7 +10,7 @@ msgstr ""
 #, fuzzy
 msgctxt "#2"
 msgid "You obtained the Memory Locket!"
-msgstr "¡Obtuviste el Relicario de los Recuerdos!"
+msgstr "¡Obtuviste el Relicario!"
 
 #, fuzzy
 msgctxt "#3"

@@ -59,7 +59,7 @@ msgstr "Sí. Soy un droide. Mi sueño es combinarme con otro robot. Pero no me i
 #, fuzzy
 msgctxt "#9"
 msgid "Yes. I'm a droid. These days, the world is in complete disarray. Everyone has their hands full just looking after themselves."
-msgstr "Sí. Soy un droide. Hoy en día el mundo es un caos total. Todos tienen las manos ocupadas cuidándose a sí mismos."
+msgstr "Sí. Soy un droide. Hoy en día el mundo es un caos total. Cada uno tiene bastante con cuidarse a sí mismo."
 
 #. habla: AWAMORI
 #, fuzzy
@@ -83,7 +83,7 @@ msgstr "Sí. Soy un droide. El sueño era solo un sueño. Soy más iluminado que
 #, fuzzy
 msgctxt "#13"
 msgid "Yes. I'm a droid. We're down to the last big job! Hang in there!"
-msgstr "Sí. Soy un droide. ¡Ya llegamos al último gran trabajo! ¡Aguanten!"
+msgstr "Sí. Soy un droide. ¡Ya llegamos al último gran trabajo! ¡Ánimo!"
 
 #. habla: Harvel
 #, fuzzy
@@ -239,7 +239,7 @@ msgstr "¡Oye, Chiquito! ¿Qué es esa cara tan rara?"
 #, fuzzy
 msgctxt "#39"
 msgid "Heh, drop the look. It's just not you. You don't look scary at all."
-msgstr "Je, déjate de poner esa cara. No va contigo. No das nada de miedo."
+msgstr "Je, deja de poner esa cara. No va contigo. No das nada de miedo."
 
 #. habla: Wandering Mass-Produced 100-Series
 #, fuzzy
@@ -317,7 +317,7 @@ msgstr "Esta conjetura se basa en datos recopilados por las Serie 100 del puente
 #, fuzzy
 msgctxt "#52"
 msgid "MOMO, what does it mean to \"have fun\"? I have not had such an experience."
-msgstr "MOMO, ¿qué significa \"divertirse\"? No tuve esa experiencia."
+msgstr "MOMO, ¿qué significa \"divertirse\"? Nunca lo experimenté."
 
 #. habla: Wandering Mass-Produced 100-Series
 #, fuzzy
@@ -371,7 +371,7 @@ msgstr "¿Por qué busca el Zohar, joven amo? ¿Cuál es el motivo?"
 #, fuzzy
 msgctxt "#61"
 msgid "The fact that you won't answer indicates that this is a topic that is best left alone. I've gained yet another new experience."
-msgstr "Que no responda indica que es un tema que es mejor no tocar. Gané otra experiencia nueva."
+msgstr "Que no responda indica que es mejor no tocar el tema. Gané otra experiencia nueva."
 
 #. habla: Wandering Mass-Produced 100-Series
 #, fuzzy
@@ -413,7 +413,7 @@ msgstr "Supongo que alguien como usted, joven amo, debe haber tomado un montón 
 #, fuzzy
 msgctxt "#68"
 msgid "But just the thought of you dancing...haha! I can't even imagine it. Haha!"
-msgstr "Pero solo de imaginarlo bailando... ¡jaja! Ni me lo puedo imaginar. ¡Jaja!"
+msgstr "Pero pensar en usted bailando... ¡jaja! Ni me lo puedo imaginar. ¡Jaja!"
 
 #. habla: Pamela
 #, fuzzy
@@ -503,7 +503,7 @@ msgstr "Joven amo, tengo un favor que pedirle. Necesito ir a Segunda Miltia como
 #, fuzzy
 msgctxt "#83"
 msgid "My parents on Second Miltia have fallen ill with a rare disease called Mushroom Sickness and...Hey, let me finish!"
-msgstr "Mis padres, en Segunda Miltia, se enfermaron de una enfermedad rara llamada el Mal de los Hongos y... ¡Oye, déjame terminar!"
+msgstr "Mis padres, en Segunda Miltia, contrajeron una enfermedad rara llamada el Mal de los Hongos y... ¡Oye, déjame terminar!"
 
 #. habla: Pamela
 #, fuzzy
@@ -527,13 +527,13 @@ msgstr "Escalé una montaña durante una inmersión en el Encéfalo, y me dieron
 #, fuzzy
 msgctxt "#87"
 msgid "But we're under security alert, so I can't go to Second Miltia. I wonder if there's anything anyone can do."
-msgstr "Pero estamos en alerta de seguridad, así que no puedo ir a Segunda Miltia. Me pregunto si alguien podrá hacer algo."
+msgstr "Pero estamos en alerta de seguridad, así que no puedo ir a Segunda Miltia. ¿No habrá nadie que pueda hacer algo?"
 
 #. habla: Pamela
 #, fuzzy
 msgctxt "#88"
 msgid "*Sigh* I wonder when I'll be able to go mountain climbing."
-msgstr "*Suspiro* Me pregunto cuándo podré ir a hacer montañismo."
+msgstr "*Suspiro* ¿Cuándo podré ir a hacer montañismo?"
 
 #. habla: Launch
 #, fuzzy
@@ -585,7 +585,7 @@ msgstr "Este es un ascensor directo al muelle de la lanzadera de descenso a Segu
 #, fuzzy
 msgctxt "#96"
 msgid "The Elsa's not here right now. Just give up."
-msgstr "El Elsa no está aquí ahora. Mejor ríndanse."
+msgstr "El Elsa no está aquí ahora. Mejor olvídenlo."
 
 #. habla: Matthews
 #, fuzzy

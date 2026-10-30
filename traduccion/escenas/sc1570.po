@@ -98,19 +98,19 @@ msgstr "Por cierto, tengo un favor especial que pedirte. Contraté a un cocinero
 #, fuzzy
 msgctxt "#13"
 msgid "I'm looking for a cool partner who's perfect for someone as cool as me! I wonder where I can find someone like that."
-msgstr "¡Busco un compañero con estilo, perfecto para alguien con tanto estilo como yo! Me pregunto dónde puedo encontrar a alguien así."
+msgstr "¡Busco un compañero con estilo, perfecto para alguien con tanto estilo como yo! ¿Dónde podré encontrar a alguien así?"
 
 #. habla: Valentino
 #, fuzzy
 msgctxt "#14"
 msgid "I've been thinking, as long as the dude gets the groove, my partner doesn't have to be human."
-msgstr "Estuve pensando que, mientras el tipo capte el ritmo, mi compañero no tiene que ser humano."
+msgstr "Estuve pensando: mientras capte el ritmo, mi compañero no tiene por qué ser humano."
 
 #. habla: Valentino
 #, fuzzy
 msgctxt "#15"
 msgid "I'm looking for a cool partner who's perfect for someone as cool as me! I wonder where I can find someone like that."
-msgstr "¡Busco un compañero con estilo, perfecto para alguien con tanto estilo como yo! Me pregunto dónde puedo encontrar a alguien así."
+msgstr "¡Busco un compañero con estilo, perfecto para alguien con tanto estilo como yo! ¿Dónde podré encontrar a alguien así?"
 
 #. habla: Valentino
 #, fuzzy
@@ -127,7 +127,7 @@ msgstr "¡Encontraste dueño para Loop!"
 #, fuzzy
 msgctxt "#18"
 msgid "Yeah, this guy is great! He's one of the few cats who gets what it means to be hip!"
-msgstr "¡Sí, este tipo es genial! ¡Es uno de los pocos gatos que entienden lo que es estar a la moda!"
+msgstr "¡Sí, este tipo es genial! ¡Es de los pocos gatos que saben lo que es tener estilo!"
 
 #. habla: Valentino
 #, fuzzy

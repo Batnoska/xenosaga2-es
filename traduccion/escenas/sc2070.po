@@ -23,7 +23,7 @@ msgstr "Hmm, el tratamiento de Sakura Mizrahi entra en la fase seis."
 #, fuzzy
 msgctxt "#2"
 msgid "I heard she's the daughter of Professor Joachim Mizrahi, the leader of the U-TIC Organization, but I wonder how effective this treatment will be."
-msgstr "Escuché que es la hija del profesor Joachim Mizrahi, el líder de la Organización U-TIC, pero me pregunto qué tan eficaz será este tratamiento."
+msgstr "Escuché que es la hija del profesor Joachim Mizrahi, el líder de la Organización U-TIC, pero no sé qué tan eficaz será este tratamiento."
 
 #. habla: Alois
 #, fuzzy

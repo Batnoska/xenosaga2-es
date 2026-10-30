@@ -279,7 +279,7 @@ msgstr "¿Hmm? Me temo que no conozco a nadie llamado Haksheen."
 #, fuzzy
 msgctxt "#42"
 msgid "Haksheen's the one who's going to fight Dark, right? Haksheen Light, also known as the Professor! He's a genius scientist who suddenly disappeared after graduating at the top of his class at the University of Bormeo! But he never ceased communicating with me! He, Dark, and I were in the same graduating class at the university! Anyway, if Haksheen has given his permission, then I must give you this!"
-msgstr "Haksheen es el que va a pelear contra Dark, ¿no? ¡Haksheen Light, también conocido como el Profesor! ¡Es un científico genial que desapareció de repente después de graduarse primero de su clase en la Universidad de Bormeo! ¡Pero nunca dejó de comunicarse conmigo! ¡Él, Dark y yo nos graduamos juntos en la universidad! En fin, si Haksheen dio su permiso, ¡tengo que darte esto!"
+msgstr "Haksheen es el que va a pelear contra Dark, ¿no? ¡Haksheen Light, también conocido como el Profesor! ¡Es un genio de la ciencia que desapareció de repente después de graduarse primero de su clase en la Universidad de Bormeo! ¡Pero nunca dejó de comunicarse conmigo! ¡Él, Dark y yo nos graduamos juntos en la universidad! En fin, si Haksheen dio su permiso, ¡tengo que darte esto!"
 
 #, fuzzy
 msgctxt "#43"

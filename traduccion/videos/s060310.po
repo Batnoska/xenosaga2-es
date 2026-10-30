@@ -15,7 +15,7 @@ msgid ""
 "We're losing it, Captain.\n"
 "We can't get away!"
 msgstr ""
-"¡Lo perdemos, capitán!\n"
+"¡Perdemos el control, capitán!\n"
 "¡No podemos escapar!"
 
 #. tiempo 00:20:00

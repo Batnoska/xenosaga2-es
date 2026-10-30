@@ -34,10 +34,10 @@ msgstr "¡Desbloqueaste la Protección 01!"
 #, fuzzy
 msgctxt "#9"
 msgid "Aha! I see you've succeeded in unlocking the first protection! You deserve a \"Bravo!\" as well! But it's not over yet! I've got plenty of layers of protection left. I'm the great genius Bravo Hugo, after all! The next protection is set at the \"place where red flowers bloom.\" You can unlock trap protection 02 there!"
-msgstr "¡Ajá! ¡Veo que lograste desbloquear la primera protección! ¡Tú también te mereces un \"¡Bravo!\"! ¡Pero esto no termina aquí! Todavía me quedan muchas capas de protección. ¡Después de todo, soy el gran genio Bravo Hugo! La siguiente protección está en el \"lugar donde florecen las flores rojas\". ¡Ahí puedes desbloquear la protección de trampa 02!"
+msgstr "¡Ajá! ¡Veo que lograste desbloquear la primera protección! ¡Tú también te mereces un \"bravo\"! ¡Pero esto no termina aquí! Todavía me quedan muchas capas de protección. ¡Después de todo, soy el gran genio Bravo Hugo! La siguiente protección está en el \"lugar donde crecen las flores rojas\". ¡Ahí puedes desbloquear la protección de trampa 02!"
 
 #. habla: Hugo's Memo
 #, fuzzy
 msgctxt "#10"
 msgid "The next protection is set at the \"place where red flowers bloom.\" You can unlock trap protection 02 there!"
-msgstr "La siguiente protección está en el \"lugar donde florecen las flores rojas\". ¡Ahí puedes desbloquear la protección de trampa 02!"
+msgstr "La siguiente protección está en el \"lugar donde crecen las flores rojas\". ¡Ahí puedes desbloquear la protección de trampa 02!"

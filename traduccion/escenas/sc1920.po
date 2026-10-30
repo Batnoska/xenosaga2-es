@@ -47,7 +47,7 @@ msgstr "¿Conoce a ese Realian de pelo naranja? Se supone que trabaja para el re
 #, fuzzy
 msgctxt "#6"
 msgid "He seems to be a specially customized weapons-grade Realian. I've never seen one that customized before."
-msgstr "Parece ser un Realian de combate personalizado especialmente. Nunca había visto uno tan personalizado."
+msgstr "Parece un Realian de combate hecho a medida. Nunca había visto uno tan modificado."
 
 #. habla: Bertram
 #, fuzzy
@@ -59,7 +59,7 @@ msgstr "Cuesta creer que esta niña sea el prototipo de la Serie 100."
 #, fuzzy
 msgctxt "#8"
 msgid "I guess you can't judge a book by its cover."
-msgstr "Supongo que no hay que juzgar un libro por su portada."
+msgstr "Supongo que las apariencias engañan."
 
 #. habla: Bertram
 #, fuzzy
@@ -83,7 +83,7 @@ msgstr "Juli Mizrahi. Es muy famosa entre los neuropsicólogos. Nunca imaginé q
 #, fuzzy
 msgctxt "#12"
 msgid "Juli Mizrahi was involved in the outbreak of Realian violence fourteen years ago. I wonder what she thinks about it now."
-msgstr "Juli Mizrahi estuvo involucrada en el estallido de violencia de los Realians de hace catorce años. Me pregunto qué pensará de eso ahora."
+msgstr "Juli Mizrahi estuvo involucrada en el estallido de violencia de los Realians de hace catorce años. ¿Qué pensará de eso ahora?"
 
 #. habla: Bertram
 #, fuzzy
@@ -119,7 +119,7 @@ msgstr "La Antigua Miltia. Nunca pensé que volvería a contemplar ese planeta."
 #, fuzzy
 msgctxt "#18"
 msgid "I wonder if the government knows what that giant mass floating in Old Miltian space really is."
-msgstr "Me pregunto si el gobierno sabe qué es en realidad esa masa gigante que flota en el espacio de la Antigua Miltia."
+msgstr "¿Sabrá el gobierno qué es en realidad esa masa gigante que flota en el espacio de la Antigua Miltia?"
 
 #. habla: Phyllis
 #, fuzzy
@@ -131,19 +131,19 @@ msgstr "Vaya, qué encantador. Aunque estaría un poco mejor si su cuerpo no fue
 #, fuzzy
 msgctxt "#20"
 msgid "You have such an attractive face! You should really get your body replaced with organic parts as well. You'd be even more handsome."
-msgstr "¡Tiene una cara tan atractiva! Debería reemplazar su cuerpo por partes orgánicas también. Sería todavía más apuesto."
+msgstr "¡Tiene una cara tan atractiva! También debería cambiar su cuerpo por partes orgánicas. Sería todavía más apuesto."
 
 #. habla: Phyllis
 #, fuzzy
 msgctxt "#21"
 msgid "I wonder who decided on the look of the 100-Series. I don't see why they couldn't have looked like adults. Was it the creator's personal taste?"
-msgstr "Me pregunto quién decidió el aspecto de la Serie 100. No entiendo por qué no podían parecer adultos. ¿Habrá sido el gusto personal de su creador?"
+msgstr "¿Quién habrá decidido el aspecto de la Serie 100? No entiendo por qué no podían parecer adultos. ¿Habrá sido el gusto personal de su creador?"
 
 #. habla: Phyllis
 #, fuzzy
 msgctxt "#22"
 msgid "That young guy over there is cool, too, but I still love an austere gentleman like you."
-msgstr "Ese joven de allá también es atractivo, pero a mí me siguen encantando los caballeros serios como usted."
+msgstr "Ese joven de allá también es atractivo, pero a mí me siguen encantando los caballeros maduros y serios como usted."
 
 #. habla: Phyllis
 #, fuzzy
@@ -179,7 +179,7 @@ msgstr "Entre usted y ese Realian llamado Canaan, me empieza a molestar lo mucho
 #, fuzzy
 msgctxt "#28"
 msgid "Supposedly, there're people coming from Vector to help. Do they think we can't handle it ourselves? I can't say I appreciate that very much."
-msgstr "Se supone que viene gente de Vector a ayudar. ¿Creen que no podemos arreglarnos solos? No puedo decir que me guste mucho."
+msgstr "Se supone que viene gente de Vector a ayudar. ¿Creen que no podemos arreglarnos solos? La verdad, no me gusta nada."
 
 #. habla: Phyllis
 #, fuzzy
@@ -191,7 +191,7 @@ msgstr "Dicen que es difícil entrar a Vector, pero me parece un poco raro que u
 #, fuzzy
 msgctxt "#30"
 msgid "You probably already know this since you're the 100-Series Prototype, but the Federation fleet is monopolizing the transmission bandwidth. We're having a really tough time. If you're free, could you give us a hand?"
-msgstr "Seguramente ya lo sabes, porque eres el prototipo de la Serie 100, pero la flota de la Federación está acaparando el ancho de banda de transmisión. La estamos pasando muy mal. Si tienes tiempo, ¿nos darías una mano?"
+msgstr "Seguramente ya lo sabes, porque eres el prototipo de la Serie 100, pero la flota de la Federación está acaparando el ancho de banda de transmisión. Estamos en apuros. Si tienes tiempo, ¿nos darías una mano?"
 
 #. habla: Phyllis
 #, fuzzy
@@ -203,7 +203,7 @@ msgstr "¿Usted no es de la Federación, señor? La flota ya se desplegó, ¿no?
 #, fuzzy
 msgctxt "#32"
 msgid "I heard the Immigrant Fleet headed for Miltia. The Immigrant Fleet is a religious group, right? I have a bad feeling about them."
-msgstr "Escuché que la Flota de Inmigrantes se dirigió a Miltia. La Flota de Inmigrantes es un grupo religioso, ¿no? Me dan mala espina."
+msgstr "Escuché que la Flota de Inmigrantes va camino a Miltia. La Flota de Inmigrantes es un grupo religioso, ¿no? Me dan mala espina."
 
 #. habla: Phyllis
 #, fuzzy
@@ -263,7 +263,7 @@ msgstr "Escuché que el mantenimiento de un cíborg es muy caro."
 #, fuzzy
 msgctxt "#42"
 msgid "Even just replacing parts costs money for the parts, labor, commission, maintenance equipment rental...I don't even like thinking about it."
-msgstr "Solo cambiar piezas ya cuesta las piezas, la mano de obra, la comisión, el alquiler del equipo de mantenimiento... No me gusta ni pensarlo."
+msgstr "Solo para cambiar piezas hay que pagar las piezas, la mano de obra, la comisión, el alquiler del equipo de mantenimiento... No me gusta ni pensarlo."
 
 #. habla: Enid
 #, fuzzy
@@ -335,7 +335,7 @@ msgstr "Ya casi es hora de que empiece el análisis del prototipo de la Serie 10
 #, fuzzy
 msgctxt "#54"
 msgid "I don't think we've heard the last of Albedo."
-msgstr "Dudo que hayamos terminado con Albedo."
+msgstr "Dudo que sea lo último que veamos de Albedo."
 
 #. habla: Canaan
 #, fuzzy
@@ -365,7 +365,7 @@ msgstr "Me siento muy mal por no poder hacer nada por ti en un momento así."
 #, fuzzy
 msgctxt "#59"
 msgid "I've heard that the Immigrant Fleet has already headed for Miltia. Their objective is probably the U-TIC Organization's central tower, Labyrinthos. That is where Joachim was studying the original Zohar fourteen years ago."
-msgstr "Supe que la Flota de Inmigrantes ya se dirigió a Miltia. Su objetivo es probablemente la torre central de la Organización U-TIC, Labyrinthos. Allí es donde Joachim estudiaba el Zohar original hace catorce años."
+msgstr "Supe que la Flota de Inmigrantes ya partió hacia Miltia. Seguramente su objetivo es la torre central de la Organización U-TIC, Labyrinthos. Allí es donde Joachim estudiaba el Zohar original hace catorce años."
 
 #. habla: Juli
 #, fuzzy

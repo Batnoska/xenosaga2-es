@@ -23,7 +23,7 @@ msgid ""
 msgstr ""
 "$zoom15;$colc0c0c0;¡La mirada amenazante de Orgulla\n"
 "los deja paralizados!\n"
-"$col0fd0e0;¡Robó Boost!$colc0c0c0;"
+"$col0fd0e0;¡Les robó el Boost!$colc0c0c0;"
 
 #. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
 #, fuzzy

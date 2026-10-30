@@ -125,7 +125,7 @@ msgstr "¡Oh, joven amo! ¿Va a salir otra vez?"
 #, fuzzy
 msgctxt "#19"
 msgid "Ah, Little Master! You're attending to your studies, I presume?"
-msgstr "¡Ah, joven amo! Supongo que está atendiendo sus estudios, ¿no?"
+msgstr "¡Ah, joven amo! Supongo que está al día con sus estudios, ¿no?"
 
 #. habla: Ozias
 #, fuzzy
@@ -185,7 +185,7 @@ msgstr "Debe ser difícil para usted estar solo en un momento así, joven amo."
 #, fuzzy
 msgctxt "#29"
 msgid "I haven't seen Director Gaignun lately. Did he go somewhere?"
-msgstr "Últimamente no vi al director Gaignun. ¿Se fue a algún lado?"
+msgstr "Hace tiempo que no veo al director Gaignun. ¿Se fue a algún lado?"
 
 #. habla: Ozias
 #, fuzzy
@@ -395,7 +395,7 @@ msgstr "¡Ay, tengo que conseguir a Hammer como sea! ¿Cómo puedo traerlo a mi 
 #, fuzzy
 msgctxt "#64"
 msgid "But I doubt I could afford it on my allowance, and Mommy would get mad if I used the family money."
-msgstr "Pero dudo que me alcance con mi mesada, y mamá se enojaría si usara el dinero de la familia."
+msgstr "Pero dudo que me alcance con mi mesada, y mami se enojaría si usara el dinero de la familia."
 
 #. habla: Viano
 #, fuzzy

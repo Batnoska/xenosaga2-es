@@ -73,7 +73,7 @@ msgstr "¡Esos desgraciados me siguen ignorando! ¡Soy Bravo Hugo! ¡Nadie tiene
 #, fuzzy
 msgctxt "#9"
 msgid "I wonder if there's a way I can disarm that trap I placed in the Encephalon."
-msgstr "Me pregunto si habrá alguna forma de desactivar la trampa que puse en el Encéfalo."
+msgstr "¿Habrá alguna forma de desactivar la trampa que puse en el Encéfalo?"
 
 #. habla: Hugo
 #, fuzzy
@@ -115,7 +115,7 @@ msgstr "¿Qué? Agradecería que los niños me dejaran en paz. No estoy de humor
 #, fuzzy
 msgctxt "#16"
 msgid "It's because of that game, that quiz game in the Our Treasure Inn. This time, there are 20 number questions."
-msgstr "Es por ese juego, ese juego de preguntas de la posada Our Treasure. Esta vez son 20 preguntas con números."
+msgstr "Es por ese juego, ese juego de preguntas del hotel Our Treasure. Esta vez son 20 preguntas con números."
 
 #. habla: Simon
 #, fuzzy
@@ -133,7 +133,7 @@ msgstr "¡Quizá no lo parezca, pero soy el rey de las preguntas!"
 #, fuzzy
 msgctxt "#19"
 msgid "I wish you the best of luck. Proceed to the inn and exact revenge for me!"
-msgstr "Les deseo la mejor de las suertes. ¡Vayan a la posada y vénguenme!"
+msgstr "Les deseo la mejor de las suertes. ¡Vayan al hotel y vénguenme!"
 
 #. habla: Simon
 #, fuzzy

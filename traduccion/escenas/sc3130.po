@@ -83,7 +83,7 @@ msgstr "Buenos días, jefa Uzuki. Toda la nave está en alerta de seguridad alta
 #, fuzzy
 msgctxt "#13"
 msgid "Please be aware that even chief-level employees are limited in where they may go. "
-msgstr "Tenga en cuenta que incluso los empleados con rango de jefe tienen restringido adónde pueden ir."
+msgstr "Tenga en cuenta que incluso los empleados con rango de jefe tienen el acceso restringido."
 
 #. habla: Waage
 #, fuzzy

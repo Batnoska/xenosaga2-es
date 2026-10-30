@@ -81,6 +81,16 @@ def undelta(src, ops):
     return bytes(out)
 
 
+# Los subtítulos de los videos (movie/en/*.txt) van enteros y se aplican sobre cualquier original:
+# la traducción los reescribe completos, y no todos los undub que circulan traen los mismos (en
+# otra versión del disco 2 cambia s040110.txt). En el manifiesto, su "original" es CUALQUIERA.
+CUALQUIERA = "*"
+
+
+def entero(ruta):
+    return ruta.startswith("movie/") and ruta.endswith(".txt")
+
+
 def changed_files(original, translated):
     """[(grupo o "raiz", ruta, bytes originales, bytes nuevos)] de lo que difiere entre dos ISO."""
     out = []
@@ -168,6 +178,8 @@ def create(package):
             original, translated = Iso(path), Iso(os.path.join(ROOT, "work", f"xenosaga2_es_disco{disc}.iso"))
             entries = []
             for g, name, a, b in changed_files(original, translated):
+                if entero(name):
+                    a = b""  # todo el archivo nuevo, sin copiar nada del original
                 key = (sha1(a), sha1(b))
                 if key not in deltas:
                     d = delta(a, b)
@@ -176,7 +188,8 @@ def create(package):
                     if deltas[key] not in z.namelist():
                         z.writestr(deltas[key], d)
                 stored = deltas[key]
-                entries.append({"grupo": g, "ruta": name, "original": sha1(a), "nuevo": sha1(b), "archivo": stored})
+                entries.append({"grupo": g, "ruta": name, "original": CUALQUIERA if entero(name) else sha1(a),
+                                "nuevo": sha1(b), "archivo": stored})
             manifest["discos"][original.executable] = entries
             print(f"disco {disc}: {len(entries)} archivos")
         z.writestr("manifest.json", json.dumps(manifest, ensure_ascii=False, indent=1))
@@ -219,7 +232,7 @@ def apply(package, iso_in, iso_out, traduccion=True, niveles=None):
                 exe_traducido = sha1(current) == e["nuevo"]
             if sha1(current) == e["nuevo"]:
                 continue  # ya está traducido
-            if sha1(current) != e["original"]:
+            if e["original"] not in (CUALQUIERA, sha1(current)):
                 bad.append(e["ruta"])
                 continue
             if not traduccion:

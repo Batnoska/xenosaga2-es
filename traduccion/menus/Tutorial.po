@@ -139,7 +139,7 @@ msgstr ""
 #, fuzzy
 msgctxt "#43"
 msgid "Skill Window: view and learn skills here."
-msgstr "Ventana de habilidades: para verlas y aprenderlas."
+msgstr "Ventana de habilidades: aquí puedes verlas y aprenderlas."
 
 #, fuzzy
 msgctxt "#45"
@@ -419,7 +419,7 @@ msgstr "Salir del tutorial"
 #, fuzzy
 msgctxt "#246"
 msgid "Start over from the beginning"
-msgstr "Empezar de nuevo desde el principio"
+msgstr "Volver a empezar"
 
 #, fuzzy
 msgctxt "#249"
@@ -433,4 +433,4 @@ msgstr ""
 #, fuzzy
 msgctxt "#252"
 msgid "Starting the tutorial over from the beginning."
-msgstr "Volviendo a empezar el tutorial desde el principio."
+msgstr "Volvemos al principio del tutorial."

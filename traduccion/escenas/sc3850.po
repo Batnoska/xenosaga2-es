@@ -82,7 +82,7 @@ msgstr "Hmm, sí que son lentos. ¿Qué están haciendo los nuestros?"
 #, fuzzy
 msgctxt "#12"
 msgid "Hmm? I'm here to distribute a new type of Environmental Bug that our company just developed. I was hoping to perform on-site testing in the Durandal, but I forgot the documents for the meeting! I contacted company headquarters and requested that they send them, but they still haven't arrived."
-msgstr "¿Hmm? Vine a distribuir un nuevo tipo de Bicho Ambiental que acaba de desarrollar nuestra empresa. Quería hacer pruebas en el lugar, en el Durandal, ¡pero me olvidé los documentos para la reunión! Me comuniqué con la sede central de la empresa y pedí que me los mandaran, pero todavía no llegaron."
+msgstr "¿Hmm? Vine a distribuir un nuevo tipo de Bicho Ambiental que acaba de desarrollar nuestra empresa. Quería hacer pruebas de campo en el Durandal, ¡pero me olvidé los documentos para la reunión! Me comuniqué con la sede central de la empresa y pedí que me los mandaran, pero todavía no llegaron."
 
 #. habla: Eugene
 #, fuzzy
@@ -128,7 +128,7 @@ msgstr "Gracias a ti, no voy a perder mi trabajo. Te debo una."
 #, fuzzy
 msgctxt "#19"
 msgid "What? Oh, the documents? One of our company employees transported them over. He's an excellent employee!"
-msgstr "¿Qué? Ah, ¿los documentos? Un empleado de nuestra empresa los trajo por transporte. ¡Es un empleado excelente!"
+msgstr "¿Qué? Ah, ¿los documentos? Me los envió un empleado de nuestra empresa. ¡Es un empleado excelente!"
 
 #. habla: Ralph
 #, fuzzy
@@ -206,7 +206,7 @@ msgstr "¡Hola! ¿Quieres escuchar algunas historias viejas de Allen?"
 #, fuzzy
 msgctxt "#32"
 msgid "Allen's a superb engineer, but he's pretty much a wimp. He showed up late to the Vector company entrance exam because of stomach pains."
-msgstr "Allen es un ingeniero excelente, pero es bastante cobarde. Llegó tarde al examen de ingreso de Vector por un dolor de panza."
+msgstr "Allen es un ingeniero excelente, pero es bastante cobarde. Llegó tarde al examen de ingreso de Vector por un dolor de estómago."
 
 #. habla: Ralph
 #, fuzzy
@@ -260,7 +260,7 @@ msgstr "Bueno, todos coinciden en que es un poco pesado."
 #, fuzzy
 msgctxt "#41"
 msgid "I wonder how Allen's doing."
-msgstr "Me pregunto cómo estará Allen."
+msgstr "¿Cómo estará Allen?"
 
 #. habla: Luther
 #, fuzzy
@@ -374,7 +374,7 @@ msgstr "Últimamente no veo al amo Gaignun. Seguro que está muy ocupado, pero m
 #, fuzzy
 msgctxt "#60"
 msgid "Maybe he's feeling embarrassed and shy about seeing me."
-msgstr "Quizá le da vergüenza y timidez verme."
+msgstr "Quizá le da vergüenza verme."
 
 #. habla: Luther
 #, fuzzy
@@ -488,7 +488,7 @@ msgstr "¡¿Viste eso?! ¡Destruyó la Antigua Miltia! ¿Cómo puedes mantener l
 #, fuzzy
 msgctxt "#79"
 msgid "You're so annoying, grinning like that. Is it that fun to watch me get flustered?"
-msgstr "Qué molesta esa sonrisita. ¿Tan divertido es verme alterada?"
+msgstr "Qué fastidio esa sonrisita. ¿Tan divertido es verme alterada?"
 
 #. habla: Roty
 #, fuzzy
@@ -626,7 +626,7 @@ msgstr "¿Quieres que te muestre los resultados de mis horas en el gimnasio?"
 #, fuzzy
 msgctxt "#102"
 msgid "You absolutely cannot trust men. Just don't go there."
-msgstr "De los hombres no se puede confiar para nada. Ni lo intentes."
+msgstr "En los hombres no se puede confiar para nada. Ni lo intentes."
 
 #. habla: Ginevra
 #, fuzzy

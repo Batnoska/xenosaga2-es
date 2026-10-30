@@ -15,7 +15,7 @@ msgstr "Para seguir avanzando, hay que activar el ascensor. El interruptor de ac
 #, fuzzy
 msgctxt "#5"
 msgid "Maybe that?"
-msgstr "¿Quizá ahí?"
+msgstr "¿Será eso?"
 
 #, fuzzy
 msgctxt "#6"

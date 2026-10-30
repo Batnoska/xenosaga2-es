@@ -260,8 +260,9 @@ msgid ""
 msgstr ""
 "Abre la habilidad\n"
 "Sobrecarga (nivel 4,\n"
-"clase C): 50% de hacer\n"
-"Stock 2 al usar Stock."
+"clase C): 50% de\n"
+"probabilidad de Stock\n"
+"doble al usar Stock."
 
 #. máximo 20 caracteres; 1 línea(s) de hasta 153 píxeles
 #, fuzzy
@@ -375,7 +376,7 @@ msgstr "Llave Secreta 5"
 #, fuzzy
 msgctxt "No.15/Locate"
 msgid "SC Domain (Winter)"
-msgstr "Dominio SC (inv.)"
+msgstr "Subconsciente (inv.)"
 
 #. máximo 120 caracteres; 5 línea(s) de hasta 216 píxeles
 #, fuzzy

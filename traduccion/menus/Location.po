@@ -35,7 +35,7 @@ msgstr "Instituto Yuriev"
 #, fuzzy
 msgctxt "#5"
 msgid "SC Domain (Summer)"
-msgstr "Dominio SC (verano)"
+msgstr "Subconsciente (verano)"
 
 #, fuzzy
 msgctxt "#6"
@@ -165,7 +165,7 @@ msgstr "Molinos"
 #, fuzzy
 msgctxt "#31"
 msgid "1F Corridor"
-msgstr "Pasillo 1F"
+msgstr "Pasillo, piso 1"
 
 #, fuzzy
 msgctxt "#32"
@@ -335,7 +335,7 @@ msgstr "Siguiente etapa"
 #, fuzzy
 msgctxt "#65"
 msgid "Cleared Data"
-msgstr "Datos completados"
+msgstr "Partida completada"
 
 #, fuzzy
 msgctxt "#66"
@@ -365,7 +365,7 @@ msgstr "Primera División"
 #, fuzzy
 msgctxt "#71"
 msgid "U.M.N. Center"
-msgstr "Centro U.M.N."
+msgstr "Centro de la U.M.N."
 
 #, fuzzy
 msgctxt "#72"
@@ -400,4 +400,4 @@ msgstr "Puerto espacial"
 #, fuzzy
 msgctxt "#78"
 msgid "SC Domain (Winter)"
-msgstr "Dominio SC (invierno)"
+msgstr "Subconsciente (invierno)"

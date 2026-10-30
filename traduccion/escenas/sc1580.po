@@ -10,7 +10,7 @@ msgstr ""
 #, fuzzy
 msgctxt "#0"
 msgid "Use of this entrance by unauthorized personnel is prohibited. - Chop"
-msgstr "Prohibido el uso de esta entrada al personal no autorizado. - Chop"
+msgstr "Prohibido el paso al personal no autorizado. - Chop"
 
 #. habla: Chop
 #, fuzzy
@@ -31,7 +31,7 @@ msgstr ""
 #, fuzzy
 msgctxt "#3"
 msgid "What? How do you know that? Well, you don't look like a bad person, so I'll tell you. I'm trying to cook a dish that will go down in legend! Say, you're pretty nice to come here and listen to some stranger's problem, so I'll unlock the door to the kitchen. Come see me whenever you like!"
-msgstr "¿Qué? ¿Cómo sabes eso? Bueno, no pareces mala persona, así que te lo voy a contar. ¡Intento cocinar un plato que pase a la leyenda! Oye, eres bastante amable por venir a escuchar los problemas de un desconocido, así que voy a abrir la puerta de la cocina. ¡Ven a verme cuando quieras!"
+msgstr "¿Qué? ¿Cómo sabes eso? Bueno, no pareces mala persona, así que te lo voy a contar. ¡Estoy tratando de crear un plato legendario! Oye, eres bastante amable por venir a escuchar los problemas de un desconocido, así que voy a abrir la puerta de la cocina. ¡Ven a verme cuando quieras!"
 
 #, fuzzy
 msgctxt "#4"
@@ -42,19 +42,19 @@ msgstr "¡Se abrió la puerta trasera de la cocina!"
 #, fuzzy
 msgctxt "#5"
 msgid "*Sigh* What do I need in order to approach Master Punch's flavors?"
-msgstr "*Suspiro* ¿Qué me hace falta para acercarme a los sabores del maestro Punch?"
+msgstr "*Suspiro* ¿Qué me falta para estar a la altura de los sabores del maestro Punch?"
 
 #. habla: Chop
 #, fuzzy
 msgctxt "#6"
 msgid "What? How do you know that? Well, you don't look like a bad person, so I'll tell you. I'm trying to cook a dish that will go down in legend! Say, you're pretty nice to come here and listen to some stranger's problem."
-msgstr "¿Qué? ¿Cómo sabes eso? Bueno, no pareces mala persona, así que te lo voy a contar. ¡Intento cocinar un plato que pase a la leyenda! Oye, eres bastante amable por venir a escuchar los problemas de un desconocido."
+msgstr "¿Qué? ¿Cómo sabes eso? Bueno, no pareces mala persona, así que te lo voy a contar. ¡Estoy tratando de crear un plato legendario! Oye, eres bastante amable por venir a escuchar los problemas de un desconocido."
 
 #. habla: Chop
 #, fuzzy
 msgctxt "#7"
 msgid "I need someone to help me cook. I wonder if there is a woman around who's any good with food..."
-msgstr "Necesito que alguien me ayude a cocinar. Me pregunto si habrá por aquí alguna mujer que se dé maña con la comida..."
+msgstr "Necesito que alguien me ayude a cocinar. Ojalá hubiera por aquí alguna mujer que fuera buena cocinera..."
 
 #. habla: Chop
 #, fuzzy
@@ -95,19 +95,19 @@ msgstr "Quizá suene raro viniendo de un chef profesional como yo, pero a veces 
 #, fuzzy
 msgctxt "#13"
 msgid "We've succeeded in creating the ultimate dish, \"Quintessential Curry\"!"
-msgstr "¡Logramos crear el plato definitivo, el \"Curry Quintaesencial\"!"
+msgstr "¡Logramos crear el plato definitivo, el \"Curry Supremo\"!"
 
 #. habla: Chop
 #, fuzzy
 msgctxt "#14"
 msgid "I'm going to have my teacher try this curry! But, you know, I'm still not sure if it will be good enough to please his delicate palate."
-msgstr "¡Voy a hacer que mi maestro pruebe este curry! Aunque, ¿sabes?, todavía no estoy seguro de que sea suficiente para su paladar tan delicado."
+msgstr "¡Voy a hacer que mi maestro pruebe este curry! Aunque, ¿sabes?, todavía no estoy seguro de que esté a la altura de su paladar tan exigente."
 
 #. habla: Chop
 #, fuzzy
 msgctxt "#15"
 msgid "I've been trying for so long to surpass my teacher's dishes! But no matter what I make, I haven't been able to truly impress him. My teacher, Punch, is the head chef at the bar on the Foundation. He used to be the executive chef at a high-class hotel, but he had a fight with the hotel manager and left. Punch was like a father to me, so I followed him and left the hotel as well. I wanted to work in the same kitchen with him again, so I went to the Foundation. But when I got there, he suddenly yelled at me and chased me away! That's when I thought, if I could make a dish that would truly impress him, he might let me cook with him again. But the way of the chef is difficult. No matter how much I improve, when I go to the Foundation, Punch always turns me away at the door. So, I was wondering, would you be willing to help me in creating my new dish?"
-msgstr "¡Hace mucho que intento superar los platos de mi maestro! Pero cocine lo que cocine, nunca logré impresionarlo de verdad. Mi maestro, Punch, es el jefe de cocina del bar de la Fundación. Antes era el chef ejecutivo de un hotel de lujo, pero se peleó con el gerente y se fue. Punch era como un padre para mí, así que lo seguí y también dejé el hotel. Quería volver a trabajar en la misma cocina que él, así que fui a la Fundación. ¡Pero cuando llegué, de repente me gritó y me echó! Ahí pensé que, si lograba hacer un plato que lo impresionara de verdad, quizá me dejaría cocinar con él otra vez. Pero el camino del chef es difícil. Por más que mejore, cuando voy a la Fundación, Punch siempre me echa en la puerta. Así que me preguntaba, ¿te animarías a ayudarme a crear mi nuevo plato?"
+msgstr "¡Hace mucho que intento superar los platos de mi maestro! Pero cocine lo que cocine, nunca logré impresionarlo de verdad. Mi maestro, Punch, es el jefe de cocina del bar de la Fundación. Antes era el chef ejecutivo de un hotel de lujo, pero se peleó con el gerente y se fue. Punch era como un padre para mí, así que lo seguí y también dejé el hotel. Quería volver a trabajar en la misma cocina que él, así que fui a la Fundación. ¡Pero cuando llegué, de repente me gritó y me echó! Ahí pensé que, si lograba hacer un plato que lo impresionara de verdad, quizá me dejaría cocinar con él otra vez. Pero el camino del chef es difícil. Por más que mejore, cada vez que voy a la Fundación, Punch me cierra la puerta en la cara. Así que me preguntaba, ¿te animarías a ayudarme a crear mi nuevo plato?"
 
 #. Opciones: una por línea. Mantener 2 líneas en el mismo orden.
 #, fuzzy
@@ -141,13 +141,13 @@ msgstr "Hmm. ¿Qué tengo que hacer para impresionar a Punch?"
 #, fuzzy
 msgctxt "#21"
 msgid "Whoa! We did it! This is it! The legendary \"Quintessential Curry\"! This will surely impress Punch! This is the flavor I've been working so hard for all this time!"
-msgstr "¡Epa! ¡Lo logramos! ¡Esto es! ¡El legendario \"Curry Quintaesencial\"! ¡Seguro que esto impresiona a Punch! ¡Este es el sabor por el que tanto me esforcé todo este tiempo!"
+msgstr "¡Increíble! ¡Lo logramos! ¡Esto es! ¡El legendario \"Curry Supremo\"! ¡Seguro que esto impresiona a Punch! ¡Este es el sabor por el que tanto me esforcé todo este tiempo!"
 
 #. habla: Chop
 #, fuzzy
 msgctxt "#23"
 msgid "I'm going to take this curry with me and go see Punch! Oh, wait! I need to thank you. Please take this!"
-msgstr "¡Voy a llevar este curry y a ver a Punch! ¡Ah, espera! Tengo que agradecerte. ¡Toma esto, por favor!"
+msgstr "¡Voy a llevarle este curry a Punch! ¡Ah, espera! Tengo que agradecerte. ¡Toma esto, por favor!"
 
 #, fuzzy
 msgctxt "#24"
@@ -158,7 +158,7 @@ msgstr "¡Obtuviste el Decodificador 17!"
 #, fuzzy
 msgctxt "#25"
 msgid "I'm thrilled that the curry is complete, but I'm nervous about whether it will truly meet with Punch's approval."
-msgstr "Estoy feliz de que el curry esté terminado, pero me pone nervioso saber si de verdad le va a gustar a Punch."
+msgstr "Estoy feliz de que el curry esté terminado, pero me pone nervioso no saber si de verdad le va a gustar a Punch."
 
 #, fuzzy
 msgctxt "#26"
@@ -197,4 +197,4 @@ msgstr "Pimienta <○>."
 #, fuzzy
 msgctxt "#31"
 msgid "The dish failed!"
-msgstr "¡El plato fracasó!"
+msgstr "¡El plato salió mal!"

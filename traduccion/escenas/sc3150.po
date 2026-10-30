@@ -29,7 +29,7 @@ msgstr "¡Ah, jefa Uzuki! ¿Se enteró? ¡Acabamos de hacer un traslado a Segund
 #, fuzzy
 msgctxt "#3"
 msgid "Can you guess what it was? An E.S.! A real E.S. series! And it was sent off the record!"
-msgstr "¿Adivina qué era? ¡Un E.S.! ¡Uno de verdad de la serie E.S.! ¡Y lo mandaron sin registro!"
+msgstr "¿A que no adivina qué era? ¡Un E.S.! ¡Uno de verdad de la serie E.S.! ¡Y lo mandaron sin dejar registro!"
 
 #. habla: Petr
 #, fuzzy
@@ -65,7 +65,7 @@ msgstr "¿Jefa? ¿Qué te pasa? ¿Qué? ¿Un sedante? Sí, tengo, pero... ¿est�
 #, fuzzy
 msgctxt "#9"
 msgid "Yes, you're right. I'm sorry. I think I'll go do that."
-msgstr "Sí, tienes razón. Perdón. Creo que voy a hacer eso."
+msgstr "Sí, tienes razón. Perdón. Voy a hacerte caso."
 
 #. habla: Allen
 #, fuzzy

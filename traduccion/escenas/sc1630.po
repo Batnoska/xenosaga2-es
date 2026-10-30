@@ -27,13 +27,13 @@ msgstr ""
 #, fuzzy
 msgctxt "#8"
 msgid "Okay! Then let me explain! There are 84 water conditioning nanomachine dispenser units in this room and several of them have gone haywire. They're actually supposed to self-destruct when their life cycle ends, but since they didn't, we want you to destroy the broken ones! Do you want a more detailed explanation?"
-msgstr "¡Muy bien! ¡Entonces te explico! En esta sala hay 84 dispensadores de nanomáquinas de acondicionamiento del agua, y varios se volvieron locos. En realidad, se supone que se autodestruyen cuando termina su vida útil, pero como no lo hicieron, ¡queremos que destruyas los averiados! ¿Quieres una explicación más detallada?"
+msgstr "¡Muy bien! ¡Entonces te explico! En esta sala hay 84 dispensadores de nanomáquinas de acondicionamiento del agua, y varios se descontrolaron. En realidad, se supone que se autodestruyen cuando termina su vida útil, pero como no lo hicieron, ¡queremos que destruyas los averiados! ¿Quieres una explicación más detallada?"
 
 #. habla: Glenn
 #, fuzzy
 msgctxt "#9"
 msgid "You can't tell the difference between a normal dispenser and a broken dispenser just by looking at them. That's where the eight control consoles in this room come in handy. If you activate the consoles, the consumption lights on the dispensers will light up. A green light means normal operation, and a red light shows that it's busted. So, you just need to destroy all the dispensers that have red lights! Good luck!"
-msgstr "A simple vista no se distingue un dispensador normal de uno averiado. Para eso sirven las ocho consolas de control de esta sala. Si activas las consolas, se encienden las luces de consumo de los dispensadores. Una luz verde indica que funciona normal, y una roja, que está roto. ¡Así que solo tienes que destruir todos los dispensadores con luz roja! ¡Buena suerte!"
+msgstr "A simple vista no se distingue un dispensador normal de uno averiado. Para eso sirven las ocho consolas de control de esta sala. Si activas las consolas, se encienden las luces de consumo de los dispensadores. Una luz verde indica que funciona bien, y una roja, que está roto. ¡Así que solo tienes que destruir todos los dispensadores con luz roja! ¡Buena suerte!"
 
 #. habla: Glenn
 #, fuzzy
@@ -45,7 +45,7 @@ msgstr "¡Muy bien! ¡Buena suerte!"
 #, fuzzy
 msgctxt "#11"
 msgid "The nanomachine dispensers are situated in eight different sections. By using the consoles, you can determine the consumption level for an individual section. Actually, Water Works Bureau staff are assigned portable devices that can check the consumption level. I wish I could lend it to you, but if they found out, I'd be out of a job. But it's not right for me to just ask you to do everything, so let me sneak you information about the sections. Do you want some information?"
-msgstr "Los dispensadores de nanomáquinas están repartidos en ocho secciones distintas. Con las consolas puedes ver el nivel de consumo de cada sección. En realidad, al personal del Servicio de Aguas le dan dispositivos portátiles que miden el nivel de consumo. Me gustaría prestarte uno, pero si se enteran, me quedo sin trabajo. Igual no está bien que te pida que hagas todo, así que déjame pasarte información sobre las secciones a escondidas. ¿Quieres información?"
+msgstr "Los dispensadores de nanomáquinas están repartidos en ocho secciones distintas. Con las consolas puedes ver el nivel de consumo de cada sección. En realidad, al personal del Servicio de Aguas le dan dispositivos portátiles que miden el nivel de consumo. Me gustaría prestarte uno, pero si se enteran, me quedo sin trabajo. Aun así, no está bien que te pida que hagas todo, así que déjame pasarte en secreto información sobre las secciones. ¿Quieres información?"
 
 #. habla: Glenn
 #, fuzzy
@@ -75,7 +75,7 @@ msgstr ""
 "Área F\n"
 "Área G\n"
 "Área H\n"
-"No importa"
+"Mejor no"
 
 #. habla: Glenn
 #, fuzzy
@@ -111,7 +111,7 @@ msgstr "¡El tanque de acondicionamiento B está en la sección sudeste del piso
 #, fuzzy
 msgctxt "#19"
 msgid "I wonder what's going on in that room...I have a bad feeling about this. Be careful!"
-msgstr "Me pregunto qué pasará en esa sala... Tengo un mal presentimiento. ¡Ten cuidado!"
+msgstr "¿Qué estará pasando en esa sala...? Tengo un mal presentimiento. ¡Ten cuidado!"
 
 #. habla: Glenn
 #, fuzzy
@@ -123,7 +123,7 @@ msgstr "No puedo creer que la gente de Segunda Miltia estuviera en peligro y ni 
 #, fuzzy
 msgctxt "#21"
 msgid "We need to come up with a plan quick to make sure something like this never happens again!"
-msgstr "¡Tenemos que idear un plan rápido para que algo así no vuelva a pasar nunca!"
+msgstr "¡Tenemos que idear un plan cuanto antes para que algo así no vuelva a pasar!"
 
 #, fuzzy
 msgctxt "#22"
@@ -181,7 +181,7 @@ msgstr "¡Obtuviste la Llave del tanque B!"
 #, fuzzy
 msgctxt "#29"
 msgid "Water conditioning tank B is in the southeast section of the floor below. I wonder what's going on in that room. I have a bad feeling about this, so be careful!"
-msgstr "El tanque de acondicionamiento B está en la sección sudeste del piso de abajo. Me pregunto qué pasará en esa sala. Tengo un mal presentimiento, ¡así que ten cuidado!"
+msgstr "El tanque de acondicionamiento B está en la sección sudeste del piso de abajo. ¿Qué estará pasando en esa sala? Tengo un mal presentimiento, ¡así que ten cuidado!"
 
 #. habla: Glenn
 #, fuzzy
@@ -199,7 +199,7 @@ msgstr "¡¿Qué?! ¡¿Las nanomáquinas de acondicionamiento se descontrolaron 
 #, fuzzy
 msgctxt "#33"
 msgid "At any rate, we've really caused some trouble for you! This really isn't enough to express our thanks, but go ahead and take it!"
-msgstr "En fin, ¡de verdad te causamos problemas! Esto no alcanza para expresar nuestro agradecimiento, ¡pero acéptalo!"
+msgstr "En fin, ¡te causamos muchos problemas! Esto no alcanza para agradecerte, ¡pero acéptalo, por favor!"
 
 #, fuzzy
 msgctxt "#34"
@@ -226,7 +226,7 @@ msgstr "En este momento, todos los dispensadores de nanomáquinas de acondiciona
 #, fuzzy
 msgctxt "#38"
 msgid "A release key is required to open the partition to the elevator to water conditioning tank A."
-msgstr "Para abrir la división del ascensor al tanque de acondicionamiento A, se necesita una llave de liberación."
+msgstr "Para abrir el acceso al ascensor del tanque de acondicionamiento A, se necesita una llave de liberación."
 
 #, fuzzy
 msgctxt "#39"
@@ -257,4 +257,4 @@ msgstr "Bajando a B2."
 #, fuzzy
 msgctxt "#45"
 msgid "Wow, I'm really impressed! The removal of the buggy dispensers is complete! Now, I need to take care of the remaining details here, so please go tell Ciaran that the operation was a success! Thanks!"
-msgstr "¡Vaya, estoy impresionado! ¡Terminó la eliminación de los dispensadores averiados! Ahora tengo que encargarme de los detalles que quedan, así que por favor ve a decirle a Ciaran que la operación fue un éxito. ¡Gracias!"
+msgstr "¡Vaya, estoy impresionado! ¡Eliminaste todos los dispensadores averiados! Ahora tengo que encargarme de los detalles que quedan, así que por favor ve a decirle a Ciaran que la operación fue un éxito. ¡Gracias!"

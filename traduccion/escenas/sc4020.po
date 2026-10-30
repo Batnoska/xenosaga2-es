@@ -81,25 +81,25 @@ msgstr "¡Oh, joven amo! Este techo de tejas antiguo gotea muchísimo cuando llu
 #, fuzzy
 msgctxt "#13"
 msgid "Me? Oh, I just couldn't leave Layla alone after what happened to her, the poor thing. She might think it's a bit nosy, but I'm helping her out with the hotel work."
-msgstr "¿Yo? Ah, es que no podía dejar sola a Layla después de lo que le pasó, pobrecita. Quizá le parezca un poco entrometido, pero la estoy ayudando con el trabajo del hotel."
+msgstr "¿Yo? Ah, es que no podía dejar sola a Layla después de lo que le pasó, pobrecita. Quizá ella piense que me entrometo, pero la estoy ayudando con el trabajo del hotel."
 
 #. habla: Camille
 #, fuzzy
 msgctxt "#14"
 msgid "All alone at that age, poor dear...She must be very sad. I wonder if getting a pet or something might pick her up a little."
-msgstr "Tan sola a esa edad, pobrecita... Debe estar muy triste. Me pregunto si una mascota o algo así la animaría un poco."
+msgstr "Tan sola a esa edad, pobrecita... Debe estar muy triste. ¿Y si tuviera una mascota o algo así? Quizá eso la animaría un poco."
 
 #. habla: Camille
 #, fuzzy
 msgctxt "#15"
 msgid "Oh my, what are you doing up here? It's dangerous! Hurry back down! Go on, shoo!"
-msgstr "¡Ay, Dios, ¿qué haces aquí arriba?! ¡Es peligroso! ¡Baja rápido! ¡Vamos, fuera!"
+msgstr "¡Ay, Dios! ¡¿Qué haces aquí arriba?! ¡Es peligroso! ¡Baja rápido! ¡Vamos, fuera!"
 
 #. habla: Camille
 #, fuzzy
 msgctxt "#16"
 msgid "Well, I am just pooped out! I figured I'd help Layla a little, but repairing a roof is a pretty tiring job for a lady! "
-msgstr "¡Uf, estoy agotadísima! Pensé en ayudar un poco a Layla, ¡pero arreglar un techo es un trabajo bastante agotador para una dama!"
+msgstr "¡Uf, estoy rendida! Pensé en ayudar un poco a Layla, ¡pero arreglar un techo es un trabajo muy pesado para una dama!"
 
 #. habla: Camille
 #, fuzzy
@@ -117,7 +117,7 @@ msgstr "¡Ay, Dios! ¿Viniste a ayudarme a arreglar el techo? ¿Qué? ¿No es po
 #, fuzzy
 msgctxt "#19"
 msgid "I don't mind if it's for Layla. ♪ Oh, what's with the long face?! Just look at that child, working so hard all by herself! You shouldn't let small mistakes get you down! What? You don't make mistakes? Then turn that frown upside down! Put on a happy face!"
-msgstr "Si es por Layla, no me molesta. ♪ ¡Ay, ¿qué es esa cara larga?! ¡Mira a esa niña, trabajando tanto ella sola! ¡No dejes que los errores pequeños te desanimen! ¿Qué? ¿No cometes errores? ¡Entonces cambia esa cara! ¡Sonríe!"
+msgstr "Si es por Layla, no me molesta. ♪ ¡Ay! ¿Qué es esa cara larga? ¡Mira a esa niña, trabajando tanto ella sola! ¡No dejes que los errores pequeños te desanimen! ¿Qué? ¿No cometes errores? ¡Entonces cambia esa cara! ¡Sonríe!"
 
 #. habla: Camille
 #, fuzzy
@@ -270,7 +270,7 @@ msgstr ""
 #, fuzzy
 msgctxt "#43"
 msgid "Whoa! Don't talk about that out loud! You never know who might be listening! I don't know any of the details, but from what I've heard, they used to use the Encephalon for U.M.N. human transport experiments. Apparently those were the things they used in the experiments to dive into the Encephalon. That's all I know. But even if I did know more, I wouldn't want to say it."
-msgstr "¡Epa! ¡No hable de eso en voz alta! ¡Nunca se sabe quién puede estar escuchando! No conozco los detalles, pero por lo que escuché, antes usaban el Encéfalo para experimentos de transporte humano por la U.M.N. Parece que esas cosas eran las que usaban en los experimentos para sumergirse en el Encéfalo. Es todo lo que sé. Pero aunque supiera más, no querría decirlo."
+msgstr "¡Shhh! ¡No hable de eso en voz alta! ¡Nunca se sabe quién puede estar escuchando! No conozco los detalles, pero por lo que escuché, antes usaban el Encéfalo para experimentos de transporte humano por la U.M.N. Parece que esas cosas eran las que usaban en los experimentos para sumergirse en el Encéfalo. Es todo lo que sé. Pero aunque supiera más, no querría decirlo."
 
 #. habla: Ozzy
 #, fuzzy
@@ -321,7 +321,7 @@ msgstr "Bueno, qué bien. Están por tener su segundo bebé, ¿sabe? ¡Pensé qu
 #, fuzzy
 msgctxt "#51"
 msgid "I don't know what's up, but she seems short-tempered lately. I wonder if she's got the baby blues."
-msgstr "No sé qué le pasa, pero últimamente anda muy irritable. ¿Será la tristeza del embarazo?"
+msgstr "No sé qué le pasa, pero últimamente anda muy irritable. ¿Serán las hormonas del embarazo?"
 
 #. habla: Bonanza
 #, fuzzy
@@ -357,7 +357,7 @@ msgstr "La que más me preocupa es Layla, la del hotel."
 #, fuzzy
 msgctxt "#57"
 msgid "She may be doing a flawless job of managing the hotel, but she's still a kid. I sometimes see her with an incredibly sad and lonely look on her face. I think she'd feel a little better if she could make some friends her own age."
-msgstr "Quizá esté administrando el hotel a la perfección, pero sigue siendo una niña. A veces la veo con una cara tristísima y solitaria. Creo que se sentiría un poco mejor si pudiera hacerse amigos de su edad."
+msgstr "Quizá esté administrando el hotel a la perfección, pero sigue siendo una niña. A veces la veo con una cara tristísima y solitaria. Creo que se sentiría un poco mejor si pudiera hacer amigos de su edad."
 
 #. habla: Marina
 #, fuzzy
@@ -433,7 +433,7 @@ msgstr "Vaya, pero si es el joven amo. ¿Se acuerda de la chica de este hotel qu
 #, fuzzy
 msgctxt "#69"
 msgid "Layla lost her parents in the recent monster attack. Since then, people have been coming in droves trying to buy this property, but she has refused to give up the hotel her parents built. She's so courageous for such a young girl."
-msgstr "Layla perdió a sus padres en el ataque de los monstruos de hace poco. Desde entonces vienen montones de personas a querer comprar la propiedad, pero ella se niega a dejar el hotel que construyeron sus padres. Es muy valiente para ser tan joven."
+msgstr "Layla perdió a sus padres en el ataque de los monstruos de hace poco. Desde entonces no paran de venir personas que quieren comprar la propiedad, pero ella se niega a dejar el hotel que construyeron sus padres. Es muy valiente para ser tan joven."
 
 #. habla: Morris
 #, fuzzy
@@ -604,7 +604,7 @@ msgstr "¡Sé un secreto! ¡Hace mucho tiempo, en Miltia, el depósito de Toy's 
 #, fuzzy
 msgctxt "#95"
 msgid "I wonder if the Toy's Universe warehouse on Miltia still has tons of toys."
-msgstr "Me pregunto si el depósito de Toy's Universe de Miltia seguirá teniendo montones de juguetes."
+msgstr "¿El depósito de Toy's Universe de Miltia seguirá teniendo montones de juguetes?"
 
 #. habla: Franklin
 #, fuzzy
@@ -696,7 +696,7 @@ msgstr ""
 #, fuzzy
 msgctxt "#109"
 msgid "Wow, I didn't think there was anyone left who didn't know that. It's just common knowledge! A lot of famous people come at this time of year. That reminds me, I just saw the composer Margoyles in front of the hotel! He's the one that wrote the Iron 4 theme song, right? I wonder if he's sightseeing here, too."
-msgstr "Vaya, no pensé que quedara alguien que no lo supiera. ¡Es cultura general! En esta época del año viene mucha gente famosa. Eso me recuerda que acabo de ver al compositor Margoyles frente al hotel. Él compuso el tema de Iron 4, ¿no? Me pregunto si también vino de turismo."
+msgstr "Vaya, no pensé que quedara alguien que no lo supiera. ¡Es cultura general! En esta época del año viene mucha gente famosa. Eso me recuerda que acabo de ver al compositor Margoyles frente al hotel. Él compuso el tema de Iron 4, ¿no? ¿También habrá venido de turismo?"
 
 #. habla: Stephanie
 #, fuzzy
@@ -771,7 +771,7 @@ msgid ""
 "Whoa, what does that mean?\n"
 "Of course I do!"
 msgstr ""
-"Epa, ¿qué quieres decir?\n"
+"Eh, ¿qué quieres decir con eso?\n"
 "¡Claro que sí!"
 
 #. habla: Yang

@@ -29,7 +29,7 @@ msgstr ": Saltar y continuar"
 #, fuzzy
 msgctxt "0x198985/26"
 msgid "START button: Cancel Pause"
-msgstr "START: Quitar la pausa"
+msgstr "  START: Quitar la pausa"
 
 #. máximo 135 bytes
 #, fuzzy
@@ -173,7 +173,7 @@ msgstr "Lugar"
 #, fuzzy
 msgctxt "0x56c0d0/15"
 msgid "NO  DATA"
-msgstr "LIBRE"
+msgstr "SIN  DATOS"
 
 #. máximo 79 bytes
 #, fuzzy
@@ -211,7 +211,7 @@ msgstr ""
 #, fuzzy
 msgctxt "0x56c3a0/15"
 msgid "NO  DATA"
-msgstr "LIBRE"
+msgstr "SIN  DATOS"
 
 #. máximo 15 bytes
 #, fuzzy
@@ -431,7 +431,7 @@ msgstr "Tipo"
 #, fuzzy
 msgctxt "0x57e6d0/7"
 msgid "Range"
-msgstr "Rango"
+msgstr "Alcance"
 
 #. máximo 7 bytes
 #, fuzzy
@@ -568,7 +568,7 @@ msgstr "Hobby:"
 #, fuzzy
 msgctxt "0x57e8c8/7"
 msgid "NO DATA"
-msgstr "LIBRE"
+msgstr "VACÍO"
 
 #. máximo 7 bytes
 #, fuzzy
@@ -686,4 +686,4 @@ msgstr "Tiempo/"
 #, fuzzy
 msgctxt "0x57ea70/15"
 msgid "NO DATA"
-msgstr "LIBRE"
+msgstr "SIN DATOS"

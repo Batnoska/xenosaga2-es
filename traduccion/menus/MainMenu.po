@@ -226,7 +226,7 @@ msgstr "completada."
 #, fuzzy
 msgctxt "#72"
 msgid "classes are now available."
-msgstr "habilitado: nuevas clases."
+msgstr "desbloqueado."
 
 #, fuzzy
 msgctxt "#73"
@@ -336,22 +336,22 @@ msgstr "Electrorráfaga"
 #, fuzzy
 msgctxt "#101"
 msgid "Tempest Blade"
-msgstr "Hoja tempestad"
+msgstr "Filo tempestuoso"
 
 #, fuzzy
 msgctxt "#102"
 msgid "Wind Blade"
-msgstr "Hoja de viento"
+msgstr "Filo de viento"
 
 #, fuzzy
 msgctxt "#103"
 msgid "Spinning Blade"
-msgstr "Hoja giratoria"
+msgstr "Filo giratorio"
 
 #, fuzzy
 msgctxt "#104"
 msgid "Rising Blade"
-msgstr "Hoja ascendente"
+msgstr "Filo ascendente"
 
 #, fuzzy
 msgctxt "#105"
@@ -361,7 +361,7 @@ msgstr "Golpe tornado"
 #, fuzzy
 msgctxt "#106"
 msgid "Soaring Blade"
-msgstr "Hoja voladora"
+msgstr "Filo volador"
 
 #, fuzzy
 msgctxt "#107"
@@ -396,7 +396,7 @@ msgstr "Golpe explosivo"
 #, fuzzy
 msgctxt "#113"
 msgid "Burst Blade"
-msgstr "Hoja explosiva"
+msgstr "Filo explosivo"
 
 #, fuzzy
 msgctxt "#115"
@@ -416,7 +416,7 @@ msgstr "Gorrión"
 #, fuzzy
 msgctxt "#122"
 msgid "Quick Draw"
-msgstr "Desenfunde rápido"
+msgstr "Desenfundado rápido"
 
 #, fuzzy
 msgctxt "#123"
@@ -476,17 +476,17 @@ msgstr "Puño tornado"
 #, fuzzy
 msgctxt "#134"
 msgid "Twin Dragons"
-msgstr "Dragón gemelo"
+msgstr "Dragones gemelos"
 
 #, fuzzy
 msgctxt "#135"
 msgid "Chained Blast"
-msgstr "Cadena de aura"
+msgstr "Ráfaga en cadena"
 
 #, fuzzy
 msgctxt "#136"
 msgid "Meteor Storm"
-msgstr "Lluvia de fuego"
+msgstr "Lluvia de meteoros"
 
 #, fuzzy
 msgctxt "#137"
@@ -496,7 +496,7 @@ msgstr "X-BUSTER"
 #, fuzzy
 msgctxt "#138"
 msgid "Iron Blade"
-msgstr "Hoja de hierro"
+msgstr "Filo de hierro"
 
 #, fuzzy
 msgctxt "#139"
@@ -506,17 +506,17 @@ msgstr "Patada"
 #, fuzzy
 msgctxt "#140"
 msgid "Archery"
-msgstr "Arquería"
+msgstr "Tiro con arco"
 
 #, fuzzy
 msgctxt "#141"
 msgid "Archery"
-msgstr "Arquería"
+msgstr "Tiro con arco"
 
 #, fuzzy
 msgctxt "#142"
 msgid "Rain Arrow"
-msgstr "Flechas de luz"
+msgstr "Lluvia de flechas"
 
 #, fuzzy
 msgctxt "#143"
@@ -596,7 +596,7 @@ msgstr "Cañón Odín"
 #, fuzzy
 msgctxt "#158"
 msgid "Moonlight Blade"
-msgstr "Hoja lunar"
+msgstr "Filo lunar"
 
 #, fuzzy
 msgctxt "#159"
@@ -676,7 +676,7 @@ msgstr "Ritornelo ígneo"
 #, fuzzy
 msgctxt "#174"
 msgid "Phoenix Blade"
-msgstr "Hoja fénix"
+msgstr "Filo del fénix"
 
 #, fuzzy
 msgctxt "#175"
@@ -691,7 +691,7 @@ msgstr "MICROMISILES"
 #, fuzzy
 msgctxt "#177"
 msgid "DRAGON BLADE"
-msgstr "HOJA DRAGÓN"
+msgstr "FILO DRAGÓN"
 
 #, fuzzy
 msgctxt "#178"
@@ -786,7 +786,7 @@ msgstr "Éter"
 #, fuzzy
 msgctxt "#200"
 msgid "Clear data check"
-msgstr "Verificar datos completados"
+msgstr "Buscar partida completada"
 
 #, fuzzy
 msgctxt "#201"
@@ -811,7 +811,7 @@ msgstr "¡Desbloquea extras para Xenosaga EPISODE II!"
 #, fuzzy
 msgctxt "#207"
 msgid "Check for Xenosaga EPISODE I clear data?"
-msgstr "¿Buscar datos completados de Xenosaga EPISODE I?"
+msgstr "¿Buscar una partida completada de Xenosaga EPISODE I?"
 
 #, fuzzy
 msgctxt "#208"
@@ -822,7 +822,7 @@ msgstr "Sin tarjeta de memoria (8MB) (para PlayStation®2)."
 #, fuzzy
 msgctxt "#209"
 msgid "$rx116;$ry30;No clear data found."
-msgstr "$rx116;$ry30;No hay datos completados."
+msgstr "$rx116;$ry30;No hay partidas completadas."
 
 #, fuzzy
 msgctxt "#210"
@@ -839,13 +839,13 @@ msgstr "$rx126;¡Extra desbloqueado!"
 #, fuzzy
 msgctxt "#212"
 msgid "$rx60;Earned Swimsuit for Ziggy and KOS-MOS."
-msgstr "$rx60;Traje de baño de Ziggy y KOS-MOS obtenido."
+msgstr "$rx60;Trajes de baño de Ziggy y KOS-MOS obtenidos."
 
 #. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
 #, fuzzy
 msgctxt "#213"
 msgid "$rx100;Earned Geriatric Swimsuit."
-msgstr "$rx100;Traje de baño geriátrico obtenido."
+msgstr "$rx100;Traje de baño de abuelo obtenido."
 
 #, fuzzy
 msgctxt "#214"
@@ -925,7 +925,7 @@ msgstr "Inserta tarjeta de memoria (8MB) (para PlayStation®2)"
 #, fuzzy
 msgctxt "#225"
 msgid "with the clear data for"
-msgstr "con los datos completados de"
+msgstr "con la partida completada de"
 
 #, fuzzy
 msgctxt "#226"
@@ -1341,12 +1341,12 @@ msgstr "Radar"
 #, fuzzy
 msgctxt "#355"
 msgid "OFF"
-msgstr "NO"
+msgstr "No"
 
 #, fuzzy
 msgctxt "#356"
 msgid "ON"
-msgstr "SÍ"
+msgstr "Sí"
 
 #, fuzzy
 msgctxt "#357"
@@ -1386,12 +1386,12 @@ msgstr "Dolby Digital 5.1"
 #, fuzzy
 msgctxt "#365"
 msgid "OFF"
-msgstr "NO"
+msgstr "No"
 
 #, fuzzy
 msgctxt "#366"
 msgid "ON"
-msgstr "SÍ"
+msgstr "Sí"
 
 #, fuzzy
 msgctxt "#367"
@@ -1429,23 +1429,23 @@ msgid ""
 "Set menu controls to basic or expert (expert mode has\n"
 "shortened menu controls)."
 msgstr ""
-"Elige controles del menú básicos o expertos (el modo\n"
-"experto acorta los controles del menú)."
+"Elige los controles del menú: básicos o expertos\n"
+"(el modo experto usa atajos)."
 
 #, fuzzy
 msgctxt "#380"
 msgid "Set audio output to mono, stereo, or Dolby Pro Logic II."
-msgstr "Salida de audio: mono, estéreo o Dolby Pro Logic II."
+msgstr "Elige la salida de audio: mono, estéreo o Dolby Pro Logic II."
 
 #, fuzzy
 msgctxt "#381"
 msgid "Set analog controller (DUALSHOCK®2) vibration."
-msgstr "Vibración del control analógico (DUALSHOCK®2)."
+msgstr "Configura la vibración del control (DUALSHOCK®2)."
 
 #, fuzzy
 msgctxt "#382"
 msgid "Set subtitle display for the event movies."
-msgstr "Configura los subtítulos de las escenas de video."
+msgstr "Muestra u oculta los subtítulos de los videos."
 
 #, fuzzy
 msgctxt "#383"
@@ -1508,7 +1508,7 @@ msgstr "Usa objetos."
 #, fuzzy
 msgctxt "#411"
 msgid "Use Ether."
-msgstr "Usa éteres."
+msgstr "Usa éter."
 
 #, fuzzy
 msgctxt "#412"
@@ -1572,7 +1572,7 @@ msgstr "Mira las técnicas."
 #, fuzzy
 msgctxt "#423"
 msgid "View Double Tech."
-msgstr "Mira las técnicas dobles."
+msgstr "Mira los Ataques Dobles."
 
 #. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
 #, fuzzy
@@ -1617,7 +1617,7 @@ msgid ""
 "Change combatants and reserves.\n"
 "Press the START button to change the leader."
 msgstr ""
-"Cambia combatientes y reservas.\n"
+"Elige quién combate y quién queda en la reserva.\n"
 "Presiona START para cambiar el líder."
 
 #, fuzzy
@@ -1636,8 +1636,8 @@ msgid ""
 "Change combatants, reserves, and copilots.\n"
 "Press &01 to send all copilots to standby."
 msgstr ""
-"Cambia combatientes, reservas y copilotos.\n"
-"Presiona &01 para enviar los copilotos a la reserva."
+"Elige combatientes, reservas y copilotos.\n"
+"Presiona &01 para dejar a los copilotos en espera."
 
 #, fuzzy
 msgctxt "#432"
@@ -1711,7 +1711,7 @@ msgid ""
 "\"Phoenix Blade\"."
 msgstr ""
 "Jin y Shion aprendieron el Ataque Doble\n"
-"\"Hoja fénix\"."
+"\"Filo del fénix\"."
 
 #, fuzzy
 msgctxt "#443"
@@ -2003,7 +2003,7 @@ msgstr ""
 #, fuzzy
 msgctxt "#540"
 msgid "Format completed."
-msgstr "Formato completado."
+msgstr "Formateo completado."
 
 #, fuzzy
 msgctxt "#541"
@@ -2153,7 +2153,7 @@ msgstr "No se puede acceder al HDD."
 #, fuzzy
 msgctxt "#566"
 msgid "Clear data"
-msgstr "Datos completados"
+msgstr "Partida completada"
 
 #, fuzzy
 msgctxt "#567"

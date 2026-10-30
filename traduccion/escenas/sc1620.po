@@ -10,7 +10,7 @@ msgstr ""
 #, fuzzy
 msgctxt "#0"
 msgid "Attempt the power distribution repair job?"
-msgstr "¿Intentar la reparación de la planta de distribución de energía?"
+msgstr "¿Intentar reparar el sistema de distribución de energía?"
 
 #. Opciones: una por línea. Mantener 2 líneas en el mismo orden.
 #, fuzzy

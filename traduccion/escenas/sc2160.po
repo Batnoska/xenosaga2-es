@@ -31,13 +31,13 @@ msgstr "¡Desbloqueaste la Protección 05!"
 #, fuzzy
 msgctxt "#9"
 msgid "Well, well! Did you succeed in unlocking the fifth trap protection? Bravo for that! But there are plenty of people that have made it this far! Now it gets hard! The next protection is set \"on top of the boulder near the shed, where the red flower blooms.\" You can unlock trap protection 06 there!"
-msgstr "¡Vaya, vaya! ¿Lograste desbloquear la quinta protección de trampa? ¡Bravo por eso! ¡Pero mucha gente llegó hasta aquí! ¡Ahora se pone difícil! La siguiente protección está \"encima de la roca cerca del cobertizo, donde florece la flor roja\". ¡Ahí puedes desbloquear la protección de trampa 06!"
+msgstr "¡Vaya, vaya! ¿Lograste desbloquear la quinta protección de trampa? ¡Bravo por eso! ¡Pero mucha gente llegó hasta aquí! ¡Ahora se pone difícil! La siguiente protección está \"encima de la roca cerca del cobertizo, donde crece la flor roja\". ¡Ahí puedes desbloquear la protección de trampa 06!"
 
 #. habla: Hugo's Memo
 #, fuzzy
 msgctxt "#10"
 msgid "The next protection is set \"on top of the boulder near the shed, where the red flower blooms.\" You can unlock trap protection 06 there!"
-msgstr "La siguiente protección está \"encima de la roca cerca del cobertizo, donde florece la flor roja\". ¡Ahí puedes desbloquear la protección de trampa 06!"
+msgstr "La siguiente protección está \"encima de la roca cerca del cobertizo, donde crece la flor roja\". ¡Ahí puedes desbloquear la protección de trampa 06!"
 
 #, fuzzy
 msgctxt "#11"
@@ -48,7 +48,7 @@ msgstr "¡Desbloqueaste la Protección 08!"
 #, fuzzy
 msgctxt "#12"
 msgid "Well, you've finally made it this far! There're very few people that have done that! In other words, you deserve a \"super bravo!\" There're only two left. Hang in there! The next protection is set on the \"face rock.\" You can unlock trap protection 09 there!"
-msgstr "¡Bueno, por fin llegaste hasta aquí! ¡Muy poca gente lo logró! ¡O sea que te mereces un \"súper bravo\"! Solo quedan dos. ¡Aguanta! La siguiente protección está en la \"roca con cara\". ¡Ahí puedes desbloquear la protección de trampa 09!"
+msgstr "¡Bueno, por fin llegaste hasta aquí! ¡Muy poca gente lo logró! ¡Así que te mereces un \"súper bravo\"! Solo quedan dos. ¡Ánimo! La siguiente protección está en la \"roca con cara\". ¡Ahí puedes desbloquear la protección de trampa 09!"
 
 #. habla: Hugo's Memo
 #, fuzzy

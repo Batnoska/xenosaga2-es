@@ -1104,7 +1104,7 @@ msgstr ""
 #, fuzzy
 msgctxt "#180"
 msgid "I heard the architect talking, and apparently, they used construction nanomachines to build that statue of the mayor! That's unusual in this district, but well, that in and of itself wasn't a big deal. The thing is, it turns out there was a problem with those nanomachines! Apparently, they made some kind of addition on their own to the statue. The architect should have just told Director Gaignun about it, but he didn't. When the mayor's daughter came back to the Foundation, the architect secretly admitted what happened. I wonder what kind of trick they built into that statue. I guess I could just ask Janet."
-msgstr "Escuché hablar al arquitecto y, al parecer, ¡usaron nanomáquinas de construcción para hacer esa estatua del alcalde! Eso es raro en este distrito, pero bueno, eso en sí no era gran cosa. ¡Lo que pasa es que esas nanomáquinas tenían un problema! Parece que le agregaron algo a la estatua por su cuenta. El arquitecto debería habérselo dicho al director Gaignun, pero no lo hizo. Cuando la hija del alcalde volvió a la Fundación, el arquitecto le admitió en secreto lo que había pasado. Me pregunto qué tipo de truco le habrán metido a esa estatua. Supongo que podría preguntarle a Janet."
+msgstr "Escuché hablar al arquitecto y, al parecer, ¡usaron nanomáquinas de construcción para hacer esa estatua del alcalde! Eso es raro en este distrito, pero bueno, eso en sí no era gran cosa. ¡Lo que pasa es que esas nanomáquinas tenían un problema! Parece que le agregaron algo a la estatua por su cuenta. El arquitecto debería habérselo dicho al director Gaignun, pero no lo hizo. Cuando la hija del alcalde volvió a la Fundación, el arquitecto le admitió en secreto lo que había pasado. ¿Qué truco le habrán metido a esa estatua? Supongo que podría preguntarle a Janet."
 
 #. habla: Lee
 #, fuzzy
@@ -1952,7 +1952,7 @@ msgstr "¡Vaya! ¡Qué fría es la gente hoy en día!"
 #, fuzzy
 msgctxt "#316"
 msgid "If you don't have any business with me, then stop staring! I'm tired of people looking at me like I'm garbage!"
-msgstr "Si no tienes nada que hacer conmigo, ¡deja de mirarme! ¡Estoy harta de que la gente me mire como si fuera basura!"
+msgstr "Si no necesitas nada de mí, ¡deja de mirarme! ¡Estoy harta de que la gente me mire como si fuera basura!"
 
 #. habla: Bonny
 #, fuzzy

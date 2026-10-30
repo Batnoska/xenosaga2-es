@@ -77,7 +77,7 @@ msgstr "¡¿Hay alguien ahí?! ¡Uy! ¡Espero que nadie haya oído lo que acabo 
 #, fuzzy
 msgctxt "#11"
 msgid "Training, training, training! Just how many times a day do they have to dive before they're satisfied?"
-msgstr "¡Entrenamiento, entrenamiento, entrenamiento! ¿Cuántas veces al día tienen que hacer una inmersión para quedar satisfechos?"
+msgstr "¡Entrenamiento, entrenamiento, entrenamiento! ¿Cuántas inmersiones al día necesitan para quedar conformes?"
 
 #. habla: Gene
 #, fuzzy

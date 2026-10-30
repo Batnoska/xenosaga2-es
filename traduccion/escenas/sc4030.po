@@ -458,7 +458,7 @@ msgstr "¡Correcto! Pasamos a la pregunta 12."
 #, fuzzy
 msgctxt "#73"
 msgid "How many bookshelves in the Uzuki residence can you actually move?"
-msgstr "¿Cuántas estanterías de la casa de los Uzuki se pueden mover de verdad?"
+msgstr "¿Cuántos estantes de la casa de los Uzuki se pueden mover de verdad?"
 
 #. habla: Question 12
 #, fuzzy

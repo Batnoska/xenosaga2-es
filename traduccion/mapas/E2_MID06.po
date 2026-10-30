@@ -39,4 +39,4 @@ msgstr "$zoom13;ASM 1229 (Golpe/Fuego)"
 #, fuzzy
 msgctxt "#4"
 msgid "$zoom13;Sonic Boom (Strike)"
-msgstr "$zoom13;Onda sónica (Golpe)"
+msgstr "$zoom13;Estampido sónico (Golpe)"

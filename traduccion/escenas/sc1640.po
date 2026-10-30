@@ -25,7 +25,7 @@ msgstr "La válvula 3 ya está abierta."
 #, fuzzy
 msgctxt "#8"
 msgid "Turning valve 3 at this time will not control the water flow."
-msgstr "Girar la válvula 3 ahora no controlará el flujo de agua."
+msgstr "Por ahora, girar la válvula 3 no cambia el flujo de agua."
 
 #, fuzzy
 msgctxt "#9"
@@ -45,7 +45,7 @@ msgstr "La válvula 6 ya está abierta."
 #, fuzzy
 msgctxt "#12"
 msgid "Turning valve 6 at this time will not control the water flow."
-msgstr "Girar la válvula 6 ahora no controlará el flujo de agua."
+msgstr "Por ahora, girar la válvula 6 no cambia el flujo de agua."
 
 #, fuzzy
 msgctxt "#13"
@@ -71,7 +71,7 @@ msgstr "No puedes usar la plataforma flotante."
 #, fuzzy
 msgctxt "#17"
 msgid "A release key is required to open the partition to water conditioning tank B."
-msgstr "Para abrir la división del tanque de acondicionamiento B, se necesita una llave de liberación."
+msgstr "Para abrir el acceso al tanque de acondicionamiento B, se necesita una llave de liberación."
 
 #, fuzzy
 msgctxt "#18"
@@ -92,7 +92,7 @@ msgstr ""
 #, fuzzy
 msgctxt "#20"
 msgid "A release key is required to open the partition to water conditioning tank B. Please place the water conditioning tank B key near the sensor on the right."
-msgstr "Para abrir la división del tanque de acondicionamiento B, se necesita una llave de liberación. Coloque la llave del tanque de acondicionamiento B cerca del sensor de la derecha."
+msgstr "Para abrir el acceso al tanque de acondicionamiento B, se necesita una llave de liberación. Coloque la llave del tanque de acondicionamiento B cerca del sensor de la derecha."
 
 #. habla: Second Miltia Water Works
 #, fuzzy
@@ -118,7 +118,7 @@ msgstr "¿Girar la válvula 1?"
 #, fuzzy
 msgctxt "#25"
 msgid "Rotate the right analog stick clockwise 15 times!"
-msgstr "¡Gira el stick analógico derecho en el sentido de las agujas del reloj 15 veces!"
+msgstr "¡Gira el stick analógico derecho 15 veces en el sentido de las agujas del reloj!"
 
 #, fuzzy
 msgctxt "#26"
@@ -173,7 +173,7 @@ msgstr "¿Girar la válvula 6?"
 #, fuzzy
 msgctxt "#38"
 msgid "Rotate the right analog stick clockwise 30 times!"
-msgstr "¡Gira el stick analógico derecho en el sentido de las agujas del reloj 30 veces!"
+msgstr "¡Gira el stick analógico derecho 30 veces en el sentido de las agujas del reloj!"
 
 #, fuzzy
 msgctxt "#39"

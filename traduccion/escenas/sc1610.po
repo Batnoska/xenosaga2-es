@@ -80,7 +80,7 @@ msgstr ""
 #, fuzzy
 msgctxt "#7"
 msgid "4,000 years in the future. Shion Uzuki, chief of Vector First R&D Division, is assigned to the flagship Woglinde along with her team members to test the anti-Gnosis battle android, KOS-MOS, and to escort the Federation fleet as it investigates the disappearance of a planet. During the mission, Shion comes into contact with the Zohar, an object recovered from the region where the planet disappeared, and has a vision of a mysterious girl, Nephilim. Later, the Federation fleet is attacked by the Gnosis Pilgrimage Fleet. Commander Cherenkov, under orders from the U-TIC Organization, attempts to acquire the Zohar during this onslaught, but it is taken by the Gnosis. Shion is chased relentlessly by the Gnosis, but KOS-MOS, who has started-up on her own, comes to Shion's rescue. KOS-MOS annihilates the Gnosis with overwhelming power, but she also takes the life of First Lieutenant Virgil. Shion rebukes KOS-MOS, but KOS-MOS shows no interest in what Shion says."
-msgstr "4.000 años en el futuro. Shion Uzuki, jefa de la Primera División de I+D de Vector, es destinada junto a su equipo a la nave insignia Woglinde para probar a KOS-MOS, una androide de combate anti-Gnosis, y para escoltar a la flota de la Federación mientras investiga la desaparición de un planeta. Durante la misión, Shion entra en contacto con el Zohar, un objeto recuperado de la región donde desapareció el planeta, y tiene una visión de una misteriosa niña: Nephilim. Más tarde, la Flota Peregrina de los Gnosis ataca a la flota de la Federación. El comandante Cherenkov, por órdenes de la Organización U-TIC, intenta apoderarse del Zohar durante el ataque, pero se lo llevan los Gnosis. Los Gnosis persiguen a Shion sin descanso, pero KOS-MOS, que se activó por su cuenta, acude a rescatarla. KOS-MOS aniquila a los Gnosis con un poder abrumador, pero también le quita la vida al teniente primero Virgil. Shion la reprende, pero a KOS-MOS no le interesa lo que Shion dice."
+msgstr "4.000 años en el futuro. Shion Uzuki, jefa de la Primera División de I+D de Vector, es destinada junto a su equipo a la nave insignia Woglinde para probar a KOS-MOS, una androide de combate anti-Gnosis, y para escoltar a la flota de la Federación mientras investiga la desaparición de un planeta. Durante la misión, Shion entra en contacto con el Zohar, un objeto recuperado de la región donde desapareció el planeta, y tiene una visión de una misteriosa niña: Nephilim. Más tarde, la Flota Peregrina de los Gnosis ataca a la flota de la Federación. El comandante Cherenkov, por órdenes de la Organización U-TIC, intenta apoderarse del Zohar durante el ataque, pero se lo llevan los Gnosis. Los Gnosis persiguen a Shion sin descanso, pero KOS-MOS, que se activó por su cuenta, acude a rescatarla. KOS-MOS aniquila a los Gnosis con un poder abrumador, pero también le quita la vida al teniente primero Virgil. Shion la reprende, pero KOS-MOS se muestra indiferente a sus palabras."
 
 #. habla: Drama Series Ep. I - Chapter 2
 #, fuzzy
@@ -104,7 +104,7 @@ msgstr "El Gnosis gigante se desvanece junto con el comandante Cherenkov. Jr., a
 #, fuzzy
 msgctxt "#11"
 msgid "Upon their arrival at the Foundation, Shion finds the managing director, Gaignun Kukai, waiting for them. Gaignun promises to send them to Second Miltia and tells them to rest until then. Shion feels something strange about Jr. and Gaignun. Gaignun and Jr. also feel something strange about Shion and KOS-MOS. When the Durandal arrives in Miltian space, they are suddenly surrounded by Federation battleships and arrested as traitors. Miltian representative Helmer explains to Shion and the others that this is a plot by the U-TIC Organization. Using KOS-MOS' battle record as proof, they establish their innocence. However, Margulis has laid a sinister trap for them and a \"wave\" begins to spread through Miltian space. Jr. recognizes the wave as the Song of Nephilim. The Song is capable of driving all to madness and caused the Miltian Conflict fourteen years ago. It now calls forth a great swarm of Gnosis into Miltian space."
-msgstr "Al llegar a la Fundación, Shion encuentra esperándolos al director general, Gaignun Kukai. Gaignun promete enviarlos a Segunda Miltia y les dice que descansen hasta entonces. Shion siente algo extraño en Jr. y en Gaignun. Gaignun y Jr. también sienten algo extraño en Shion y en KOS-MOS. Cuando el Durandal llega al espacio de Miltia, de repente lo rodean acorazados de la Federación y los arrestan por traidores. El representante de Miltia, Helmer, les explica a Shion y a los demás que es un complot de la Organización U-TIC. Con el historial de combate de KOS-MOS como prueba, demuestran su inocencia. Sin embargo, Margulis les tendió una trampa siniestra y una \"onda\" empieza a propagarse por el espacio de Miltia. Jr. reconoce la onda: es la Canción de Nephilim. La Canción puede volver locos a todos y fue la causa del Conflicto de Miltia hace catorce años. Ahora atrae a un gran enjambre de Gnosis al espacio de Miltia."
+msgstr "Al llegar a la Fundación, el director general, Gaignun Kukai, los está esperando. Gaignun promete enviarlos a Segunda Miltia y les dice que descansen hasta entonces. Shion siente algo extraño en Jr. y en Gaignun. Gaignun y Jr. también sienten algo extraño en Shion y en KOS-MOS. Cuando el Durandal llega al espacio de Miltia, de repente lo rodean acorazados de la Federación y los arrestan por traidores. El representante de Miltia, Helmer, les explica a Shion y a los demás que es un complot de la Organización U-TIC. Con el historial de combate de KOS-MOS como prueba, demuestran su inocencia. Sin embargo, Margulis les tendió una trampa siniestra y una \"onda\" empieza a propagarse por el espacio de Miltia. Jr. reconoce la onda: es la Canción de Nephilim. La Canción puede volver locos a todos y fue la causa del Conflicto de Miltia hace catorce años. Ahora atrae a un gran enjambre de Gnosis al espacio de Miltia."
 
 #. habla: Drama Series Ep. I - Chapter 6
 #, fuzzy
@@ -216,37 +216,37 @@ msgstr "Debido a una alerta de emergencia, se suspendieron todos los vuelos espa
 #, fuzzy
 msgctxt "#24"
 msgid "The boarding gate for special vessels lies ahead. The Lohengrin-class high-speed cruiser Elsa is currently in port. Passengers boarding the Elsa should continue on to the boarding gate."
-msgstr "Más adelante está la puerta de embarque para naves especiales. El crucero rápido Elsa, clase Lohengrin, se encuentra en puerto. Los pasajeros que embarquen en el Elsa, continúen hacia la puerta de embarque."
+msgstr "Más adelante está la puerta de embarque para naves especiales. El crucero rápido Elsa, clase Lohengrin, se encuentra en puerto. Pasajeros del Elsa, por favor, continúen hacia la puerta de embarque."
 
 #. habla: Information
 #, fuzzy
 msgctxt "#25"
 msgid "The boarding gate for standard vessels lies ahead. The shuttle bound for the Durandal's dock is currently in port. Passengers heading for the Durandal should continue on to the boarding gate."
-msgstr "Más adelante está la puerta de embarque para naves comunes. La lanzadera con destino al muelle del Durandal se encuentra en puerto. Los pasajeros con destino al Durandal, continúen hacia la puerta de embarque."
+msgstr "Más adelante está la puerta de embarque para naves comunes. La lanzadera con destino al muelle del Durandal se encuentra en puerto. Pasajeros con destino al Durandal, por favor, continúen hacia la puerta de embarque."
 
 #. habla: Information
 #, fuzzy
 msgctxt "#26"
 msgid "Currently there are no departing standard vessel flights."
-msgstr "Por el momento no hay vuelos comunes con salida."
+msgstr "Por el momento no hay salidas de naves comunes."
 
 #. habla: Information
 #, fuzzy
 msgctxt "#27"
 msgid "Currently there are no departing special vessel flights."
-msgstr "Por el momento no hay vuelos especiales con salida."
+msgstr "Por el momento no hay salidas de naves especiales."
 
 #. habla: Information
 #, fuzzy
 msgctxt "#28"
 msgid "The shuttle bound for the Durandal dock is ready for departure. All passengers boarding the standard vessel flight, please use the left gate."
-msgstr "La lanzadera con destino al muelle del Durandal está lista para partir. Todos los pasajeros del vuelo común, usen la puerta izquierda."
+msgstr "La lanzadera con destino al muelle del Durandal está lista para partir. Pasajeros del vuelo común, por favor, usen la puerta izquierda."
 
 #. habla: Information
 #, fuzzy
 msgctxt "#29"
 msgid "Currently, the Lohengrin-class high-speed cruiser Elsa is in port. All passengers boarding the special vessel flight, please use the right gate."
-msgstr "En este momento, el crucero rápido Elsa, clase Lohengrin, se encuentra en puerto. Todos los pasajeros del vuelo especial, usen la puerta derecha."
+msgstr "En este momento, el crucero rápido Elsa, clase Lohengrin, se encuentra en puerto. Pasajeros del vuelo especial, por favor, usen la puerta derecha."
 
 #, fuzzy
 msgctxt "#30"
@@ -611,7 +611,7 @@ msgstr "¡Genial! ¡Es la carta de la tía!"
 #, fuzzy
 msgctxt "#101"
 msgid "*Sniff* I wonder what happened with her letter."
-msgstr "*Snif* Me pregunto qué pasó con su carta."
+msgstr "*Snif* ¿Qué habrá pasado con su carta?"
 
 #. habla: Kenna
 #, fuzzy
@@ -635,7 +635,7 @@ msgstr "Disculpe, ¿usted es uno de los empleados de Vector que estaban a bordo 
 #, fuzzy
 msgctxt "#105"
 msgid "I see. You must have had a terrible time as well. We should both be glad we escaped with our lives."
-msgstr "Ya veo. Usted también debe haberla pasado terrible. Deberíamos alegrarnos de haber salido con vida."
+msgstr "Ya veo. Usted también debe haberlo pasado muy mal. Deberíamos alegrarnos de haber salido con vida."
 
 #. habla: Magnus
 #, fuzzy
@@ -659,7 +659,7 @@ msgstr "Soy oficial de las Fuerzas de Operaciones Especiales de la Federación, 
 #, fuzzy
 msgctxt "#109"
 msgid "I'm an officer in the Federation Marine Corps. My ship went down in the recent battle with the Gnosis in Miltian space. I am currently on my way to my new post."
-msgstr "Soy oficial de la Infantería de Marina de la Federación. Mi nave se hundió en la batalla reciente contra los Gnosis en el espacio de Miltia. Ahora voy camino a mi nuevo destino."
+msgstr "Soy oficial de la Infantería de Marina de la Federación. Mi nave fue derribada en la reciente batalla contra los Gnosis en el espacio de Miltia. Ahora voy camino a mi nuevo destino."
 
 #. habla: Magnus
 #, fuzzy
@@ -701,7 +701,7 @@ msgstr "Se rumorea que Vector tiene otras armas móviles además de los A.M.W.S.
 #, fuzzy
 msgctxt "#116"
 msgid "If I had that weapon, even I might have been able to defeat the Gnosis."
-msgstr "Si yo tuviera esa arma, hasta yo podría haber derrotado a los Gnosis."
+msgstr "Si hubiera tenido esa arma, hasta yo habría podido derrotar a los Gnosis."
 
 #. habla: Magnus
 #, fuzzy
@@ -725,7 +725,7 @@ msgstr "Dicen que ese piloto llevaba una espada encima incluso dentro de la cabi
 #, fuzzy
 msgctxt "#120"
 msgid "The Federation Marines have received orders to ship out, but I can't head to my post because the space port is closed!"
-msgstr "La Infantería de Marina de la Federación recibió órdenes de zarpar, ¡pero no puedo ir a mi destino porque el puerto espacial está cerrado!"
+msgstr "La Infantería de Marina de la Federación recibió órdenes de partir, ¡pero no puedo ir a mi destino porque el puerto espacial está cerrado!"
 
 #. habla: Magnus
 #, fuzzy
@@ -743,7 +743,7 @@ msgstr "¡Espero una carta con forma de trébol de mi sobrina, que está en la F
 #, fuzzy
 msgctxt "#123"
 msgid "I thought it might have arrived at the space port and I came to ask, but it seems it came a long time ago and isn't here anymore! I wonder what happened."
-msgstr "Pensé que quizá había llegado al puerto espacial y vine a preguntar, ¡pero parece que llegó hace mucho y ya no está aquí! Me pregunto qué pasó."
+msgstr "Pensé que quizá había llegado al puerto espacial y vine a preguntar, ¡pero parece que llegó hace mucho y ya no está aquí! ¿Qué habrá pasado?"
 
 #. habla: Ulrica
 #, fuzzy
@@ -773,13 +773,13 @@ msgstr "¡No veo la hora de leer la carta de mi sobrina!"
 #, fuzzy
 msgctxt "#128"
 msgid "The letter didn't make it. From now on, I'm using U.M.N. transport!"
-msgstr "La carta no llegó. ¡De ahora en adelante, uso el transporte U.M.N.!"
+msgstr "La carta no llegó. ¡De ahora en adelante, voy a usar el envío por U.M.N.!"
 
 #. habla: Marcela
 #, fuzzy
 msgctxt "#129"
 msgid "Hmm. Traveling alone is fine, but sometimes I get really lonely. If I had a nice, quiet traveling companion, I think my trips would be quite different."
-msgstr "Hmm. Viajar sola está bien, pero a veces me siento muy sola. Si tuviera un compañero de viaje lindo y tranquilo, creo que mis viajes serían muy distintos."
+msgstr "Hmm. Viajar por mi cuenta está bien, pero a veces me siento muy sola. Si tuviera un compañero de viaje lindo y tranquilo, creo que mis viajes serían muy distintos."
 
 #. habla: Marcela
 #, fuzzy
@@ -802,7 +802,7 @@ msgstr "¡Encontraste dueña para Ollie!"
 #, fuzzy
 msgctxt "#133"
 msgid "Ollie's a smart cat. He's really friendly, and most importantly, he's calm and quiet."
-msgstr "Ollie es un gato inteligente. Es muy cariñoso y, lo más importante, es calmado y tranquilo."
+msgstr "Ollie es un gato inteligente. Es muy cariñoso y, lo más importante, es tranquilo y silencioso."
 
 #. habla: Marcela
 #, fuzzy
@@ -826,7 +826,7 @@ msgstr "¡Con este clima, las plantas deben crecer muy bien!"
 #, fuzzy
 msgctxt "#137"
 msgid "What's that you say? You're growing flowers? All right, then. I'll give you some of the plant growth enhancer I bought as a souvenir!"
-msgstr "¿Qué dices? ¿Cultivas flores? Bueno, entonces. ¡Te doy un poco del potenciador de crecimiento que compré de recuerdo!"
+msgstr "¿Qué dices? ¿Cultivas flores? ¡Entonces te doy un poco del potenciador de crecimiento que compré de recuerdo!"
 
 #, fuzzy
 msgctxt "#138"
@@ -849,7 +849,7 @@ msgstr "Lo siento, pero si te doy más, no me va a alcanzar para los recuerdos."
 #, fuzzy
 msgctxt "#141"
 msgid "I'm going home to try growing flowers, too. "
-msgstr "Yo también voy a ir a casa a probar cultivar flores."
+msgstr "Cuando vuelva a casa, yo también voy a intentar cultivar flores."
 
 #. habla: Rosa
 #, fuzzy
@@ -927,13 +927,13 @@ msgstr "¡¿Cuánto tiempo tengo que esperar aquí?! El otro día pareció que a
 #, fuzzy
 msgctxt "#154"
 msgid "Man, grown-ups worry too much! I don't know what kind of accident it was, but it couldn't have been that big a deal!"
-msgstr "¡Uf, los grandes se preocupan demasiado! No sé qué accidente fue, ¡pero no puede haber sido para tanto!"
+msgstr "¡Uf, los adultos se preocupan demasiado! No sé qué accidente fue, ¡pero no puede haber sido para tanto!"
 
 #. habla: Anatoly
 #, fuzzy
 msgctxt "#155"
 msgid "You know what? There's a kid at kindergarten that I really hate!"
-msgstr "¿Sabes qué? ¡En el jardín de infantes hay un niño que odio!"
+msgstr "¿Sabes qué? ¡En el preescolar hay un niño que odio!"
 
 #. habla: Anatoly
 #, fuzzy
@@ -969,7 +969,7 @@ msgstr "¡Seguro que hay un malo en algún lado arruinándolo todo! ¡Está pens
 #, fuzzy
 msgctxt "#161"
 msgid "Let's see, where was it? I'm pretty sure it was the second booth from the right that lets you access some interesting information."
-msgstr "A ver, ¿dónde era? Estoy casi segura de que era la segunda cabina desde la derecha la que da acceso a información interesante."
+msgstr "A ver, ¿dónde era? Estoy casi segura de que en la segunda cabina desde la derecha se puede acceder a información interesante."
 
 #. habla: Vera
 #, fuzzy
@@ -987,13 +987,13 @@ msgstr "Soy vendedor ambulante de flores. ¡Voy de un lugar a otro vendiendo sem
 #, fuzzy
 msgctxt "#164"
 msgid "But lately, my flower seed sales have been slipping, and I'm stuck with inventory! If you need any flower seeds, would you let me know? I'll give you my extras!"
-msgstr "Pero últimamente mis ventas de semillas bajaron, ¡y me quedé con mercadería! Si necesitas semillas de flores, ¿me avisas? ¡Te doy las que me sobran!"
+msgstr "Pero últimamente mis ventas de semillas bajaron, ¡y se me acumuló la mercancía! Si necesitas semillas de flores, ¿me avisas? ¡Te doy las que me sobran!"
 
 #. habla: Atash
 #, fuzzy
 msgctxt "#165"
 msgid "Well hey! You look like someone who enjoys growing flowers!"
-msgstr "¡Oye! ¡Tienes pinta de disfrutar cultivando flores!"
+msgstr "¡Vaya! ¡Pareces alguien a quien le encanta cultivar flores!"
 
 #. habla: Atash
 #, fuzzy
@@ -1005,7 +1005,7 @@ msgstr "Vine a Segunda Miltia a vender semillas de flores, pero todavía me qued
 #, fuzzy
 msgctxt "#167"
 msgid "Will you listen to my problem?"
-msgstr "¿Escucharías mi problema?"
+msgstr "¿Me dejas contarte mi problema?"
 
 #. habla: Atash
 #, fuzzy
@@ -1088,7 +1088,7 @@ msgstr "Mis semillas de flores no se venden."
 #, fuzzy
 msgctxt "#181"
 msgid "I heard that the crew of some freighter destroyed the satellite that almost fell on Miltia a little while ago. I wonder who they are..."
-msgstr "Escuché que la tripulación de un carguero destruyó el satélite que casi cae sobre Miltia hace un rato. Me pregunto quiénes serán..."
+msgstr "Escuché que hace poco la tripulación de un carguero destruyó el satélite que casi cae sobre Miltia. ¿Quiénes serán...?"
 
 #. habla: Darren
 #, fuzzy
@@ -1112,13 +1112,13 @@ msgstr "Hoy en día nadie anda vestido así."
 #, fuzzy
 msgctxt "#185"
 msgid "Just a little while ago, there was a satellite that almost fell on Miltia. It was really scary! If it actually fell on Miltia, we would've been dead."
-msgstr "Hace un rato, un satélite casi cae sobre Miltia. ¡Fue aterrador! Si de verdad hubiera caído sobre Miltia, estaríamos muertos."
+msgstr "Hace poco, un satélite casi cae sobre Miltia. ¡Fue aterrador! Si de verdad hubiera caído sobre Miltia, estaríamos muertos."
 
 #. habla: Darren
 #, fuzzy
 msgctxt "#186"
 msgid "I wonder if the Foundation is all right. Well, they can always escape in the Durandal, so I guess they're safer than we are down here."
-msgstr "Me pregunto si la Fundación estará bien. Bueno, siempre pueden escapar en el Durandal, así que supongo que están más a salvo que nosotros aquí abajo."
+msgstr "¿Estará bien la Fundación? Bueno, siempre pueden escapar en el Durandal, así que supongo que están más a salvo que nosotros aquí abajo."
 
 #. habla: Darren
 #, fuzzy
@@ -1290,7 +1290,7 @@ msgstr "Las rutas civiles están cerradas por la operación militar del gobierno
 #, fuzzy
 msgctxt "#214"
 msgid "There are rumors that the satellite falling out of Miltian orbit was caused by a terrorist. The stock market is going crazy."
-msgstr "Se rumorea que la caída del satélite desde la órbita de Miltia la provocó un terrorista. La bolsa está enloquecida."
+msgstr "Se rumorea que la caída del satélite desde la órbita de Miltia la provocó un terrorista. La bolsa está hecha un caos."
 
 #. habla: Wally
 #, fuzzy
@@ -1302,7 +1302,7 @@ msgstr "Todas las acciones que arrastraba de la semana pasada se desplomaron. Mi
 #, fuzzy
 msgctxt "#216"
 msgid "Vector has been doing very well for the past several years. It seems their military ventures are showing great success, producing large volumes of anti-Gnosis weaponry and other such weapons."
-msgstr "Vector viene muy bien desde hace varios años. Parece que sus emprendimientos militares están teniendo mucho éxito, produciendo grandes volúmenes de armamento anti-Gnosis y otras armas por el estilo."
+msgstr "A Vector le va muy bien desde hace varios años. Parece que sus negocios militares están teniendo mucho éxito, produciendo grandes volúmenes de armamento anti-Gnosis y otras armas por el estilo."
 
 #. habla: Wally
 #, fuzzy
@@ -1314,7 +1314,7 @@ msgstr "Si hubiera comprado acciones de Vector hace diez años, podría vivir so
 #, fuzzy
 msgctxt "#218"
 msgid "Second Miltia is under high-security alert and the stock market has gone crazy again. Just what in the world is the government thinking?"
-msgstr "Segunda Miltia está en alerta de seguridad alta y la bolsa enloqueció otra vez. ¿Qué demonios estará pensando el gobierno?"
+msgstr "Segunda Miltia está en alerta de seguridad alta y la bolsa volvió a ser un caos. ¿Qué demonios estará pensando el gobierno?"
 
 #. habla: Wally
 #, fuzzy
@@ -1332,13 +1332,13 @@ msgstr "Pensaba ir a la Fundación a ver a mis nietos, pero parece que hubo un a
 #, fuzzy
 msgctxt "#221"
 msgid "My son who works at the \"U - M - N\" is having a fit. Something about an experiment or analysis failing, and now he can't go home."
-msgstr "Mi hijo, que trabaja en la \"U - M - N\", está que trina. Algo sobre un experimento o un análisis que falló, y ahora no puede volver a casa."
+msgstr "Mi hijo, que trabaja en la \"U - M - N\", está furioso. Algo sobre un experimento o un análisis que falló, y ahora no puede volver a casa."
 
 #. habla: Taggart
 #, fuzzy
 msgctxt "#222"
 msgid "I asked that mechanical man over there, and he said that the Federation military is doing something. It's a sad world when you can hear the sound of army boots marching."
-msgstr "Le pregunté a ese hombre mecánico de allá y me dijo que el ejército de la Federación está haciendo algo. Qué mundo triste, en el que se oyen marchar las botas del ejército."
+msgstr "Le pregunté a ese hombre de metal de allá y me dijo que el ejército de la Federación está haciendo algo. Qué mundo triste, en el que se oyen marchar las botas del ejército."
 
 #. habla: Ollie
 #, fuzzy

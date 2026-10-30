@@ -89,4 +89,4 @@ msgstr "¿Adónde se fue Citrine? Nunca se queda quieta, igual que ese N.º 666.
 #, fuzzy
 msgctxt "#13"
 msgid "Does she understand her position as leader of the female types?"
-msgstr "¿Entenderá su posición como líder de los tipos femeninos?"
+msgstr "¿Entenderá que es la líder de los tipos femeninos?"

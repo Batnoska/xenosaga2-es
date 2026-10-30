@@ -95,7 +95,7 @@ msgstr "Sí, yo también me lo pregunto."
 #, fuzzy
 msgctxt "#14"
 msgid "All right, lemme say something. Our next destination is Old Miltia, right? I can't say I'm looking forward to it, but it looks like we have to go, so let me know when you're ready to set out. Until then, go take a look around the newly remodeled Elsa!"
-msgstr "Bueno, déjenme decir algo. Nuestro próximo destino es la Antigua Miltia, ¿no? No puedo decir que me entusiasme, pero parece que tenemos que ir, así que avísenme cuando estén listos para partir. Mientras tanto, ¡vayan a echarle un vistazo al Elsa recién remodelado!"
+msgstr "Bueno, escuchen. Nuestro próximo destino es la Antigua Miltia, ¿no? No es que me entusiasme mucho, pero parece que tenemos que ir, así que avísenme cuando estén listos para partir. Mientras tanto, ¡vayan a echarle un vistazo al Elsa recién remodelado!"
 
 #. habla: Jr.
 #, fuzzy
@@ -516,7 +516,7 @@ msgstr "¡Uf, estuvo cerca! ¡KOS-MOS, estuviste genial!"
 #, fuzzy
 msgctxt "#75"
 msgid "It's no good. The Logical Drive took a direct hit. It's going to take more than a little tinkering to fix this."
-msgstr "No hay manera. El Logical Drive recibió un impacto directo. Va a hacer falta algo más que unos retoques para arreglarlo."
+msgstr "Malas noticias. El Logical Drive recibió un impacto directo. Va a hacer falta algo más que unos retoques para arreglarlo."
 
 #. habla: Hammer
 #, fuzzy
@@ -582,7 +582,7 @@ msgstr "En esta nave hay otros dos E.S. Todos los asignó aquí el presidente de
 #, fuzzy
 msgctxt "#86"
 msgid "The enemy isn't behaving very rationally, bringing out a giant fortress like this against a single freighter."
-msgstr "El enemigo no se comporta de forma muy racional, sacando una fortaleza gigante como esta contra un simple carguero."
+msgstr "No es muy racional que el enemigo saque una fortaleza gigante como esta contra un simple carguero."
 
 #. habla: Canaan
 #, fuzzy

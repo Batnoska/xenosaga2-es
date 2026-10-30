@@ -205,7 +205,7 @@ msgstr "Veo que, como siempre, te metiste en problemas. ¿Sabes quién los atac�
 #, fuzzy
 msgctxt "#29"
 msgid "I wonder who it was. It almost seemed to enjoy toying with you."
-msgstr "Me pregunto quién habrá sido. Casi parecía disfrutar jugando con ustedes."
+msgstr "¿Quién habrá sido? Casi parecía disfrutar jugando con ustedes."
 
 #. habla: Professor
 #, fuzzy

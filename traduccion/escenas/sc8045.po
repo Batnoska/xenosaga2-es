@@ -250,7 +250,7 @@ msgstr "Espera, ¡¿Miltia?!"
 #, fuzzy
 msgctxt "#45"
 msgid "Wh...wh...whoa! Chief, are you out of your mind?"
-msgstr "¡Ep... ep... epa! Jefa, ¿te volviste loca?"
+msgstr "¡Pe... pe... pero...! Jefa, ¿te volviste loca?"
 
 #. Cinemática: subtítulo sobre la imagen, sin recuadro. Cada línea tiene que entrar en pantalla.
 #, fuzzy

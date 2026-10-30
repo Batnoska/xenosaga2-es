@@ -120,7 +120,7 @@ msgstr "¡Eso no importa! ¡Devuélvelo!"
 #, fuzzy
 msgctxt "#18"
 msgid "Records indicate that toy was stolen from a young female child. I have received a request from the rightful owner for its retrieval."
-msgstr "Según los registros, ese juguete le fue robado a una niña pequeña. Recibí de su legítima dueña un pedido para recuperarlo."
+msgstr "Según los registros, ese juguete le fue robado a una niña pequeña. Su legítima dueña me pidió que lo recuperara."
 
 #. habla: MOMO
 #, fuzzy
@@ -186,7 +186,7 @@ msgstr "¡Oh!"
 #, fuzzy
 msgctxt "#29"
 msgid "Whoa!"
-msgstr "¡Epa!"
+msgstr "¡Guau!"
 
 #. habla: Ziggy
 #, fuzzy
@@ -1423,7 +1423,7 @@ msgstr ""
 #, fuzzy
 msgctxt "#226"
 msgid "Well? Are you ready to challenge me?"
-msgstr "¿Y bien? ¿Lista para desafiarme?"
+msgstr "¿Y bien? ¿Te animas a desafiarme?"
 
 #. habla: Winona
 #, fuzzy
@@ -1477,7 +1477,7 @@ msgstr "¡Oh! ¿Por casualidad eres Agente Civil de la Ruta SG? ¡Yo también lo
 #, fuzzy
 msgctxt "#235"
 msgid "Okay! Then that means we're rivals now. ♪ When you're ready, come on back and we'll settle this."
-msgstr "¡Muy bien! Entonces ahora somos rivales. ♪ Cuando estés lista, vuelve y lo resolvemos."
+msgstr "¡Muy bien! Entonces ahora somos rivales. ♪ Cuando quieras, vuelve y lo resolvemos."
 
 #. habla: Winona
 #, fuzzy

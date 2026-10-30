@@ -228,7 +228,7 @@ msgstr "¡Les voy a dar una recompensa!"
 #, fuzzy
 msgctxt "#38"
 msgid "You obtained Secret Key 6! This key opens the Level 2 Class D skill \"Rare +10.\""
-msgstr "¡Obtuviste la Llave Secreta 6! Esta llave desbloquea la habilidad de Clase D de nivel 2 \"Rare +10\"."
+msgstr "¡Obtuviste la Llave Secreta 6! Esta llave desbloquea la habilidad de Clase D de nivel 2 \"Rareza+10\"."
 
 #. habla: Sheila
 #, fuzzy

@@ -12,7 +12,7 @@ msgstr ""
 #, fuzzy
 msgctxt "L24"
 msgid "Whoa, radar and sonar are both dead!"
-msgstr "¡Epa! ¡Radar y sonar muertos!"
+msgstr "¡Rayos! ¡El radar y el sonar no funcionan!"
 
 #. tiempo 00:13:25
 #. Subtítulo: un tramo de la frase, sincronizado con la voz. Máximo 2 líneas.

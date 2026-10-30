@@ -169,7 +169,7 @@ msgstr "¿Oh? ¡¿Trajiste chatarra de hierro?! Puedes pescar una vez por cada c
 #, fuzzy
 msgctxt "#24"
 msgid "Whoa, whoa! What are you going to do with all that scrap iron? Go sell it off somewhere!"
-msgstr "¡Epa, epa! ¿Qué vas a hacer con toda esa chatarra de hierro? ¡Ve a venderla a algún lado!"
+msgstr "¡Oye, oye! ¿Qué vas a hacer con toda esa chatarra de hierro? ¡Ve a venderla a algún lado!"
 
 #. habla: Butch
 #, fuzzy
@@ -313,7 +313,7 @@ msgstr "¡Buena suerte!"
 #, fuzzy
 msgctxt "#50"
 msgid "Whoa! You did it! You actually caught Red Eye!"
-msgstr "¡Epa! ¡Lo lograste! ¡De verdad atrapaste a Ojo Rojo!"
+msgstr "¡Increíble! ¡Lo lograste! ¡De verdad atrapaste a Ojo Rojo!"
 
 #. habla: Butch
 #, fuzzy

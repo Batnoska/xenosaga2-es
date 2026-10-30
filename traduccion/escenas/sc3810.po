@@ -497,13 +497,13 @@ msgstr "Yo también quería, tipo, ayudar con el análisis, pero siempre la arru
 #, fuzzy
 msgctxt "#82"
 msgid "chaos, I heard you were, like, attacked on the streets. What a serious bummer."
-msgstr "chaos, me dijeron que te atacaron en, tipo, la calle. Qué bajón total."
+msgstr "chaos, me dijeron que te atacaron en, tipo, la calle. Qué horror, en serio."
 
 #. habla: Mass-Produced 100-Series Observational Unit
 #, fuzzy
 msgctxt "#83"
 msgid "I bet they were, like, trying to interfere with MOMO's analysis. I feel so sorry for her. I wish I could, you know, take her place. Or something."
-msgstr "Seguro que, o sea, querían interferir con el análisis de MOMO. Me da superpena. Ojalá pudiera, no sé, ocupar su lugar. O algo así."
+msgstr "Seguro que, o sea, querían interferir con el análisis de MOMO. Pobrecita. Ojalá pudiera, no sé, ocupar su lugar. O algo así."
 
 #. habla: Mass-Produced 100-Series Observational Unit
 #, fuzzy
@@ -551,7 +551,7 @@ msgstr "¡Joven amo, me debe una enorme! ¡Trabajé, tipo, un montón para encon
 #, fuzzy
 msgctxt "#91"
 msgid "I'm the one that, like, sherlocked the Elsa's location!"
-msgstr "¡Yo fui la que, o sea, investigó dónde estaba el Elsa!"
+msgstr "¡Yo fui la que, o sea, descubrió dónde estaba el Elsa!"
 
 #. habla: Mass-Produced 100-Series Observational Unit
 #, fuzzy
@@ -599,7 +599,7 @@ msgstr "¿De verdad pueden ganar? No, o sea, ¡por favor, ganen! ¡Prométanlo!"
 #, fuzzy
 msgctxt "#99"
 msgid "MOMO, aren't you, like, trippin' out?"
-msgstr "MOMO, ¿no estás, tipo, alucinando?"
+msgstr "MOMO, ¿no estás, tipo, muerta de miedo?"
 
 #. habla: Mass-Produced 100-Series Observational Unit
 #, fuzzy
@@ -623,7 +623,7 @@ msgstr "¿Qué es esa cosa? ¿Es, tipo, un Gnosis?"
 #, fuzzy
 msgctxt "#103"
 msgid "I'm totally trippin'! What do I do if that thing, like, stays in my memory?"
-msgstr "¡Estoy alucinando total! ¿Qué hago si esa cosa, tipo, se me queda en la memoria?"
+msgstr "¡Estoy superasustada! ¿Qué hago si esa cosa, tipo, se me queda en la memoria?"
 
 #. habla: Mass-Produced 100-Series Observational Unit
 #, fuzzy
@@ -641,7 +641,7 @@ msgstr "Van a, tipo, detener esa anomalía espaciotemporal, ¿no? ¡Sé totalmen
 #, fuzzy
 msgctxt "#106"
 msgid "Hi, Little Master. I heard you had a tough time on the highway."
-msgstr "Hola, joven amo. Supe que la pasó mal en la autopista."
+msgstr "Hola, joven amo. Supe que lo pasó mal en la autopista."
 
 #. habla: Mass-Produced 100-Series Observational Unit
 #, fuzzy

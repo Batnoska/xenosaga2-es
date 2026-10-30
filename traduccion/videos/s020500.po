@@ -75,7 +75,7 @@ msgstr "¡Ziggy, suéltame!"
 #, fuzzy
 msgctxt "L41"
 msgid "Whoa! Hey, MOMO!"
-msgstr "¡Epa! ¡Oye, MOMO!"
+msgstr "¡Uy! ¡Oye, MOMO!"
 
 #. tiempo 01:01:18
 #. Subtítulo: un tramo de la frase, sincronizado con la voz. Máximo 2 líneas.

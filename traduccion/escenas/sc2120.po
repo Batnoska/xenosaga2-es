@@ -16,10 +16,10 @@ msgstr "¡Desbloqueaste la Protección 02!"
 #, fuzzy
 msgctxt "#3"
 msgid "That's it. Good job unlocking the protection! The next protection is set on the \"white flower that blooms beside the big, fallen tree.\" You can unlock trap protection 03 there!"
-msgstr "Eso es. ¡Buen trabajo desbloqueando la protección! La siguiente protección está en la \"flor blanca que florece junto al gran árbol caído\". ¡Ahí puedes desbloquear la protección de trampa 03!"
+msgstr "Eso es. ¡Buen trabajo desbloqueando la protección! La siguiente protección está en la \"flor blanca que crece junto al gran árbol caído\". ¡Ahí puedes desbloquear la protección de trampa 03!"
 
 #. habla: Hugo's Memo
 #, fuzzy
 msgctxt "#4"
 msgid "The next protection is set on the \"white flower that blooms beside the big, fallen tree.\" You can unlock trap protection 03 there!"
-msgstr "La siguiente protección está en la \"flor blanca que florece junto al gran árbol caído\". ¡Ahí puedes desbloquear la protección de trampa 03!"
+msgstr "La siguiente protección está en la \"flor blanca que crece junto al gran árbol caído\". ¡Ahí puedes desbloquear la protección de trampa 03!"

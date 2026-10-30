@@ -145,7 +145,13 @@ que aplica el parche. La ventana del aplicador usa el logo, imágenes promociona
 
 HISTORIAL
 ---------
-{version} ({fecha}): el parche ahora funciona también con la ISO americana sin
+{version} ({fecha}): revisión completa de la traducción: se leyeron todos los
+    textos contra el inglés y se corrigieron frases literales, regionalismos y
+    tratamientos para que cada personaje suene natural. También: "Traje de baño
+    de abuelo", Sí/No en las opciones, la sinopsis del postjuego y la alineación
+    del menú de pausa de las cinemáticas. El parche ya no rechaza los undub que
+    traen otros subtítulos en algún video (pasaba con una versión del disco 2).
+0.9.3-beta (2026-10-29): el parche ahora funciona también con la ISO americana sin
     undub (antes daba error al verificar, porque esa ISO guarda los datos en
     varios archivos de 1 GB). Llega la Definitive Edition, un parche opcional de
     mejoras que se aplica desde el mismo programa (con la traducción o solo). La

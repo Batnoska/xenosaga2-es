@@ -405,7 +405,7 @@ msgid ""
 "so don't worry about &11 in this battle.●"
 msgstr ""
 "Solo los combates de personajes dan Puntos de\n"
-"Habilidad, así que ignora &11 en este combate.●"
+"habilidad, así que ignora &11 en este combate.●"
 
 #. No modificar los códigos $...;, los botones <...> y &NN, ni el ● de fin de página.
 #, fuzzy

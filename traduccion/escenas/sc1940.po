@@ -23,7 +23,7 @@ msgstr "La U.M.N. la administra la Federación. Se podría decir que somos emple
 #, fuzzy
 msgctxt "#2"
 msgid "We may be government employees, but unfortunately, we're usually too busy to leave on time."
-msgstr "Seremos empleados públicos, pero lamentablemente casi siempre estamos demasiado ocupados para salir a horario."
+msgstr "Seremos empleados públicos, pero lamentablemente casi siempre estamos demasiado ocupados para salir a nuestra hora."
 
 #. habla: Maxim
 #, fuzzy
@@ -71,7 +71,7 @@ msgstr "Escuché que la desaparición de Miltia hace catorce años se debió a l
 #, fuzzy
 msgctxt "#10"
 msgid "My father was born on Old Miltia. He's always grumbling that he wants to go home some day."
-msgstr "Mi padre nació en la Antigua Miltia. Siempre se queja de que algún día quiere volver a casa."
+msgstr "Mi padre nació en la Antigua Miltia. Siempre anda diciendo que algún día quiere volver a casa."
 
 #. habla: Maxim
 #, fuzzy
@@ -83,7 +83,7 @@ msgstr "¿Por qué diseñaron al prototipo de la Serie 100 con aspecto de niña?
 #, fuzzy
 msgctxt "#12"
 msgid "The developer and I must think the same way."
-msgstr "El desarrollador y yo debemos pensar igual."
+msgstr "Seguro que el creador y yo pensamos igual."
 
 #. habla: Maxim
 #, fuzzy
@@ -125,7 +125,7 @@ msgstr "Por favor, hable con la recepcionista de la otra sala."
 #, fuzzy
 msgctxt "#19"
 msgid "I wanted to become a normal executive assistant, but because of this job, I've wound up learning a lot about Realians and cyborgs."
-msgstr "Quería ser una asistente ejecutiva común, pero por este trabajo terminé aprendiendo un montón sobre Realians y cíborgs."
+msgstr "Yo solo quería ser secretaria, pero por este trabajo terminé aprendiendo un montón sobre Realians y cíborgs."
 
 #. habla: Corrine
 #, fuzzy
@@ -167,7 +167,7 @@ msgstr "Un amigo mío del equipo de análisis no se perdonaba lo mal que salió 
 #, fuzzy
 msgctxt "#26"
 msgid "And just what is that Y-Data, anyway?"
-msgstr "Y, de todos modos, ¿qué son esos Y-Data?"
+msgstr "Y, en definitiva, ¿qué son esos Y-Data?"
 
 #. habla: Corrine
 #, fuzzy
@@ -197,7 +197,7 @@ msgstr "¿Aniquilaron a la flota de la Federación?"
 #, fuzzy
 msgctxt "#31"
 msgid "With the communication channels overloaded, we can't get a handle on the situation at all."
-msgstr "Con los canales de comunicación saturados, no logramos entender la situación para nada."
+msgstr "Con los canales de comunicación saturados, no tenemos ni idea de cómo está la situación."
 
 #. habla: Ninette
 #, fuzzy
@@ -269,7 +269,7 @@ msgstr "Escuché que hace catorce años, en la Antigua Miltia, había una unidad
 #, fuzzy
 msgctxt "#43"
 msgid "But that just seems like it's a popular urban legend among the engineers."
-msgstr "Pero parece que es solo una leyenda urbana popular entre los ingenieros."
+msgstr "Pero parece que no es más que una leyenda urbana que circula entre los ingenieros."
 
 #. habla: Ninette
 #, fuzzy
@@ -287,7 +287,7 @@ msgstr "¿Es un cíborg? Sus padres deben estar tristes de que haya modificado e
 #, fuzzy
 msgctxt "#46"
 msgid "Yes? Can I help you? We take care of weary Realians here."
-msgstr "¿Sí? ¿Puedo ayudarle? Aquí cuidamos de los Realians cansados."
+msgstr "¿Sí? ¿En qué puedo ayudarlo? Aquí cuidamos de los Realians cansados."
 
 #. habla: Katarzyna
 #, fuzzy
@@ -305,7 +305,7 @@ msgstr "¿Necesita algo? Lo siento, pero nunca le hice mantenimiento a un cíbor
 #, fuzzy
 msgctxt "#49"
 msgid "I don't think I'd care to do something as disgusting as that."
-msgstr "No creo que me interese hacer algo tan desagradable."
+msgstr "Y la verdad, no me interesa hacer algo tan asqueroso."
 
 #. habla: Katarzyna
 #, fuzzy
@@ -424,7 +424,7 @@ msgstr "¿Ese droide estará bien con ese cuerpo viejo y gastado?"
 #, fuzzy
 msgctxt "#69"
 msgid "He said he was going to return somewhere. I hope he made it there safely. I think he's probably at a launch boarding platform somewhere."
-msgstr "Dijo que iba a volver a algún lugar. Espero que haya llegado bien. Creo que seguro está en alguna plataforma de embarque de lanzaderas."
+msgstr "Dijo que iba a volver a algún lugar. Espero que haya llegado bien. Seguramente está en alguna plataforma de embarque de lanzaderas."
 
 #. habla: Sylvia
 #, fuzzy

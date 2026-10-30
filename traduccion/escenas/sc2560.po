@@ -23,7 +23,7 @@ msgstr "..."
 #, fuzzy
 msgctxt "#2"
 msgid "I'm not particularly interested, but it seems you want to talk about it anyway."
-msgstr "No me interesa particularmente, pero parece que igual quiere contarlo."
+msgstr "No es que me interese mucho, pero parece que igual quiere contarlo."
 
 #. habla: Shion
 #, fuzzy
@@ -47,7 +47,7 @@ msgstr "¿Qué pasa, Profesor? Hoy se lo ve bastante entusiasmado."
 #, fuzzy
 msgctxt "#6"
 msgid "Huh? You're really worked up today. What's up?"
-msgstr "¿Eh? Hoy estás muy agitado. ¿Qué pasa?"
+msgstr "¿Eh? Hoy estás muy acelerado. ¿Qué pasa?"
 
 #. habla: Jin
 #, fuzzy
@@ -131,7 +131,7 @@ msgstr "¿Dos Profesores? No sé qué decir al respecto."
 #, fuzzy
 msgctxt "#20"
 msgid "So, you're sayin' this twin of yours acts just like you? That's a scary thought."
-msgstr "¿O sea que me dices que ese gemelo tuyo se comporta igual que tú? Qué idea tan aterradora."
+msgstr "¿O sea que ese gemelo tuyo es igualito a ti? Qué miedo."
 
 #. habla: Jin
 #, fuzzy
@@ -155,7 +155,7 @@ msgstr "¿Un plan malvado? Supongo que no podemos ignorarlo."
 #, fuzzy
 msgctxt "#24"
 msgid "Oh, brother...I wonder which of you is really the one with the evil scheme."
-msgstr "Ay, por favor... Me pregunto cuál de los dos es el que de verdad tiene un plan malvado."
+msgstr "Ay, por favor... A ver cuál de los dos es el que de verdad tiene un plan malvado."
 
 #. habla: MOMO
 #, fuzzy
@@ -285,7 +285,7 @@ msgstr "¡Así que pensé que, si combato el mal con mi robot gigante, podría g
 #, fuzzy
 msgctxt "#44"
 msgid "All this work for one selfish goal, is that it?"
-msgstr "Todo este trabajo para un objetivo egoísta, ¿no es así?"
+msgstr "¿Así que todo este trabajo es por un motivo egoísta?"
 
 #. habla: Shion
 #, fuzzy
@@ -681,7 +681,7 @@ msgstr "¡Cuando hayan reunido todas las piezas del robot, vengan a verme!"
 #, fuzzy
 msgctxt "#111"
 msgid "Whoa! Pee-ew! Somebody needs a bath!"
-msgstr "¡Epa! ¡Puaj! ¡Alguien necesita un baño!"
+msgstr "¡Uy! ¡Puaj! ¡Alguien necesita un baño!"
 
 #. habla: Professor
 #, fuzzy
@@ -699,7 +699,7 @@ msgstr "Por fin se cumplió el sueño de tantos años. ¡Y su nombre es Erde Kai
 #, fuzzy
 msgctxt "#114"
 msgid "Humph! The peace of the universe is ensured! Now, what to do next?"
-msgstr "¡Hmpf! ¡La paz del universo está asegurada! Ahora, ¿qué hago después?"
+msgstr "¡Hmpf! ¡La paz del universo está asegurada! Y ahora, ¿qué hago?"
 
 #. habla: Professor
 #, fuzzy
@@ -723,7 +723,7 @@ msgstr "Al Profesor le encanta esa frase, \"la hora del té\", pero estoy casi s
 #, fuzzy
 msgctxt "#118"
 msgid "Somehow I wound up becoming part of the Elsa crew. But maybe it's all right to let go from time to time and just let things happen."
-msgstr "No sé cómo, terminé siendo parte de la tripulación del Elsa. Pero quizá está bien soltarse de vez en cuando y dejar que las cosas pasen."
+msgstr "No sé cómo, terminé siendo parte de la tripulación del Elsa. Pero quizá no está mal dejarse llevar de vez en cuando y que las cosas pasen."
 
 #. habla: Assistant Scott
 #, fuzzy
@@ -807,7 +807,7 @@ msgstr "¿EL PARADERO DEL PROFESOR OSCURO? UN VIEJO CONOCIDO DEL PROFESOR VIVE E
 #, fuzzy
 msgctxt "#132"
 msgid "I ACTUALLY KNOW AN ULTIMATE SECRET! WHAT IS THAT SECRET?...I'LL TELL YOU ! THERE'S A DRAGON KNIGHT-ISH BUG HIDING IN THE EVS OF THE RESTRICTED AREA OF THE DÄMMERUNG! IT MAY BE GOOD TO TEST YOURSELF OUT ON IT BEFORE YOU FACE THE DARK PROFESSOR!"
-msgstr "¡EN REALIDAD CONOZCO UN SECRETO DEFINITIVO! ¿CUÁL ES ESE SECRETO?... ¡SE LO VOY A CONTAR! ¡EN LA EVS DEL ÁREA RESTRINGIDA DEL DÄMMERUNG SE ESCONDE UN BICHO CON PINTA DE CABALLERO DRAGÓN! ¡QUIZÁ LES CONVENGA PONERSE A PRUEBA CONTRA ÉL ANTES DE ENFRENTARSE AL PROFESOR OSCURO!"
+msgstr "¡EN REALIDAD CONOZCO UN SECRETO DEFINITIVO! ¿CUÁL ES ESE SECRETO?... ¡SE LOS VOY A CONTAR! ¡EN LA EVS DEL ÁREA RESTRINGIDA DEL DÄMMERUNG SE ESCONDE UN BICHO CON PINTA DE CABALLERO DRAGÓN! ¡QUIZÁ LES CONVENGA PONERSE A PRUEBA CONTRA ÉL ANTES DE ENFRENTARSE AL PROFESOR OSCURO!"
 
 #. habla: CAMPARI
 #, fuzzy
@@ -849,7 +849,7 @@ msgstr "¡¿Ve, Profesor?! ¡Están enojados! Y además parecen un grupo de tipo
 #, fuzzy
 msgctxt "#139"
 msgid "Ha ha ha, of course it's all right! After all, a genius scientist like me is helping them repair their ship! They should be thanking me!...Or maybe not?"
-msgstr "¡Ja, ja, ja, claro que está bien! ¡Después de todo, un científico genial como yo los está ayudando a reparar su nave! ¡Deberían agradecérmelo!... ¿O quizá no?"
+msgstr "¡Ja, ja, ja, claro que está bien! ¡Después de todo, un genio de la ciencia como yo los está ayudando a reparar su nave! ¡Deberían agradecérmelo!... ¿O quizá no?"
 
 #. habla: Assistant Scott
 #, fuzzy
@@ -1081,7 +1081,7 @@ msgstr "Maldición, parece que otra vez nos metimos en algún lío."
 #, fuzzy
 msgctxt "#175"
 msgid "In order to stop his evil doings, I must create a robot that is even more powerful than Erde Kaiser! So, I thought being in space would be much more convenient for doing that than staying on the Foundation."
-msgstr "¡Para detener sus maldades, tengo que crear un robot todavía más poderoso que el Erde Kaiser! Así que pensé que estar en el espacio sería mucho más conveniente para hacerlo que quedarme en la Fundación."
+msgstr "¡Para detener sus maldades, tengo que crear un robot todavía más poderoso que el Erde Kaiser! Y pensé que para eso me convenía mucho más estar en el espacio que quedarme en la Fundación."
 
 #. habla: Narration
 #, fuzzy
@@ -1129,7 +1129,7 @@ msgstr "¡Jaja, así me gusta, un hombre razonable!"
 #, fuzzy
 msgctxt "#183"
 msgid "But I do have one request!"
-msgstr "¡Pero tengo un pedido!"
+msgstr "¡Pero con una condición!"
 
 #. habla: Professor
 #, fuzzy
@@ -1159,19 +1159,19 @@ msgstr "¡Déjamelo a mí! ¡Pienso recompensarte por tu amabilidad!"
 #, fuzzy
 msgctxt "#188"
 msgid "All right! It's settled then! So, where is that Dark guy, anyway?"
-msgstr "¡Muy bien! ¡Entonces está decidido! Y, de todos modos, ¿dónde está ese tal Dark?"
+msgstr "¡Muy bien! ¡Entonces está decidido! Por cierto, ¿dónde está ese tal Dark?"
 
 #. habla: Professor
 #, fuzzy
 msgctxt "#189"
 msgid "Hmm, that's a good question. I wonder where he is."
-msgstr "Hmm, buena pregunta. Me pregunto dónde estará."
+msgstr "Hmm, buena pregunta. ¿Dónde estará?"
 
 #. habla: Narration
 #, fuzzy
 msgctxt "#190"
 msgid "So, the Professor and Assistant Scott began building their giant robot onboard the Elsa. Just who is this Dark that the Professor speaks of?! You'll just have to see for yourselves! The completion of the legendary giant robot is not too far away! Will the Professor accomplish his true objective and complete the giant robot?! Tune in next time for the final episode!"
-msgstr "Así, el Profesor y el asistente Scott empezaron a construir su robot gigante a bordo del Elsa. ¡¿Quién es ese Dark del que habla el Profesor?! ¡Tendrán que verlo con sus propios ojos! ¡La terminación del legendario robot gigante no está muy lejos! ¡¿El Profesor cumplirá su verdadero objetivo y terminará el robot gigante?! ¡No se pierdan el último episodio!"
+msgstr "Así, el Profesor y el asistente Scott empezaron a construir su robot gigante a bordo del Elsa. ¡¿Quién es ese Dark del que habla el Profesor?! ¡Tendrán que verlo con sus propios ojos! ¡Falta poco para terminar el legendario robot gigante! ¡¿El Profesor cumplirá su verdadero objetivo y terminará el robot gigante?! ¡No se pierdan el último episodio!"
 
 #. habla: Professor
 #, fuzzy
@@ -1189,7 +1189,7 @@ msgstr "¡Profesor! ¡Felicitaciones! ¡Dio el primer paso hacia esa membresía 
 #, fuzzy
 msgctxt "#193"
 msgid "Shhhhh! What are you saying?! That makes it sound like I'm looking for these robot parts for my own benefit! Don't talk like that about me!"
-msgstr "¡Shhhhh! ¡¿Qué estás diciendo?! ¡Eso hace sonar como si buscara estas piezas de robot para mi propio beneficio! ¡No hables así de mí!"
+msgstr "¡Shhhhh! ¡¿Qué estás diciendo?! ¡Dicho así, parece que busco estas piezas de robot para mi propio beneficio! ¡No hables así de mí!"
 
 #. habla: Assistant Scott
 #, fuzzy
@@ -1225,7 +1225,7 @@ msgstr "¡Profesor!"
 #, fuzzy
 msgctxt "#199"
 msgid "(Ah, now Assistant Scott will worship me once again! Worship! Hahaha!)"
-msgstr "(¡Ah, ahora el asistente Scott volverá a adorarme! ¡Adoración! ¡Jajaja!)"
+msgstr "(¡Ah, ahora el asistente Scott volverá a adorarme! ¡A adorarme! ¡Jajaja!)"
 
 #. habla: Assistant Scott
 #, fuzzy
