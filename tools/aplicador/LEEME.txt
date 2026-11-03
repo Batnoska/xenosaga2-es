@@ -28,7 +28,7 @@ QUÉ NECESITAS
   disco 1 (SLUS-20892) y disco 2 (SLUS-21133). También sirven las ISO con undub
   (voces en japonés) hechas a partir de esa versión.
 - Unos 4,7 GB libres por cada disco.
-- Windows 7 o posterior. Para Linux, Mac o Steam Deck, mira "Otros sistemas".
+- Windows 7 o posterior. Para Linux, Mac o Steam Deck, mira "Versión en Python".
 
 El parche no incluye el juego: necesitas tus propias ISO. Si tu copia está en otro
 formato (CHD, CSO, BIN/CUE), conviértela primero a ISO.
@@ -60,6 +60,11 @@ Si Windows muestra "Windows protegió su PC", haz clic en "Más información" y 
 en "Ejecutar de todas formas". Ese aviso sale con cualquier programa que no tenga
 firma digital.
 
+Si en cambio dice que el "Control inteligente de aplicaciones" bloqueó el programa,
+no hay forma de abrirlo mientras esa protección esté activa: algunas instalaciones
+de Windows 11 la traen encendida y bloquea todo programa sin firma digital. En ese
+caso usa la versión en Python (mira "Versión en Python"), que hace lo mismo.
+
 
 DEFINITIVE EDITION (OPCIONAL)
 -----------------------------
@@ -86,15 +91,23 @@ en las que todavía no apareció.
 Los datos de combate del juego los investigó TheSparda (Xenosaga-2-Editor).
 
 
-OTROS SISTEMAS (LINUX, MAC, STEAM DECK)
----------------------------------------
-Necesitas Python 3. Abre una terminal en la carpeta "Otros sistemas (Python)" y
-ejecuta este comando para cada disco, cambiando los nombres de los archivos:
+VERSIÓN EN PYTHON (LINUX, MAC, STEAM DECK Y WINDOWS)
+----------------------------------------------------
+Es para Linux, Mac y Steam Deck, y para Windows si no te deja abrir el programa.
+Hace exactamente lo mismo que el programa de Windows.
+
+Necesitas Python 3. En Windows, instálalo desde python.org o desde Microsoft Store.
+Abre una terminal en la carpeta "Python" (en Windows: clic derecho en un espacio
+vacío de la carpeta y "Abrir en Terminal") y ejecuta este comando para cada disco,
+cambiando los nombres de los archivos. Si las ISO están en otra carpeta, arrastra
+cada una a la terminal y se escribe su ruta completa:
 
   python3 parche.py aplicar xenosaga2_es.zip "Disco 1.iso" "Disco 1 (Español).iso"
 
-Hace exactamente lo mismo que el programa de Windows. Para sumar la Definitive
-Edition, agrega su perfil (original, comodidad, definitiva o historia):
+En Windows, si "python3" no funciona, escribe "py" en su lugar.
+
+Para sumar la Definitive Edition, agrega su perfil (original, comodidad, definitiva
+o historia):
 
   python3 parche.py aplicar xenosaga2_es.zip "Disco 1.iso" "Disco 1 (Español + Definitive).iso" --perfil definitiva
 
@@ -145,7 +158,10 @@ que aplica el parche. La ventana del aplicador usa el logo, imágenes promociona
 
 HISTORIAL
 ---------
-{version} ({fecha}): revisión completa de la traducción: se leyeron todos los
+{version} ({fecha}): si Windows no deja abrir el programa por el "Control
+    inteligente de aplicaciones", ahora el LEEME explica cómo aplicar el parche
+    con la versión en Python, cuya carpeta ahora se llama "Python".
+0.9.4-beta (2026-10-29): revisión completa de la traducción: se leyeron todos los
     textos contra el inglés y se corrigieron frases literales, regionalismos y
     tratamientos para que cada personaje suene natural. También: "Traje de baño
     de abuelo", Sí/No en las opciones, la sinopsis del postjuego y la alineación

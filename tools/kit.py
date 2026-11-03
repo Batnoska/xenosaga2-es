@@ -14,8 +14,8 @@ Si está el repositorio de la Definitive Edition junto a este, el paquete la inc
 
 El aplicador de Windows (tools/aplicador: Aplicador.cs y la ventana, Ventana.cs) se compila con el
 csc de .NET Framework 4, que ya viene con Windows, y lleva adentro el paquete y el arte de la ventana
-(tools/aplicador/arte.py): el kit es un .exe y el LEEME. Para otros sistemas va también la versión
-en Python (parche.py + x2iso.py + el paquete).
+(tools/aplicador/arte.py): el kit es un .exe y el LEEME. Para otros sistemas, o si Windows no deja abrir
+el .exe, va también la versión en Python (parche.py + x2iso.py + el paquete).
 """
 import argparse
 import datetime
@@ -38,7 +38,7 @@ SRC = os.path.join(TOOLS, "aplicador")
 PUBLISH = os.path.join(ROOT, "work", "publicar")
 PACKAGE = os.path.join(ROOT, "work", "xenosaga2_es.zip")
 EXE = {"es": "Aplicar parche.exe", "de": "Apply patch.exe"}
-OTHERS = {"es": "Otros sistemas (Python)", "de": "Other systems (Python)"}
+PYTHON = "Python"
 NOMBRE = {"es": "Xenosaga Episode II en español", "de": "Xenosaga Episode II Definitive Edition"}
 
 
@@ -194,13 +194,13 @@ def armar(version, edicion, tmp):
     """La carpeta del kit de una edición, con su .exe, los LEEME y la versión en Python."""
     folder = os.path.join(PUBLISH, f"Xenosaga2_{edicion.upper()}_v{version}")
     shutil.rmtree(folder, ignore_errors=True)
-    os.makedirs(os.path.join(folder, OTHERS[edicion]))
+    os.makedirs(os.path.join(folder, PYTHON))
     exe = os.path.join(folder, EXE[edicion])
     compile_exe(version, exe, tmp, edicion)
     write_readme(version, os.path.join(folder, "LEEME.txt"))
     write_readme(version, os.path.join(folder, "README.txt"), "README.txt")
     for src in (os.path.join(TOOLS, "parche.py"), os.path.join(TOOLS, "x2iso.py"), PACKAGE):
-        shutil.copy2(src, os.path.join(folder, OTHERS[edicion]))
+        shutil.copy2(src, os.path.join(folder, PYTHON))
     return folder, exe
 
 

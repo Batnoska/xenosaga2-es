@@ -23,7 +23,7 @@ WHAT YOU NEED
   (SLUS-20892) and disc 2 (SLUS-21133). Undub ISOs (Japanese voices) made from that
   version work too.
 - About 4.7 GB of free space per disc.
-- Windows 7 or later. For Linux, Mac or Steam Deck, see "Other systems".
+- Windows 7 or later. For Linux, Mac or Steam Deck, see "Python version".
 
 The patch does not include the game: you need your own ISOs. If your copy is in
 another format (CHD, CSO, BIN/CUE), convert it to ISO first.
@@ -54,6 +54,11 @@ flags at the top to switch between English and Spanish.
 If Windows shows "Windows protected your PC", click "More info" and then "Run
 anyway". That warning appears with any program without a digital signature.
 
+If it says instead that "Smart App Control" blocked the program, there is no way to
+open it while that protection is on: some Windows 11 installations have it enabled,
+and it blocks any program without a digital signature. Use the Python version
+instead (see "Python version"); it does the same.
+
 
 DEFINITIVE EDITION
 ------------------
@@ -75,17 +80,23 @@ to try them. The lower debt only shows in saves where the debt has not appeared 
 The battle data of the game was researched by TheSparda (Xenosaga-2-Editor).
 
 
-OTHER SYSTEMS (LINUX, MAC, STEAM DECK)
---------------------------------------
-You need Python 3. Open a terminal in the folder whose name ends in "(Python)" and
-run this command for each disc, changing the file names:
+PYTHON VERSION (LINUX, MAC, STEAM DECK AND WINDOWS)
+---------------------------------------------------
+It is for Linux, Mac and Steam Deck, and for Windows if it won't let you open the
+program. It does exactly the same as the Windows program.
+
+You need Python 3. On Windows, install it from python.org or the Microsoft Store.
+Open a terminal in the "Python" folder (on Windows: right-click an empty spot in the
+folder and choose "Open in Terminal") and run this command for each disc, changing
+the file names. If the ISOs are in another folder, drag each one onto the terminal
+to type its full path:
 
   python3 parche.py aplicar xenosaga2_es.zip "Disc 1.iso" "Disc 1 (Definitive).iso" --sin-traduccion --perfil definitiva
 
 Without --sin-traduccion it also applies the Spanish translation; without --perfil,
 only the translation. Profiles: original, comodidad (Comfort), definitiva
 (Definitive), historia (Story). --opcion adjusts a single change (for example
---opcion deuda=0). It does exactly the same as the Windows program.
+--opcion deuda=0). On Windows, if "python3" doesn't work, type "py" instead.
 
 
 HOW TO PLAY

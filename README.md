@@ -21,7 +21,8 @@ Está traducido todo el texto del juego:
 Descarga el kit de la sección [*Releases*](https://github.com/Batnoska/xenosaga2-es/releases)
 y sigue su `LEEME.txt`. En resumen: abre
 `Aplicar parche.exe`, arrastra a la ventana las ISO de tu copia del juego y haz clic en
-"Aplicar parche". Para Linux, Mac o Steam Deck hay una versión en Python.
+"Aplicar parche". Para Linux, Mac o Steam Deck hay una versión en Python, que también
+sirve en Windows si el Control inteligente de aplicaciones no deja abrir el programa.
 
 El parche no incluye el juego ni archivos del juego: guarda solo las diferencias con los
 archivos originales, y comprueba que tus ISO sean las esperadas antes de escribir nada.
